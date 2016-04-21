@@ -1,0 +1,290 @@
+@UTF8
+@PID:	11312/c-00011144-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, MOT Mother, SIS Sister, FAT Father
+@ID:	eng|Braunwald|CHI|03;02.06|female|||Target_Child|||
+@ID:	eng|Braunwald|MOT|||||Mother|||
+@ID:	eng|Braunwald|SIS|||||Sister|||
+@ID:	eng|Braunwald|FAT|||||Father|||
+@Date:	26-APR-1974
+*CHI:	I'm a cute .
+%mor:	pro:sub|I~cop|be&1S det|a adj|cute .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+%sit:	686, age between 03.02.01 and 03.02.12, mother forgot to note
+*CHI:	I'm the cutest .
+%mor:	pro:sub|I~cop|be&1S det|the adj|cute-SP .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+%sit:	686
+*CHI:	aren't you glad I'm your sister ?
+%mor:	aux|be&PRES~neg|not pro|you adj|glad pro:sub|I~aux|be&1S
+	pro:poss:det|your n|sister ?
+%gra:	1|3|AUX 2|1|NEG 3|4|SUBJ 4|0|ROOT 5|8|SUBJ 6|8|AUX 7|8|MOD 8|4|OBJ
+	9|4|PUNCT
+%sit:	686
+*SIS:	what about Matthew ?
+%mor:	pro:wh|what prep|about n:prop|Matthew ?
+%gra:	1|0|INCROOT 2|1|JCT 3|2|POBJ 4|1|PUNCT
+%sit:	686
+*CHI:	he's cute too, but I'm the cutest .
+%mor:	pro:sub|he~cop|be&3S adj|cute adv|too cm|cm conj|but
+	pro:sub|I~cop|be&1S det|the adj|cute-SP .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|JCT 5|2|LP 6|8|LINK 7|8|SUBJ 8|2|CJCT
+	9|10|DET 10|8|PRED 11|2|PUNCT
+%sit:	686
+*CHI:	Mommy, I didn't make pee in the Davidsons' pool .
+%mor:	n:prop|Mommy cm|cm pro:sub|I mod|do&PAST~neg|not v|make n|pee
+	prep|in det|the n:prop|Davidsons~poss|s n|pool .
+%gra:	1|6|LINK 2|1|LP 3|6|SUBJ 4|6|AUX 5|4|NEG 6|0|ROOT 7|6|OBJ 8|6|JCT
+	9|12|DET 10|12|MOD 11|10|POSS 12|8|POBJ 13|6|PUNCT
+%sit:	687
+*CHI:	I didn't .
+%mor:	pro:sub|I mod|do&PAST~neg|not .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|NEG 4|2|PUNCT
+%sit:	687
+*MOT:	so we have_to find some way to get the girls to remember to brush
+	their teeth .
+%mor:	conj|so pro:sub|we mod:aux|have_to v|find qn|some n|way inf|to
+	v|get det|the n|girl-PL inf|to v|remember inf|to v|brush
+	pro:poss:det|their n|tooth&PL .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|QUANT 6|4|OBJ 7|8|INF 8|6|XCOMP
+	9|10|DET 10|8|OBJ 11|12|INF 12|10|XMOD 13|14|INF 14|12|XCOMP 15|16|MOD
+	16|14|OBJ 17|4|PUNCT
+%sit:	688
+*CHI:	I can remember myself .
+%mor:	pro:sub|I mod|can v|remember pro:refl|myself .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+%sit:	688
+*CHI:	I can remind myself .
+%mor:	pro:sub|I mod|can v|remind pro:refl|myself .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+%sit:	688
+*CHI:	Susan, that's a perfect line .
+%mor:	n:prop|Susan cm|cm pro:dem|that~cop|be&3S det|a adj|perfect n|line
+	.
+%gra:	1|4|LINK 2|1|LP 3|4|SUBJ 4|0|ROOT 5|7|DET 6|7|MOD 7|4|PRED 8|4|PUNCT
+%sit:	689
+*MOT:	Laura, where would I be without you ?
+%mor:	n:prop|Laura cm|cm rel|where mod|will&COND pro:sub|I cop|be
+	prep|without pro|you ?
+%gra:	1|0|INCROOT 2|1|LP 3|6|LINK 4|6|AUX 5|6|SUBJ 6|1|CJCT 7|6|JCT 8|7|POBJ
+	9|1|PUNCT
+%sit:	689
+*CHI:	at school .
+%mor:	prep|at n|school .
+%gra:	1|0|INCROOT 2|1|POBJ 3|1|PUNCT
+%sit:	689
+*SIS:	someday we have_to die too .
+%mor:	adv:tem|someday pro:sub|we mod:aux|have_to n|die adv|too .
+%gra:	1|4|JCT 2|4|SUBJ 3|4|AUX 4|0|INCROOT 5|4|JCT 6|4|PUNCT
+%sit:	690
+*CHI:	no us .
+%mor:	co|no pro:obj|us .
+%gra:	1|2|COM 2|0|ROOT 3|2|PUNCT
+%sit:	690
+*FAT:	yes, us too .
+%mor:	co|yes cm|cm pro:obj|us post|too .
+%gra:	1|3|COM 2|1|LP 3|0|ROOT 4|3|PQ 5|3|PUNCT
+%sit:	690
+*FAT:	everybody has to die someday .
+%mor:	pro:indef|everybody aux|have&3S prep|to n|die adv:tem|someday .
+%gra:	1|0|INCROOT 2|1|INCROOT 3|2|JCT 4|5|MOD 5|3|POBJ 6|2|PUNCT
+%sit:	690
+*CHI:	you know what Emily said ?
+%mor:	pro|you v|know pro:wh|what n:prop|Emily v|say&PAST ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|LINK 4|5|SUBJ 5|2|COMP 6|5|PUNCT
+%sit:	691
+*CHI:	I'm not so much cute .
+%mor:	pro:sub|I~cop|be&1S neg|not adv|so qn|much adj|cute .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|NEG 4|2|JCT 5|6|QUANT 6|2|PRED 7|2|PUNCT
+%sit:	691
+*MOT:	she did ?
+%mor:	pro:sub|she v|do&PAST ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+%sit:	691
+*CHI:	but I am .
+%mor:	conj|but pro:sub|I cop|be&1S .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+%sit:	691
+*CHI:	Mommy, I wasn't dumping your purse .
+%mor:	n:prop|Mommy cm|cm pro:sub|I aux|be&PAST&13S~neg|not
+	part|dump-PRESP pro:poss:det|your n|purse .
+%gra:	1|6|LINK 2|1|LP 3|6|SUBJ 4|6|AUX 5|4|NEG 6|0|ROOT 7|8|MOD 8|6|OBJ
+	9|6|PUNCT
+%sit:	692
+*CHI:	I was just looking in it .
+%mor:	pro:sub|I cop|be&PAST&13S adv|just part|look-PRESP prep|in pro|it .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|2|XJCT 5|4|JCT 6|5|POBJ 7|2|PUNCT
+%sit:	692
+*CHI:	I picked up my baby at the babysitter's .
+%mor:	pro:sub|I v|pick-PAST prep|up pro:poss:det|my n|baby prep|at
+	det|the n|+n|baby+v|sit&dv-AGT~poss|s .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|5|MOD 5|3|POBJ 6|2|JCT 7|8|DET 8|6|POBJ
+	9|8|POSS 10|2|PUNCT
+%sit:	693
+*CHI:	I'm extremely angry (be)cause this is not getting good enough for me .
+%mor:	pro:sub|I~aux|be&1S adv|extreme&dadj-LY adj|angry conj|because
+	det|this aux|be&3S neg|not part|get-PRESP adj|good adv|enough
+	prep|for pro:obj|me .
+%gra:	1|4|SUBJ 2|4|AUX 3|4|JCT 4|0|ROOT 5|9|LINK 6|7|DET 7|9|AUX 8|7|NEG
+	9|4|CJCT 10|9|JCT 11|10|JCT 12|10|JCT 13|12|POBJ 14|4|PUNCT
+%sit:	694
+*CHI:	this much paper I don't need .
+%mor:	det|this qn|much n|paper pro:sub|I mod|do~neg|not v|need .
+%gra:	1|3|DET 2|3|QUANT 3|7|LINK 4|7|SUBJ 5|7|AUX 6|5|NEG 7|0|ROOT 8|7|PUNCT
+%sit:	695
+*CHI:	I cane come miserable .
+%mor:	pro:sub|I n|cane v|come adj|miserable .
+%gra:	1|3|SUBJ 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|PUNCT
+%sit:	696
+*MOT:	you did ?
+%mor:	pro|you v|do&PAST ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+%sit:	696
+*MOT:	how_come ?
+%mor:	adv:wh|how_come ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%sit:	696
+*CHI:	because I'm tired .
+%mor:	conj|because pro:sub|I~aux|be&1S part|tire-PASTP .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|PUNCT
+%sit:	696
+*CHI:	don't be ascared [: afraid] of a snake .
+%mor:	mod|do~neg|not cop|be adj|afraid prep|of det|a n|snake .
+%gra:	1|3|AUX 2|1|NEG 3|0|ROOT 4|3|PRED 5|4|JCT 6|7|DET 7|5|POBJ 8|3|PUNCT
+%sit:	697
+*CHI:	alright, Blakey ?
+%mor:	co|alright cm|cm n:prop|Blakey ?
+%gra:	1|3|COM 2|1|LP 3|0|ROOT 4|3|PUNCT
+%sit:	697
+*CHI:	when I get a little bigger, I get a dollar .
+%mor:	conj|when pro:sub|I v|get det|a adj|little adj|big-CP cm|cm
+	pro:sub|I v|get det|a n|dollar .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|6|MOD 6|9|LINK 7|6|LP 8|9|SUBJ
+	9|3|COMP 10|11|DET 11|9|OBJ 12|3|PUNCT
+%sit:	698
+*CHI:	we're having a nice weekend today .
+%mor:	pro:sub|we~aux|be&PRES part|have-PRESP det|a adj|nice
+	n|+n|week+n|end adv:tem|today .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|6|DET 5|6|MOD 6|3|OBJ 7|3|JCT 8|3|PUNCT
+%sit:	699
+*CHI:	Mommy, this is all wronged@n up .
+%mor:	n:prop|Mommy cm|cm pro:dem|this cop|be&3S adv|all neo|wronged
+	adv|up .
+%gra:	1|4|LINK 2|1|LP 3|4|SUBJ 4|0|ROOT 5|6|JCT 6|4|PRED 7|6|JCT 8|4|PUNCT
+%sit:	700
+*CHI:	this is wrong .
+%mor:	pro:dem|this cop|be&3S adj|wrong .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+%sit:	700
+*MOT:	what's the trouble, Laura ?
+%mor:	adv:wh|what~cop|be&3S det|the n|trouble cm|cm n:prop|Laura ?
+%gra:	1|2|LINK 2|0|ROOT 3|4|DET 4|2|PRED 5|4|LP 6|4|XMOD 7|2|PUNCT
+%sit:	701
+*CHI:	there seems to be dust here .
+%mor:	adv|there v|seem-3S inf|to cop|be n|dust adv|here .
+%gra:	1|2|JCT 2|0|ROOT 3|4|INF 4|2|XCOMP 5|4|PRED 6|5|NJCT 7|2|PUNCT
+%sit:	701
+*CHI:	Susan, that's not enough .
+%mor:	n:prop|Susan cm|cm pro:dem|that~cop|be&3S neg|not adv|enough .
+%gra:	1|4|LINK 2|1|LP 3|4|SUBJ 4|0|ROOT 5|4|NEG 6|4|JCT 7|4|PUNCT
+%sit:	702
+*MOT:	it's not ?
+%mor:	pro|it~cop|be&3S neg|not ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|NEG 4|2|PUNCT
+%sit:	702
+*CHI:	because you have_to pour a little back .
+%mor:	conj|because pro|you mod:aux|have_to v|pour det|a adj|little n|back
+	.
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|7|DET 6|7|MOD 7|4|OBJ 8|4|PUNCT
+%sit:	702
+*CHI:	Mama, Cy, I love him more .
+%mor:	n:prop|Mama cm|cm n:prop|Cy cm|cm pro:sub|I v|love pro:obj|him
+	pro:indef|more .
+%gra:	1|3|MOD 2|1|LP 3|6|LINK 4|3|LP 5|6|SUBJ 6|0|ROOT 7|6|OBJ 8|6|OBJ
+	9|6|PUNCT
+%sit:	703
+*CHI:	I love Jack more than Cy so Jack won't worry .
+%mor:	pro:sub|I v|love n:prop|Jack qn|more prep|than n:prop|Cy adv|so
+	n:prop|Jack mod|will~neg|not v|worry .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|5|QUANT 5|3|JCT 6|11|SUBJ 7|11|JCT
+	8|11|SUBJ 9|11|AUX 10|9|NEG 11|5|POBJ 12|2|PUNCT
+%sit:	703
+*CHI:	since I'm the one .
+%mor:	conj|since pro:sub|I~cop|be&1S det|the pro:indef|one .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|PRED 6|3|PUNCT
+%sit:	704
+*CHI:	since I'm the one to drink orange+juice .
+%mor:	conj|since pro:sub|I~cop|be&1S det|the pro:indef|one prep|to
+	n|drink n|+n|orange+n|juice .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|PRED 6|5|NJCT 7|8|MOD 8|6|POBJ
+	9|3|PUNCT
+%sit:	704
+*MOT:	you can have an orange, but you can't have both oranges and
+	orange+juice .
+%mor:	pro|you mod|can v|have det|a n|orange cm|cm conj|but pro|you
+	mod|can~neg|not v|have qn|both n|orange-PL coord|and
+	n|+n|orange+n|juice .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|DET 5|3|OBJ 6|5|LP 7|11|LINK 8|11|SUBJ
+	9|11|AUX 10|9|NEG 11|5|CJCT 12|13|QUANT 13|11|OBJ 14|13|CONJ 15|14|COORD
+	16|3|PUNCT
+%sit:	705
+*CHI:	I'd rather have orange+juice .
+%mor:	pro:sub|I~mod|genmod adv|rather v|have n|+n|orange+n|juice .
+%gra:	1|4|SUBJ 2|4|AUX 3|4|JCT 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+%sit:	705
+*MOT:	you know who's work mother tomorrow ?
+%mor:	pro|you v|know pro:wh|who~aux|be&3S n|work n|mother
+	adv:tem|tomorrow ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|6|SUBJ 4|6|AUX 5|6|MOD 6|2|COMP 7|6|INCROOT
+	8|7|PUNCT
+%sit:	706
+*CHI:	today .
+%mor:	adv:tem|today .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%sit:	706
+*MOT:	no, tomorrow .
+%mor:	co|no cm|cm adv:tem|tomorrow .
+%gra:	1|3|COM 2|1|LP 3|0|INCROOT 4|3|PUNCT
+%sit:	706
+*CHI:	today after we sleep today .
+%mor:	adv:tem|today conj|after pro:sub|we v|sleep adv:tem|today .
+%gra:	1|0|INCROOT 2|4|LINK 3|4|SUBJ 4|1|CJCT 5|4|OBJ 6|1|PUNCT
+%sit:	706
+*CHI:	why don't I see any V_Ws ?
+%mor:	adv:wh|why mod|do~neg|not pro:sub|I v|see qn|any n:prop|V_Ws ?
+%gra:	1|5|LINK 2|5|AUX 3|2|NEG 4|5|SUBJ 5|0|ROOT 6|7|QUANT 7|5|OBJ 8|5|PUNCT
+%sit:	707, "V_Ws" = "Volkswagons"
+*MOT:	I don't know .
+%mor:	pro:sub|I mod|do~neg|not v|know .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|PUNCT
+%sit:	707
+*CHI:	maybe they're stuck .
+%mor:	adv|maybe pro:sub|they~aux|be&PRES part|stick&PASTP .
+%gra:	1|4|JCT 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|PUNCT
+%sit:	707
+*MOT:	maybe, but I don't know .
+%mor:	adv|maybe cm|cm conj|but pro:sub|I mod|do~neg|not v|know .
+%gra:	1|3|JCT 2|1|LP 3|7|LINK 4|7|SUBJ 5|7|AUX 6|5|NEG 7|0|ROOT 8|7|PUNCT
+%sit:	707
+*MOT:	how (a)bout some oatmeal ?
+%mor:	adv:wh|how prep|about qn|some n|oatmeal ?
+%gra:	1|0|INCROOT 2|1|JCT 3|4|QUANT 4|2|POBJ 5|1|PUNCT
+%sit:	708
+*CHI:	I was dreaming about Mommy will make me oatmeal .
+%mor:	pro:sub|I aux|be&PAST&13S part|dream-PRESP prep|about n:prop|Mommy
+	mod|will v|make pro:obj|me n|oatmeal .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|7|SUBJ 6|7|AUX 7|4|POBJ 8|7|OBJ
+	9|7|OBJ 10|3|PUNCT
+%sit:	708
+*CHI:	Mama, thank_you of [: for] [*] making nice oatmeal for me .
+%mor:	n:prop|Mama cm|cm n|thank_you prep|for n:gerund|make-PRESP adj|nice
+	n|oatmeal prep|for pro:obj|me .
+%gra:	1|3|MOD 2|1|LP 3|0|INCROOT 4|3|JCT 5|7|MOD 6|7|MOD 7|4|POBJ 8|3|JCT
+	9|8|POBJ 10|3|PUNCT
+%sit:	709
+*CHI:	I think it rained tonight .
+%mor:	pro:sub|I v|think pro|it v|rain-PAST adv:tem|tonight .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|COMP 5|4|OBJ 6|2|PUNCT
+%sit:	710
+@End

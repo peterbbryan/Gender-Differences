@@ -1,0 +1,116 @@
+@UTF8
+@PID:	11312/c-00010776-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, MOT Mother
+@ID:	eng|Braunwald|CHI|02;00.02|female|||Target_Child|||
+@ID:	eng|Braunwald|MOT|||||Mother|||
+@Date:	22-FEB-1973
+*CHI:	my put my bottle with me .
+%mor:	pro:poss:det|my v|put&ZERO pro:poss:det|my n|bottle prep|with
+	pro:obj|me .
+%gra:	1|2|MOD 2|0|ROOT 3|4|MOD 4|2|OBJ 5|2|JCT 6|5|POBJ 7|2|PUNCT
+%sit:	41
+*CHI:	Mama answer me .
+%mor:	n:prop|Mama v|answer pro:obj|me .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+%sit:	42
+*CHI:	Mommy know what Randi did ?
+%mor:	n:prop|Mommy v|know pro:wh|what n:prop|Randi v|do&PAST ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|LINK 4|5|SUBJ 5|2|COMP 6|2|PUNCT
+%sit:	43
+*MOT:	what ?
+%mor:	pro:wh|what ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%sit:	43
+*CHI:	say goo(d)_night me .
+%mor:	co|say co|good_night pro:obj|me .
+%gra:	1|3|COM 2|3|COM 3|0|ROOT 4|3|PUNCT
+%sit:	43
+*CHI:	he did .
+%mor:	pro:sub|he v|do&PAST .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+%sit:	43
+*CHI:	my can't blow .
+%mor:	pro:poss:det|my mod|can~neg|not v|blow .
+%gra:	1|2|MOD 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|PUNCT
+%sit:	44
+*CHI:	I can't blow balloon .
+%mor:	pro:sub|I mod|can~neg|not v|blow n|balloon .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+%sit:	44
+*MOT:	Laura's going to wear a dress today .
+%mor:	n:prop|Laura~aux|be&3S part|go-PRESP inf|to v|wear det|a n|dress
+	adv:tem|today .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|INF 5|3|XCOMP 6|7|DET 7|5|OBJ 8|7|XMOD
+	9|3|PUNCT
+%sit:	45
+*CHI:	party dress .
+%mor:	n|party n|dress .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+%sit:	45
+*CHI:	my unsnap myself .
+%mor:	co|my un#n|snap pro:refl|myself .
+%gra:	1|2|COM 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+%sit:	46
+*CHI:	he's stupid .
+%mor:	pro:sub|he~cop|be&3S adj|stupid .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+%sit:	47
+*MOT:	who's stupid ?
+%mor:	rel|who~cop|be&3S adj|stupid ?
+%gra:	1|2|LINK 2|0|ROOT 3|2|PRED 4|2|PUNCT
+%sit:	47
+*CHI:	truck .
+%mor:	n|truck .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%sit:	47
+*CHI:	he dumbdumb .
+%mor:	pro:sub|he adj|+adj|dumb+adj|dumb .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+%sit:	47
+*CHI:	forgot you coffee Mom Sue .
+%mor:	v|forget&PAST pro|you n|coffee n:prop|Mom n:prop|Sue .
+%gra:	1|0|ROOT 2|3|SUBJ 3|1|OBJ 4|3|APP 5|4|APP 6|1|PUNCT
+%sit:	j5_2_23
+*CHI:	open frozen .
+%mor:	adj|open part|freeze&PASTP .
+%gra:	1|2|MOD 2|0|ROOT 3|2|PUNCT
+%sit:	j5_2_24
+*CHI:	open it .
+%mor:	v|open pro|it .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+%sit:	49
+*CHI:	open it Mommy .
+%mor:	v|open pro|it n:prop|Mommy .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|OBJ 4|1|PUNCT
+%sit:	49
+*CHI:	my open it already .
+%mor:	co|my adj|open pro|it adv|already .
+%gra:	1|2|COM 2|0|ROOT 3|2|OBJ 4|2|JCT 5|2|PUNCT
+%sit:	49
+*CHI:	Peanus [: Peanuts] play me .
+%mor:	n:prop|Peanuts v|play pro:obj|me .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+%sit:	50
+*CHI:	he sneaky cat .
+%mor:	pro:sub|he adj|sneak&dv-Y n|cat .
+%gra:	1|3|SUBJ 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+%sit:	50
+*CHI:	here tippy cup baby .
+%mor:	adv|here adj|tip&dv-Y n|cup n|baby .
+%gra:	1|3|JCT 2|3|MOD 3|4|MOD 4|0|INCROOT 5|4|PUNCT
+%sit:	j5_3_27
+*CHI:	here's you tippy cup .
+%mor:	pro:dem|here~cop|be&3S pro|you adj|tip&dv-Y n|cup .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|MOD 4|5|MOD 5|2|PRED 6|2|PUNCT
+%sit:	j5_3_27
+*CHI:	go playroom, Daddy .
+%mor:	v|go n|+n|play+n|room cm|cm n:prop|Daddy .
+%gra:	1|0|ROOT 2|4|MOD 3|2|LP 4|1|OBJ 5|1|PUNCT
+%sit:	j5_3_28
+*CHI:	go in playroom .
+%mor:	v|go prep|in n|+n|play+n|room .
+%gra:	1|0|ROOT 2|1|JCT 3|2|POBJ 4|1|PUNCT
+%sit:	j5_3_28
+@End

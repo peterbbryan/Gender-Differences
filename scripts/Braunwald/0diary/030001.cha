@@ -1,0 +1,49 @@
+@UTF8
+@PID:	11312/c-00011103-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, MOT Mother, SIS Sister
+@ID:	eng|Braunwald|CHI|03;00.01|female|||Target_Child|||
+@ID:	eng|Braunwald|MOT|||||Mother|||
+@ID:	eng|Braunwald|SIS|||||Sister|||
+@Date:	21-FEB-1974
+*CHI:	beautiful jar .
+%mor:	adj|beautiful n|jar .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+%sit:	j7_68
+*MOT:	no .
+%mor:	co|no .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%sit:	j7_68
+*MOT:	put that jar down .
+%mor:	v|put&ZERO pro:dem|that v|jar adv|down .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|PUNCT
+%sit:	j7_68
+*CHI:	and Miss_Jordan's husband got all blooded like that man .
+%mor:	coord|and n:prop|Miss_Jordan~poss|s n|husband v|get&PAST adv|all
+	part|blood-PASTP prep|like det|that n|man .
+%gra:	1|5|LINK 2|5|JCT 3|2|POSS 4|5|SUBJ 5|0|ROOT 6|5|JCT 7|5|XJCT 8|7|JCT
+	9|10|DET 10|8|POBJ 11|5|PUNCT
+%sit:	476
+*CHI:	at my school I don't like to make something .
+%mor:	prep|at pro:poss:det|my n|school pro:sub|I mod|do~neg|not v|like
+	inf|to v|make pro:indef|something .
+%gra:	1|7|LINK 2|3|MOD 3|1|POBJ 4|7|SUBJ 5|7|AUX 6|5|NEG 7|0|ROOT 8|9|INF
+	9|7|XCOMP 10|9|OBJ 11|7|PUNCT
+%sit:	477
+*CHI:	caca [= poo] play and peepee .
+%mor:	n|+on|ca+on|ca n|play coord|and n|+on|pee+on|pee .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|CONJ 4|3|COORD 5|2|PUNCT
+%sit:	477
+*MOT:	what did you say ?
+%mor:	pro:wh|what mod|do&PAST pro|you v|say ?
+%gra:	1|4|LINK 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+%sit:	477
+*SIS:	she said +"/.
+%mor:	pro:sub|she v|say&PAST +"/.
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*SIS:	+" caca [= poo] clay and peepee .
+%mor:	n|+on|ca+on|ca n|clay coord|and n|+on|pee+on|pee .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|CONJ 4|3|COORD 5|2|PUNCT
+%sit:	477
+@End

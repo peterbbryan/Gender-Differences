@@ -1,0 +1,46 @@
+@UTF8
+@PID:	11312/c-00011043-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, MOT Mother
+@ID:	eng|Braunwald|CHI|02;09.23|female|||Target_Child|||
+@ID:	eng|Braunwald|MOT|||||Mother|||
+@Date:	13-DEC-1973
+*CHI:	Mommy, I can't eat up too much stew because my throat doesn't work
+	good .
+%mor:	n:prop|Mommy cm|cm pro:sub|I mod|can~neg|not v|eat adv|up adv|too
+	qn|much n|stew conj|because pro:poss:det|my n|throat
+	mod|do&3S~neg|not v|work adj|good .
+%gra:	1|6|LINK 2|1|LP 3|6|SUBJ 4|6|AUX 5|4|NEG 6|0|ROOT 7|6|JCT 8|6|JCT
+	9|10|QUANT 10|6|OBJ 11|16|LINK 12|13|MOD 13|16|SUBJ 14|16|AUX 15|14|NEG
+	16|10|CJCT 17|16|JCT 18|6|PUNCT
+%sit:	114
+*CHI:	Daddy, I can't eat too much because my throat hurts .
+%mor:	n:prop|Daddy cm|cm pro:sub|I mod|can~neg|not v|eat adv|too qn|much
+	conj|because pro:poss:det|my n|throat v|hurt-3S .
+%gra:	1|6|LINK 2|1|LP 3|6|SUBJ 4|6|AUX 5|4|NEG 6|0|ROOT 7|6|JCT 8|9|QUANT
+	9|12|LINK 10|11|MOD 11|12|SUBJ 12|6|CJCT 13|6|PUNCT
+%sit:	115
+*CHI:	know where we're going ?
+%mor:	v|know rel|where pro:sub|we~aux|be&PRES part|go-PRESP ?
+%gra:	1|0|ROOT 2|5|LINK 3|5|SUBJ 4|5|AUX 5|1|COMP 6|1|PUNCT
+%sit:	116
+*CHI:	Pasadena freeway .
+%mor:	n:prop|Pasadena n|freeway .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+%sit:	116
+*CHI:	we're on the Pasadena freeway .
+%mor:	pro:sub|we~cop|be&PRES prep|on det|the n:prop|Pasadena n|freeway .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|6|DET 5|6|MOD 6|3|POBJ 7|2|PUNCT
+%sit:	116
+*CHI:	I'm under the weather .
+%mor:	pro:sub|I~cop|be&1S prep|under det|the n|weather .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|5|DET 5|3|POBJ 6|2|PUNCT
+%sit:	117
+*MOT:	you sure are, and I'm sorry to see it .
+%mor:	pro|you adj|sure aux|be&PRES cm|cm conj|and pro:sub|I~cop|be&1S
+	adj|sorry inf|to v|see pro|it .
+%gra:	1|2|SUBJ 2|5|SUBJ 3|5|AUX 4|3|LP 5|7|LINK 6|7|SUBJ 7|0|ROOT 8|7|PRED
+	9|10|INF 10|7|XCOMP 11|10|OBJ 12|7|PUNCT
+%sit:	117
+@End

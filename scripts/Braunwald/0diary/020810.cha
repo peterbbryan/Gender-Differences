@@ -1,0 +1,90 @@
+@UTF8
+@PID:	11312/c-00011001-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, MOT Mother, HOU Housekeeper
+@ID:	eng|Braunwald|CHI||female|||Target_Child|||
+@ID:	eng|Braunwald|MOT|||||Mother|||
+@ID:	eng|Braunwald|HOU|||||Housekeeper|||
+@Date:	30-OCT-1973
+*CHI:	I prefer wear my Mickey_Mouse .
+%mor:	pro:sub|I v|prefer v|wear pro:poss:det|my n:prop|Mickey_Mouse .
+%gra:	1|2|SUBJ 2|3|SUBJ 3|0|ROOT 4|5|MOD 5|3|OBJ 6|3|PUNCT
+%sit:	931
+*MOT:	you prefer to wear your Mickey_Mouse shirt ?
+%mor:	pro|you v|prefer inf|to v|wear pro:poss:det|your
+	n:prop|Mickey_Mouse n|shirt ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|INF 4|2|XCOMP 5|7|MOD 6|7|MOD 7|4|OBJ 8|2|PUNCT
+%sit:	931
+*MOT:	okay, go up and find it .
+%mor:	co|okay cm|cm v|go adv|up coord|and v|find pro|it .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|CONJ 6|5|COORD 7|6|OBJ 8|3|PUNCT
+%sit:	931
+*CHI:	let me see if anymore whites in there .
+%mor:	v|let&ZERO pro:obj|me v|see conj|if adv|anymore n|white-PL prep|in
+	pro:dem|there .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|COMP 4|6|LINK 5|6|JCT 6|3|OBJ 7|6|NJCT 8|7|POBJ
+	9|1|PUNCT
+%sit:	932
+*CHI:	I think so .
+%mor:	pro:sub|I v|think co|so .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|COM 4|2|PUNCT
+%sit:	932
+*CHI:	no, only pinks .
+%mor:	co|no cm|cm qn|only n|pink-PL .
+%gra:	1|4|COM 2|1|LP 3|4|QUANT 4|0|INCROOT 5|4|PUNCT
+%sit:	932
+*CHI:	what could be in here ?
+%mor:	pro:wh|what mod|could cop|be prep|in pro:dem|here ?
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|4|POBJ 6|3|PUNCT
+%sit:	934
+*MOT:	I don't know .
+%mor:	pro:sub|I mod|do~neg|not v|know .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|PUNCT
+%sit:	934
+*MOT:	what could be in there ?
+%mor:	pro:wh|what mod|could cop|be prep|in pro:dem|there ?
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|4|POBJ 6|3|PUNCT
+%sit:	934
+*CHI:	did Steven's mommy went [: go] [*] alone ?
+%mor:	v|do&PAST n:prop|Steven~poss|s n|mommy v|go adv|alone ?
+%gra:	1|0|ROOT 2|5|SUBJ 3|2|POSS 4|5|SUBJ 5|1|COMP 6|5|JCT 7|1|PUNCT
+%sit:	935
+*MOT:	yes, she went to pick up Steven at school .
+%mor:	co|yes cm|cm pro:sub|she v|go&PAST inf|to v|pick prep|up
+	n:prop|Steven prep|at n|school .
+%gra:	1|4|COM 2|1|LP 3|4|SUBJ 4|0|ROOT 5|6|INF 6|4|XCOMP 7|6|JCT 8|7|POBJ
+	9|8|JCT 10|9|POBJ 11|4|PUNCT
+%sit:	935
+*CHI:	which school he went to ?
+%mor:	rel|which n|school pro:sub|he v|go&PAST prep|to ?
+%gra:	1|2|LINK 2|4|LINK 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|4|PUNCT
+%sit:	935
+*CHI:	which school ?
+%mor:	rel|which n|school ?
+%gra:	1|2|LINK 2|0|INCROOT 3|2|PUNCT
+%sit:	935
+*MOT:	elementary school .
+%mor:	adj|elementary n|school .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+%sit:	935
+*CHI:	Missus_Jordan is a helper to me .
+%mor:	n:prop|Missus_Jordan cop|be&3S det|a n|help&dv-AGT prep|to
+	pro:obj|me .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|4|NJCT 6|5|POBJ 7|2|PUNCT
+%sit:	936
+*HOU:	well, that's very nice .
+%mor:	co|well cm|cm pro:dem|that~cop|be&3S adv|very adj|nice .
+%gra:	1|4|COM 2|1|LP 3|4|SUBJ 4|0|ROOT 5|6|JCT 6|4|PRED 7|4|PUNCT
+%sit:	936
+*MOT:	that's right .
+%mor:	pro:dem|that~cop|be&3S adv|right .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|2|PUNCT
+%sit:	936
+*MOT:	Missus_Jordan is a helper to all of us .
+%mor:	n:prop|Missus_Jordan cop|be&3S det|a n|help&dv-AGT prep|to qn|all
+	prep|of pro:obj|us .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|4|NJCT 6|5|POBJ 7|6|NJCT 8|7|POBJ
+	9|2|PUNCT
+%sit:	936
+@End

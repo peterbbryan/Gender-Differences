@@ -1,0 +1,568 @@
+@UTF8
+@PID:	11312/c-00017716-1
+@Begin
+@Languages:	eng
+@Participants:	MOT Lorraine Mother , CHI Kevin Target_Child
+@ID:	eng|VanHouten|CHI|2;4.|male|typical||Target_Child|||
+@ID:	eng|VanHouten|MOT|||||Mother|||
+@Comment:	Education of MOT is 2
+@Situation:	Teaching. Mother and Child sit on the living room floor. Mother first teaches Child to string beads on a shoelace. Then , she teaches him to sort black and white buttons into two small boxes. Child does not say very much but he is not very intelligible.
+@Comment:	Age Group of MOT Adolescent
+*MOT:	look .
+%mor:	co|look .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=1 $Ini $C/R
+*MOT:	this is what we're gonna do .
+%mor:	pro:dem|this cop|be&3S pro:wh|what pro:sub|we~aux|be&PRES
+	part|go-PRESP~inf|to v|do .
+%gra:	1|2|SUBJ 2|0|ROOT 3|6|LINK 4|6|SUBJ 5|6|AUX 6|2|PRED 7|8|INF 8|6|XCOMP
+	9|2|PUNCT
+%cod:	$MLU=7 $NMV=2 $Con $C/R
+*MOT:	see the little holes .
+%mor:	v|see det|the adj|little n|hole-PL .
+%gra:	1|0|ROOT 2|4|DET 3|4|MOD 4|1|OBJ 5|1|PUNCT
+%cod:	$MLU=4 $NMV=1 $Con $Tea
+*MOT:	the little (.) little holes .
+%mor:	det|the adj|little adj|little n|hole-PL .
+%gra:	1|4|DET 2|4|MOD 3|4|MOD 4|0|INCROOT 5|4|PUNCT
+%cod:	$MLU=4 $NMV=0 $Con $Tea
+*MOT:	put it like that .
+%mor:	v|put&ZERO pro|it prep|like pro:dem|that .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|JCT 4|3|POBJ 5|1|PUNCT
+%sit:	starts to string beads .
+%cod:	$MLU=4 $NMV=1 $Con $Tea
+*MOT:	and (.) &uh (.) there it is .
+%mor:	conj|and adv|there pro|it cop|be&3S .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+%cod:	$MLU=4 $NMV=1 $Con $Tea
+*MOT:	and you go v@o .
+%mor:	conj|and pro|you v|go on|v .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+%sit:	slides bead down string .
+%cod:	$MLU=3 $NMV=1 $Con $Tea
+*MOT:	you looking ?
+%mor:	pro|you part|look-PRESP ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+%cod:	$MLU=2 $NMV=1 $Ini $C/R
+*MOT:	are you looking ?
+%mor:	cop|be&PRES pro|you part|look-PRESP ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+%cod:	$MLU=3 $NMV=1 $Con $C/R
+*MOT:	look what Mommy did .
+%mor:	v|look pro:wh|what n:prop|Mommy v|do&PAST .
+%gra:	1|0|ROOT 2|4|LINK 3|4|SUBJ 4|1|COMP 5|1|PUNCT
+%cod:	$MLU=4 $NMV=2 $Con $C/R
+*MOT:	there's another one .
+%mor:	pro:exist|there~cop|be&3S qn|another pro:indef|one .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|QUANT 4|2|PRED 5|2|PUNCT
+%cod:	$MLU=4 $NMV=1 $Ini $Rep
+*MOT:	see the little (.) little hole .
+%mor:	v|see det|the adj|little adj|little n|hole .
+%gra:	1|0|ROOT 2|5|DET 3|5|MOD 4|5|MOD 5|1|OBJ 6|1|PUNCT
+%sit:	picks up bead .
+%cod:	$MLU=5 $NMV=1 $Con $Tea
+*MOT:	put it in the hole .
+%mor:	v|put&ZERO pro|it prep|in det|the n|hole .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|JCT 4|5|DET 5|3|POBJ 6|1|PUNCT
+%cod:	$MLU=5 $NMV=1 $Con $Tea
+*MOT:	push it in the hole .
+%mor:	v|push pro|it prep|in det|the n|hole .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|JCT 4|5|DET 5|3|POBJ 6|1|PUNCT
+%cod:	$MLU=5 $NMV=1 $Con $Tea
+*MOT:	a:nd you: go: v@o .
+%mor:	conj|and pro|you v|go on|v .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+%cod:	$MLU=3 $NMV=1 $Con $Tea
+*MOT:	wow .
+%mor:	co|wow .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$MLU=0 NMV=0 $Con $Rep
+*MOT:	did you see what I did ?
+%mor:	v|do&PAST pro|you v|see pro:wh|what pro:sub|I mod|do&PAST ?
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|6|LINK 5|6|SUBJ 6|3|OBJ 7|3|PUNCT
+%cod:	$MLU=6 $NMV=2 $Con $C/R
+*CHI:	xxx .
+%sit:	starts to string beads .
+%cod:	$Res
+*MOT:	Kev_Kev do it .
+%mor:	n:prop|Kev_Kev v|do pro|it .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+%cod:	$MLU=3 $NMV=1 $Ini $Tea
+*MOT:	hold it at the end .
+%mor:	v|hold pro|it prep|at det|the n|end .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|JCT 4|5|DET 5|3|POBJ 6|1|PUNCT
+%cod:	$MLU=5 $NMV=1 $Con $Tea
+*MOT:	right here .
+%mor:	adv|right adv|here .
+%gra:	1|0|INCROOT 2|1|JCT 3|1|PUNCT
+%cod:	$MLU=2 $NMV=0 $Con $Tea
+*MOT:	hold it like right here .
+%mor:	v|hold pro|it v|like adv|right adv|here .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|COMP 4|3|JCT 5|3|JCT 6|1|PUNCT
+%sit:	repositions string for Child .
+%cod:	$MLU=5 $NMV=1 $Con $Tea
+*MOT:	okay .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=1 $Con $Tea
+*MOT:	push it in .
+%mor:	v|push pro|it adv|in .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|JCT 4|1|PUNCT
+%cod:	$MLU=3 $NMV=1 $Con $Tea
+*CHI:	0 .
+%sit:	tries to string bead .
+*MOT:	that's it .
+%mor:	pro:dem|that~cop|be&3S pro|it .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+%cod:	$MLU=3 $NMV=1 $Rta $Tea
+*MOT:	you did it !
+%mor:	pro|you v|do&PAST pro|it !
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+%cod:	$MLU=3 $NMV=1 $Con $Rep
+*MOT:	almost .
+%mor:	adv|almost .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=1 $Con $Rep
+*MOT:	look .
+%mor:	co|look .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=1 $Ini $C/R
+*MOT:	see .
+%mor:	v|see .
+%gra:	1|0|ROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=1 $Con $C/R
+*MOT:	look .
+%mor:	co|look .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=1 $Con $C/R
+*MOT:	you push it in .
+%mor:	pro|you v|push pro|it adv|in .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|JCT 5|2|PUNCT
+%sit:	begins to demonstrate .
+%cod:	$MLU=4 $NMV=1 $Con $Tea
+*MOT:	do it like Mommy's doing .
+%mor:	mod|do pro|it co|like n:prop|Mommy~aux|be&3S part|do-PRESP .
+%gra:	1|6|AUX 2|1|OBJ 3|1|COM 4|6|SUBJ 5|6|AUX 6|0|ROOT 7|6|PUNCT
+%cod:	$MLU=6 $NMV=2 $Con $C/R
+*MOT:	push it in there .
+%mor:	v|push pro|it prep|in pro:dem|there .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|JCT 4|3|POBJ 5|1|PUNCT
+%sit:	holds it for Child .
+%cod:	$MLU=4 $NMV=1 $Con $Tea
+*CHI:	no .
+%mor:	co|no .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=0 $Res $Rep
+*MOT:	push it .
+%mor:	v|push pro|it .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+%sit:	does it herself .
+%cod:	$MLU=2 $NMV=0 $Ini $Tea
+*MOT:	you need to pull it .
+%mor:	pro|you v|need inf|to v|pull pro|it .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|INF 4|2|XCOMP 5|4|OBJ 6|2|PUNCT
+%sit:	demonstrates .
+%cod:	$MLU=5 $NMV=2 $Con $Tea
+*MOT:	put them on the string .
+%mor:	v|put&ZERO pro:obj|them prep|on det|the n|string .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|JCT 4|5|DET 5|3|POBJ 6|1|PUNCT
+%cod:	$MLU=5 $NMV=1 $Ini $C/R
+*MOT:	you can dump them out .
+%mor:	pro|you mod|can v|dump pro:obj|them adv|out .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|3|JCT 6|3|PUNCT
+%cod:	$MLU=5 $NMV=1 $Ini $Rep
+*MOT:	you can dump them all on the floor if you want .
+%mor:	pro|you mod|can v|dump pro:obj|them post|all prep|on det|the
+	n|floor conj|if pro|you v|want .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|3|OBJ 6|5|INCROOT 7|8|DET 8|6|POBJ
+	9|11|LINK 10|11|SUBJ 11|6|CJCT 12|6|PUNCT
+%cod:	$MLU=11 $NMV=2 $Con $Rep
+*MOT:	just put them on the string .
+%mor:	adv|just v|put&ZERO pro:obj|them prep|on det|the n|string .
+%gra:	1|2|JCT 2|0|ROOT 3|2|OBJ 4|2|JCT 5|6|DET 6|4|POBJ 7|2|PUNCT
+%cod:	$MLU=6 $NMV=1 $Con $C/R
+*MOT:	okay .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=0 $Con $C/R
+*MOT:	now put them all on the string .
+%mor:	adv|now v|put&ZERO pro:obj|them post|all prep|on det|the n|string .
+%gra:	1|2|JCT 2|0|ROOT 3|2|OBJ 4|2|OBJ 5|4|JCT 6|7|DET 7|5|POBJ 8|2|PUNCT
+%cod:	$MLU=7 $NMV=1 $Ini $C/R
+*MOT:	on the string .
+%mor:	prep|on det|the n|string .
+%gra:	1|0|INCROOT 2|3|DET 3|1|POBJ 4|1|PUNCT
+%cod:	$MLU=3 $NMV=0 $Con $C/R
+*MOT:	put them on the string (.) okay .
+%mor:	v|put&ZERO pro:obj|them prep|on det|the n|string adj|okay .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|JCT 4|5|DET 5|3|POBJ 6|1|JCT 7|1|PUNCT
+%cod:	$MLU=6 $NMV=1 $Con $C/R
+*MOT:	do like Mommy's on the string .
+%mor:	mod|do co|like n:prop|Mommy~aux|be&3S adv|on det|the n|string .
+%gra:	1|7|AUX 2|7|COM 3|7|SUBJ 4|7|AUX 5|7|JCT 6|7|DET 7|0|INCROOT 8|7|PUNCT
+%cod:	$MLU=7 $NMV=1 $Con $C/R
+*MOT:	here (.) you do it .
+%mor:	adv|here pro|you v|do pro|it .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+%cod:	$MLU=4 $NMV=1 $Ini $C/R
+*MOT:	hold this .
+%mor:	v|hold pro:dem|this .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+%sit:	holds up string .
+%cod:	$MLU=2 $NMV=1 $Con $Tea
+*MOT:	like that .
+%mor:	prep|like pro:dem|that .
+%gra:	1|0|INCROOT 2|1|POBJ 3|1|PUNCT
+%cod:	$MLU=2 $NMV=0 $Con $Tea
+*MOT:	can you do it ?
+%mor:	mod|can pro|you v|do pro|it ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+%cod:	$MLU=4 $NMV=1 $Con $Tea
+*MOT:	let me see the box .
+%mor:	v|let&ZERO pro:obj|me v|see det|the n|box .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|COMP 4|5|DET 5|3|OBJ 6|1|PUNCT
+%sit:	takes bead box from Child .
+%cod:	$MLU=5 $NMV=2 $Ini $C/R
+*MOT:	see (.) you put it in there .
+%mor:	co|see pro|you v|put&ZERO pro|it prep|in pro:dem|there .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|JCT 6|5|POBJ 7|3|PUNCT
+%cod:	$MLU=6 $NMV=2 $Ini $Tea
+*MOT:	put it .
+%mor:	v|put&ZERO pro|it .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+%sit:	demonstrates .
+%cod:	$MLU=2 $NMV=1 $Con $Tea
+*MOT:	pull it out .
+%mor:	v|pull pro|it adv|out .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|JCT 4|1|PUNCT
+%cod:	$MLU=3 $NMV=1 $Ini $C/R
+*MOT:	pull the string .
+%mor:	v|pull det|the n|string .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+%cod:	$MLU=3 $NMV=1 $Con $C/R
+*MOT:	look at the little string right here .
+%mor:	v|look prep|at det|the adj|little n|string adv|right adv|here .
+%gra:	1|0|ROOT 2|1|JCT 3|5|DET 4|5|MOD 5|2|POBJ 6|5|NJCT 7|5|NJCT 8|1|PUNCT
+%cod:	$MLU=7 $NMV=1 $Con $C/R
+*MOT:	pull the string .
+%mor:	v|pull det|the n|string .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+%cod:	$MLU=3 $NMV=1 $Con $C/R
+*MOT:	look at the little string .
+%mor:	v|look prep|at det|the adj|little n|string .
+%gra:	1|0|ROOT 2|1|JCT 3|5|DET 4|5|MOD 5|2|POBJ 6|1|PUNCT
+%cod:	$MLU=5 $NMV=1 $Con $C/R
+*MOT:	look at this little black string .
+%mor:	v|look prep|at det|this adj|little adj|black n|string .
+%gra:	1|0|ROOT 2|1|JCT 3|6|DET 4|6|MOD 5|6|MOD 6|2|POBJ 7|1|PUNCT
+%cod:	$MLU=6 $NMV=1 $Con $C/R
+*MOT:	you're not looking .
+%mor:	pro|you~aux|be&PRES neg|not part|look-PRESP .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|PUNCT
+%cod:	$MLU=4 $NMV=1 $Con $C/R
+*MOT:	look .
+%mor:	co|look .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=1 $Con $C/R
+*CHI:	xxx .
+%sit:	looks at bead .
+%cod:	$Ini
+*MOT:	what's this ?
+%mor:	pro:wh|what~cop|be&3S pro:dem|this ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+%cod:	$MLU=3 $NMV=1 $Ini $Rfi
+*MOT:	what's this right here ?
+%mor:	adv:wh|what~cop|be&3S det|this adv|right adv|here ?
+%gra:	1|2|LINK 2|0|ROOT 3|4|DET 4|2|JCT 5|4|JCT 6|2|PUNCT
+%sit:	touches tip of string .
+%cod:	$MLU=5 $NMV=1 $Con $Rfi
+*MOT:	pull that .
+%mor:	v|pull pro:dem|that .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+%cod:	$MLU=2 $NMV=1 $Ini $C/R
+*MOT:	pull this little thing .
+%mor:	v|pull det|this adj|little n|thing .
+%gra:	1|0|ROOT 2|4|DET 3|4|MOD 4|1|OBJ 5|1|PUNCT
+%cod:	$MLU=4 $NMV=1 $Con $C/R
+*MOT:	look .
+%mor:	co|look .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=1 $Con $C/R
+*MOT:	honey (.) you're not looking .
+%mor:	co|honey pro|you~aux|be&PRES neg|not part|look-PRESP .
+%gra:	1|5|COM 2|5|SUBJ 3|5|AUX 4|3|NEG 5|0|ROOT 6|5|PUNCT
+%cod:	$MLU=5 $NMV=1 $Con $Rep
+*MOT:	look right here .
+%mor:	v|look adv|right adv|here .
+%gra:	1|0|ROOT 2|1|JCT 3|1|JCT 4|1|PUNCT
+%cod:	$MLU=3 $NMV=1 $Con $C/R
+*MOT:	look (.) look (.) look (.) look .
+%mor:	co|look co|look co|look co|look .
+%gra:	1|4|COM 2|4|COM 3|4|COM 4|0|ROOT 5|4|PUNCT
+%cod:	$MLU=4 $NMV=4 $Con $C/R
+*MOT:	pull it .
+%mor:	v|pull pro|it .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+%cod:	$MLU=2 $NMV=1 $Con $C/R
+*MOT:	pull it .
+%mor:	v|pull pro|it .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+%cod:	$MLU=2 $NMV=1 $Con $C/R
+*MOT:	here (.) I'll show you .
+%mor:	adv|here pro:sub|I~mod|will v|show pro|you .
+%gra:	1|4|JCT 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+%cod:	$MLU=5 $NMV=1 $Ini $Rep
+*MOT:	put it down .
+%mor:	v|put&ZERO pro|it adv|down .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|JCT 4|1|PUNCT
+%sit:	takes beads from Child .
+%cod:	$MLU=3 $NMV=1 $Ini $C/R
+*MOT:	pull the string out .
+%mor:	v|pull det|the n|string adv|out .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|3|NJCT 5|1|PUNCT
+%sit:	guides Child's hand to string .
+%cod:	$MLU=4 $NMV=1 $Ini $C/R
+*MOT:	pull the string out right here .
+%mor:	v|pull det|the n|string adv|out adv|right adv|here .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|3|NJCT 5|3|NJCT 6|5|JCT 7|1|PUNCT
+%cod:	$MLU=6 $NMV=1 $Con $C/R
+*MOT:	very good .
+%mor:	adv|very adj|good .
+%gra:	1|2|JCT 2|0|ROOT 3|2|PUNCT
+%cod:	$MLU=2 $NMV=0 $Con $C/R
+*MOT:	now you put another one on .
+%mor:	adv|now pro|you v|put&ZERO qn|another pro:indef|one adv|on .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|5|QUANT 5|3|OBJ 6|3|JCT 7|3|PUNCT
+%cod:	$MLU=6 $NMV=1 $Ini $C/R
+*MOT:	you do it this time .
+%mor:	pro|you v|do pro|it det|this n|time .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|5|DET 5|2|OBJ 6|2|PUNCT
+%cod:	$MLU=5 $NMV=1 $Con $C/R
+*CHI:	xxx .
+%sit:	starts to string bead .
+%cod:	$Ini
+*MOT:	you do it .
+%mor:	pro|you v|do pro|it .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+%cod:	$MLU=3 $NMV=1 $Ini $C/R
+*MOT:	that's it .
+%mor:	pro:dem|that~cop|be&3S pro|it .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+%cod:	$MLU=3 $NMV=1 $Ini $Tea
+*MOT:	push it through .
+%mor:	v|push pro|it adj|through .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|JCT 4|1|PUNCT
+%cod:	$MLU=3 $NMV=1 $Con $Tea
+*MOT:	no (.) you pull it .
+%mor:	co|no pro|you v|pull pro|it .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+%cod:	$MLU=4 $NMV=1 $Con $Tea
+*MOT:	you're not pulling it from the other side .
+%mor:	pro|you~aux|be&PRES neg|not part|pull-PRESP pro|it prep|from
+	det|the qn|other n|side .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|OBJ 6|4|JCT 7|9|DET 8|9|QUANT
+	9|6|POBJ 10|4|PUNCT
+%cod:	$MLU=9 $NMV=1 $Con $Tea
+*MOT:	see how when you put it in you got_to pull it from the other side .
+%mor:	v|see adv|how conj|when pro|you v|put&ZERO pro|it prep|in pro|you
+	mod:aux|got_to v|pull pro|it prep|from det|the qn|other n|side .
+%gra:	1|0|ROOT 2|1|JCT 3|5|LINK 4|5|SUBJ 5|1|CJCT 6|5|OBJ 7|5|JCT 8|7|POBJ
+	9|10|AUX 10|5|COMP 11|10|OBJ 12|10|JCT 13|15|DET 14|15|QUANT 15|12|POBJ
+	16|1|PUNCT
+%cod:	$MLU=16 $NMV=4 $Con $Tea
+*MOT:	now pull it .
+%mor:	adv|now v|pull pro|it .
+%gra:	1|2|JCT 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+%cod:	$MLU=3 $NMV=1 $Con $Tea
+*MOT:	pull it from the other side .
+%mor:	v|pull pro|it prep|from det|the qn|other n|side .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|JCT 4|6|DET 5|6|QUANT 6|3|POBJ 7|1|PUNCT
+%cod:	$MLU=6 $NMV=1 $Con $Tea
+*MOT:	this is a white button box .
+%mor:	pro:dem|this cop|be&3S det|a n|white n|button n|box .
+%gra:	1|2|SUBJ 2|0|ROOT 3|6|DET 4|6|MOD 5|6|MOD 6|2|PRED 7|2|PUNCT
+%cod:	$MLU=6 $NMV=1 $Ini $Tea
+*MOT:	and this is a black button box .
+%mor:	conj|and pro:dem|this cop|be&3S det|a adj|black n|button n|box .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|7|DET 5|6|MOD 6|7|MOD 7|3|PRED 8|3|PUNCT
+%sit:	shows each box .
+%cod:	$MLU=7 $NMV=1 $Con $Tea
+*MOT:	see .
+%mor:	v|see .
+%gra:	1|0|ROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=1 $Con $Tea
+*MOT:	white buttons .
+%mor:	adj|white n|button-PL .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+%sit:	sorts .
+%cod:	$MLU=2 $NMV=0 $Con $Tea
+*MOT:	black buttons .
+%mor:	adj|black n|button-PL .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+%sit:	sorts .
+%cod:	$MLU=2 $NMV=0 $Con $Tea
+*MOT:	you can't put no white buttons in the black buttons .
+%mor:	pro|you mod|can~neg|not v|put&ZERO qn|no n|white v|button-3S
+	prep|in det|the n|black n|button-PL .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|6|QUANT 6|4|OBJ 7|4|COMP 8|7|JCT
+	9|11|DET 10|11|MOD 11|8|POBJ 12|4|PUNCT
+%cod:	$MLU=11 $NMV=1 $Con $Tea
+*MOT:	and you can't put no (.) no black buttons .
+%mor:	conj|and pro|you mod|can~neg|not v|put&ZERO co|no co|no n|black
+	n|button-PL .
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|3|NEG 5|0|ROOT 6|5|COM 7|9|COM 8|9|MOD
+	9|5|OBJ 10|5|PUNCT
+%cod:	$Con $Tea
+*CHI:	0 .
+%sit:	puts button in mouth .
+*MOT:	spit it out .
+%mor:	v|spit pro|it adv|out .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|JCT 4|1|PUNCT
+%cod:	$MLU=3 $NMV=1 $Rta $C/R
+*MOT:	no black buttons in the whites .
+%mor:	qn|no n|black n|button-PL prep|in det|the n|white-PL .
+%gra:	1|2|QUANT 2|3|MOD 3|0|INCROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|3|PUNCT
+%cod:	$MLU=6 $NMV=0 $Ini $Tea
+*MOT:	so you put all the whites in here .
+%mor:	conj|so pro|you v|put&ZERO qn|all det|the n|white-PL prep|in
+	pro:dem|here .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|6|QUANT 5|6|DET 6|3|OBJ 7|3|JCT 8|7|POBJ
+	9|3|PUNCT
+%cod:	$MLU=8 $NMV=1 $Con $Tea
+*CHI:	0 .
+%sit:	starts sorting .
+*MOT:	that's it .
+%mor:	pro:dem|that~cop|be&3S pro|it .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+%cod:	$MLU=3 $NMV=1 $Rta $Tea
+*CHI:	0 .
+%sit:	starts to dump button .
+*MOT:	and don't dump it out till you're all done .
+%mor:	conj|and mod|do~neg|not v|dump pro|it adv|out n|till
+	pro|you~aux|be&PRES adv|all part|do&PASTP .
+%gra:	1|4|LINK 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|OBJ 6|11|JCT 7|11|JCT 8|11|SUBJ
+	9|11|AUX 10|11|JCT 11|4|JCT 12|4|PUNCT
+%cod:	$MLU=11 $NMV=2 $Rta $C/R
+*MOT:	take all the black and white and put them in the box .
+%mor:	v|take qn|all det|the n|black coord|and adj|white coord|and
+	v|put&ZERO pro:obj|them prep|in det|the n|box .
+%gra:	1|0|ROOT 2|4|QUANT 3|4|DET 4|1|OBJ 5|4|CONJ 6|5|COORD 7|6|CONJ
+	8|7|COORD 9|8|OBJ 10|8|JCT 11|12|DET 12|10|POBJ 13|1|PUNCT
+%cod:	$MLU=12 $NMV=2 $Ini $Tea
+*MOT:	look white .
+%mor:	v|look n|white .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+%sit:	holds white box up .
+%cod:	$MLU=2 $NMV=1 $Con $Tea
+*MOT:	and black .
+%mor:	conj|and n|black .
+%gra:	1|0|INCROOT 2|1|COORD 3|1|PUNCT
+%sit:	holds black box up .
+%cod:	$MLU=2 $NMV=0 $Con $Tea
+*CHI:	0 .
+%sit:	takes button out .
+*MOT:	no (.) no (.) no (.) no (.) no (.) no .
+%mor:	co|no co|no co|no co|no co|no co|no .
+%gra:	1|6|COM 2|6|COM 3|6|COM 4|6|COM 5|6|COM 6|0|ROOT 7|6|PUNCT
+%cod:	$MLU=6 $NMV=0 $Rta $C/R
+*MOT:	you don't put them out .
+%mor:	pro|you mod|do~neg|not v|put&ZERO pro:obj|them adv|out .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|OBJ 6|4|JCT 7|4|PUNCT
+%cod:	$MLU=6 $NMV=1 $Con $C/R
+*MOT:	stop .
+%mor:	n|stop .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=0 $Con $C/R
+*MOT:	don't touch that one .
+%mor:	mod|do~neg|not v|touch det|that pro:indef|one .
+%gra:	1|3|AUX 2|1|NEG 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+%cod:	$MLU=5 $NMV=1 $Con $C/R
+*MOT:	put this in the boxes .
+%mor:	v|put&ZERO pro:dem|this prep|in det|the n|box-PL .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|JCT 4|5|DET 5|3|POBJ 6|1|PUNCT
+%cod:	$MLU=5 $NMV=1 $Ini $Tea
+*MOT:	black and white .
+%mor:	n|black coord|and adj|white .
+%gra:	1|0|INCROOT 2|1|CONJ 3|2|COORD 4|1|PUNCT
+%cod:	$MLU=3 $NMV=0 $Con $Tea
+*MOT:	you got_to look what color .
+%mor:	pro|you mod:aux|got_to v|look pro:wh|what n|color .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|MOD 5|3|OBJ 6|3|PUNCT
+%cod:	$MLU=6 $NMV=2 $Con $Tea
+*MOT:	that's black .
+%mor:	pro:dem|that~cop|be&3S adj|black .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+%cod:	$MLU=3 $NMV=1 $Con $Tea
+*MOT:	it goes in there .
+%mor:	pro|it v|go-3S prep|in pro:dem|there .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|3|POBJ 5|2|PUNCT
+%cod:	$MLU=4 $NMV=1 $Con $Tea
+*CHI:	0 .
+%sit:	sorts buttons .
+*MOT:	that's it .
+%mor:	pro:dem|that~cop|be&3S pro|it .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+%cod:	$MLU=3 $NMV=1 $Rta $Tea
+*MOT:	<the white> [/] where's the white +...
+%mor:	adv:wh|where~cop|be&3S det|the n|white +...
+%gra:	1|2|LINK 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+%cod:	<1-2> $Ini $Tea <3-5> $Con $Tea
+*CHI:	0 .
+%sit:	sorts black button .
+*MOT:	that's black (.) yup .
+%mor:	pro:dem|that~cop|be&3S adj|black co|yup .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|COM 5|2|PUNCT
+%cod:	$MLU=4 $NMV=1 $Rta $Tea
+*MOT:	where's the white one go ?
+%mor:	rel|where~aux|be&3S det|the n|white det:num|one v|go ?
+%gra:	1|2|LINK 2|6|LINK 3|4|DET 4|6|SUBJ 5|6|QUANT 6|0|ROOT 7|6|PUNCT
+%cod:	$MLU=6 $NMV=1 $Ini $Tea
+*CHI:	xxx .
+%sit:	sorts button .
+*MOT:	that's white .
+%mor:	pro:dem|that~cop|be&3S adj|white .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+%cod:	$MLU=3 $NMV=1 $Rta $Tea
+*MOT:	now look .
+%mor:	adv|now v|look .
+%gra:	1|2|JCT 2|0|ROOT 3|2|PUNCT
+%cod:	$MLU=2 $NMV=1 $Con $C/R
+*MOT:	you put the white in the black box .
+%mor:	pro|you v|put&ZERO det|the n|white prep|in det|the adj|black n|box
+	.
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|JCT 6|8|DET 7|8|MOD 8|5|POBJ
+	9|2|PUNCT
+%cod:	$MLU=8 $NMV=1 $Con $Rep
+*MOT:	that's not nice .
+%mor:	pro:dem|that~cop|be&3S neg|not adj|nice .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|NEG 4|2|PRED 5|2|PUNCT
+%sit:	takes white out .
+%cod:	$MLU=4 $NMV=1 $Con $Rep
+*MOT:	that's not the way it goes .
+%mor:	pro:dem|that~cop|be&3S neg|not det|the n|way pro|it v|go-3S .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|NEG 4|5|DET 5|7|JCT 6|7|SUBJ 7|2|PRED 8|2|PUNCT
+%cod:	$MLU=7 $NMV=2 $Con $Tea
+*MOT:	it goes white in the white box .
+%mor:	pro|it v|go-3S n|white prep|in det|the n|white n|box .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|JCT 5|7|DET 6|7|MOD 7|4|POBJ 8|2|PUNCT
+%cod:	$MLU=7 $NMV=1 $Con $Tea
+*CHI:	0 .
+%sit:	sorts button .
+*MOT:	that's not white .
+%mor:	pro:dem|that~cop|be&3S neg|not adj|white .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|NEG 4|2|PRED 5|2|PUNCT
+%cod:	$MLU=4 $NMV=1 $Rta $Tea
+*MOT:	that's black .
+%mor:	pro:dem|that~cop|be&3S adj|black .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+%cod:	$MLU=3 $NMV=1 $Con $Tea
+*MOT:	see .
+%mor:	v|see .
+%gra:	1|0|ROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=1 $Con $Tea
+*MOT:	the white in the white box .
+%mor:	det|the n|white prep|in det|the n|white n|box .
+%gra:	1|2|DET 2|0|INCROOT 3|2|NJCT 4|6|DET 5|6|MOD 6|3|POBJ 7|2|PUNCT
+%sit:	demonstrates .
+%cod:	$MLU=6 $NMV=0 $Con $Tea
+@End

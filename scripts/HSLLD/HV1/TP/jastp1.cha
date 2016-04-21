@@ -1,0 +1,163 @@
+@UTF8
+@PID:	11312/c-00035032-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child , MOT Mother , EX1 Investigator , EX2 Investigator
+@ID:	eng|HSLLD|CHI|3;10.24|male|||Target_Child|||
+@ID:	eng|HSLLD|MOT|||||Mother|12||
+@ID:	eng|HSLLD|EX1|||||Investigator|||
+@ID:	eng|HSLLD|EX2|||||Investigator|||
+@Birth of CHI:	31-AUG-1985
+@Comment:	SES of Mot is lower
+@Date:	24-JUL-1989
+@Location:	Boston , MA USA
+@Situation:	Home Visit 1
+@Activities:	Toy play
+@Bg:	mother_freeplay
+*EX2:	Chi would you like to play some toys with your Mom ?
+%mor:	n:prop|Chi mod|will&COND pro|you v|like inf|to v|play qn|some
+	n|toy-PL prep|with pro:poss:det|your n:prop|Mom ?
+%gra:	1|4|SUBJ 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|6|INF 6|4|XCOMP 7|8|QUANT 8|6|OBJ
+	9|6|JCT 10|11|MOD 11|9|POBJ 12|4|PUNCT
+@Comment:	Time is 12:16
+*EX2:	is there a place where we could dump them out ?
+%mor:	cop|be&3S adv|there det|a n|place rel|where pro:sub|we mod|could
+	v|dump pro:obj|them adv|out ?
+%gra:	1|0|ROOT 2|1|JCT 3|4|DET 4|1|PRED 5|8|LINK 6|8|SUBJ 7|8|AUX 8|4|CMOD
+	9|8|OBJ 10|8|JCT 11|1|PUNCT
+*EX2:	<is there a place where we could dump them out> [>] ?
+%mor:	cop|be&3S adv|there det|a n|place rel|where pro:sub|we mod|could
+	v|dump pro:obj|them adv|out ?
+%gra:	1|0|ROOT 2|1|JCT 3|4|DET 4|1|PRED 5|8|LINK 6|8|SUBJ 7|8|AUX 8|4|CMOD
+	9|8|OBJ 10|8|JCT 11|1|PUNCT
+*EX1:	yeah <is there a place where we could dump these toys out> [<] ?
+%mor:	co|yeah cop|be&3S adv|there det|a n|place rel|where pro:sub|we
+	mod|could v|dump pro:dem|these v|toy-3S adv|out ?
+%gra:	1|2|COM 2|0|ROOT 3|2|JCT 4|5|DET 5|2|PRED 6|9|LINK 7|9|SUBJ 8|9|AUX
+	9|5|CMOD 10|11|SUBJ 11|9|COMP 12|11|JCT 13|2|PUNCT
+*EX2:	doesn't matter (.) just on the floor ?
+%mor:	mod|do&3S~neg|not v|matter adv|just prep|on det|the n|floor ?
+%gra:	1|3|AUX 2|1|NEG 3|0|ROOT 4|3|JCT 5|3|JCT 6|7|DET 7|5|POBJ 8|3|PUNCT
+*EX1:	xxx .
+*EX2:	got some fun toys Chi .
+%mor:	v|get&PAST qn|some n|fun v|toy-3S n:prop|Chi .
+%gra:	1|0|ROOT 2|3|QUANT 3|4|SUBJ 4|1|COMP 5|4|OBJ 6|1|PUNCT
+*EX1:	Chi (.) Debra and I brought some of our toys here so you and Mommy can take a look at them .
+%mor:	n:prop|Chi n:prop|Debra coord|and pro:sub|I v|bring&PAST qn|some
+	prep|of pro:poss:det|our n|toy-PL adv|here conj|so pro|you coord|and
+	n:prop|Mommy mod|can v|take det|a v|look prep|at pro:obj|them .
+%gra:	1|0|INCROOT 2|1|APP 3|5|LINK 4|5|SUBJ 5|1|CJCT 6|10|QUANT 7|6|NJCT
+	8|9|MOD 9|7|POBJ 10|5|JCT 11|16|LINK 12|16|SUBJ 13|16|LINK 14|16|SUBJ
+	15|16|AUX 16|5|CJCT 17|18|DET 18|16|OBJ 19|18|JCT 20|19|POBJ 21|1|PUNCT
+%com:	mother stays in her chair about 10 feet away while CHI plays on the floor
+*MOT:	xxx Mommy look at them .
+%mor:	n:prop|Mommy v|look prep|at pro:obj|them .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|3|POBJ 5|2|PUNCT
+*MOT:	alright !
+%mor:	co|alright !
+%gra:	1|0|INCROOT 2|1|PUNCT
+%com:	as toys are dumped out on the floor
+*MOT:	(..) you want to talk on the phone ?
+%mor:	pro|you v|want inf|to v|talk prep|on det|the n|phone ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|INF 4|2|XCOMP 5|4|JCT 6|7|DET 7|5|POBJ 8|2|PUNCT
+%com:	sounds of dialing the toy phone
+*MOT:	he's tired .
+%mor:	pro:sub|he~aux|be&3S part|tire-PASTP .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|PUNCT
+%add:	EXP's
+*MOT:	(.) come on Chi .
+%mor:	v|come prep|on n:prop|Chi .
+%gra:	1|0|ROOT 2|1|JCT 3|2|POBJ 4|1|PUNCT
+*MOT:	(.) will you pour us a cup of coffee ?
+%mor:	mod|will pro|you v|pour pro:obj|us det|a n|cup prep|of n|coffee ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|6|DET 6|3|OBJ 7|6|NJCT 8|7|POBJ
+	9|3|PUNCT
+*CHI:	&mm .
+%int:	rising and falling
+*MOT:	(.) look at the cars .
+%mor:	v|look prep|at det|the n|car-PL .
+%gra:	1|0|ROOT 2|1|JCT 3|4|DET 4|2|POBJ 5|1|PUNCT
+*CHI:	0 [%act: hangs up the phone and lies down] .
+*MOT:	and the cups and the plates .
+%mor:	conj|and det|the n|cup-PL coord|and det|the n|plate-PL .
+%gra:	1|0|INCROOT 2|3|DET 3|1|COORD 4|3|CONJ 5|6|DET 6|4|COORD 7|1|PUNCT
+*MOT:	here's another phone .
+%mor:	pro:exist|here~cop|be&3S qn|another n|phone .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|QUANT 4|2|PRED 5|2|PUNCT
+*MOT:	(..) who you calling ?
+%mor:	pro:wh|who pro|you part|call-PRESP ?
+%gra:	1|3|OBJ 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*CHI:	0 [%act: dials toy phone] .
+*MOT:	you calling me ?
+%mor:	pro|you part|call-PRESP pro:obj|me ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*MOT:	I'll talk on my phone .
+%mor:	pro:sub|I~mod|will v|talk prep|on pro:poss:det|my n|phone .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|6|MOD 6|4|POBJ 7|3|PUNCT
+*MOT:	0 [%act: uses a real phone next to her chair] .
+*MOT:	call me up .
+%mor:	v|call pro:obj|me adv|up .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|JCT 4|1|PUNCT
+*CHI:	0 [%act: smiles and holds the phone out to Mot] .
+*MOT:	hi Chi .
+%mor:	co|hi n:prop|Chi .
+%gra:	1|2|COM 2|0|ROOT 3|2|PUNCT
+*MOT:	how are you ?
+%mor:	adv:wh|how aux|be&PRES pro|you ?
+%gra:	1|0|INCROOT 2|1|INCROOT 3|2|OBJ 4|2|PUNCT
+*MOT:	(.) did you have a good day today ?
+%mor:	mod|do&PAST pro|you v|have det|a adj|good n|day adv:tem|today ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|6|DET 5|6|MOD 6|3|OBJ 7|6|XMOD 8|3|PUNCT
+*MOT:	(.) bye bye .
+%mor:	co|bye co|bye .
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+*MOT:	those cars !
+%mor:	det|those n|car-PL !
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*MOT:	0 [%act: moves onto the floor next to CHI] .
+*MOT:	(..) xxx .
+*MOT:	did you find it .
+%mor:	v|do&PAST pro|you v|find pro|it .
+%gra:	1|0|ROOT 2|3|SUBJ 3|1|COMP 4|3|OBJ 5|1|PUNCT
+*MOT:	here you go [%act: finds puzzle piece for CHI] .
+%mor:	adv|here pro|you v|go .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*MOT:	(..) xxx .
+*MOT:	(..) you gonna make us coffee ?
+%mor:	pro|you part|go-PRESP~inf|to v|make pro:obj|us n|coffee ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|INF 4|2|XCOMP 5|4|OBJ 6|4|OBJ 7|2|PUNCT
+*MOT:	0 [%act: organizes dishes spoons and coffee but CHI plays with phone] .
+*MOT:	(..) pour me another cup of coffee ?
+%mor:	v|pour pro:obj|me qn|another n|cup prep|of n|coffee ?
+%gra:	1|0|ROOT 2|1|OBJ 3|4|QUANT 4|1|OBJ 5|4|NJCT 6|5|POBJ 7|1|PUNCT
+*MOT:	(.) what's this [= kangaroo puzzle piece] ?
+%mor:	pro:wh|what~cop|be&3S pro:dem|this ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*MOT:	that's a kangaroo .
+%mor:	pro:dem|that~cop|be&3S det|a n|kangaroo .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+*CHI:	that's kangaroo .
+%mor:	pro:dem|that~cop|be&3S n|kangaroo .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*MOT:	(..) xxx .
+*MOT:	0 [%act: leaves room while CHI plays with blocks and does puzzle again] .
+*MOT:	0 [%act: returns and sits back in her chair] .
+*CHI:	0 [%act: lays head down as if to go to sleep] .
+*MOT:	don't go to sleep Chi or you won't eat .
+%mor:	mod|do~neg|not v|go inf|to v|sleep n:prop|Chi coord|or pro|you
+	mod|will~neg|not v|eat .
+%gra:	1|3|AUX 2|1|NEG 3|0|ROOT 4|5|INF 5|3|XCOMP 6|5|OBJ 7|6|CONJ 8|11|SUBJ
+	9|11|AUX 10|9|NEG 11|7|COORD 12|3|PUNCT
+%sit:	2min18sec since last utterance
+*CHI:	0 [%act: sits up then lies back down and cries] .
+*MOT:	you don't want to play anymore ?
+%mor:	pro|you mod|do~neg|not v|want inf|to v|play adv|anymore ?
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|6|INF 6|4|XCOMP 7|6|JCT 8|4|PUNCT
+%sit:	1min since last utterance
+*CHI:	nope .
+%mor:	co|nope .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	0 [%act: runs over to Mot] .
+@Comment:	Time is 20:10
+@Eg:	mother_freeplay
+@End

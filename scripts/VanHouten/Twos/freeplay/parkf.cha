@@ -1,0 +1,416 @@
+@UTF8
+@PID:	11312/c-00017728-1
+@Begin
+@Languages:	eng
+@Participants:	MOT Paula Mother , CHI Matthew Target_Child
+@ID:	eng|VanHouten|CHI|2;4.|male|typical||Target_Child|||
+@ID:	eng|VanHouten|MOT|||||Mother|||
+@Comment:	Education of MOT is 3
+@Situation:	Freeplay. Mother and Child sit on floor playing with box of. experimenter provided toys. They play briefly with tea set , play+ground set , puppets , and truck with shapes. Child is fairly intelligible.
+@Comment:	Age Group of MOT Older
+@Bg:	mother_freeplay
+*MOT:	what's this ?
+%mor:	pro:wh|what~cop|be&3S pro:dem|this ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+%sit:	holds up plate .
+%cod:	$MLU=3 $NMV=1 $Ini $Rfi
+*MOT:	what's this for ?
+%mor:	pro:wh|what~cop|be&3S pro:dem|this prep|for ?
+%gra:	1|2|LINK 2|0|ROOT 3|2|PRED 4|3|JCT 5|2|PUNCT
+%cod:	$MLU=4 $NMV=1 $Con $Rfi
+*CHI:	0 .
+%sit:	ignores Mother .
+%cod:	$Nul
+*MOT:	no ?
+%mor:	co|no ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=0 $Res $Rfi
+*MOT:	put these over here for now .
+%mor:	v|put&ZERO pro:dem|these adv|over adv|here prep|for adv|now .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|JCT 4|1|JCT 5|1|JCT 6|5|POBJ 7|1|PUNCT
+%sit:	picks up most of tea set .
+%cod:	$MLU=6 $Ini $Rep
+*MOT:	oh (.) wow .
+%mor:	co|oh co|wow .
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+%cod:	$MLU=0 $NMV=0 $Ini $Rep
+*MOT:	look at this .
+%mor:	v|look prep|at pro:dem|this .
+%gra:	1|0|ROOT 2|1|JCT 3|2|POBJ 4|1|PUNCT
+%sit:	holds up piece of merry+go+round and starts to assemble .
+%cod:	$MLU=3 $NMV=1 $Con $C/R
+*MOT:	look .
+%mor:	co|look .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=1 $Con $C/R
+*MOT:	Matthew .
+%mor:	n:prop|Matthew .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=0 $Con $C/R
+*MOT:	look at this .
+%mor:	v|look prep|at pro:dem|this .
+%gra:	1|0|ROOT 2|1|JCT 3|2|POBJ 4|1|PUNCT
+%cod:	$MLU=3 $NMV=1 $Con $C/R
+*MOT:	wanna put the people on the ride ?
+%mor:	v|want~inf|to v|put&ZERO det|the n|person&PL prep|on det|the n|ride
+	?
+%gra:	1|0|ROOT 2|3|INF 3|1|XCOMP 4|5|DET 5|3|OBJ 6|3|JCT 7|8|DET 8|6|POBJ
+	9|1|PUNCT
+%cod:	$MLU=7 $NMV=1 $Con $Rfi
+*MOT:	look .
+%mor:	co|look .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=1 $Con $C/R
+*MOT:	watch .
+%mor:	n|watch .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=1 $Con $C/R
+*MOT:	watch .
+%mor:	n|watch .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=1 $Con $C/R
+*MOT:	<if its gonna work> [?] .
+%mor:	conj|if pro:poss:det|its part|go-PRESP~inf|to n|work .
+%gra:	1|3|LINK 2|3|MOD 3|0|ROOT 4|5|INF 5|3|XCOMP 6|3|PUNCT
+%sit:	tries to set up merry+go+round .
+%cod:	$Con $Rep
+*MOT:	let me see .
+%mor:	v|let&ZERO pro:obj|me v|see .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|COMP 4|1|PUNCT
+%cod:	$MLU=3 $NMV=2 $Con $Rsc
+*CHI:	all_gone .
+%mor:	co|all_gone .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%sit:	has finished emptying tea set box .
+%cod:	$MLU=2 $NMV=0 $Ini $Rep
+*MOT:	wanna see them go for a ride ?
+%mor:	v|want~inf|to v|see pro:obj|them v|go prep|for det|a n|ride ?
+%gra:	1|0|ROOT 2|3|INF 3|1|XCOMP 4|3|OBJ 5|3|OBJ 6|5|JCT 7|8|DET 8|6|POBJ
+	9|1|PUNCT
+%cod:	$MLU=7 $NMV=2 $Ini $Rfi
+*MOT:	watch .
+%mor:	n|watch .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=1 $Con $C/R
+*MOT:	Matthew (.) look (.) honey .
+%mor:	n:prop|Matthew v|look n|honey .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+%cod:	$MLU=3 $NMV=1 $Con $C/R
+*CHI:	truck .
+%mor:	n|truck .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%sit:	removes truck from box .
+%cod:	$MLU=1 $NMV=0 $Ini $Rep
+*MOT:	see the little baby ride in the carriage ?
+%mor:	v|see det|the adj|little n|baby n|ride prep|in det|the n|carriage ?
+%gra:	1|0|ROOT 2|5|DET 3|4|MOD 4|5|MOD 5|1|OBJ 6|5|NJCT 7|8|DET 8|6|POBJ
+	9|1|PUNCT
+%cod:	$MLU=8 $NMV=2 $Ini $Rfi
+*MOT:	see the baby in the carriage ?
+%mor:	v|see det|the n|baby prep|in det|the n|carriage ?
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|3|NJCT 5|6|DET 6|4|POBJ 7|1|PUNCT
+%cod:	$MLU=6 $NMV=1 $Con $Rfi
+*MOT:	see (.) look .
+%mor:	co|see co|look .
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+%cod:	$MLU=2 $NMV=2 $Con $C/R
+*MOT:	see ?
+%mor:	v|see ?
+%gra:	1|0|ROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=1 $Con $Rfi
+*MOT:	the daddy's walking .
+%mor:	det|the n|daddy~aux|be&3S part|walk-PRESP .
+%gra:	1|2|DET 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|PUNCT
+%cod:	$MLU= 4 $NMV=1 $Ini $Rep
+*MOT:	and the mommy .
+%mor:	coord|and det|the n|mommy .
+%gra:	1|0|INCROOT 2|3|DET 3|1|COORD 4|1|PUNCT
+%cod:	$MLU=3 $NMV=0 $Con $Rep
+*CHI:	mommy walking .
+%mor:	n|mommy part|walk-PRESP .
+%gra:	1|0|INCROOT 2|1|XMOD 3|1|PUNCT
+%cod:	$MLU=2 $NMV=1 $Res $Rep
+*MOT:	mommy's walking the baby (.) yeah .
+%mor:	n|mommy~aux|be&3S part|walk-PRESP det|the n|baby co|yeah .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|COM 7|3|PUNCT
+%cod:	$MLU=6 $NMV=1 $Rre $C/A
+*MOT:	and these people are on the ride .
+%mor:	conj|and det|these n|person&PL cop|be&PRES prep|on det|the n|ride .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ 8|4|PUNCT
+%cod:	$MLU=7 $NMV=1 $Ini $Rep
+*MOT:	look .
+%mor:	co|look .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%sit:	spins merry+go+round .
+%cod:	$MLU=1 $NMV=1 $Con $C/R
+*MOT:	wow .
+%mor:	co|wow .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$MLU=0 $NMV=0 $Con $Rep
+*MOT:	what's that ?
+%mor:	pro:wh|what~cop|be&3S pro:dem|that ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+%cod:	$MLU=3 $NMV=1 $Con $Rfi
+*CHI:	xxx .
+%sit:	picks up a different toy .
+%cod:	$Ini
+*MOT:	what's that ?
+%mor:	pro:wh|what~cop|be&3S pro:dem|that ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+%cod:	$MLU=3 $NMV=1 $Res $Rfi
+*CHI:	what that .
+%mor:	adv|what adv|that .
+%gra:	1|0|INCROOT 2|1|JCT 3|1|PUNCT
+%cod:	$MLU=2 $NMV=0 $Res $Rsc
+*MOT:	what's this ?
+%mor:	pro:wh|what~cop|be&3S pro:dem|this ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+%sit:	points to Child's toy .
+%cod:	$MLU=3 $NMV=1 $Res $Rfi
+*MOT:	what's this ?
+%mor:	pro:wh|what~cop|be&3S pro:dem|this ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+%cod:	$MLU=3 $NMV=1 $Con $Rfi
+*CHI:	xxx .
+%sit:	simultaneous .
+%cod:	$Res
+*MOT:	oh (.) look what's in here .
+%mor:	co|oh co|look pro:wh|what~cop|be&3S prep|in pro:dem|here .
+%gra:	1|4|COM 2|4|COM 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|5|POBJ 7|4|PUNCT
+%sit:	simultaneous .
+%cod:	$MLU=5 $NMV=1 $Ini $C/R
+*MOT:	who's in there ?
+%mor:	pro:wh|who~cop|be&3S prep|in pro:dem|there ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|3|POBJ 5|2|PUNCT
+%cod:	$MLU=4 $NMV=1 $Con $Rfi
+*MOT:	who's this ?
+%mor:	pro:wh|who~cop|be&3S pro:dem|this ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+%cod:	$MLU=3 $NMV=1 $Con $Rfi
+*CHI:	xxx .
+%sit:	watch Mother take out puppets .
+%cod:	$Res
+*MOT:	look .
+%mor:	co|look .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=1 $Ini $C/R
+*MOT:	what do you see ?
+%mor:	pro:wh|what mod|do pro|you v|see ?
+%gra:	1|4|LINK 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+%cod:	$MLU=4 $NMV=1 $Con $Rfi
+*CHI:	that Ernie .
+%mor:	rel|that n:prop|Ernie .
+%gra:	1|2|LINK 2|0|ROOT 3|2|PUNCT
+%cod:	$MLU=2 $NMV=0 $Res $Rep
+*CHI:	what in there ?
+%mor:	pro:wh|what prep|in pro:dem|there ?
+%gra:	1|0|INCROOT 2|1|JCT 3|2|POBJ 4|1|PUNCT
+%sit:	reach for puppet bag .
+%cod:	$MLU=3 $NMV=0 $Ini $Rfi
+*CHI:	in there .
+%mor:	prep|in pro:dem|there .
+%gra:	1|0|INCROOT 2|1|POBJ 3|1|PUNCT
+%sit:	simultaneous; Mother takes bag from Child .
+%cod:	$MLU=2 $NMV=0 $Con $Rfi
+*MOT:	look at this .
+%mor:	v|look prep|at pro:dem|this .
+%gra:	1|0|ROOT 2|1|JCT 3|2|POBJ 4|1|PUNCT
+%sit:	simultaneous; takes out puppet .
+%cod:	$MLU=3 $NMV=1 $Rri $C/R
+*MOT:	a puppet .
+%mor:	det|a n|puppet .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+%cod:	$MLU=2 $NMV=0 $Con $Rep
+*MOT:	see ?
+%mor:	v|see ?
+%gra:	1|0|ROOT 2|1|PUNCT
+%cod:	$MLU= 1 $NMV=1 $Con $Rfi
+*MOT:	look .
+%mor:	co|look .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=1 $Con $C/R
+*MOT:	yyy .
+%xpho:	r& r& r& r&
+%sit:	moves puppet to Child's face .
+%cod:	$MLU=0 $NMV=0 $Ini $Col
+*CHI:	0 .
+%sit:	laughs .
+%cod:	$Res $Epr
+*MOT:	<xxx this> [?] .
+%mor:	pro:dem|this .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$Rex $Rfi
+*CHI:	0 .
+%sit:	puts arm around puppet .
+*MOT:	you want it ?
+%mor:	pro|you v|want pro|it ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+%cod:	$MLU=3 $NMV=1 $Rta $Rfi
+*MOT:	put it in your hand .
+%mor:	v|put&ZERO pro|it prep|in pro:poss:det|your n|hand .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|JCT 4|5|MOD 5|3|POBJ 6|1|PUNCT
+%sit:	gives Cookie Monster to Child and puts on Ernie .
+%cod:	$MLU=4 $NMV=1 $Con $C/R
+*CHI:	0 .
+%sit:	spins merry+go+round .
+*MOT:	<Make xxx the ride go slow> [?] .
+%mor:	n:prop|Make det|the n|ride v|go adv|slow .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|4|PUNCT
+%cod:	$Rta $C/R
+*MOT:	see ?
+%mor:	v|see ?
+%gra:	1|0|ROOT 2|1|PUNCT
+%sit:	spins ride .
+%cod:	$MLU=1 $NMV=1 $Con $Rfi
+*CHI:	look .
+%mor:	co|look .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%sit:	pushes truck .
+%cod:	$MLU=1 $NMV=1 $Ini $Des
+*CHI:	vroom@o .
+%mor:	on|vroom .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%sit:	simultaneous .
+%cod:	$MLU=0 $NMV=0 $Con $Epr
+*MOT:	what's that ?
+%mor:	pro:wh|what~cop|be&3S pro:dem|that ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+%sit:	simultaneous .
+%cod:	$MLU=3 $NMV=1 $Rex $Rfi
+*CHI:	watch .
+%mor:	n|watch .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=1 $Con $Des
+*MOT:	watch .
+%mor:	n|watch .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=1 $Rde $Acc
+*MOT:	wanna see if you can do this ?
+%mor:	v|want~inf|to v|see conj|if pro|you mod|can v|do pro:dem|this ?
+%gra:	1|0|ROOT 2|3|INF 3|1|XCOMP 4|7|LINK 5|7|SUBJ 6|7|AUX 7|3|CJCT 8|7|OBJ
+	9|1|PUNCT
+%sit:	takes truck .
+%cod:	$MLU=7 $NMV=2 $Ini $Rfi
+*MOT:	look .
+%mor:	co|look .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%sit:	tries to figure out how to open truck .
+%cod:	$MLU=1 $NMV=1 $Con $C/R
+*MOT:	wanna play with this one ?
+%mor:	v|want~inf|to n|play prep|with det|this pro:indef|one ?
+%gra:	1|0|ROOT 2|3|INF 3|1|XCOMP 4|3|NJCT 5|6|DET 6|4|POBJ 7|1|PUNCT
+%sit:	still trying; shapes rolling inside making lots_of noise .
+%cod:	$MLU=5 $NMV=1 $Con $Rfi
+*CHI:	huh ?
+%mor:	co|huh ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$MLU=0 $NMV=0 $Res $Rfi
+*MOT:	there it is .
+%mor:	adv|there pro|it cop|be&3S .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+%sit:	gets truck open .
+%cod:	$MLU=3 $NMV=1 $Rri $Rep
+*MOT:	look .
+%mor:	co|look .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=1 $Ini $C/R
+*CHI:	do that .
+%mor:	v|do pro:dem|that .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+%cod:	$MLU=2 $NMV=1 $Res $Des
+*MOT:	you wanna do that ?
+%mor:	pro|you v|want~inf|to v|do pro:dem|that ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|INF 4|2|XCOMP 5|4|OBJ 6|2|PUNCT
+%cod:	$MLU=4 $NMV=1 $Rde $Exp
+*MOT:	do the star .
+%mor:	v|do det|the n|star .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+%cod:	$MLU=3 $NMV=1 $Ini $C/R
+*MOT:	where's the star ?
+%mor:	adv:wh|where~cop|be&3S det|the n|star ?
+%gra:	1|2|LINK 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+%cod:	$MLU=4 $NMV=1 $Con $Rfi
+*MOT:	<Can you look for the shapes> [?] .
+%mor:	n:prop|Can pro|you v|look prep|for det|the n|shape-PL .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|3|PUNCT
+%cod:	$Ini $Rfi
+*MOT:	where are they ?
+%mor:	adv:wh|where cop|be&PRES pro:sub|they ?
+%gra:	1|2|LINK 2|0|ROOT 3|2|PRED 4|2|PUNCT
+%cod:	$MLU=3 $NMV=1 $Con $Rfi
+*CHI:	0 .
+%sit:	picks up green shape .
+*MOT:	where does the green one go ?
+%mor:	adv:wh|where v|do&3S det|the n|green det:num|one v|go ?
+%gra:	1|2|LINK 2|0|ROOT 3|4|DET 4|6|SUBJ 5|6|QUANT 6|2|COMP 7|2|PUNCT
+%cod:	$MLU=6 $NMV=1 $Rta $Rfi
+*CHI:	0 .
+%sit:	picks up red shape .
+*MOT:	the red one ?
+%mor:	det|the n|red pro:indef|one ?
+%gra:	1|2|DET 2|0|INCROOT 3|2|OBJ 4|2|PUNCT
+%cod:	$MLU=3 $NMV=0 $Rta $Rfi
+*MOT:	where does the red one go ?
+%mor:	adv:wh|where v|do&3S det|the n|red det:num|one v|go ?
+%gra:	1|2|LINK 2|0|ROOT 3|4|DET 4|6|SUBJ 5|6|QUANT 6|2|COMP 7|2|PUNCT
+%cod:	$MLU=6 $NMV=1 $Con $Rfi
+*MOT:	look .
+%mor:	co|look .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%sit:	points .
+%cod:	$MLU=1 $NMV=1 $Ini $C/R
+*MOT:	right here .
+%mor:	adv|right adv|here .
+%gra:	1|0|INCROOT 2|1|JCT 3|1|PUNCT
+%cod:	$MLU=2 $NMV=0 $Con $Rep
+*CHI:	0 .
+%sit:	fumbles with red and green shapes .
+*MOT:	the red one .
+%mor:	det|the n|red pro:indef|one .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+%cod:	$MLU=3 $NMV=0 $Rta $Tea
+*CHI:	0 .
+%sit:	tries wrong shape .
+*MOT:	the red one .
+%mor:	det|the n|red pro:indef|one .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+%cod:	$MLU=3 $NMV=0 $Rta $Tea
+*CHI:	red one ?
+%mor:	adj|red pro:indef|one ?
+%gra:	1|0|INCROOT 2|1|OBJ 3|1|PUNCT
+%sit:	drops green and picks up red and starts to insert .
+%cod:	$MLU=2 $NMV=0 $Res $Lim
+*MOT:	right in there .
+%mor:	adv|right prep|in pro:dem|there .
+%gra:	1|0|INCROOT 2|1|JCT 3|2|POBJ 4|1|PUNCT
+%cod:	$MLU=3 $NMV=0 $Rle $Tea
+*CHI:	0 .
+%sit:	tries unsuccessfully to insert shape .
+*MOT:	turn it .
+%mor:	v|turn pro|it .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+%cod:	$MLU=2 $NMV=1 $Rta $C/R
+*MOT:	can you push it ?
+%mor:	mod|can pro|you v|push pro|it ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+%cod:	$MLU=4 $NMV=1 $Ini $C/R
+*MOT:	push it .
+%mor:	v|push pro|it .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+%cod:	$MLU=2 $NMV=1 $Con $C/R
+*MOT:	push it in .
+%mor:	v|push pro|it adv|in .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|JCT 4|1|PUNCT
+%cod:	$MLU=3 $NMV=1 $Con $C/R
+*CHI:	0 .
+%sit:	pushes shape through .
+*MOT:	there ya go .
+%mor:	adv|there pro|you v|go .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+%cod:	$MLU=3 $NMV=1 $Rta $Rep
+*MOT:	good boy .
+%mor:	adj|good n|boy .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+%cod:	$MLU=2 $NMV=0 $Con $Rep
+@Eg:	mother_freeplay
+@End

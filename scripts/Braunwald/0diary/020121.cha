@@ -1,0 +1,115 @@
+@UTF8
+@PID:	11312/c-00010820-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, MOT Mother, SIS Sister
+@ID:	eng|Braunwald|CHI|02;01.21|female|||Target_Child|||
+@ID:	eng|Braunwald|MOT|||||Mother|||
+@ID:	eng|Braunwald|SIS|||||Sister|||
+@Date:	11-APR-1973
+*CHI:	Mommy keep sneezing .
+%mor:	n:prop|Mommy v|keep part|sneeze-PRESP .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+%sit:	652
+*CHI:	I keep sneezing .
+%mor:	pro:sub|I v|keep part|sneeze-PRESP .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+%sit:	652
+*CHI:	give me little bit toast .
+%mor:	v|give pro:obj|me adj|little n|bit n|toast .
+%gra:	1|0|ROOT 2|1|OBJ 3|5|MOD 4|5|MOD 5|1|OBJ 6|1|PUNCT
+%sit:	653
+*CHI:	cleaners cleaners going clean .
+%mor:	n|clean&dv-AGT-PL n|clean&dv-AGT-PL part|go-PRESP adj|clean .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|XMOD 4|3|JCT 5|2|PUNCT
+%sit:	654
+*CHI:	Erica ?
+%mor:	n:prop|Erica ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%sit:	655
+*SIS:	I'm not Erica .
+%mor:	pro:sub|I~cop|be&1S neg|not n:prop|Erica .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|NEG 4|2|PRED 5|2|PUNCT
+%sit:	655
+*CHI:	I thought you Erica .
+%mor:	pro:sub|I v|think&PAST pro|you n:prop|Erica .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|OBJ 5|2|PUNCT
+%sit:	655
+*SIS:	s@l l@l u@l g@l g@l e@l r@l .
+%mor:	n:let|s n:let|l n:let|u n:let|g n:let|g n:let|e n:let|r .
+%gra:	1|0|INCROOT 2|1|INCROOT 3|2|INCROOT 4|3|INCROOT 5|4|INCROOT 6|5|INCROOT
+	7|6|INCROOT 8|7|PUNCT
+%sit:	656
+*CHI:	how spell my name ?
+%mor:	adv:wh|how v|spell pro:poss:det|my n|name ?
+%gra:	1|2|LINK 2|0|ROOT 3|4|MOD 4|2|OBJ 5|2|PUNCT
+%sit:	656
+*CHI:	Mom, I'm afraid .
+%mor:	n:prop|Mom cm|cm pro:sub|I~cop|be&1S adj|afraid .
+%gra:	1|4|LINK 2|1|LP 3|4|SUBJ 4|0|ROOT 5|4|PRED 6|4|PUNCT
+%sit:	658
+*MOT:	what are you afraid of ?
+%mor:	pro:wh|what aux|be&PRES pro|you adj|afraid prep|of ?
+%gra:	1|2|OBJ 2|0|ROOT 3|2|OBJ 4|3|XMOD 5|4|JCT 6|2|PUNCT
+%sit:	658
+*CHI:	cleaning mans [: men] [*] .
+%mor:	n:gerund|clean-PRESP n|man&PL .
+%gra:	1|0|INCROOT 2|1|OBJ 3|1|PUNCT
+%sit:	658
+*CHI:	I shooting you .
+%mor:	pro:sub|I part|shoot-PRESP pro|you .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+%sit:	659
+*CHI:	lie down .
+%mor:	n|lie adv|down .
+%gra:	1|0|INCROOT 2|1|JCT 3|1|PUNCT
+%sit:	659
+*CHI:	I finished .
+%mor:	pro:sub|I v|finish-PAST .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+%sit:	660
+*CHI:	I'm finished .
+%mor:	pro:sub|I~aux|be&1S part|finish-PASTP .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|PUNCT
+%sit:	660
+*CHI:	wrong number .
+%mor:	adj|wrong n|number .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+%sit:	661
+*CHI:	have_to get my sunglasses .
+%mor:	mod:aux|have_to v|get pro:poss:det|my n|sunglass-PL .
+%gra:	1|2|AUX 2|0|ROOT 3|4|MOD 4|2|OBJ 5|2|PUNCT
+%sit:	662
+*MOT:	you have_to get your sunglasses .
+%mor:	pro|you mod:aux|have_to v|get pro:poss:det|your n|sunglass-PL .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|MOD 5|3|OBJ 6|3|PUNCT
+%sit:	662
+*MOT:	how_come ?
+%mor:	adv:wh|how_come ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%sit:	662
+*CHI:	because going on a long trip .
+%mor:	conj|because part|go-PRESP prep|on det|a adj|long n|trip .
+%gra:	1|2|LINK 2|0|ROOT 3|2|JCT 4|6|DET 5|6|MOD 6|3|POBJ 7|2|PUNCT
+%sit:	662
+*CHI:	I hate that .
+%mor:	pro:sub|I v|hate pro:dem|that .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+%sit:	663
+*CHI:	I hate avocado .
+%mor:	pro:sub|I n|hate n|avocado .
+%gra:	1|2|SUBJ 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+%sit:	663
+*MOT:	we really are too early .
+%mor:	pro:sub|we adv|real&dadj-LY cop|be&PRES adv|too adv|early .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|3|JCT 5|3|JCT 6|3|PUNCT
+%sit:	664
+*MOT:	we're always too early .
+%mor:	pro:sub|we~aux|be&PRES adv|always adv|too adv|early .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|2|JCT 5|2|JCT 6|2|PUNCT
+%sit:	664
+*CHI:	(th)em early birds .
+%mor:	pro:obj|them adv|early n|bird-PL .
+%gra:	1|0|INCROOT 2|3|JCT 3|1|PRED 4|1|PUNCT
+%sit:	664
+@End

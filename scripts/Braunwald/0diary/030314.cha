@@ -1,0 +1,51 @@
+@UTF8
+@PID:	11312/c-00011171-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, MOT Mother
+@ID:	eng|Braunwald|CHI|03;03.14|female|||Target_Child|||
+@ID:	eng|Braunwald|MOT|||||Mother|||
+@Date:	03-JUN-1974
+*CHI:	I had a fit outside .
+%mor:	pro:sub|I v|have&PAST det|a n|fit adv|outside .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|JCT 6|2|PUNCT
+%sit:	817
+*MOT:	it's not funny .
+%mor:	pro|it~cop|be&3S neg|not adj|fun&dn-Y .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|NEG 4|2|PRED 5|2|PUNCT
+%sit:	817
+*MOT:	I didn't really like it .
+%mor:	pro:sub|I mod|do&PAST~neg|not adv|real&dadj-LY prep|like pro|it .
+%gra:	1|5|SUBJ 2|5|AUX 3|2|NEG 4|5|JCT 5|0|ROOT 6|5|POBJ 7|5|PUNCT
+%sit:	817
+*CHI:	and I put my comfort mat right in smack in the middle .
+%mor:	conj|and pro:sub|I v|put&ZERO pro:poss:det|my n|comfort n|mat
+	adj|right adv|in v|smack prep|in det|the n|middle .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|6|MOD 5|6|MOD 6|3|OBJ 7|3|JCT 8|7|JCT
+	9|7|XJCT 10|9|JCT 11|12|DET 12|10|POBJ 13|3|PUNCT
+%sit:	818
+*CHI:	Mommy, when I cried I got some water on you .
+%mor:	n:prop|Mommy cm|cm adv:wh|when pro:sub|I v|cry-PAST pro:sub|I
+	v|get&PAST qn|some n|water prep|on pro|you .
+%gra:	1|0|INCROOT 2|1|LP 3|5|LINK 4|5|SUBJ 5|1|CJCT 6|7|SUBJ 7|5|COMP
+	8|9|QUANT 9|7|OBJ 10|7|JCT 11|10|POBJ 12|1|PUNCT
+%sit:	819
+*MOT:	tear drops you mean .
+%mor:	n|tear v|drop-3S pro|you v|mean .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|SUBJ 4|2|COMP 5|2|PUNCT
+%sit:	819
+*CHI:	Mommy, help me put away my dollhouse .
+%mor:	n:prop|Mommy cm|cm v|help pro:obj|me v|put&ZERO adv|away
+	pro:poss:det|my n|+n|doll+n|house .
+%gra:	1|3|SUBJ 2|1|LP 3|0|ROOT 4|3|OBJ 5|3|COMP 6|5|JCT 7|8|MOD 8|5|OBJ
+	9|3|PUNCT
+%sit:	820
+*CHI:	I was asking fifty times .
+%mor:	pro:sub|I aux|be&PAST&13S part|ask-PRESP det:num|fifty n|time-PL .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|QUANT 5|3|OBJ 6|3|PUNCT
+%sit:	820
+*CHI:	don't make me ask again .
+%mor:	mod|do~neg|not v|make pro:obj|me v|ask adv|again .
+%gra:	1|3|AUX 2|1|NEG 3|0|ROOT 4|3|OBJ 5|3|COMP 6|5|JCT 7|3|PUNCT
+%sit:	820
+@End

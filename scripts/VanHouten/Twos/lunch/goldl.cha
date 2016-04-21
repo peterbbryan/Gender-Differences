@@ -1,0 +1,359 @@
+@UTF8
+@PID:	11312/c-00017709-1
+@Begin
+@Languages:	eng
+@Participants:	MOT Lynne Mother , CHI Kimberly Target_Child
+@ID:	eng|VanHouten|CHI|2;4.|female|typical||Target_Child|||
+@ID:	eng|VanHouten|MOT|||||Mother|||
+@Situation:	Lunch. Child sits in high chair. Mother finishes preparing food; then sits at table , facing Child , but does not eat. Child is eating alphabet noodles. Child is fairly intelligible.
+@Comment:	Age Group of MOT Older
+*CHI:	xxx .
+%sit:	watches Mother cut food .
+%cod:	$Ini
+*MOT:	here (.) eat it .
+%mor:	adv|here v|eat pro|it .
+%gra:	1|2|JCT 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+%sit:	picks up forkful of food .
+%cod:	$MLU=3 $NMV=1 $Ini $C/R
+*CHI:	0 .
+%sit:	takes bite .
+*MOT:	okay .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=0 $Rta $Rep
+*MOT:	want me to get you a spoon ?
+%mor:	v|want pro:obj|me inf|to v|get pro|you det|a n|spoon ?
+%gra:	1|0|ROOT 2|1|OBJ 3|4|INF 4|1|XCOMP 5|4|OBJ 6|7|DET 7|5|OBJ 8|1|PUNCT
+%cod:	$MLU=7 $NMV=2 $Ini $Rfi
+*MOT:	want me to get you a spoon for those ?
+%mor:	v|want pro:obj|me inf|to v|get pro|you det|a n|spoon prep|for
+	pro:dem|those ?
+%gra:	1|0|ROOT 2|1|OBJ 3|4|INF 4|1|XCOMP 5|4|OBJ 6|7|DET 7|4|OBJ 8|7|NJCT
+	9|8|POBJ 10|1|PUNCT
+%cod:	$MLU=9 $NMV=2 $Con $Rfi
+*MOT:	huh ?
+%mor:	co|huh ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$MLU=0 $NMV=0 $Con $Rfi
+*MOT:	want a spoon ?
+%mor:	v|want det|a n|spoon ?
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+%cod:	$MLU=3 $NMV=1 $Con $Rfi
+*CHI:	0 .
+%sit:	nods head .
+%cod:	$Res $Des
+*MOT:	what do you say ?
+%mor:	pro:wh|what mod|do pro|you v|say ?
+%gra:	1|4|LINK 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+%sit:	returns with a spoon and gives to Child .
+%cod:	$MLU=4 $NMV=1 $Ini $C/R
+*CHI:	thank_you .
+%mor:	co|thank_you .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$MLU=2 $NMV=0 $Res $Rsc
+*MOT:	very good .
+%mor:	adv|very adj|good .
+%gra:	1|2|JCT 2|0|ROOT 3|2|PUNCT
+%sit:	returns to counter .
+%cod:	$MLU=2 $NMV=0 $Res $Rep
+*MOT:	is that good ?
+%mor:	cop|be&3S pro:dem|that adj|good ?
+%gra:	1|0|ROOT 2|1|PRED 3|2|XMOD 4|1|PUNCT
+%sit:	returns to table .
+%cod:	$MLU=3 $NMV=1 $Ini $Rfi
+*CHI:	0 .
+%sit:	nods .
+%cod:	$Res $Rep
+*MOT:	want me to feed you ?
+%mor:	v|want pro:obj|me inf|to v|feed pro|you ?
+%gra:	1|0|ROOT 2|1|OBJ 3|4|INF 4|1|XCOMP 5|4|OBJ 6|1|PUNCT
+%cod:	$MLU=5 $NMV=2 $Ini $Rfi
+*CHI:	0 .
+%sit:	nods .
+%cod:	$Res $Des
+*MOT:	0 .
+%sit:	shakes head no .
+%cod:	$Rde
+*CHI:	0 .
+%sit:	shakes head no .
+%cod:	$Res
+*MOT:	0 .
+%sit:	nods head yes .
+%cod:	$Res
+*CHI:	0 .
+%sit:	nods head yes .
+%cod:	$Res
+*MOT:	0 .
+%sit:	shakes head no; laughs .
+%cod:	$Res
+*CHI:	&uh .
+%sit:	whines .
+%cod:	$MLU=9=0 $NMV=0 $Res $Epr
+*MOT:	okay .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=0 $Rex $Acc
+*MOT:	want me to help you ?
+%mor:	v|want pro:obj|me inf|to v|help pro|you ?
+%gra:	1|0|ROOT 2|1|OBJ 3|4|INF 4|1|XCOMP 5|4|OBJ 6|1|PUNCT
+%cod:	$MLU=5 $NMV=2 $Con $Rfi
+*MOT:	look at this .
+%mor:	v|look prep|at pro:dem|this .
+%gra:	1|0|ROOT 2|1|JCT 3|2|POBJ 4|1|PUNCT
+%sit:	picks up forkful .
+%cod:	$MLU=3 $NMV=1 $Ini $C/R
+*CHI:	0 .
+%sit:	shakes head no .
+%cod:	$Res $Des
+*MOT:	see all the letters in +...
+%mor:	v|see qn|all det|the n|letter-PL adv|in +...
+%gra:	1|0|ROOT 2|4|QUANT 3|4|DET 4|1|OBJ 5|1|JCT 6|1|PUNCT
+%cod:	$Ini $Rfi
+*MOT:	what's this ?
+%mor:	pro:wh|what~cop|be&3S pro:dem|this ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+%sit:	holds letter from food on fork .
+%cod:	$MLU=3 $NMV=1 $Con $Rfi
+*MOT:	what's that ?
+%mor:	pro:wh|what~cop|be&3S pro:dem|that ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+%cod:	$MLU=3 $NMV=1 $Con $Rfi
+*CHI:	b@l .
+%mor:	n:let|b .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=0 $Res $Rep
+*MOT:	very good .
+%mor:	adv|very adj|good .
+%gra:	1|2|JCT 2|0|ROOT 3|2|PUNCT
+%cod:	$MLU=2 $NMV=0 $Rre $C/A
+*MOT:	okay (.) what else we got ?
+%mor:	co|okay pro:wh|what post|else pro:sub|we v|get&PAST ?
+%gra:	1|5|COM 2|5|LINK 3|2|PQ 4|5|SUBJ 5|0|ROOT 6|5|PUNCT
+%cod:	$MLU=5 $NMV=1 $Ini $Rfi
+*MOT:	oh (.) what's this ?
+%mor:	co|oh pro:wh|what~cop|be&3S pro:dem|this ?
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|3|PUNCT
+%cod:	$MLU=3 $NMV=1 $Con $Rfi
+*CHI:	s@l .
+%mor:	n:let|s .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=0 $Res $Rep
+*MOT:	yeah .
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=0 $Rre $C/A
+*CHI:	s@l .
+%mor:	n:let|s .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=0 $Res $Rep
+*MOT:	that's right .
+%mor:	pro:dem|that~cop|be&3S adv|right .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|2|PUNCT
+%cod:	$MLU=3 $NMV=1 $Rre $C/A
+*MOT:	let's see if we can find another one .
+%mor:	v|let~pro:obj|us v|see conj|if pro:sub|we mod|can v|find qn|another
+	pro:indef|one .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|COMP 4|7|LINK 5|7|SUBJ 6|7|AUX 7|3|CJCT 8|9|QUANT
+	9|7|OBJ 10|1|PUNCT
+%cod:	$MLU=9 $NMV=2 $Ini $Rfa
+*MOT:	oop .
+%mor:	co|oop .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%sit:	gets letter on fork .
+%cod:	$MLU=1 $NMV=0 $Ini $Rep
+*MOT:	it's backwards .
+%mor:	pro|it~cop|be&3S adv|backwards .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|2|PUNCT
+%cod:	$MLU=3 $NMV=1 $Con $Rep
+*CHI:	that a@l .
+%mor:	det|that n:let|a .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+%sit:	spots a letter in the food .
+%cod:	$MLU=2 $NMV=0 $Ini $Rep
+*MOT:	a@l (.) yup .
+%mor:	n:let|a co|yup .
+%gra:	1|0|INCROOT 2|1|COM 3|1|PUNCT
+%cod:	$MLU=2 $NMV=0 $Rre $C/A
+*MOT:	what's this ?
+%mor:	pro:wh|what~cop|be&3S pro:dem|this ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+%cod:	$MLU=3 $NMV=1 $Ini $Rfi
+*CHI:	f@l .
+%mor:	n:let|f .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=0 $Res $Rep
+*MOT:	very good .
+%mor:	adv|very adj|good .
+%gra:	1|2|JCT 2|0|ROOT 3|2|PUNCT
+%cod:	$MLU=2 $NMV=0 $Rre $C/A
+*MOT:	look what I found .
+%mor:	v|look pro:wh|what pro:sub|I v|find&PAST .
+%gra:	1|0|ROOT 2|4|LINK 3|4|SUBJ 4|1|COMP 5|1|PUNCT
+%cod:	$MLU=4 $NMV=2 $Ini $C/R
+*MOT:	what's that one ?
+%mor:	adv:wh|what~cop|be&3S det|that pro:indef|one ?
+%gra:	1|2|LINK 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+%cod:	$MLU=4 $NMV=1 $Con $Rfi
+*MOT:	look .
+%mor:	co|look .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=1 $Con $C/R
+*CHI:	q@l .
+%mor:	n:let|q .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=0 $Res $Rep
+*MOT:	q@l .
+%mor:	n:let|q .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=0 $Rre $C/A
+*MOT:	yup .
+%mor:	co|yup .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=0 $Con $C/A
+*MOT:	is the q@l good ?
+%mor:	cop|be&3S det|the n:let|q adj|good ?
+%gra:	1|0|ROOT 2|3|DET 3|1|PRED 4|3|XMOD 5|1|PUNCT
+%sit:	feeds letter to Child .
+%cod:	$MLU=4 $NMV=1 $Ini $Rfi
+*CHI:	0 .
+%sit:	nods head .
+%cod:	$Res $Rep
+*MOT:	<eat one> [?] ?
+%mor:	v|eat pro:indef|one ?
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+%cod:	$Rre $Rfi
+*MOT:	look .
+%mor:	co|look .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%sit:	starts to get more food on fork .
+%cod:	$MLU=1 $NMV=1 $Ini $C/R
+*CHI:	0 .
+%sit:	holds food in mouth .
+*MOT:	chew that up .
+%mor:	v|chew pro:dem|that adv|up .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|JCT 4|1|PUNCT
+%cod:	$MLU=3 $NMV=1 $Rta $C/R
+*MOT:	oh (.) what's this one ?
+%mor:	co|oh rel|what~aux|be&3S det|this pro:indef|one ?
+%gra:	1|3|COM 2|3|LINK 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+%cod:	$MLU=4 $NMV=1 $Ini $Rfi
+*MOT:	a wiggly one .
+%mor:	det|a adj|wiggle&dv-Y pro:indef|one .
+%gra:	1|3|DET 2|3|MOD 3|0|ROOT 4|3|PUNCT
+%cod:	$MLU=3 $NMV=0 $Con $Rep
+*CHI:	s@l .
+%mor:	n:let|s .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=0 $Res $Rep
+*MOT:	s@l .
+%mor:	n:let|s .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=0 $Rre $C/A
+*MOT:	what's that ?
+%mor:	pro:wh|what~cop|be&3S pro:dem|that ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+%cod:	$MLU=3 $NMV=1 $Ini $Rfi
+*CHI:	<m@l> [=? ohm] .
+%mor:	n:let|m .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=0 $Res $Rep
+*MOT:	m@l .
+%mor:	n:let|m .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%sit:	tries to correct pronunciation .
+%cod:	$MLU=1 $NMV=0 $Rre $Rep
+*CHI:	<m@l> [=? ohm] .
+%mor:	n:let|m .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=0 $Res $Rep
+*MOT:	okay .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%sit:	puts fork down .
+%cod:	$MLU=1 $NMV=0 $Ini $C/R
+*MOT:	baby's turn .
+%mor:	n|baby~poss|s n|turn .
+%gra:	1|3|MOD 2|1|POSS 3|0|INCROOT 4|3|PUNCT
+%cod:	$MLU=2 $NMV=0 $Con $C/R
+*CHI:	Mommy !
+%mor:	n:prop|Mommy !
+%gra:	1|0|INCROOT 2|1|PUNCT
+%sit:	picks ups spoon and looks to Mother .
+%cod:	$MLU=1 $NMV=0 $Res $Des
+*MOT:	baby's turn .
+%mor:	n|baby~poss|s n|turn .
+%gra:	1|3|MOD 2|1|POSS 3|0|INCROOT 4|3|PUNCT
+%cod:	$MLU=2 $NMV=0 $Rde $C/R
+*MOT:	0 .
+%sit:	nods head .
+%cod:	$Con $C/R
+*CHI:	0 .
+%sit:	nods head; smiles .
+%cod:	$Res
+*MOT:	0 .
+%sit:	nods head .
+%cod:	$Res
+*CHI:	do Mommy .
+%mor:	mod|do n:prop|Mommy .
+%gra:	1|2|AUX 2|0|ROOT 3|2|PUNCT
+%sit:	nods head; wants Mother to do it .
+%cod:	$MLU=2 $NMV=1 $Res $Des
+*MOT:	yeah .
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%sit:	nods head .
+%cod:	$MLU=1 $NMV=1 $Rde $Acc
+*MOT:	okay (.) you take a turn (.) first .
+%mor:	co|okay pro|you v|take det|a n|turn n|first .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|6|DET 5|6|MOD 6|3|OBJ 7|3|PUNCT
+%sit:	wants Child to feed self .
+%cod:	$MLU=6 $NMV=1 $Ini $C/R
+*MOT:	go ahead .
+%mor:	v|go adv|ahead .
+%gra:	1|0|ROOT 2|1|JCT 3|1|PUNCT
+%cod:	$MLU=2 $NMV=1 $Con $C/R
+*CHI:	0 .
+%sit:	puts spoon with food in mouth .
+*MOT:	that wasn't very big .
+%mor:	det|that cop|be&PAST&13S~neg|not adv|very adj|big .
+%gra:	1|2|DET 2|0|ROOT 3|2|NEG 4|5|JCT 5|2|PRED 6|2|PUNCT
+%cod:	$MLU=5 $NMV=1 $Rta $Rep
+*CHI:	&ah !
+%sit:	gaze at food .
+%cod:	$MLU=0 $NMV=0 $Ini $Epr
+*CHI:	b@l ?
+%mor:	n:let|b ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%sit:	points to letter .
+%cod:	$MLU=1 $NMV=0 $Con $Rfi
+*MOT:	yeah (.) that's a b@l .
+%mor:	co|yeah pro:dem|that~cop|be&3S det|a n:let|b .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|PRED 6|3|PUNCT
+%cod:	$MLU=5 $NMV=1 $Rri $C/A
+*MOT:	okay (.) come_on .
+%mor:	co|okay co|come_on .
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+%sit:	feeds Child .
+%cod:	$MLU=2 $NMV=1 $Ini $C/R
+*MOT:	oops .
+%mor:	co|oops .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%sit:	some food misses C's mouth; cleans up; then puts fork down on plate .
+%cod:	$MLU=1 $NMV=0 $Ini $Rep
+*CHI:	fork [=? pork] .
+%mor:	n|fork .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=0 $Ini $Des
+*MOT:	huh ?
+%mor:	co|huh ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$MLU=0 $NMV=0 $Rde $Cla
+*CHI:	fork .
+%mor:	n|fork .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=0 $Res $Des
+*MOT:	okay (.) use your fork .
+%mor:	co|okay v|use pro:poss:det|your n|fork .
+%gra:	1|2|COM 2|0|ROOT 3|4|MOD 4|2|OBJ 5|2|PUNCT
+%cod:	$MLU=4 $NMV=1 $Rde $Acc
+@End

@@ -1,0 +1,51 @@
+@UTF8
+@PID:	11312/c-00011005-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, MOT Mother
+@ID:	eng|Braunwald|CHI|02;08.13|female|||Target_Child|||
+@ID:	eng|Braunwald|MOT|||||Mother|||
+@Date:	03-NOV-1973
+*CHI:	which is for Laura ?
+%mor:	rel|which cop|be&3S prep|for n:prop|Laura ?
+%gra:	1|2|LINK 2|0|ROOT 3|2|JCT 4|3|POBJ 5|2|PUNCT
+%sit:	952
+*MOT:	here's yours .
+%mor:	pro:dem|here~aux|be&3S pro:poss|yours .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|PUNCT
+%sit:	952
+*CHI:	was that a cat fight or did Peanuts catch a bird ?
+%mor:	cop|be&PAST&13S rel|that det|a n|cat n|fight coord|or v|do&PAST
+	n:prop|Peanuts v|catch det|a n|bird ?
+%gra:	1|0|ROOT 2|5|LINK 3|5|DET 4|5|MOD 5|1|CMOD 6|5|CONJ 7|6|COORD 8|9|SUBJ
+	9|7|COMP 10|11|DET 11|9|OBJ 12|1|PUNCT
+%sit:	953
+*MOT:	Peanuts caught a bird .
+%mor:	n:prop|Peanuts v|catch&PAST det|a n|bird .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+%sit:	953
+*CHI:	if a really hole was in here then I would cry for new pants .
+%mor:	conj|if det|a adv|real&dadj-LY n|hole cop|be&PAST&13S prep|in
+	pro:dem|here adv:tem|then pro:sub|I mod|will&COND v|cry prep|for
+	adj|new n:pt|pants .
+%gra:	1|5|LINK 2|5|DET 3|5|JCT 4|5|SUBJ 5|0|ROOT 6|5|JCT 7|6|POBJ 8|11|JCT
+	9|11|SUBJ 10|11|AUX 11|5|CJCT 12|11|JCT 13|14|MOD 14|12|POBJ 15|5|PUNCT
+%sit:	954
+*CHI:	they are dumb+dumb because they didn't wait for me .
+%mor:	pro:sub|they cop|be&PRES adj|+adj|dumb+adj|dumb conj|because
+	pro:sub|they mod|do&PAST~neg|not v|wait prep|for pro:obj|me .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|8|LINK 5|8|SUBJ 6|8|AUX 7|6|NEG 8|2|CJCT
+	9|8|JCT 10|9|POBJ 11|2|PUNCT
+%sit:	955
+*CHI:	how_come they went there without me ?
+%mor:	adv:wh|how_come pro:sub|they v|go&PAST adv|there prep|without
+	pro:obj|me ?
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|JCT 6|5|POBJ 7|3|PUNCT
+%sit:	956
+*MOT:	well, they didn't know you were awake .
+%mor:	co|well cm|cm pro:sub|they mod|do&PAST~neg|not v|know pro|you
+	cop|be&PAST adj|awake .
+%gra:	1|6|COM 2|1|LP 3|6|SUBJ 4|6|AUX 5|4|NEG 6|0|ROOT 7|8|SUBJ 8|6|COMP
+	9|8|PRED 10|6|PUNCT
+%sit:	956
+@End

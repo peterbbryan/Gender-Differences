@@ -1,0 +1,287 @@
+@UTF8
+@PID:	11312/c-00034876-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child , MOT Mother , EX1 Investigator
+@ID:	eng|HSLLD|CHI|3;9.09|male|||Target_Child|||
+@ID:	eng|HSLLD|MOT|||||Mother|12||
+@ID:	eng|HSLLD|EX1|||||Investigator|||
+@Birth of CHI:	04-OCT-1984
+@Comment:	SES of Mot is lower
+@Date:	13-JUL-1988
+@Location:	Boston , MA , USA
+@Situation:	First home visit; took place in the kitchen; Mot sat at kitchen table with DNL in her lap; mid afternoon
+@Activities:	Elicited report
+*MOT:	well I think that you [/] you have_to tell them about when we went to the ball+park yesterday what did we do (.) ?
+%mor:	co|well pro:sub|I v|think rel|that pro|you mod:aux|have_to v|tell
+	pro:obj|them adv|about conj|when pro:sub|we v|go&PAST prep|to
+	det|the n|+n|ball+n|park adv:tem|yesterday pro:wh|what mod|do&PAST
+	pro:sub|we v|do ?
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|7|LINK 5|7|SUBJ 6|7|AUX 7|3|COMP 8|7|OBJ
+	9|7|JCT 10|12|LINK 11|12|SUBJ 12|7|CJCT 13|12|JCT 14|15|DET 15|13|POBJ
+	16|20|JCT 17|20|SUBJ 18|20|AUX 19|20|SUBJ 20|12|CJCT 21|3|PUNCT
+%cod:	$N:RI:O $N:RI:S
+*MOT:	what <did we do> [>] ?
+%mor:	pro:wh|what mod|do&PAST pro:sub|we v|do ?
+%gra:	1|4|LINK 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+%cod:	$N:RI:S
+*CHI:	watched [<] the game .
+%mor:	v|watch-PAST det|the n|game .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+%cod:	$N:GI:RS
+*MOT:	no [!] when we first got there what did we do (.) ?
+%mor:	co|no conj|when pro:sub|we adv|first v|get&PAST adv|there
+	pro:wh|what mod|do&PAST pro:sub|we v|do ?
+%gra:	1|5|COM 2|5|LINK 3|5|SUBJ 4|5|JCT 5|0|ROOT 6|5|JCT 7|10|LINK 8|10|AUX
+	9|10|SUBJ 10|5|COMP 11|5|PUNCT
+%cod:	$N:FC $N:RI:S
+*MOT:	what did we do ?
+%mor:	pro:wh|what mod|do&PAST pro:sub|we v|do ?
+%gra:	1|4|LINK 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+%cod:	$N:RI:S
+*MOT:	we stopped at where ?
+%mor:	pro:sub|we v|stop-PAST prep|at adv:wh|where ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|3|POBJ 5|2|PUNCT
+%cod:	$N:RI:S
+*CHI:	&um +...
+%cod:	$N:O
+*MOT:	for supper ?
+%mor:	prep|for n|supper ?
+%gra:	1|0|INCROOT 2|1|POBJ 3|1|PUNCT
+%cod:	$N:RI:S
+*CHI:	McDonald's .
+%mor:	n:prop|McDonald~poss|s .
+%gra:	1|0|INCROOT 2|1|POSS 3|1|PUNCT
+%cod:	$N:GI:RS
+*MOT:	and what did you have ?
+%mor:	conj|and pro:wh|what mod|do&PAST pro|you v|have ?
+%gra:	1|5|LINK 2|5|OBJ 3|5|AUX 4|5|SUBJ 5|0|ROOT 6|5|PUNCT
+%cod:	$N:RI:S
+*CHI:	I had chicken .
+%mor:	pro:sub|I v|have&PAST n|chicken .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+%cod:	$N:GI:RS
+*MOT:	what else ?
+%mor:	pro:wh|what post|else ?
+%gra:	1|0|INCROOT 2|1|PQ 3|1|PUNCT
+%cod:	$N:RI:C
+*CHI:	&uh Mama I don't wan(t) (t)a (.) tell the whole story .
+%mor:	n:prop|Mama pro:sub|I mod|do~neg|not v|want inf|to v|tell det|the
+	n|whole n|story .
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|3|NEG 5|0|ROOT 6|7|INF 7|5|XCOMP 8|10|DET
+	9|10|MOD 10|7|OBJ 11|5|PUNCT
+%int:	<1> lengthened
+%cod:	$O:R
+*MOT:	you don't wan(t) (t)a tell the whole story ?
+%mor:	pro|you mod|do~neg|not v|want inf|to v|tell det|the n|whole n|story
+	?
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|6|INF 6|4|XCOMP 7|9|DET 8|9|MOD
+	9|6|OBJ 10|4|PUNCT
+%cod:	$O
+*CHI:	no .
+%mor:	co|no .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$O
+*MOT:	no (.) ?
+%mor:	co|no ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$O
+*MOT:	well what did you do at the [/] the softball game <af(ter)> [//] before you watched the game where did you go ?
+%mor:	co|well pro:wh|what mod|do&PAST pro|you v|do prep|at det|the
+	n|softball n|game conj|before pro|you v|watch-PAST det|the n|game
+	rel|where mod|do&PAST pro|you v|go ?
+%gra:	1|5|COM 2|5|SUBJ 3|5|AUX 4|5|SUBJ 5|0|ROOT 6|5|JCT 7|9|DET 8|9|MOD
+	9|6|POBJ 10|12|LINK 11|12|SUBJ 12|5|CJCT 13|14|DET 14|12|OBJ 15|18|LINK
+	16|18|AUX 17|18|SUBJ 18|14|CMOD 19|5|PUNCT
+%cod:	$N:RI:S $N:RI:S
+*MOT:	with Jennifer and Brian and Chantelle (.) ?
+%mor:	prep|with n:prop|Jennifer coord|and n:prop|Brian coord|and
+	n:prop|Chantelle ?
+%gra:	1|0|INCROOT 2|1|POBJ 3|2|CONJ 4|3|COORD 5|4|CONJ 6|5|COORD 7|1|PUNCT
+%cod:	$N:RI:S
+*CHI:	the play ground .
+%mor:	det|the n|play n|ground .
+%gra:	1|3|DET 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+%cod:	$N:GI:RS
+*MOT:	yeah .
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$N:FA
+*MOT:	and what did you go on (.) ?
+%mor:	conj|and pro:wh|what mod|do&PAST pro|you v|go adv|on ?
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|5|SUBJ 5|0|ROOT 6|5|JCT 7|5|PUNCT
+%cod:	$N:RI:S
+*MOT:	and I could see you from <far away> [>] .
+%mor:	conj|and pro:sub|I mod|could v|see pro|you prep|from adj|far
+	adv|away .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|4|JCT 7|6|POBJ 8|7|JCT
+	9|4|PUNCT
+%cod:	$N:RI:S
+*CHI:	<I [!]> [<] go on the (.) slide .
+%mor:	pro:sub|I v|go prep|on det|the n|slide .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|5|DET 5|3|POBJ 6|2|PUNCT
+%cod:	$N:GI:RS
+*MOT:	you went on the slide ?
+%mor:	pro|you v|go&PAST prep|on det|the n|slide ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|5|DET 5|3|POBJ 6|2|PUNCT
+%cod:	$N:FC
+*CHI:	I [!] went on <the &s> [//] the [/] (.) the little sun thing .
+%mor:	pro:sub|I v|go&PAST prep|on det|the adj|little n|sun n|thing .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|7|DET 5|6|MOD 6|7|MOD 7|3|POBJ 8|2|PUNCT
+%cod:	$N:FR
+*MOT:	the little what [!] ?
+%mor:	det|the adj|little pro:wh|what ?
+%gra:	1|2|DET 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+%cod:	$N:RC
+*CHI:	the little dippy@c .
+%mor:	det|the adj|little chi|dippy .
+%gra:	1|2|DET 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+%cod:	$N:GC
+*MOT:	the little dippy@c ?
+%mor:	det|the adj|little chi|dippy ?
+%gra:	1|2|DET 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+%cod:	$N:RC
+*CHI:	yep .
+%mor:	co|yep .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$N:GC
+*CHI:	there was two of them there .
+%mor:	pro:exist|there cop|be&PAST&13S det:num|two prep|of pro:obj|them
+	adv|there .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|3|NJCT 5|4|POBJ 6|4|POBJ 7|2|PUNCT
+%cod:	$N:GI:S
+*MOT:	there were ?
+%mor:	adv|there cop|be&PAST ?
+%gra:	1|2|JCT 2|0|ROOT 3|2|PUNCT
+%cod:	$N:RI:L
+*CHI:	yep .
+%mor:	co|yep .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$N:GI:RL
+*MOT:	now when you were done at the play ground you came back over to +/.
+%mor:	adv|now conj|when pro|you aux|be&PAST part|do&PASTP prep|at det|the
+	n|play n|ground pro|you v|come&PAST adv|back adv|over prep|to +/.
+%gra:	1|0|INCROOT 2|5|LINK 3|5|SUBJ 4|5|AUX 5|1|CJCT 6|5|JCT 7|9|DET 8|9|MOD
+	9|6|POBJ 10|11|SUBJ 11|5|CJCT 12|11|JCT 13|11|JCT 14|11|JCT 15|1|PUNCT
+%cod:	$N:D
+*CHI:	yep .
+%mor:	co|yep .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$N:FA
+*MOT:	the field .
+%mor:	det|the n|field .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+%cod:	$N:GI:S
+*MOT:	and what did you have ?
+%mor:	conj|and pro:wh|what mod|do&PAST pro|you v|have ?
+%gra:	1|5|LINK 2|5|OBJ 3|5|AUX 4|5|SUBJ 5|0|ROOT 6|5|PUNCT
+%cod:	$N:RI:S
+*CHI:	had [///] (.) we played baseball .
+%mor:	pro:sub|we v|play-PAST n|baseball .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+%cod:	$N:GI:RS
+*MOT:	what but when [//] before you played baseball with Benji what did you have ?
+%mor:	pro:wh|what conj|but prep|before pro|you v|play-PAST n|baseball
+	prep|with n:prop|Benji pro:wh|what mod|do&PAST pro|you v|have ?
+%gra:	1|5|LINK 2|5|LINK 3|5|JCT 4|5|SUBJ 5|0|ROOT 6|5|OBJ 7|5|JCT 8|12|SUBJ
+	9|12|OBJ 10|12|AUX 11|12|SUBJ 12|7|POBJ 13|5|PUNCT
+%cod:	$N:RI:S
+*MOT:	what did Gail have in the cooler ?
+%mor:	pro:wh|what mod|do&PAST n:prop|Gail v|have prep|in det|the
+	n|cool&dv-AGT ?
+%gra:	1|4|LINK 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ 8|4|PUNCT
+%cod:	$N:RI:S
+*CHI:	Italian ice .
+%mor:	n:prop|Italian n|ice .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+%par:	whispers
+%cod:	$N:GI:RS
+*MOT:	yeah but you got ta say it louder .
+%mor:	co|yeah conj|but pro|you v|get&PAST inf|to v|say pro|it adj|loud-CP
+	.
+%gra:	1|4|COM 2|4|LINK 3|4|SUBJ 4|0|ROOT 5|6|INF 6|4|XCOMP 7|6|OBJ 8|6|JCT
+	9|4|PUNCT
+%par:	whispered
+%cod:	$N:FA $O
+*MOT:	Italian ice ?
+%mor:	n:prop|Italian n|ice ?
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+%cod:	$N:RI:L
+*CHI:	Italian ice .
+%mor:	n:prop|Italian n|ice .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+%cod:	$N:GI:RL
+*MOT:	Italian ice .
+%mor:	n:prop|Italian n|ice .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+%cod:	$N:FA
+*CHI:	<then we [/]> [>] .
+%mor:	adv:tem|then .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%int:	<1> lengthened
+%cod:	$N:GI:S:I
+*MOT:	<and then [!] you> [<] played baseball [>] with Benji .
+%mor:	conj|and adv:tem|then pro|you v|play-PAST n|baseball prep|with
+	n:prop|Benji .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|4|JCT 7|6|POBJ 8|4|PUNCT
+%com:	MOT and Chi say the word then in unison with the same intonation
+%cod:	$N:GI:S
+*CHI:	baseball [<] .
+%mor:	n|baseball .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$N:GI:S
+*MOT:	and what did you do ?
+%mor:	conj|and pro:wh|what mod|do&PAST pro|you v|do ?
+%gra:	1|5|LINK 2|5|OBJ 3|5|AUX 4|5|SUBJ 5|0|ROOT 6|5|PUNCT
+%cod:	$N:RI:S
+*CHI:	we run the bases then we slided@n then we slided@n then we slided@n .
+%mor:	pro:sub|we v|run det|the n|base-PL adv:tem|then pro:sub|we
+	neo|slided adv:tem|then pro:sub|we neo|slided adv:tem|then
+	pro:sub|we neo|slided .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|7|JCT 6|7|SUBJ 7|2|COMP 8|10|JCT
+	9|10|SUBJ 10|13|LINK 11|13|JCT 12|13|SUBJ 13|7|CJCT 14|2|PUNCT
+%int:	<6> lengthened
+%cod:	$N:GI:RS $N:GI:S $N:GI:S $N:GI:S
+*EX1:	zzz .
+%mor:	co|zzz .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%par:	laughs
+*MOT:	and then we got in the car ?
+%mor:	conj|and adv:tem|then pro:sub|we v|get&PAST prep|in det|the n|car ?
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ 8|4|PUNCT
+%cod:	$N:RI:L
+*MOT:	and we came home (.) .
+%mor:	conj|and pro:sub|we v|come&PAST adv|home .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|PUNCT
+%cod:	$N:GI:S
+*MOT:	and what did you do when you got home ?
+%mor:	coord|and pro:wh|what mod|do&PAST pro|you v|do conj|when pro|you
+	v|get&PAST adv|home ?
+%gra:	1|5|LINK 2|5|OBJ 3|5|AUX 4|5|SUBJ 5|0|ROOT 6|8|LINK 7|8|SUBJ 8|5|CJCT
+	9|8|JCT 10|5|PUNCT
+%cod:	$N:RI:S
+*CHI:	went under the sprinkler (.) .
+%mor:	v|go&PAST prep|under det|the n|sprinkle&dv-AGT .
+%gra:	1|0|ROOT 2|1|JCT 3|4|DET 4|2|POBJ 5|1|PUNCT
+%cod:	$N:GI:RS
+*CHI:	<I &uh> [//] <th(en)> [/] <th(en)> [/] then I went in the tub .
+%mor:	adv:tem|then pro:sub|I v|go&PAST prep|in det|the n|tub .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|3|PUNCT
+%cod:	$N:GI:S
+*CHI:	right Mom ?
+%mor:	adv|right n:prop|Mom ?
+%gra:	1|2|JCT 2|0|ROOT 3|2|PUNCT
+%cod:	$N:RI:L
+*CHI:	right Mom ?
+%mor:	adv|right n:prop|Mom ?
+%gra:	1|2|JCT 2|0|ROOT 3|2|PUNCT
+%cod:	$N:RI:L
+*MOT:	did you have a nice day ?
+%mor:	mod|do&PAST pro|you v|have det|a adj|nice n|day ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|6|DET 5|6|MOD 6|3|OBJ 7|3|PUNCT
+%cod:	$N:RE
+*CHI:	mhm .
+%mor:	co|yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$N:GE
+@End

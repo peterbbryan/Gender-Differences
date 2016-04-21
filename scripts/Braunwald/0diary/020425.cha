@@ -1,0 +1,37 @@
+@UTF8
+@PID:	11312/c-00010899-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, MOT Mother
+@ID:	eng|Braunwald|CHI|02;04.25|female|||Target_Child|||
+@ID:	eng|Braunwald|MOT|||||Mother|||
+@Date:	15-JUL-1973
+*CHI:	wanna go out, not wake up the neighbors .
+%mor:	v|want~inf|to v|go adv|out cm|cm neg|not v|wake prep|up det|the
+	n|neighbor-PL .
+%gra:	1|0|ROOT 2|3|INF 3|1|XCOMP 4|3|JCT 5|3|LP 6|5|NEG 7|5|XMOD 8|7|JCT
+	9|10|DET 10|8|POBJ 11|1|PUNCT
+%sit:	308
+*MOT:	no, you can't .
+%mor:	co|no cm|cm pro|you mod|can~neg|not .
+%gra:	1|4|COM 2|1|LP 3|4|SUBJ 4|0|ROOT 5|4|NEG 6|4|PUNCT
+%sit:	308
+*MOT:	it's too early .
+%mor:	pro|it~cop|be&3S adv|too adv|early .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|2|JCT 5|2|PUNCT
+%sit:	308
+*MOT:	do you like swimming pool ?
+%mor:	mod|do pro|you v|like part|swim-PRESP n|pool ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|4|OBJ 6|3|PUNCT
+%sit:	309
+*CHI:	yep, I don't wanna go in deep water .
+%mor:	co|yep cm|cm pro:sub|I mod|do~neg|not v|want~inf|to v|go prep|in
+	n|deep n|water .
+%gra:	1|6|COM 2|1|LP 3|6|SUBJ 4|6|AUX 5|4|NEG 6|0|ROOT 7|8|INF 8|6|XCOMP
+	9|8|JCT 10|11|MOD 11|9|POBJ 12|6|PUNCT
+%sit:	309
+*CHI:	(be)cause I stay steppies@c .
+%mor:	conj|because pro:sub|I v|stay chi|steppies .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+%sit:	309
+@End

@@ -1,0 +1,51 @@
+@UTF8
+@PID:	11312/c-00011188-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, MOT Mother
+@ID:	eng|Braunwald|CHI|03;04.10|female|||Target_Child|||
+@ID:	eng|Braunwald|MOT|||||Mother|||
+@Date:	30-JUN-1974
+*CHI:	what kind of animal is this ?
+%mor:	pro:wh|what n|kind prep|of n|animal aux|be&3S det|this ?
+%gra:	1|0|INCROOT 2|1|OBJ 3|2|NJCT 4|6|SUBJ 5|6|AUX 6|3|POBJ 7|1|PUNCT
+%sit:	896
+*MOT:	cow .
+%mor:	n|cow .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%sit:	896
+*CHI:	I bet it's still mooing .
+%mor:	pro:sub|I v|bet&ZERO pro|it~cop|be&3S adv|still part|moo-PRESP .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|COMP 5|6|JCT 6|4|PRED 7|2|PUNCT
+%sit:	896
+*CHI:	what kind of animal is this ?
+%mor:	pro:wh|what n|kind prep|of n|animal aux|be&3S det|this ?
+%gra:	1|0|INCROOT 2|1|OBJ 3|2|NJCT 4|6|SUBJ 5|6|AUX 6|3|POBJ 7|1|PUNCT
+%sit:	897
+*MOT:	it's not .
+%mor:	pro|it~cop|be&3S neg|not .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|NEG 4|2|PUNCT
+%sit:	897
+*MOT:	it's vegetable .
+%mor:	pro|it~cop|be&3S n|vegetable .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+%sit:	897
+*CHI:	oh, it grows with seeds .
+%mor:	co|oh cm|cm pro|it v|grow-3S prep|with n|seed-PL .
+%gra:	1|4|COM 2|1|LP 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|5|POBJ 7|4|PUNCT
+%sit:	897
+*MOT:	yep .
+%mor:	co|yep .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%sit:	897
+*CHI:	a bird really did make the egg right ?
+%mor:	det|a n|bird adv|real&dadj-LY v|do&PAST v|make det|the n|egg
+	adv|right ?
+%gra:	1|2|DET 2|0|INCROOT 3|4|JCT 4|2|CMOD 5|4|OBJ 6|7|DET 7|5|OBJ 8|7|NJCT
+	9|2|PUNCT
+%sit:	898
+*MOT:	yeah, a chicken .
+%mor:	co|yeah cm|cm det|a n|chicken .
+%gra:	1|4|COM 2|1|LP 3|4|DET 4|0|INCROOT 5|4|PUNCT
+%sit:	898
+@End

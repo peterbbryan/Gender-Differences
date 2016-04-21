@@ -1,0 +1,2762 @@
+@UTF8
+@PID:	11312/c-00019258-1
+@Begin
+@Languages:	eng
+@Participants:	ATT Attentional Mother , TUR Turn-Construction Mother
+@ID:	eng|Korman|ATT|||||Mother|||
+@ID:	eng|Korman|TUR|||||Mother|||
+*ATT:	hello .
+%mor:	co|hello .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$GR
+%tim:	4 2:5
+*TUR:	where've we been ?
+%mor:	rel|where~aux|have pro:sub|we cop|be&PASTP ?
+%gra:	1|2|LINK 2|4|LINK 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+%spa:	$WH
+%tim:	8 1:8
+*TUR:	where've we been ?
+%mor:	rel|where~aux|have pro:sub|we cop|be&PASTP ?
+%gra:	1|2|LINK 2|4|LINK 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+%spa:	$WH $C
+%tim:	9 1:0
+*TUR:	we've been to weigh this big girl .
+%mor:	pro:sub|we~aux|have cop|be&PASTP prep|to v|weigh det|this adj|big
+	n|girl .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|4|POBJ 6|8|DET 7|8|MOD 8|5|OBJ
+	9|3|PUNCT
+%spa:	$ST
+%tim:	1:4 1:3
+*ATT:	yes we have .
+%mor:	co|yes pro:sub|we v|have .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+%spa:	$PC
+%tim:	7 1:6
+*TUR:	been to weigh you Hannah .
+%mor:	aux|be&PASTP prep|to v|weigh pro|you n:prop|Hannah .
+%gra:	1|5|LINK 2|1|JCT 3|2|POBJ 4|5|SUBJ 5|0|ROOT 6|5|PUNCT
+%spa:	$ST
+%tim:	1:1 1:9
+*ATT:	hey ?
+%mor:	co|hey ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$RI $EX
+%tim:	2 2:5
+*TUR:	take your bonnet off ?
+%mor:	v|take pro:poss:det|your n|bonnet adv|off ?
+%gra:	1|0|ROOT 2|3|MOD 3|1|OBJ 4|1|JCT 5|1|PUNCT
+%spa:	$RI $Y-N
+%tim:	7 2:1
+*ATT:	oh: ?
+%mor:	co|oh ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$SO $PH
+%tim:	4 0:5
+*TUR:	there we go .
+%mor:	adv|there pro:sub|we v|go .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+%spa:	$ST $T
+%tim:	7 1:4
+*TUR:	there we go .
+%mor:	adv|there pro:sub|we v|go .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+%spa:	$ST $C $T
+%tim:	7 1:6
+*ATT:	oh dear .
+%mor:	co|oh co|dear .
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+%spa:	$BC
+%tim:	9 0:5
+*TUR:	big stretch ?
+%mor:	adj|big n|stretch ?
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+%spa:	$RI $Y-N
+%tim:	8 6:8
+*ATT:	hey ?
+%mor:	co|hey ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$RI $EX
+%tim:	7 1:5
+*ATT:	oh: ?
+%mor:	co|oh ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$SO $BC $T
+%tim:	7 0:6
+*ATT:	another one ?
+%mor:	qn|another pro:indef|one ?
+%gra:	1|2|QUANT 2|0|ROOT 3|2|PUNCT
+%spa:	$BC $T
+%tim:	7 0:9
+*ATT:	o:h ?
+%mor:	co|oh ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$SO $BC $C $T
+%tim:	9 0:9
+*ATT:	both ways ?
+%mor:	qn|both n|way-PL ?
+%gra:	1|2|QUANT 2|0|INCROOT 3|2|PUNCT
+%spa:	$BC
+%tim:	9 0:4
+@Comment:	Interruption; break is 6.7
+*ATT:	o:h hello .
+%mor:	co|oh n|hello .
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+%spa:	$SO $GR
+%tim:	1:9 2:1
+*ATT:	hello .
+%mor:	co|hello .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$GR $C
+%tim:	8 2:6
+*TUR:	are ya going to say hello mummie ?
+%mor:	cop|be&PRES pro|you part|go-PRESP inf|to v|say n|hello
+	n|mum&dadj-DIM ?
+%gra:	1|0|ROOT 2|1|OBJ 3|2|XMOD 4|5|INF 5|3|XCOMP 6|7|MOD 7|5|OBJ 8|1|PUNCT
+%spa:	$Y-N
+%tim:	1:1 1:3
+*ATT:	&hmm ?
+%spa:	$SO $RI $TQ
+%tim:	4 1:6
+*TUR:	aren't you going to say hello mummie ?
+%mor:	aux|be&PRES~neg|not pro|you part|go-PRESP inf|to v|say n|hello
+	n|mum&dadj-DIM ?
+%gra:	1|4|LINK 2|1|NEG 3|4|SUBJ 4|0|ROOT 5|6|INF 6|4|XCOMP 7|8|MOD 8|6|OBJ
+	9|4|PUNCT
+%spa:	$Y-N $C
+%tim:	1:5 1:5
+*ATT:	hey ?
+%mor:	co|hey ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$RI $EX $T
+%tim:	3 2:3
+*ATT:	hey ?
+%mor:	co|hey ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$RI $EX $C $T
+%tim:	3 2:0
+*ATT:	Treasure ?
+%mor:	n:prop|Treasure ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$RI $EX
+%tim:	5 0:8
+*ATT:	oh again ?
+%mor:	co|oh adv|again ?
+%gra:	1|2|COM 2|0|ROOT 3|2|PUNCT
+%spa:	$BC $T
+%tim:	8 1:9
+*ATT:	oh again ?
+%mor:	co|oh adv|again ?
+%gra:	1|2|COM 2|0|ROOT 3|2|PUNCT
+%spa:	$BC $C $T
+%tim:	8 2:2
+*TUR:	very good at filling my pants I am .
+%mor:	adv|very adj|good prep|at n:gerund|fill-PRESP pro:poss:det|my
+	v|pant-3S pro:sub|I cop|be&1S .
+%gra:	1|2|JCT 2|0|ROOT 3|2|JCT 4|3|POBJ 5|6|MOD 6|2|CJCT 7|8|SUBJ 8|6|COMP
+	9|2|PUNCT
+%spa:	$ST
+%tim:	2:1 0:9
+*TUR:	there we are .
+%mor:	adv|there pro:sub|we cop|be&PRES .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+%spa:	$ST
+%tim:	9 1:3
+*ATT:	hello ?
+%mor:	co|hello ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$RI $GR
+%tim:	5 1:3
+*ATT:	hello ?
+%mor:	co|hello ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$RI $GR $C $T
+%tim:	4 2:1
+*ATT:	Hannah ?
+%mor:	n:prop|Hannah ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$RI $EX $T
+%tim:	3 2:0
+*ATT:	smile ?
+%mor:	n|smile ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$RI $EX $T
+%tim:	5 2:0
+*ATT:	hello .
+%mor:	co|hello .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$GR
+%tim:	7 0:5
+*TUR:	oh go to sleep .
+%mor:	co|oh v|go inf|to v|sleep .
+%gra:	1|2|COM 2|0|ROOT 3|4|INF 4|2|XCOMP 5|2|PUNCT
+%spa:	$CO
+%tim:	1:1 1:6
+@Comment:	Interruption; break is 10.4
+*ATT:	hey ?
+%mor:	co|hey ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$PH
+%tim:	6 1:1
+*ATT:	hey miss ?
+%mor:	co|hey n|miss ?
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+%spa:	$PH $C
+%tim:	8 2:6
+*ATT:	hello .
+%mor:	co|hello .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$GR
+%tim:	1:3 1:4
+*ATT:	hello .
+%mor:	co|hello .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$GR $C
+%tim:	1:0 1:0
+*ATT:	look .
+%mor:	co|look .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$EX
+%tim:	2 1:8
+*ATT:	what's this ?
+%mor:	pro:wh|what~cop|be&3S pro:dem|this ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+%spa:	$WH $EX $T
+%tim:	5 1:1
+*ATT:	what's this ?
+%mor:	pro:wh|what~cop|be&3S pro:dem|this ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+%spa:	$WH $EX $C $T
+%tim:	6 1:0
+*ATT:	what's this ?
+%mor:	pro:wh|what~cop|be&3S pro:dem|this ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+%spa:	$WH $EX $C
+%tim:	7 1:8
+*ATT:	what's this ?
+%mor:	pro:wh|what~cop|be&3S pro:dem|this ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+%spa:	$WH $EX $C $T
+%tim:	4 0:9
+*ATT:	hey ?
+%mor:	co|hey ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$RI $EX $T
+%tim:	2 1:6
+*ATT:	hey ?
+%mor:	co|hey ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$RI $EX $C $T
+%tim:	3 1:4
+*ATT:	Hannah ?
+%mor:	n:prop|Hannah ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$RI $EX
+%tim:	3 0:3
+*ATT:	mummie's here .
+%mor:	n|mum&dadj-DIM~cop|be&3S adv|here .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|2|PUNCT
+%spa:	$EX
+%tim:	7 1:4
+*ATT:	Hannah ?
+%mor:	n:prop|Hannah ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$RI $EX $C
+%tim:	3 1:9
+*TUR:	smile for mummie .
+%mor:	n|smile prep|for n|mum&dadj-DIM .
+%gra:	1|0|INCROOT 2|1|NJCT 3|2|POBJ 4|1|PUNCT
+%spa:	$CO
+%tim:	8 1:9
+*ATT:	hey ?
+%mor:	co|hey ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$RI $EX $T
+%tim:	4 1:5
+*ATT:	hey ?
+%mor:	co|hey ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$RI $EX $C $T
+%tim:	3 1:4
+*TUR:	o:h o:h oh I'm so tired .
+%mor:	co|oh co|oh co|oh pro:sub|I~aux|be&1S adv|so part|tire-PASTP .
+%gra:	1|2|COM 2|7|COM 3|7|COM 4|7|SUBJ 5|7|AUX 6|7|JCT 7|0|ROOT 8|7|PUNCT
+%spa:	$SO $ST
+%tim:	3:7 1:4
+*TUR:	oh I'm so tired .
+%mor:	co|oh pro:sub|I~aux|be&1S adv|so part|tire-PASTP .
+%gra:	1|5|COM 2|5|SUBJ 3|5|AUX 4|5|JCT 5|0|ROOT 6|5|PUNCT
+%spa:	$ST $C
+%tim:	1:5 1:4
+*ATT:	Hannah ?
+%mor:	n:prop|Hannah ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$RI $EX
+%tim:	3 4:1
+*ATT:	what is it ?
+%mor:	pro:wh|what aux|be&3S pro|it ?
+%gra:	1|2|OBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+%spa:	$WH $EX $T
+%tim:	5 2:0
+*ATT:	what is it ?
+%mor:	pro:wh|what aux|be&3S pro|it ?
+%gra:	1|2|OBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+%spa:	$WH $EX $C
+%tim:	5 1:3
+*ATT:	hey ?
+%mor:	co|hey ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$RI $EX $T
+%tim:	2 1:9
+*ATT:	hey ?
+%mor:	co|hey ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$RI $EX $C $T
+%tim:	2 2:2
+*ATT:	hey ?
+%mor:	co|hey ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$RI $EX $C
+%tim:	2 6:1
+*TUR:	are you going to say hello to mummie ?
+%mor:	cop|be&PRES pro|you part|go-PRESP inf|to v|say n|hello prep|to
+	n|mum&dadj-DIM ?
+%gra:	1|0|ROOT 2|1|OBJ 3|2|XMOD 4|5|INF 5|3|XCOMP 6|5|OBJ 7|6|NJCT 8|7|POBJ
+	9|1|PUNCT
+%spa:	$Y-N
+%tim:	1:2 1:0
+*ATT:	chp@o [x 5] ?
+%mor:	on|chp ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$SO $PH $T
+%tim:	9 0:3
+*ATT:	mummie's here .
+%mor:	n|mum&dadj-DIM~cop|be&3S adv|here .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|2|PUNCT
+%spa:	$EX
+%tim:	8 0:9
+*TUR:	mummie's this side .
+%mor:	n|mum&dadj-DIM~aux|be&3S det|this n|side .
+%gra:	1|4|SUBJ 2|4|AUX 3|4|DET 4|0|INCROOT 5|4|PUNCT
+%spa:	$ST $T
+%tim:	9 0:4
+*TUR:	yes she is smile for mummie .
+%mor:	co|yes pro:sub|she cop|be&3S v|smile prep|for n|mum&dadj-DIM .
+%gra:	1|3|COM 2|3|SUBJ 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|5|POBJ 7|4|PUNCT
+%spa:	$CO
+%tim:	2:0 1:0
+*TUR:	smile for mummie .
+%mor:	n|smile prep|for n|mum&dadj-DIM .
+%gra:	1|0|INCROOT 2|1|NJCT 3|2|POBJ 4|1|PUNCT
+%spa:	$CO $C
+%tim:	8 1:4
+*ATT:	no ?
+%mor:	co|no ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$RI $TQ
+%tim:	4 1:5
+*TUR:	no smile hold mummie's hand then .
+%mor:	qn|no n|smile n|hold n|mum&dadj-DIM~aux|be&3S n|hand adv:tem|then .
+%gra:	1|2|QUANT 2|4|MOD 3|4|MOD 4|6|SUBJ 5|6|AUX 6|7|SUBJ 7|0|ROOT 8|7|PUNCT
+%spa:	$CO
+%tim:	1:7 1:1
+*TUR:	hold mummie's hand then .
+%mor:	n|hold n|mum&dadj-DIM~aux|be&3S n|hand adv:tem|then .
+%gra:	1|2|MOD 2|4|SUBJ 3|4|AUX 4|5|SUBJ 5|0|ROOT 6|5|PUNCT
+%spa:	$CO $C $T
+%tim:	1:0 0:9
+*ATT:	that's right .
+%mor:	pro:dem|that~cop|be&3S n|right .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+%spa:	$BC $T
+%tim:	8 0:8
+*TUR:	you hold mummie's hand .
+%mor:	pro|you v|hold n|mum&dadj-DIM~aux|be&3S n|hand .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|SUBJ 4|5|AUX 5|2|OBJ 6|2|PUNCT
+%spa:	$CO $C $T
+%tim:	1:2 1:5
+*ATT:	that's it .
+%mor:	pro:dem|that~cop|be&3S pro|it .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+%spa:	$BC $T
+%tim:	1:0 0:7
+*TUR:	what chou [: you] looking at ?
+%mor:	pro:wh|what pro|you part|look-PRESP prep|at ?
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|PUNCT
+%spa:	$WH $T
+%tim:	9 1:7
+*TUR:	what chou [: you] looking at ?
+%mor:	pro:wh|what pro|you part|look-PRESP prep|at ?
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|PUNCT
+%spa:	$WH $C
+%tim:	1:0 2:2
+*TUR:	what chou [: you] looking at ?
+%mor:	pro:wh|what pro|you part|look-PRESP prep|at ?
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|PUNCT
+%spa:	$WH $C $T
+%tim:	9 1:6
+*TUR:	is it good ?
+%mor:	aux|be&3S pro|it adj|good ?
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+%spa:	$Y-N $T
+%tim:	6 2:6
+*TUR:	is it good ?
+%mor:	aux|be&3S pro|it adj|good ?
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+%spa:	$Y-N $C $T
+%tim:	7 1:3
+*ATT:	alright .
+%mor:	co|alright .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$BC $T
+%tim:	3 2:3
+*ATT:	alright .
+%mor:	co|alright .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$BC $C
+%tim:	4 1:8
+*ATT:	who's this ?
+%mor:	pro:wh|who~cop|be&3S pro:dem|this ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+%spa:	$WH $EX
+%tim:	3 0:8
+*TUR:	you've not seen one of those before not this teddy look .
+%mor:	pro|you~aux|have neg|not part|see&PASTP pro:indef|one prep|of
+	pro:dem|those adv|before neg|not det|this n|teddy v|look .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|OBJ 6|5|NJCT 7|12|SUBJ 8|12|JCT
+	9|8|NEG 10|11|DET 11|12|SUBJ 12|6|POBJ 13|4|PUNCT
+%spa:	$CO
+%tim:	2:4 1:4
+*TUR:	not this teddy .
+%mor:	neg|not det|this n|teddy .
+%gra:	1|3|NEG 2|3|DET 3|0|INCROOT 4|3|PUNCT
+%spa:	$ST
+%tim:	7 1:7
+*ATT:	hey ?
+%mor:	co|hey ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$RI $EX
+%tim:	2 0:8
+*TUR:	look at this one .
+%mor:	v|look prep|at det|this pro:indef|one .
+%gra:	1|0|ROOT 2|1|JCT 3|4|DET 4|2|POBJ 5|1|PUNCT
+%spa:	$CO
+%tim:	7 2:5
+*ATT:	o:h !
+%mor:	co|oh !
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$SO $PH
+%tim:	1:3 0:4
+*ATT:	look ?
+%mor:	co|look ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$PH $T
+%tim:	7 1:7
+*TUR:	that's a face .
+%mor:	pro:dem|that~cop|be&3S art|a n|face .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|MOD 4|2|PRED 5|2|PUNCT
+%spa:	$ST $T
+%tim:	8 1:6
+*TUR:	there's a face .
+%mor:	pro:exist|there~cop|be&3S art|a n|face .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|MOD 4|2|PRED 5|2|PUNCT
+%spa:	$ST $C $T
+%tim:	9 1:4
+*ATT:	oh dear .
+%mor:	co|oh co|dear .
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+%spa:	$BC
+%tim:	8 0:9
+*ATT:	oh dear .
+%mor:	co|oh co|dear .
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+%spa:	$BC $C
+%tim:	6 2:1
+*TUR:	oh don't you like it ?
+%mor:	co|oh mod|do~neg|not pro|you v|like pro|it ?
+%gra:	1|5|COM 2|5|AUX 3|2|NEG 4|5|SUBJ 5|0|ROOT 6|5|OBJ 7|5|PUNCT
+%spa:	$SO $Y-N $T
+%tim:	1:8 0:7
+*TUR:	don't you like miss monkey ?
+%mor:	mod|do~neg|not pro|you co|like n|miss n|monkey ?
+%gra:	1|6|LINK 2|1|NEG 3|6|SUBJ 4|6|COM 5|6|MOD 6|0|INCROOT 7|6|PUNCT
+%spa:	$Y-N $C $T
+%tim:	1:4 1:1
+*TUR:	don't you like miss monkey ?
+%mor:	mod|do~neg|not pro|you co|like n|miss n|monkey ?
+%gra:	1|6|LINK 2|1|NEG 3|6|SUBJ 4|6|COM 5|6|MOD 6|0|INCROOT 7|6|PUNCT
+%spa:	$Y-N $C $T
+%tim:	1:5 1:0
+*ATT:	hey ?
+%mor:	co|hey ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$PH
+%tim:	2 0:6
+*ATT:	mummie's here .
+%mor:	n|mum&dadj-DIM~cop|be&3S adv|here .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|2|PUNCT
+%spa:	$EX
+%tim:	7 1:1
+*ATT:	mummie's here .
+%mor:	n|mum&dadj-DIM~cop|be&3S adv|here .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|2|PUNCT
+%spa:	$EX $C
+%tim:	7 1:5
+*ATT:	oh hoho ho !
+%mor:	co|oh co|hoho co|ho !
+%gra:	1|3|COM 2|3|COM 3|0|INCROOT 4|3|PUNCT
+%spa:	exagerated LAUGHTER $SO $PH
+%tim:	1:2 0:9
+*ATT:	o:h o:h .
+%mor:	co|oh co|oh .
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+%spa:	$SO $PH
+%tim:	1:3 0:5
+*ATT:	hey ?
+%mor:	co|hey ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$RI $EX $T
+%tim:	2 1:3
+*ATT:	hey ?
+%mor:	co|hey ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$RI $EX $C $T
+%tim:	2 1:3
+*ATT:	hey ?
+%mor:	co|hey ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$RI $EX $C
+%tim:	2 1:7
+*TUR:	oh Hannah hold it .
+%mor:	co|oh n:prop|Hannah n|hold pro|it .
+%gra:	1|3|COM 2|3|SUBJ 3|0|INCROOT 4|3|OBJ 5|3|PUNCT
+%spa:	$CO
+%tim:	1:2 1:6
+*TUR:	Hannah hold it .
+%mor:	n:prop|Hannah v|hold pro|it .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+%spa:	$CO $C $T
+%tim:	9 1:0
+*ATT:	good girl .
+%mor:	adj|good n|girl .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+%spa:	$BC $T
+%tim:	6 1:3
+*ATT:	here look ?
+%mor:	adv|here v|look ?
+%gra:	1|2|JCT 2|0|ROOT 3|2|PUNCT
+%spa:	$PH $T
+%tim:	8 1:1
+*ATT:	oh dear .
+%mor:	co|oh co|dear .
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+%spa:	$BC
+%tim:	1:4 1:4
+*ATT:	oh dear .
+%mor:	co|oh co|dear .
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+%spa:	$BC $C
+%tim:	1:3 0:6
+*ATT:	hey ?
+%mor:	co|hey ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$PH $T
+%tim:	2 0:9
+*ATT:	hey ?
+%mor:	co|hey ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$PH $C $T
+%tim:	5 0:7
+*ATT:	Treasure ?
+%mor:	n:prop|Treasure ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$EX $T
+%tim:	4 1:4
+*ATT:	Treasure pie ?
+%mor:	n:prop|Treasure n|pie ?
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+%spa:	$EX $C $T
+%tim:	7 1:1
+*TUR:	mummie's here that's a good girl .
+%mor:	n|mum&dadj-DIM~cop|be&3S adv|here pro:dem|that~cop|be&3S art|a
+	adj|good n|girl .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|JCT 4|5|SUBJ 5|2|PRED 6|8|MOD 7|8|MOD 8|5|PRED
+	9|2|PUNCT
+%spa:	$ST
+%tim:	2:5 1:0
+*TUR:	there Hannah hold it .
+%mor:	adv|there n:prop|Hannah v|hold pro|it .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+%spa:	$CO
+%tim:	1:1 1:9
+*ATT:	hey ?
+%mor:	co|hey ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$RI $EX
+%tim:	4 1:0
+*ATT:	hey ?
+%mor:	co|hey ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$RI $EX $C
+%tim:	5 0:6
+*TUR:	who's a clever girl ?
+%mor:	rel|who~aux|be&3S art|a adj|clever n|girl ?
+%gra:	1|2|LINK 2|0|ROOT 3|5|MOD 4|5|MOD 5|2|PRED 6|2|PUNCT
+%spa:	$WH $T
+%tim:	1:5 0:6
+*TUR:	who's a clever girl ?
+%mor:	rel|who~aux|be&3S art|a adj|clever n|girl ?
+%gra:	1|2|LINK 2|0|ROOT 3|5|MOD 4|5|MOD 5|2|PRED 6|2|PUNCT
+%spa:	$WH $C
+%tim:	1:4 1:5
+*TUR:	who's a clever girl ?
+%mor:	rel|who~aux|be&3S art|a adj|clever n|girl ?
+%gra:	1|2|LINK 2|0|ROOT 3|5|MOD 4|5|MOD 5|2|PRED 6|2|PUNCT
+%spa:	$WH $C $T
+%tim:	1:4 0:8
+*ATT:	Hannah ?
+%mor:	n:prop|Hannah ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$RI $EX
+%tim:	4 0:8
+*ATT:	Hannah ?
+%mor:	n:prop|Hannah ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$RI $EX $C
+%tim:	4 1:2
+*ATT:	mummie's here .
+%mor:	n|mum&dadj-DIM~cop|be&3S adv|here .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|2|PUNCT
+%spa:	$EX $T
+%tim:	9 0:5
+*ATT:	chp@o [x 4] .
+%mor:	on|chp .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	kisses $SO $PH $T
+%tim:	9 0:5
+*ATT:	mummie's here .
+%mor:	n|mum&dadj-DIM~cop|be&3S adv|here .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|2|PUNCT
+%spa:	$EX $C $T
+%tim:	8 0:7
+*TUR:	kiss mummie .
+%mor:	n|kiss n|mum&dadj-DIM .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+%spa:	$CO $T
+%tim:	5 0:4
+*ATT:	chp@o [x 2] .
+%mor:	on|chp .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$SO $PH $T
+%tim:	3 0:3
+*TUR:	kiss mummie .
+%mor:	n|kiss n|mum&dadj-DIM .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+%spa:	$CO $C $T
+%tim:	5 0:3
+*ATT:	chp@o [x 2] .
+%mor:	on|chp .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$SO $PH $C $T
+%tim:	3 0:6
+*TUR:	kiss your mummie .
+%mor:	v|kiss pro:poss:det|your n|mum&dadj-DIM .
+%gra:	1|0|ROOT 2|3|MOD 3|1|OBJ 4|1|PUNCT
+%spa:	$CO $C
+%tim:	8 2:3
+*ATT:	hey Treasure .
+%mor:	co|hey n:prop|Treasure .
+%gra:	1|2|COM 2|0|ROOT 3|2|PUNCT
+%spa:	$EX
+%tim:	8 0:4
+*TUR:	kiss your mummie chp@o [x 2] .
+%mor:	v|kiss pro:poss:det|your n|mum&dadj-DIM on|chp .
+%gra:	1|0|ROOT 2|3|MOD 3|1|OBJ 4|3|MOD 5|1|PUNCT
+%spa:	$SO $CO $C
+%tim:	1:3 1:5
+*ATT:	yes .
+%mor:	co|yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$BC $T
+%tim:	3 1:0
+*ATT:	look .
+%mor:	co|look .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$EX $T
+%tim:	3 0:9
+@Comment:	End fussy
+*ATT:	there .
+%mor:	adv|there .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$BC $T
+%tim:	7 0:7
+*TUR:	makes a noise .
+%mor:	v|make-3S art|a n|noise .
+%gra:	1|0|ROOT 2|3|MOD 3|1|OBJ 4|1|PUNCT
+%spa:	$ST $T
+%tim:	1:0 0:6
+*TUR:	Hannah hold it .
+%mor:	n:prop|Hannah v|hold pro|it .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+%spa:	$CO $T
+%tim:	8 0:6
+@Comment:	Aspiration sounds: Ha ho ohhhhh! 5.7
+*TUR:	Hannah hold it .
+%mor:	n:prop|Hannah v|hold pro|it .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+%spa:	$CO
+%tim:	7 1:5
+@Comment:	Pause is to rattle; rattle sound is 2.8
+*ATT:	no ?
+%mor:	co|no ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$PH
+%tim:	3 1:1
+*ATT:	oh oh oh oh !
+%mor:	co|oh co|oh co|oh co|oh !
+%gra:	1|2|COM 2|0|ROOT 3|2|COM 4|2|COM 5|2|PUNCT
+%spa:	$SO $PH
+%tim:	1:3 0:3
+*ATT:	come on then .
+%mor:	v|come adv|on adv:tem|then .
+%gra:	1|0|ROOT 2|3|JCT 3|1|JCT 4|1|PUNCT
+%spa:	$EX
+%tim:	8 1:8
+@Comment:	Pause is to sigh then mumbles; break 3.2
+*TUR:	sit with mummie then .
+%mor:	v|sit prep|with n|mum&dadj-DIM adv:tem|then .
+%gra:	1|0|ROOT 2|1|JCT 3|4|MOD 4|2|POBJ 5|1|PUNCT
+%spa:	$CO $T
+%tim:	9 0:7
+*TUR:	sit with mummie then .
+%mor:	v|sit prep|with n|mum&dadj-DIM adv:tem|then .
+%gra:	1|0|ROOT 2|1|JCT 3|4|MOD 4|2|POBJ 5|1|PUNCT
+%spa:	$CO $C $T
+%tim:	9 0:9
+*ATT:	hey .
+%mor:	co|hey .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$EX
+%tim:	2 1:2
+*TUR:	is that better ?
+%mor:	cop|be&3S pro:dem|that adj|good&CP ?
+%gra:	1|0|ROOT 2|3|JCT 3|1|PRED 4|1|PUNCT
+%spa:	$Y-N $T
+%tim:	8 0:7
+*ATT:	oop oop oop oop !
+%mor:	co|oop co|oop co|oop co|oop !
+%gra:	1|2|COM 2|0|ROOT 3|2|COM 4|2|COM 5|2|PUNCT
+%spa:	$SO $PH
+%tim:	1:0 0:3
+*TUR:	o:h is that better ?
+%mor:	co|oh cop|be&3S pro:dem|that adj|good&CP ?
+%gra:	1|2|COM 2|0|ROOT 3|4|JCT 4|2|PRED 5|2|PUNCT
+%spa:	$SO $Y-N $C
+%tim:	1:2 1:3
+*ATT:	hey ?
+%mor:	co|hey ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$RI $EX
+%tim:	3 1:3
+*TUR:	o:h nearly a little smile .
+%mor:	co|oh adv|near&dadj-LY art|a adj|little n|smile .
+%gra:	1|3|COM 2|3|JCT 3|0|ROOT 4|5|MOD 5|3|PRED 6|3|PUNCT
+%spa:	$SO $ST
+%tim:	2:1 0:6
+*TUR:	smile for mummie .
+%mor:	n|smile prep|for n|mum&dadj-DIM .
+%gra:	1|0|INCROOT 2|1|NJCT 3|2|POBJ 4|1|PUNCT
+%spa:	$CO $T
+%tim:	8 1:2
+*TUR:	smile for mummie .
+%mor:	n|smile prep|for n|mum&dadj-DIM .
+%gra:	1|0|INCROOT 2|1|NJCT 3|2|POBJ 4|1|PUNCT
+%spa:	$CO $C $T
+%tim:	1:0 1:2
+*TUR:	yes just a little one nearly .
+%mor:	co|yes adv|just art|a adj|little pro:indef|one adv|near&dadj-LY .
+%gra:	1|3|COM 2|3|JCT 3|0|ROOT 4|5|MOD 5|3|CJCT 6|5|JCT 7|3|PUNCT
+%spa:	$ST
+%tim:	2:1 0:9
+*TUR:	oh no we're going to cry now .
+%mor:	co|oh co|no pro:sub|we~aux|be&PRES part|go-PRESP inf|to v|cry
+	adv|now .
+%gra:	1|5|COM 2|5|JCT 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|7|INF 7|5|XCOMP 8|7|JCT
+	9|5|PUNCT
+%spa:	$ST
+%tim:	2:6 1:4
+*ATT:	oh ?
+%mor:	co|oh ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$SO $PH $T
+%tim:	2 0:9
+*ATT:	hey ?
+%mor:	co|hey ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$PH $T
+%tim:	2 1:1
+*ATT:	hey hey ?
+%mor:	co|hey co|hey ?
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+%spa:	$SO $PH $C $T
+%tim:	4 1:3
+*ATT:	there .
+%mor:	adv|there .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$PE
+%tim:	7 0:3
+*TUR:	Hannah hold it .
+%mor:	n:prop|Hannah v|hold pro|it .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+%spa:	$CO $T
+%tim:	8 1:4
+*ATT:	o:h ?
+%mor:	co|oh ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$SO $BC
+%tim:	3 0:8
+*ATT:	nearly ?
+%mor:	adv|near&dadj-LY ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$BC $T
+%tim:	5 1:2
+*ATT:	nearly ?
+%mor:	adv|near&dadj-LY ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$BC $C $T
+%tim:	6 1:1
+*ATT:	hey ?
+%mor:	co|hey ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$RI $EX
+%tim:	2 1:7
+*TUR:	what is it ?
+%mor:	pro:wh|what aux|be&3S pro|it ?
+%gra:	1|2|OBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+%spa:	$WH $T
+%tim:	5 0:8
+*TUR:	it's a Ted .
+%mor:	pro|it~cop|be&3S art|a n:prop|Ted .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|3|APP 5|2|PUNCT
+%spa:	$ST
+%tim:	6 1:9
+*TUR:	oh it's a Ted !
+%mor:	co|oh pro|it~cop|be&3S art|a n:prop|Ted !
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|4|APP 6|3|PUNCT
+%spa:	$ST $C
+%tim:	1:2 1:5
+*TUR:	there Hannah shake it .
+%mor:	adv|there n:prop|Hannah v|shake pro|it .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+%spa:	$CO
+%tim:	1:3 0:8
+*TUR:	Hannah shake it .
+%mor:	n:prop|Hannah v|shake pro|it .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+%spa:	$CO $C
+%tim:	9 2:2
+*ATT:	no ?
+%mor:	co|no ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$RI $TQ
+%tim:	3 1:3
+*ATT:	o:h ?
+%mor:	co|oh ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$SO $PH
+%tim:	2 0:8
+@Comment:	Interruption: begin fussy baby again; break is 54.2
+*ATT:	hey ?
+%mor:	co|hey ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$PH
+%tim:	2 1:2
+*ATT:	hey ?
+%mor:	co|hey ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$PH $C
+%tim:	2 2:0
+*ATT:	Hannah !
+%mor:	n:prop|Hannah !
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$PH
+%tim:	1:1 2:5
+*ATT:	oh dear .
+%mor:	co|oh co|dear .
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+%spa:	$BC
+%tim:	7 0:9
+*ATT:	hey ?
+%mor:	co|hey ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$PH
+%tim:	6 1:3
+*ATT:	mummie ?
+%mor:	n|mum&dadj-DIM ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$PH
+%tim:	7 0:5
+*TUR:	smile for mummie .
+%mor:	n|smile prep|for n|mum&dadj-DIM .
+%gra:	1|0|INCROOT 2|1|NJCT 3|2|POBJ 4|1|PUNCT
+%spa:	$CO $T
+%tim:	1:2 0:9
+*TUR:	smile for mummie .
+%mor:	n|smile prep|for n|mum&dadj-DIM .
+%gra:	1|0|INCROOT 2|1|NJCT 3|2|POBJ 4|1|PUNCT
+%spa:	$CO $C $T
+%tim:	1:3 0:7
+@Comment:	Pause is to rattle , rattle is continuous from here; break is 1.5
+*TUR:	smile for mummie .
+%mor:	n|smile prep|for n|mum&dadj-DIM .
+%gra:	1|0|INCROOT 2|1|NJCT 3|2|POBJ 4|1|PUNCT
+%spa:	$CO $C $T
+%tim:	1:3 0:6
+*ATT:	oh dear .
+%mor:	co|oh co|dear .
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+%spa:	$BC $T
+%tim:	1:1 0:6
+*ATT:	Hannah ?
+%mor:	n:prop|Hannah ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$RI $EX $T
+%tim:	4 1:0
+*ATT:	Hannah ?
+%mor:	n:prop|Hannah ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$RI $EX $C $T
+%tim:	5 1:2
+*ATT:	o:h .
+%mor:	co|oh .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$SO $EX
+%tim:	1:8 0:9
+*TUR:	it's not fair is it ?
+%mor:	pro|it~cop|be&3S neg|not n|fair aux|be&3S pro|it ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|NEG 4|6|SUBJ 5|6|AUX 6|2|PRED 7|2|PUNCT
+%spa:	$Y-N $T
+%tim:	1:4 0:8
+*TUR:	you're pulling me about .
+%mor:	pro|you~aux|be&PRES part|pull-PRESP pro:obj|me adv|about .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|3|JCT 6|3|PUNCT
+%spa:	$ST $T
+%tim:	1:7 0:7
+*TUR:	you're pulling me about .
+%mor:	pro|you~aux|be&PRES part|pull-PRESP pro:obj|me adv|about .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|3|JCT 6|3|PUNCT
+%spa:	$ST $C
+%tim:	1:5 1:3
+*TUR:	look at Ted .
+%mor:	v|look prep|at n:prop|Ted .
+%gra:	1|0|ROOT 2|1|JCT 3|2|POBJ 4|1|PUNCT
+%spa:	$CO
+%tim:	9 2:5
+*ATT:	Hannah ?
+%mor:	n:prop|Hannah ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$RI $EX
+%tim:	2 1:8
+*ATT:	hey ?
+%mor:	co|hey ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$RI $EX $T
+%tim:	5 0:7
+*ATT:	hey Treasure pie ?
+%mor:	co|hey n:prop|Treasure n|pie ?
+%gra:	1|3|COM 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+%spa:	$RI $EX
+%tim:	1:1 1:5
+*ATT:	hey ?
+%mor:	co|hey ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$RI $EX $C $T
+%tim:	5 0:9
+*ATT:	hey ?
+%mor:	co|hey ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$PH $C $T
+%tim:	2 0:6
+*ATT:	hey ?
+%mor:	co|hey ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$PH $C $T
+%tim:	3 0:8
+*ATT:	hello .
+%mor:	co|hello .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$GR $T
+%tim:	5 0:8
+*ATT:	hello .
+%mor:	co|hello .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$GR $C $T
+%tim:	5 0:3
+*ATT:	chp@o [x 5] ?
+%mor:	on|chp ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$SO $PH $T
+%tim:	5 0:4
+*ATT:	hello Hannah .
+%mor:	co|hello n:prop|Hannah .
+%gra:	1|2|COM 2|0|ROOT 3|2|PUNCT
+%spa:	$GR $C $T
+%tim:	1:4 0:8
+*ATT:	hello Hannah .
+%mor:	co|hello n:prop|Hannah .
+%gra:	1|2|COM 2|0|ROOT 3|2|PUNCT
+%spa:	$GR $C $T
+%tim:	1:1 1:1
+*ATT:	hello .
+%mor:	co|hello .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$GR $C $T
+%tim:	9 0:7
+*TUR:	it's mummie .
+%mor:	pro|it~cop|be&3S n|mum&dadj-DIM .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+%spa:	$ST $T
+%tim:	7 0:9
+*TUR:	it's your mummie .
+%mor:	pro|it~cop|be&3S pro:poss:det|your n|mum&dadj-DIM .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|MOD 4|2|PRED 5|2|PUNCT
+%spa:	$ST $C $T
+%tim:	9 0:6
+*TUR:	can you smile for your mummie shh shh shh shh are you trying ?
+%mor:	mod|can pro|you v|smile prep|for pro:poss:det|your n|mum&dadj-DIM
+	co|shh co|shh co|shh co|shh aux|be&PRES pro|you part|try-PRESP ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|MOD 6|4|POBJ 7|3|COM 8|13|COM
+	9|13|COM 10|13|SUBJ 11|13|AUX 12|13|SUBJ 13|3|CJCT 14|3|PUNCT
+%spa:	$SO $Y-N
+%tim:	3:7 0:5
+*TUR:	no you're not really trying are you ?
+%mor:	co|no pro|you~aux|be&PRES neg|not adv|real&dadj-LY part|try-PRESP
+	aux|be&PRES pro|you ?
+%gra:	1|3|COM 2|3|SUBJ 3|6|AUX 4|3|NEG 5|6|JCT 6|0|ROOT 7|6|OBJ 8|7|OBJ
+	9|6|PUNCT
+%spa:	$STQ
+%tim:	1:9 0:4
+*ATT:	hey ?
+%mor:	co|hey ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$PH
+%tim:	3 0:3
+*ATT:	chp@o [x 5] !
+%mor:	on|chp !
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$SO $PH $T
+%tim:	1:2 0:7
+*ATT:	oh dear .
+%mor:	co|oh co|dear .
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+%spa:	$BC $T
+%tim:	1:1 0:6
+*ATT:	oh dear .
+%mor:	co|oh co|dear .
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+%spa:	$BC $C $T
+%tim:	5 0:7
+*ATT:	hey ?
+%mor:	co|hey ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$PH $T
+%tim:	2 0:9
+*ATT:	hey ?
+%mor:	co|hey ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$PH $C $T
+%tim:	2 1:2
+*TUR:	who's a big girl ?
+%mor:	rel|who~aux|be&3S art|a adj|big n|girl ?
+%gra:	1|2|LINK 2|0|ROOT 3|5|MOD 4|5|MOD 5|2|PRED 6|2|PUNCT
+%spa:	$WH $T
+%tim:	9 1:1
+*TUR:	who's a big girl ?
+%mor:	rel|who~aux|be&3S art|a adj|big n|girl ?
+%gra:	1|2|LINK 2|0|ROOT 3|5|MOD 4|5|MOD 5|2|PRED 6|2|PUNCT
+%spa:	$WH $C
+%tim:	9 1:5
+*TUR:	who's a big girl ?
+%mor:	rel|who~aux|be&3S art|a adj|big n|girl ?
+%gra:	1|2|LINK 2|0|ROOT 3|5|MOD 4|5|MOD 5|2|PRED 6|2|PUNCT
+%spa:	$WH $C $T
+%tim:	1:0 1:0
+*ATT:	who ?
+%mor:	rel|who ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$WH $PH
+%tim:	2 0:8
+*TUR:	who's a big girl ?
+%mor:	rel|who~aux|be&3S art|a adj|big n|girl ?
+%gra:	1|2|LINK 2|0|ROOT 3|5|MOD 4|5|MOD 5|2|PRED 6|2|PUNCT
+%spa:	$WH $C
+%tim:	1:0 0:3
+@Comment:	Long stretch of kisses; break is 4.0
+*TUR:	&mm you kiss your mummie .
+%mor:	pro|you v|kiss pro:poss:det|your n|mum&dadj-DIM .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|MOD 4|2|OBJ 5|2|PUNCT
+%spa:	$SO $CO
+%tim:	2:5 0:3
+*TUR:	kiss your mummie .
+%mor:	v|kiss pro:poss:det|your n|mum&dadj-DIM .
+%gra:	1|0|ROOT 2|3|MOD 3|1|OBJ 4|1|PUNCT
+%spa:	$CO $C
+%tim:	7 0:3
+@Comment:	Kisses and aspirated laughter; break is 3.1
+*TUR:	kiss your mummie again .
+%mor:	v|kiss pro:poss:det|your n|mum&dadj-DIM adv|again .
+%gra:	1|0|ROOT 2|3|MOD 3|1|OBJ 4|1|JCT 5|1|PUNCT
+%spa:	$CO $C
+%tim:	9 1:1
+*TUR:	not with your hands .
+%mor:	neg|not prep|with pro:poss:det|your n|hand-PL .
+%gra:	1|0|INCROOT 2|1|JCT 3|4|MOD 4|2|POBJ 5|1|PUNCT
+%spa:	$ST
+%tim:	1:1 0:5
+*ATT:	o:h .
+%mor:	co|oh .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$SO $BC
+%tim:	1:3 5:4
+@Comment:	Long pause is due to continuous baby cry
+*ATT:	hey .
+%mor:	co|hey .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$PH $T
+%tim:	3 1:2
+*ATT:	Hannah ?
+%mor:	n:prop|Hannah ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$RI $EX $T
+%tim:	4 1:2
+*ATT:	oh dear .
+%mor:	co|oh co|dear .
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+%spa:	$BC
+%tim:	1:6 0:5
+*ATT:	oh dear .
+%mor:	co|oh co|dear .
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+%spa:	$BC $C
+%tim:	1:2 0:6
+*ATT:	oh .
+%mor:	co|oh .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$SO $BC
+%tim:	3 0:6
+*ATT:	hey ?
+%mor:	co|hey ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$RI $EX
+%tim:	2 1:0
+*ATT:	Treas ?
+%mor:	n:prop|Treas ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$RI $EX $T
+%tim:	2 2:3
+*ATT:	Treas ?
+%mor:	n:prop|Treas ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$RI $EX $C $T
+%tim:	2 2:2
+*ATT:	Treas ?
+%mor:	n:prop|Treas ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$RI $EX $C
+%tim:	2 1:6
+*ATT:	shh shh shh shh shh shh !
+%mor:	co|shh co|shh co|shh co|shh co|shh co|shh !
+%gra:	1|2|COM 2|0|ROOT 3|2|COM 4|2|COM 5|2|COM 6|2|COM 7|2|PUNCT
+%spa:	blowing SOUNDS $SO $PH
+%tim:	1:3 1:1
+*TUR:	smile there little one nearly .
+%mor:	n|smile adv|there adj|little pro:indef|one adv|near&dadj-LY .
+%gra:	1|4|SUBJ 2|4|JCT 3|4|MOD 4|0|ROOT 5|4|JCT 6|4|PUNCT
+%spa:	$ST
+%tim:	2:9 1:1
+*TUR:	no we're dribbling now hey ?
+%mor:	co|no pro:sub|we~aux|be&PRES part|dribble-PRESP adv|now co|hey ?
+%gra:	1|4|COM 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|4|COM 7|4|PUNCT
+%spa:	$STQ
+%tim:	1:8 1:3
+*ATT:	hop hop hop ?
+%mor:	n|hop n|hop n|hop ?
+%gra:	1|3|MOD 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+%spa:	$SO $PH
+%tim:	6 0:3
+*TUR:	smile for mummie .
+%mor:	n|smile prep|for n|mum&dadj-DIM .
+%gra:	1|0|INCROOT 2|1|NJCT 3|2|POBJ 4|1|PUNCT
+%spa:	$CO $T
+%tim:	1:1 0:8
+*ATT:	hello .
+%mor:	co|hello .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$GR $T
+%tim:	8 0:5
+*ATT:	hello .
+%mor:	co|hello .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$GR $C $T
+%tim:	6 0:3
+*ATT:	hop hop hop hop ?
+%mor:	n|hop n|hop n|hop n|hop ?
+%gra:	1|4|MOD 2|4|MOD 3|4|MOD 4|0|INCROOT 5|4|PUNCT
+%spa:	$SO $PH $T
+%tim:	9 0:6
+*ATT:	Hannah ?
+%mor:	n:prop|Hannah ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$RI $EX $T
+%tim:	4 0:8
+*ATT:	Hannah ?
+%mor:	n:prop|Hannah ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$RI $EX $C $T
+%tim:	3 1:1
+*ATT:	mummie's here .
+%mor:	n|mum&dadj-DIM~cop|be&3S adv|here .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|2|PUNCT
+%spa:	$EX $T
+%tim:	7 1:0
+*ATT:	hello .
+%mor:	co|hello .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$GR $T
+%tim:	1:1 0:9
+*ATT:	hello darling .
+%mor:	co|hello co|darling .
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+%spa:	$GR $C $T
+%tim:	1:0 0:8
+*ATT:	hello oh no .
+%mor:	co|hello co|oh co|no .
+%gra:	1|2|COM 2|0|ROOT 3|2|COM 4|2|PUNCT
+%spa:	$GR $C $T
+%tim:	1:8 0:5
+*TUR:	don't you want to smile for mummie ?
+%mor:	mod|do~neg|not pro|you v|want prep|to n|smile prep|for
+	n|mum&dadj-DIM ?
+%gra:	1|4|LINK 2|1|NEG 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|5|POBJ 7|6|NJCT 8|7|POBJ
+	9|4|PUNCT
+%spa:	$Y-N
+%tim:	1:7 1:2
+*TUR:	don't you want to smile for mummie ?
+%mor:	mod|do~neg|not pro|you v|want prep|to n|smile prep|for
+	n|mum&dadj-DIM ?
+%gra:	1|4|LINK 2|1|NEG 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|5|POBJ 7|6|NJCT 8|7|POBJ
+	9|4|PUNCT
+%spa:	$Y-N $C $T
+%tim:	1:7 0:5
+*ATT:	shh shoo shoo o:h .
+%mor:	co|shh v|shoo v|shoo co|oh .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|COM 5|3|PUNCT
+%spa:	blowing SOUNDS $SO $PH
+%tim:	2:5 2:6
+*ATT:	oh dear .
+%mor:	co|oh co|dear .
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+%spa:	$BC
+%tim:	1:4 1:3
+*ATT:	hey Treasure ?
+%mor:	co|hey n:prop|Treasure ?
+%gra:	1|2|COM 2|0|ROOT 3|2|PUNCT
+%spa:	$RI $EX $T
+%tim:	8 0:7
+*ATT:	hey Treasure ?
+%mor:	co|hey n:prop|Treasure ?
+%gra:	1|2|COM 2|0|ROOT 3|2|PUNCT
+%spa:	$RI $EX $C $T
+%tim:	7 0:8
+*ATT:	Hannah ?
+%mor:	n:prop|Hannah ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$RI $EX
+%tim:	4 1:8
+*ATT:	oh: .
+%mor:	co|oh .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$SO $BC
+%tim:	1:3 0:9
+*ATT:	oh dear .
+%mor:	co|oh co|dear .
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+%spa:	$BC $T
+%tim:	8 0:6
+*TUR:	it's a hard life isn't it ?
+%mor:	pro|it~cop|be&3S art|a adj|hard n|life cop|be&3S~neg|not pro|it ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|MOD 4|5|MOD 5|8|SUBJ 6|8|AUX 7|6|NEG 8|2|PRED
+	9|2|PUNCT
+%spa:	$STQ
+%tim:	1:8 0:7
+*TUR:	what is it ?
+%mor:	pro:wh|what aux|be&3S pro|it ?
+%gra:	1|2|OBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+%spa:	$WH $T
+%tim:	7 0:9
+*ATT:	hey hey ?
+%mor:	co|hey co|hey ?
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+%spa:	$SO $RI $EX $T
+%tim:	5 0:8
+*ATT:	hey hey ?
+%mor:	co|hey co|hey ?
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+%spa:	$SO $RI $EX $C $T
+%tim:	4 0:7
+*ATT:	hey .
+%mor:	co|hey .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$PH $C
+%tim:	2 1:3
+*TUR:	smile for mummie .
+%mor:	n|smile prep|for n|mum&dadj-DIM .
+%gra:	1|0|INCROOT 2|1|NJCT 3|2|POBJ 4|1|PUNCT
+%spa:	$CO $T
+%tim:	8 0:7
+*ATT:	there .
+%mor:	adv|there .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$BC $T
+%tim:	8 0:5
+*ATT:	nearly .
+%mor:	adv|near&dadj-LY .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$BC $T
+%tim:	8 0:5
+*TUR:	not quite was that really a cry ?
+%mor:	neg|not adv|quite cop|be&PAST&13S pro:dem|that adv|real&dadj-LY
+	art|a v|cry ?
+%gra:	1|3|NEG 2|3|JCT 3|7|LINK 4|7|SUBJ 5|7|JCT 6|7|SUBJ 7|0|ROOT 8|7|PUNCT
+%spa:	$Y-N
+%tim:	2:1 0:8
+*ATT:	hey hey ?
+%mor:	co|hey co|hey ?
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+%spa:	$SO $PH $T
+%tim:	3 0:7
+*ATT:	hey hey ?
+%mor:	co|hey co|hey ?
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+%spa:	$SO $PH $C $T
+%tim:	4 0:7
+*ATT:	hey hey ?
+%mor:	co|hey co|hey ?
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+%spa:	$SO $PH $C
+%tim:	5 1:5
+*ATT:	hey Hannah ?
+%mor:	co|hey n:prop|Hannah ?
+%gra:	1|2|COM 2|0|ROOT 3|2|PUNCT
+%spa:	$RI $EX $T
+%tim:	8 0:9
+*TUR:	oh where ya goin(g) you look as_if you wanted to get goin(g) ?
+%mor:	co|oh rel|where pro|you part|go-PRESP pro|you v|look conj|as_if
+	pro|you v|want-PAST inf|to v|get n:gerund|go-PRESP ?
+%gra:	1|4|COM 2|4|LINK 3|4|SUBJ 4|0|ROOT 5|6|SUBJ 6|4|OBJ 7|9|LINK 8|9|SUBJ
+	9|6|CJCT 10|11|INF 11|9|XCOMP 12|11|OBJ 13|4|PUNCT
+%spa:	$WH
+%tim:	2:6 2:8
+*ATT:	look .
+%mor:	co|look .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$EX $T
+%tim:	5 0:8
+*ATT:	up up up up up up !
+%mor:	prep|up adv|up prep|up adv|up prep|up adv|up !
+%gra:	1|0|INCROOT 2|1|POBJ 3|1|JCT 4|3|POBJ 5|4|JCT 6|5|POBJ 7|1|PUNCT
+%spa:	$SO $PH
+%tim:	1:5 1:3
+*TUR:	there's a teddy .
+%mor:	pro:exist|there~cop|be&3S art|a n|teddy .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|MOD 4|2|PRED 5|2|PUNCT
+%spa:	$ST
+%tim:	7 0:3
+*TUR:	Hannah hold it .
+%mor:	n:prop|Hannah v|hold pro|it .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+%spa:	$CO $T
+%tim:	1:0 0:8
+*ATT:	Hannah oh yes !
+%mor:	n:prop|Hannah co|oh co|yes !
+%gra:	1|3|LINK 2|3|COM 3|0|INCROOT 4|3|PUNCT
+%spa:	$PH
+%tim:	1:4 0:8
+*ATT:	there look ?
+%mor:	adv|there v|look ?
+%gra:	1|2|JCT 2|0|ROOT 3|2|PUNCT
+%spa:	$PH $T
+%tim:	8 0:7
+*ATT:	oh ?
+%mor:	co|oh ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$SO $PH $T
+%tim:	5 0:6
+*ATT:	oh oh !
+%mor:	co|oh co|oh !
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+%spa:	$SO $PH $C
+%tim:	1:0 1:2
+*ATT:	hey ?
+%mor:	co|hey ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$PH
+%tim:	5 1:9
+*ATT:	again ?
+%mor:	adv|again ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$RI $BC
+%tim:	4 1:1
+*TUR:	oh what chou [: you] messing about with me for is that what you're
+	saying ?
+%mor:	co|oh pro:wh|what pro|you part|mess-PRESP adv|about prep|with
+	pro:obj|me prep|for cop|be&3S pro:dem|that pro:wh|what
+	pro|you~aux|be&PRES part|say-PRESP ?
+%gra:	1|4|COM 2|4|LINK 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|4|JCT 7|6|POBJ 8|4|JCT
+	9|8|POBJ 10|9|PRED 11|14|LINK 12|14|SUBJ 13|14|AUX 14|10|COMP 15|4|PUNCT
+%spa:	$Y-N
+%tim:	3:5 0:9
+*ATT:	there .
+%mor:	adv|there .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$PE
+%tim:	5 0:3
+*ATT:	oh nearly !
+%mor:	co|oh adv|near&dadj-LY !
+%gra:	1|2|COM 2|0|ROOT 3|2|PUNCT
+%spa:	$BC
+%tim:	1:3 1:2
+*ATT:	hey ?
+%mor:	co|hey ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$RI $EX $T
+%tim:	5 1:0
+*ATT:	hey ?
+%mor:	co|hey ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$RI $EX $C $T
+%tim:	4 1:2
+*ATT:	hey ?
+%mor:	co|hey ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$RI $EX $C $T
+%tim:	4 0:8
+*ATT:	oh dear .
+%mor:	co|oh co|dear .
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+%spa:	$BC
+%tim:	1:7 0:8
+*ATT:	oh dear .
+%mor:	co|oh co|dear .
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+%spa:	$BC $C
+%tim:	8 1:1
+@Comment:	Interruption with fussy and dialogue , then start feed; break is 1 min. 7.4 sec.
+*TUR:	oh what chou [: you] looking at now ?
+%mor:	co|oh pro:wh|what pro|you part|look-PRESP prep|at adv|now ?
+%gra:	1|4|COM 2|4|LINK 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|5|POBJ 7|4|PUNCT
+%spa:	$WH $T
+%tim:	1:4 0:9
+*TUR:	what chou [: you] looking at now ?
+%mor:	pro:wh|what pro|you part|look-PRESP prep|at adv|now ?
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|4|POBJ 6|3|PUNCT
+%spa:	$WH $C $T
+%tim:	1:3 1:1
+*ATT:	oh: darling .
+%mor:	co|oh co|darling .
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+%spa:	$SO $EX
+%tim:	1:9 1:0
+*ATT:	hey hey ?
+%mor:	co|hey co|hey ?
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+%spa:	$SO $PH $T
+%tim:	7 0:5
+*ATT:	hey ?
+%mor:	co|hey ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$RI $EX $C $T
+%tim:	4 0:5
+@Comment:	Interruption; break is 9.1
+*ATT:	hey darling ?
+%mor:	co|hey co|darling ?
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+%spa:	$RI $EX
+%tim:	1:0 0:6
+*ATT:	shh shh shh shh shh shh !
+%mor:	co|shh co|shh co|shh co|shh co|shh co|shh !
+%gra:	1|2|COM 2|0|ROOT 3|2|COM 4|2|COM 5|2|COM 6|2|COM 7|2|PUNCT
+%spa:	$SO $PH
+%tim:	1:6 0:4
+*ATT:	Hannah ?
+%mor:	n:prop|Hannah ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$RI $EX $T
+%tim:	4 0:4
+*ATT:	poopsie ?
+%mor:	n|poopsie ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$RI $EX
+%tim:	6 0:8
+*ATT:	Hannah ?
+%mor:	n:prop|Hannah ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$RI $EX $C $T
+%tim:	4 0:3
+*ATT:	chp@o [x 4] ?
+%mor:	on|chp ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	kisses $SO $PH $T
+%tim:	6 0:3
+*ATT:	hey ?
+%mor:	co|hey ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$PH $T
+%tim:	2 0:3
+*ATT:	mummie's here .
+%mor:	n|mum&dadj-DIM~cop|be&3S adv|here .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|2|PUNCT
+%spa:	$EX
+%tim:	7 0:7
+*TUR:	mummie's here she's not gone anywhere .
+%mor:	n|mum&dadj-DIM~cop|be&3S adv|here pro:sub|she~aux|be&3S neg|not
+	part|go&PASTP adv|anywhere .
+%gra:	1|2|SUBJ 2|0|ROOT 3|7|JCT 4|7|SUBJ 5|7|AUX 6|5|NEG 7|2|PRED 8|7|JCT
+	9|2|PUNCT
+%spa:	$ST
+%tim:	2:2 1:0
+*ATT:	no she's not Hannah .
+%mor:	co|no pro:sub|she~aux|be&3S neg|not n:prop|Hannah .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|NEG 5|3|PRED 6|3|PUNCT
+%spa:	$PC
+%tim:	1:2 1:3
+*TUR:	she's not gone anywhere .
+%mor:	pro:sub|she~aux|be&3S neg|not part|go&PASTP adv|anywhere .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|JCT 6|4|PUNCT
+%spa:	$ST $C
+%tim:	1:5 0:6
+*TUR:	she's here darling .
+%mor:	pro:sub|she~cop|be&3S adv|here co|darling .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|2|COM 5|2|PUNCT
+%spa:	$ST
+%tim:	1:1 0:7
+*ATT:	yes she is .
+%mor:	co|yes pro:sub|she cop|be&3S .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+%spa:	$PC
+%tim:	1:0 1:3
+*ATT:	yes she is .
+%mor:	co|yes pro:sub|she cop|be&3S .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+%spa:	$PC $C $T
+%tim:	1:1 2:5
+*ATT:	mummie's here .
+%mor:	n|mum&dadj-DIM~cop|be&3S adv|here .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|2|PUNCT
+%spa:	$EX
+%tim:	9 0:8
+*ATT:	mummie's here Treasure oh .
+%mor:	n|mum&dadj-DIM~aux|be&3S pro:dem|here n:prop|Treasure co|oh .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|SUBJ 5|3|COM 6|3|PUNCT
+%spa:	$SO $EX $C $T
+%tim:	1:3 2:4
+*ATT:	hey ?
+%mor:	co|hey ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$PH
+%tim:	3 1:2
+*ATT:	hey ?
+%mor:	co|hey ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$PH $C $T
+%tim:	3 2:1
+*ATT:	hey ?
+%mor:	co|hey ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$PH $C $T
+%tim:	3 2:3
+*ATT:	Hannah ?
+%mor:	n:prop|Hannah ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$RI $EX $T
+%tim:	6 0:6
+*ATT:	oh: ho !
+%mor:	co|oh co|ho !
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+%spa:	$SO $PH
+%tim:	1:3 0:3
+*ATT:	oh: ho ho ?
+%mor:	co|oh co|ho co|ho ?
+%gra:	1|3|COM 2|3|COM 3|0|INCROOT 4|3|PUNCT
+%spa:	$SO $PH $C $T
+%tim:	9 0:4
+*ATT:	oh: ho ho ?
+%mor:	co|oh co|ho co|ho ?
+%gra:	1|3|COM 2|3|COM 3|0|INCROOT 4|3|PUNCT
+%spa:	$SO $PH $C $T
+%tim:	9 0:5
+*ATT:	oh: !
+%mor:	co|oh !
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$SO $PH $C $T
+%tim:	1:3 0:5
+*ATT:	oh: ?
+%mor:	co|oh ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$SO $PH $C $T
+%tim:	7 0:3
+*ATT:	chp@o [x 6] !
+%mor:	on|chp !
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$SO $PH $T
+%tim:	1:3 0:3
+*TUR:	oh yes it's mummie .
+%mor:	co|oh co|yes pro|it~cop|be&3S n|mum&dadj-DIM .
+%gra:	1|4|COM 2|4|COM 3|4|SUBJ 4|0|ROOT 5|4|PRED 6|4|PUNCT
+%spa:	$ST $T
+%tim:	1:5 0:6
+*ATT:	yes it is .
+%mor:	co|yes pro|it cop|be&3S .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+%spa:	$PC $T
+%tim:	1:1 0:4
+@Comment:	Animated laughter and long string of kisses combined not scored , pause is to first laugh; break is 4.8
+*ATT:	yes darling .
+%mor:	co|yes co|darling .
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+%spa:	$BC
+%tim:	1:3 0:4
+*ATT:	yes .
+%mor:	co|yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$BC $C
+%tim:	6 0:5
+*TUR:	yes alright mummie feed you .
+%mor:	co|yes co|alright n|mum&dadj-DIM n|feed pro|you .
+%gra:	1|4|COM 2|4|COM 3|4|MOD 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+%spa:	$ST
+%tim:	1:4 1:3
+*TUR:	mummie feed you .
+%mor:	n|mum&dadj-DIM n|feed pro|you .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|OBJ 4|2|PUNCT
+%spa:	$ST $C
+%tim:	8 1:8
+*TUR:	mummie feed you .
+%mor:	n|mum&dadj-DIM n|feed pro|you .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|OBJ 4|2|PUNCT
+%spa:	$ST $C
+%tim:	9 2:7
+*ATT:	hey ?
+%mor:	co|hey ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$RI $EX
+%tim:	3 1:7
+*ATT:	hey ?
+%mor:	co|hey ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$RI $EX $C
+%tim:	5 3:1
+*ATT:	yes .
+%mor:	co|yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$BC
+%tim:	5 0:4
+*ATT:	yes .
+%mor:	co|yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$BC $C $T
+%tim:	4 0:9
+*ATT:	yes .
+%mor:	co|yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$BC $C $T
+%tim:	5 1:1
+@Comment:	Interruption and unintelligible , breast feeding starts here; break is 12.2
+*TUR:	oh is that better ?
+%mor:	co|oh cop|be&3S pro:dem|that adj|good&CP ?
+%gra:	1|2|COM 2|0|ROOT 3|4|JCT 4|2|PRED 5|2|PUNCT
+%spa:	$Y-N
+%tim:	1:1 1:4
+*TUR:	is that better ?
+%mor:	cop|be&3S pro:dem|that adj|good&CP ?
+%gra:	1|0|ROOT 2|3|JCT 3|1|PRED 4|1|PUNCT
+%spa:	$Y-N $C
+%tim:	7 1:2
+*ATT:	is it ?
+%mor:	aux|be&3S pro|it ?
+%gra:	1|0|INCROOT 2|1|OBJ 3|1|PUNCT
+%spa:	$TQ
+%tim:	3 0:8
+*TUR:	miss squiggly hey slow down !
+%mor:	n|miss adj|squiggle&dv-Y co|hey adv|slow adv|down !
+%gra:	1|0|INCROOT 2|1|XMOD 3|5|COM 4|5|JCT 5|2|JCT 6|1|PUNCT
+%spa:	$CO
+%tim:	2:2 1:3
+*TUR:	is that better ?
+%mor:	cop|be&3S pro:dem|that adj|good&CP ?
+%gra:	1|0|ROOT 2|3|JCT 3|1|PRED 4|1|PUNCT
+%spa:	$Y-N $T
+%tim:	1:0 1:8
+*TUR:	there you are .
+%mor:	adv|there pro|you cop|be&PRES .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+%spa:	$ST $T
+%tim:	1:0 1:4
+*ATT:	is it ?
+%mor:	aux|be&3S pro|it ?
+%gra:	1|0|INCROOT 2|1|OBJ 3|1|PUNCT
+%spa:	$TQ $T
+%tim:	6 0:5
+*ATT:	chp@o [x 2] ?
+%mor:	on|chp ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$SO $PH $T
+%tim:	4 0:7
+*ATT:	is it ?
+%mor:	aux|be&3S pro|it ?
+%gra:	1|0|INCROOT 2|1|OBJ 3|1|PUNCT
+%spa:	$TQ $C
+%tim:	5 2:1
+*TUR:	you hold mummie's hand ?
+%mor:	pro|you v|hold n|mum&dadj-DIM~aux|be&3S n|hand ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|SUBJ 4|5|AUX 5|2|OBJ 6|2|PUNCT
+%spa:	$RI $Y-N
+%tim:	1:3 1:8
+*TUR:	you hold mummie's hand ?
+%mor:	pro|you v|hold n|mum&dadj-DIM~aux|be&3S n|hand ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|SUBJ 4|5|AUX 5|2|OBJ 6|2|PUNCT
+%spa:	$RI $Y-N $C
+%tim:	1:3 5:1
+*TUR:	is that better ?
+%mor:	cop|be&3S pro:dem|that adj|good&CP ?
+%gra:	1|0|ROOT 2|3|JCT 3|1|PRED 4|1|PUNCT
+%spa:	$Y-N
+%tim:	7 2:1
+*ATT:	hey ?
+%mor:	co|hey ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$RI $EX
+%tim:	3 4:7
+*ATT:	oh: .
+%mor:	co|oh .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$SO $PH
+%tim:	1:4 1:7
+*ATT:	oh: .
+%mor:	co|oh .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$SO $PH $C
+%tim:	1:0 1:5
+*ATT:	oh .
+%mor:	co|oh .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$SO $PH $C
+%tim:	3 5:7
+*ATT:	yes ?
+%mor:	co|yes ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$PH $T
+%tim:	5 0:7
+*ATT:	yes ?
+%mor:	co|yes ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$PH $C $T
+%tim:	5 0:9
+*ATT:	yes ?
+%mor:	co|yes ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$PH $C
+%tim:	5 2:9
+*TUR:	what chou [: you] looking at ?
+%mor:	pro:wh|what pro|you part|look-PRESP prep|at ?
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|PUNCT
+%spa:	$WH
+%tim:	9 1:3
+*TUR:	oh no it's still there but you're yes .
+%mor:	co|oh co|no pro|it~cop|be&3S adv|still adv|there conj|but
+	pro|you~cop|be&PRES co|yes .
+%gra:	1|4|COM 2|4|COM 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|4|JCT 7|9|LINK 8|9|SUBJ
+	9|4|CJCT 10|9|COM 11|4|PUNCT
+%spa:	$ST
+%tim:	2:5 0:7
+*ATT:	here .
+%mor:	adv|here .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$BC
+%tim:	4 5:8
+@Comment:	Interruption; break is 7.9
+*ATT:	hey ?
+%mor:	co|hey ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$RI $EX
+%tim:	3 2:4
+*ATT:	hey ?
+%mor:	co|hey ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$RI $EX $C $T
+%tim:	3 3:4
+*ATT:	oh .
+%mor:	co|oh .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$SO $BC $T
+%tim:	5 3:2
+*TUR:	oh that's much better .
+%mor:	co|oh pro:dem|that~cop|be&3S adv|much adj|good&CP .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|5|JCT 5|3|PRED 6|3|PUNCT
+%spa:	$ST
+%tim:	1:3 1:0
+*TUR:	that's so much better .
+%mor:	pro:dem|that~cop|be&3S adv|so qn|much adj|good&CP .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|JCT 4|5|QUANT 5|2|PRED 6|2|PUNCT
+%spa:	$ST $C
+%tim:	1:4 2:1
+*ATT:	oh yes .
+%mor:	co|oh co|yes .
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+%spa:	$PC
+%tim:	6 1:4
+*TUR:	yeah well it's your fault you do that .
+%mor:	co|yeah adv|well pro|it~cop|be&3S pro:poss:det|your n|fault pro|you
+	v|do pro:dem|that .
+%gra:	1|4|COM 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|6|MOD 6|4|PRED 7|8|SUBJ 8|4|CJCT
+	9|8|OBJ 10|8|PUNCT
+%spa:	$ST
+%tim:	2:1 3:4
+*TUR:	mummie's not taken it away from you mummie's not .
+%mor:	n|mum&dadj-DIM~aux|be&3S neg|not part|take&PASTP pro|it adv|away
+	prep|from pro|you n|mum&dadj-DIM~aux|be&3S neg|not .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|OBJ 6|4|JCT 7|4|JCT 8|9|SUBJ
+	9|7|POBJ 10|4|XJCT 11|10|NEG 12|4|PUNCT
+%spa:	$ST
+%tim:	3:1 1:7
+@Comment:	Baby cry and fuss/mother exagerated laughter are simultaneous and not scored; break is 5.5
+*TUR:	you were going to choke so mummie had to sit you up she's not taken
+	it away from you .
+%mor:	pro|you aux|be&PAST part|go-PRESP inf|to v|choke conj|so
+	n|mum&dadj-DIM v|have&PAST inf|to v|sit pro|you adv|up
+	pro:sub|she~aux|be&3S neg|not part|take&PASTP pro|it adv|away
+	prep|from pro|you .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|INF 5|3|XCOMP 6|8|LINK 7|8|SUBJ 8|5|CJCT
+	9|10|INF 10|8|XCOMP 11|10|OBJ 12|16|JCT 13|16|SUBJ 14|16|AUX 15|14|NEG
+	16|10|CJCT 17|16|OBJ 18|16|JCT 19|16|JCT 20|19|POBJ 21|3|PUNCT
+%spa:	$ST
+%tim:	4:3 1:1
+@Comment:	Exagerated laughter and oh: sound continuous from "you" scored as filled pause; break is 4.3
+*ATT:	hey ?
+%mor:	co|hey ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$RI $EX
+%tim:	5 0:5
+*ATT:	yes alright .
+%mor:	co|yes co|alright .
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+%spa:	$BC
+%tim:	9 1:7
+*ATT:	alright .
+%mor:	co|alright .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$BC $C
+%tim:	4 1:2
+@Comment:	Pause is to sound and laugh; break is 3.3
+*ATT:	miss greedy ?
+%mor:	n|miss adj|greed&dn-Y ?
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+%spa:	$RI $EX
+%tim:	9 1:2
+*ATT:	hey ?
+%mor:	co|hey ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$RI $EX
+%tim:	3 1:7
+*ATT:	there .
+%mor:	adv|there .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$PE
+%tim:	8 0:5
+*TUR:	hold mummie's hand .
+%mor:	n|hold n|mum&dadj-DIM~aux|be&3S n|hand .
+%gra:	1|2|MOD 2|4|SUBJ 3|4|AUX 4|0|INCROOT 5|4|PUNCT
+%spa:	$CO
+%tim:	1:1 1:7
+*ATT:	that's better .
+%mor:	pro:dem|that~cop|be&3S adj|good&CP .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+%spa:	$BC
+%tim:	9 2:3
+*ATT:	&hmm ?
+%spa:	$SO $RI $TQ
+%tim:	5 5:0
+*ATT:	oh .
+%mor:	co|oh .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$SO $BC
+%tim:	5 1:5
+*TUR:	we're performing both ways are we ?
+%mor:	pro:sub|we~aux|be&PRES part|perform-PRESP qn|both n|way-PL
+	cop|be&PRES pro:sub|we ?
+%gra:	1|3|SUBJ 2|3|AUX 3|6|LINK 4|5|QUANT 5|6|SUBJ 6|0|ROOT 7|6|PRED
+	8|6|PUNCT
+%spa:	$STQ
+%tim:	1:7 2:3
+*ATT:	&hmm ?
+%spa:	$SO $RI $TQ
+%tim:	3 4:8
+*TUR:	hold on tight .
+%mor:	n|hold adv|on adv|tight .
+%gra:	1|0|INCROOT 2|1|NJCT 3|2|JCT 4|1|PUNCT
+%spa:	$CO
+%tim:	8 2:3
+*TUR:	your little hand is there .
+%mor:	pro:poss:det|your adj|little n|hand cop|be&3S adv|there .
+%gra:	1|3|MOD 2|3|MOD 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|4|PUNCT
+%spa:	$ST
+%tim:	1:3 1:7
+*ATT:	hey ?
+%mor:	co|hey ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$RI $EX
+%tim:	3 2:5
+*ATT:	hey ?
+%mor:	co|hey ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$RI $EX $C
+%tim:	3 2:0
+*TUR:	we're going away tomorrow .
+%mor:	pro:sub|we~aux|be&PRES part|go-PRESP adv|away adv:tem|tomorrow .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|3|XJCT 6|3|PUNCT
+%spa:	$ST
+%tim:	1:0 1:8
+*TUR:	going to see your auntie Nicky .
+%mor:	part|go-PRESP inf|to v|see pro:poss:det|your n|aunt-DIM
+	n:prop|Nicky .
+%gra:	1|0|INCROOT 2|3|INF 3|1|XCOMP 4|5|MOD 5|3|OBJ 6|3|OBJ 7|1|PUNCT
+%spa:	$ST
+%tim:	1:4 1:9
+*ATT:	yes we are .
+%mor:	co|yes pro:sub|we cop|be&PRES .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+%spa:	$PC
+%tim:	7 0:6
+*TUR:	to see Natasha .
+%mor:	inf|to v|see n:prop|Natasha .
+%gra:	1|2|INF 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+%spa:	$ST $T
+%tim:	9 1:2
+*TUR:	you'll have a little play+mate .
+%mor:	pro|you~mod|will v|have art|a adj|little n|+n|play+n|mate .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|6|MOD 5|6|MOD 6|3|OBJ 7|3|PUNCT
+%spa:	$ST
+%tim:	1:0 1:7
+*TUR:	you'll have a little play+mate .
+%mor:	pro|you~mod|will v|have art|a adj|little n|+n|play+n|mate .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|6|MOD 5|6|MOD 6|3|OBJ 7|3|PUNCT
+%spa:	$ST $C $T
+%tim:	1:2 1:0
+*ATT:	hey ?
+%mor:	co|hey ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$RI $TQ
+%tim:	2 1:3
+*TUR:	will we have a little play+mate ?
+%mor:	mod|will pro:sub|we v|have art|a adj|little n|+n|play+n|mate ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|6|MOD 5|6|MOD 6|3|OBJ 7|3|PUNCT
+%spa:	$Y-N $C $T
+%tim:	1:3 2:4
+*ATT:	&hmm ?
+%spa:	$SO $RI $TQ
+%tim:	5 6:7
+*TUR:	see uncle Steve too ?
+%mor:	v|see n|uncle n:prop|Steve post|too ?
+%gra:	1|0|ROOT 2|1|OBJ 3|2|APP 4|3|PQ 5|1|PUNCT
+%spa:	$RI $Y-N $T
+%tim:	1:3 2:2
+*ATT:	&hmm ?
+%spa:	$SO $RI $TQ $C
+%tim:	4 3:2
+*ATT:	&hmm ?
+%spa:	$SO $RI $TQ $C
+%tim:	4 8:2
+*TUR:	good stuff isn't it ?
+%mor:	adj|good n|stuff cop|be&3S~neg|not pro|it ?
+%gra:	1|2|MOD 2|3|SUBJ 3|0|ROOT 4|3|NEG 5|3|PRED 6|3|PUNCT
+%spa:	$STQ
+%tim:	1:1 3:8
+*ATT:	&hmm ?
+%spa:	$RI $TQ
+%tim:	4 11:2
+*ATT:	hey ?
+%mor:	co|hey ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$RI $TQ
+%tim:	5 0:9
+*TUR:	look at mummie .
+%mor:	v|look prep|at n|mum&dadj-DIM .
+%gra:	1|0|ROOT 2|1|JCT 3|2|POBJ 4|1|PUNCT
+%spa:	$CO
+%tim:	8 2:7
+*TUR:	look at mummie .
+%mor:	v|look prep|at n|mum&dadj-DIM .
+%gra:	1|0|ROOT 2|1|JCT 3|2|POBJ 4|1|PUNCT
+%spa:	$CO $C $T
+%tim:	8 2:3
+*TUR:	should mummie change your nappie then ?
+%mor:	mod|should n|mum&dadj-DIM n|change pro:poss:det|your n|nappie
+	adv:tem|then ?
+%gra:	1|3|AUX 2|3|MOD 3|0|INCROOT 4|5|MOD 5|6|MOD 6|3|INCROOT 7|6|PUNCT
+%spa:	$Y-N
+%tim:	1:3 1:4
+*ATT:	&hmm ?
+%spa:	$SO $RI $TQ $T
+%tim:	5 2:1
+*ATT:	Hannah ?
+%mor:	n:prop|Hannah ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$RI $EX
+%tim:	6 1:5
+*ATT:	Hannah ?
+%mor:	n:prop|Hannah ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$RI $EX $C
+%tim:	6 6:7
+*TUR:	is that it ?
+%mor:	cop|be&3S rel|that pro|it ?
+%gra:	1|0|ROOT 2|1|PRED 3|2|OBJ 4|1|PUNCT
+%spa:	$Y-N
+%tim:	6 1:1
+*TUR:	out for ten ?
+%mor:	adv|out prep|for det:num|ten ?
+%gra:	1|0|INCROOT 2|1|JCT 3|2|POBJ 4|1|PUNCT
+%spa:	$RI $Y-N
+%tim:	7 0:6
+*TUR:	no we're working on down below .
+%mor:	co|no pro:sub|we~aux|be&PRES part|work-PRESP adv|on adv|down
+	prep|below .
+%gra:	1|4|COM 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|4|JCT 7|4|JCT 8|4|PUNCT
+%spa:	$ST
+%tim:	1:4 1:8
+*ATT:	yes we are .
+%mor:	co|yes pro:sub|we cop|be&PRES .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+%spa:	$PC $T
+%tim:	7 1:4
+*ATT:	yes we are .
+%mor:	co|yes pro:sub|we cop|be&PRES .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+%spa:	$PC $C $T
+%tim:	8 1:7
+@Comment:	Aside from me then interruption; break is 5.8
+*TUR:	are you finished ?
+%mor:	cop|be&PRES pro|you v|finish-PAST ?
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+%spa:	$Y-N $T
+%tim:	5 3:0
+*TUR:	are you finished ?
+%mor:	cop|be&PRES pro|you v|finish-PAST ?
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+%spa:	$Y-N $C $T
+%tim:	5 3:1
+*TUR:	shall we change you then ?
+%mor:	mod|shall pro:sub|we v|change pro|you adv:tem|then ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|JCT 6|5|PUNCT
+%spa:	$Y-N
+%tim:	9 1:8
+*ATT:	hey ?
+%mor:	co|hey ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$RI $TQ
+%tim:	3 1:5
+*ATT:	hey ?
+%mor:	co|hey ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$RI $TQ $C
+%tim:	4 4:7
+*ATT:	&hmm ?
+%spa:	$SO $RI $TQ
+%tim:	4 9:2
+@Comment:	Pause is to my interruption then dialogue; break is 47.5
+*ATT:	Hannah !
+%mor:	n:prop|Hannah !
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$PH
+%tim:	1:0 0:9
+*ATT:	Hannah ?
+%mor:	n:prop|Hannah ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$PH $C
+%tim:	7 1:3
+*ATT:	Hannah ?
+%mor:	n:prop|Hannah ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$PH $C
+%tim:	5 2:3
+*TUR:	hey have a stretch .
+%mor:	co|hey v|have art|a n|stretch .
+%gra:	1|2|COM 2|0|ROOT 3|4|MOD 4|2|OBJ 5|2|PUNCT
+%spa:	$CO
+%tim:	1:6 1:5
+*TUR:	have a stretch .
+%mor:	v|have art|a n|stretch .
+%gra:	1|0|ROOT 2|3|MOD 3|1|OBJ 4|1|PUNCT
+%spa:	$CO $C
+%tim:	1:0 0:9
+*TUR:	have a stretch .
+%mor:	v|have art|a n|stretch .
+%gra:	1|0|ROOT 2|3|MOD 3|1|OBJ 4|1|PUNCT
+%spa:	$CO $C
+%tim:	9 2:1
+*TUR:	you don't usually cry when you have your nappie changed .
+%mor:	pro|you mod|do~neg|not adv|usual&dadj-LY v|cry conj|when pro|you
+	v|have pro:poss:det|your n|nappie v|change-PAST .
+%gra:	1|5|SUBJ 2|5|AUX 3|2|NEG 4|5|JCT 5|0|ROOT 6|8|LINK 7|8|SUBJ 8|5|CJCT
+	9|10|MOD 10|11|SUBJ 11|8|COMP 12|5|PUNCT
+%spa:	$ST
+%tim:	3:2 2:9
+*ATT:	hey ?
+%mor:	co|hey ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$RI $TQ
+%tim:	3 1:1
+*ATT:	o:h !
+%mor:	co|oh !
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$SO $PH
+%tim:	1:0 1:7
+*ATT:	Hannah ?
+%mor:	n:prop|Hannah ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$RI $EX
+%tim:	6 3:5
+*ATT:	hey ?
+%mor:	co|hey ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$RI $EX $T
+%tim:	2 1:4
+*ATT:	hey ?
+%mor:	co|hey ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$RI $EX $C
+%tim:	5 0:9
+*ATT:	hey ?
+%mor:	co|hey ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$RI $EX $C $T
+%tim:	3 1:6
+*ATT:	hey ?
+%mor:	co|hey ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$RI $EX $C
+%tim:	4 0:5
+*TUR:	have you got tummy pains ?
+%mor:	aux|have pro|you v|get&PAST n|tummy n|pain-PL ?
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|MOD 5|3|OBJ 6|3|PUNCT
+%spa:	$Y-N
+%tim:	1:4 1:4
+*TUR:	have you got tummy pains ?
+%mor:	aux|have pro|you v|get&PAST n|tummy n|pain-PL ?
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|MOD 5|3|OBJ 6|3|PUNCT
+%spa:	$Y-N $C
+%tim:	1:5 0:6
+@Comment:	Mother aside to me; break is 4.2
+*TUR:	it wouldn't surprise me if you have got tummy pains .
+%mor:	pro|it mod|will&COND~neg|not v|surprise pro:obj|me conj|if pro|you
+	v|have v|get&PAST n|tummy n|pain-PL .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|OBJ 6|4|JCT 7|8|SUBJ 8|6|POBJ
+	9|8|OBJ 10|11|MOD 11|9|OBJ 12|4|PUNCT
+%spa:	$ST
+%tim:	2:4 3:2
+*ATT:	hey ?
+%mor:	co|hey ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$RI $EX
+%tim:	2 0:9
+*ATT:	hey ?
+%mor:	co|hey ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$RI $EX $C $T
+%tim:	3 1:9
+*ATT:	Hannah ?
+%mor:	n:prop|Hannah ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$RI $EX
+%tim:	4 1:3
+*ATT:	Hannah ?
+%mor:	n:prop|Hannah ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$RI $EX $C $T
+%tim:	4 2:1
+*ATT:	Hannah ?
+%mor:	n:prop|Hannah ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$RI $EX $C
+%tim:	5 4:6
+*ATT:	&hmm ?
+%spa:	$RI $BC
+%tim:	5 1:1
+*ATT:	oh oh .
+%mor:	co|oh co|oh .
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+%spa:	$SO $BC
+%tim:	1:6 5:5
+*ATT:	alright .
+%mor:	co|alright .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$BC
+%tim:	6 7:5
+*ATT:	alright .
+%mor:	co|alright .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$BC $C
+%tim:	1:0 4:2
+*TUR:	I'm just proving that I'm very good at filling my nappie .
+%mor:	pro:sub|I~aux|be&1S adv|just part|prove-PRESP rel|that
+	pro:sub|I~cop|be&1S adv|very adj|good prep|at n:gerund|fill-PRESP
+	pro:poss:det|my n|nappie .
+%gra:	1|4|SUBJ 2|4|AUX 3|4|JCT 4|0|ROOT 5|7|LINK 6|7|SUBJ 7|4|CMOD 8|9|JCT
+	9|7|PRED 10|7|JCT 11|10|POBJ 12|13|MOD 13|11|OBJ 14|4|PUNCT
+%spa:	$ST
+%tim:	2:7 7:1
+@Comment:	Nappy changing starts here
+*ATT:	alright Treasure .
+%mor:	co|alright n:prop|Treasure .
+%gra:	1|2|COM 2|0|ROOT 3|2|PUNCT
+%spa:	$BC $C
+%tim:	1:0 1:4
+*ATT:	alright .
+%mor:	co|alright .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$BC $C
+%tim:	1:0 4:3
+*ATT:	hey .
+%mor:	co|hey .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$PH $T
+%tim:	5 1:4
+*ATT:	hey .
+%mor:	co|hey .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$PH $C $T
+%tim:	5 1:3
+*ATT:	&hmm !
+%spa:	$SO $BC
+%tim:	1:1 2:2
+@Comment:	Pause is to long unbroken string not scored: "oh it's alright it's alright it's alright it's alright it's alright." Break is 5.0
+*ATT:	yes it is .
+%mor:	co|yes pro|it cop|be&3S .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+%spa:	$PC $T
+%tim:	1:3 0:8
+*ATT:	yes it is .
+%mor:	co|yes pro|it cop|be&3S .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+%spa:	$PC $C $T
+%tim:	1:3 0:8
+*TUR:	yes it is it's quite alright .
+%mor:	co|yes pro|it cop|be&3S pro|it~cop|be&3S adv|quite adj|alright .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|5|SUBJ 5|3|PRED 6|7|JCT 7|5|PRED 8|3|PUNCT
+%spa:	$ST $C
+%tim:	2:5 0:6
+*TUR:	it's quite alright .
+%mor:	pro|it~cop|be&3S adv|quite adj|alright .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|JCT 4|2|PRED 5|2|PUNCT
+%spa:	$ST $C $T
+%tim:	1:2 0:5
+*ATT:	yes it is .
+%mor:	co|yes pro|it cop|be&3S .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+%spa:	$PC $C
+%tim:	8 0:6
+*ATT:	hey ?
+%mor:	co|hey ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$PH $T
+%tim:	3 0:7
+*ATT:	hey ?
+%mor:	co|hey ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$PH $C $T
+%tim:	3 0:9
+*TUR:	kick those legs .
+%mor:	v|kick det|those n|leg-PL .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+%spa:	$CO
+%tim:	9 0:5
+*TUR:	kick those legs .
+%mor:	v|kick det|those n|leg-PL .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+%spa:	$CO $C
+%tim:	9 1:0
+*TUR:	oh that's nice .
+%mor:	co|oh pro:dem|that~cop|be&3S adj|nice .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|3|PUNCT
+%spa:	$ST $C
+%tim:	1:5 0:8
+*TUR:	that's so nice to kick those legs .
+%mor:	pro:dem|that~cop|be&3S adv|so adj|nice inf|to v|kick det|those
+	n|leg-PL .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|JCT 4|2|PRED 5|6|INF 6|2|XCOMP 7|8|DET 8|6|OBJ
+	9|2|PUNCT
+%spa:	$ST $C
+%tim:	2:3 0:9
+*ATT:	yes it is .
+%mor:	co|yes pro|it cop|be&3S .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+%spa:	$PC
+%tim:	9 1:0
+*ATT:	yes it is .
+%mor:	co|yes pro|it cop|be&3S .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+%spa:	$PC $C
+%tim:	9 0:6
+*ATT:	hey ?
+%mor:	co|hey ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$PH $T
+%tim:	3 0:6
+*ATT:	hey ?
+%mor:	co|hey ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$PH $C $T
+%tim:	3 0:6
+*ATT:	shoo o:h !
+%mor:	v|shoo co|oh !
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+%spa:	$SO $PH
+%tim:	1:9 0:5
+*ATT:	hey ?
+%mor:	co|hey ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$PH $C
+%tim:	3 1:1
+*ATT:	hey ?
+%mor:	co|hey ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$PH $C
+%tim:	3 0:5
+*ATT:	chp@o [x 6] !
+%mor:	on|chp !
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$SO $PH
+%tim:	1:6 0:6
+*ATT:	hello .
+%mor:	co|hello .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$GR
+%tim:	1:1 0:8
+*ATT:	hello .
+%mor:	co|hello .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$GR $C
+%tim:	1:1 4:6
+*TUR:	are you clean ?
+%mor:	cop|be&PRES pro|you v|clean ?
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+%spa:	$Y-N $T
+%tim:	9 2:6
+*TUR:	are you clean ?
+%mor:	cop|be&PRES pro|you v|clean ?
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+%spa:	$Y-N $C $T
+%tim:	8 2:9
+*ATT:	there .
+%mor:	adv|there .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$PE
+%tim:	6 1:7
+*ATT:	there .
+%mor:	adv|there .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$PE $C
+%tim:	4 5:5
+*ATT:	hey ?
+%mor:	co|hey ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$PH
+%tim:	2 1:3
+*ATT:	hey ?
+%mor:	co|hey ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$PH $C
+%tim:	3 2:3
+*TUR:	going to have a kick ?
+%mor:	part|go-PRESP inf|to v|have art|a v|kick ?
+%gra:	1|0|INCROOT 2|3|INF 3|1|XCOMP 4|5|SUBJ 5|3|OBJ 6|1|PUNCT
+%spa:	$Y-N $T
+%tim:	9 0:9
+*ATT:	oh no ?
+%mor:	co|oh co|no ?
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+%spa:	$BC $T
+%tim:	8 1:2
+*ATT:	alright .
+%mor:	co|alright .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$BC $T
+%tim:	6 0:8
+*TUR:	mummie nearly done .
+%mor:	n|mum&dadj-DIM adv|near&dadj-LY part|do&PASTP .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|3|PUNCT
+%spa:	$ST $T
+%tim:	9 1:2
+*TUR:	mummie nearly done .
+%mor:	n|mum&dadj-DIM adv|near&dadj-LY part|do&PASTP .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|3|PUNCT
+%spa:	$ST $C $T
+%tim:	9 1:8
+*ATT:	alright .
+%mor:	co|alright .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$BC $T
+%tim:	7 1:6
+*ATT:	o:h Treas pie .
+%mor:	co|oh n:prop|Treas n|pie .
+%gra:	1|3|COM 2|3|SUBJ 3|0|INCROOT 4|3|PUNCT
+%spa:	$SO $BC
+%tim:	3:1 1:3
+*ATT:	oh Treas pie .
+%mor:	co|oh n:prop|Treas n|pie .
+%gra:	1|3|COM 2|3|SUBJ 3|0|INCROOT 4|3|PUNCT
+%spa:	$BC $C
+%tim:	2:0 1:6
+*ATT:	oh dear .
+%mor:	co|oh co|dear .
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+%spa:	$BC
+%tim:	1:0 1:2
+*ATT:	oh dear .
+%mor:	co|oh co|dear .
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+%spa:	$BC $C
+%tim:	9 2:9
+@Comment:	Sound immitations of baby too long to score , pause is to first sound; break is 5.6
+*TUR:	are you talking to mummie ?
+%mor:	cop|be&PRES pro|you part|talk-PRESP prep|to n|mum&dadj-DIM ?
+%gra:	1|0|ROOT 2|1|OBJ 3|2|XMOD 4|3|JCT 5|4|POBJ 6|1|PUNCT
+%spa:	$Y-N
+%tim:	1:2 0:7
+*TUR:	what chou [: you] saying ?
+%mor:	pro:wh|what pro|you part|say-PRESP ?
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+%spa:	$WH $T
+%tim:	9 1:3
+*TUR:	what chou [: you] saying Hannah ?
+%mor:	pro:wh|what pro|you part|say-PRESP n:prop|Hannah ?
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+%spa:	$WH $C $T
+%tim:	1:1 1:3
+*ATT:	hello .
+%mor:	co|hello .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$GR $T
+%tim:	1:2 0:7
+*ATT:	hello .
+%mor:	co|hello .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$GR $C $T
+%tim:	1:0 1:6
+*ATT:	hello .
+%mor:	co|hello .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$GR $C $T
+%tim:	9 1:0
+*TUR:	you got a smile for mummie ?
+%mor:	pro|you v|get&PAST art|a n|smile prep|for n|mum&dadj-DIM ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|3|OBJ 5|4|NJCT 6|5|POBJ 7|2|PUNCT
+%spa:	$Y-N $T
+%tim:	1:4 0:9
+*ATT:	no .
+%mor:	co|no .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$BC
+%tim:	6 0:5
+*TUR:	not today mummie .
+%mor:	neg|not adv:tem|today n|mum&dadj-DIM .
+%gra:	1|3|NEG 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+%spa:	$ST $T
+%tim:	1:1 0:7
+*TUR:	I don't want to smile .
+%mor:	pro:sub|I mod|do~neg|not v|want inf|to v|smile .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|6|INF 6|4|XCOMP 7|4|PUNCT
+%spa:	$ST $T
+%tim:	1:3 0:9
+*TUR:	I don't want to smile when your changing my nappie mummie .
+%mor:	pro:sub|I mod|do~neg|not v|want prep|to n|smile conj|when
+	pro:poss:det|your n:gerund|change-PRESP pro:poss:det|my n|nappie
+	n|mum&dadj-DIM .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|JCT 6|5|POBJ 7|4|JCT 8|9|MOD
+	9|7|POBJ 10|11|MOD 11|12|MOD 12|9|OBJ 13|4|PUNCT
+%spa:	$ST $C
+%tim:	2:7 1:2
+*TUR:	I don't like my nappie being changed .
+%mor:	pro:sub|I mod|do~neg|not v|like pro:poss:det|my n|nappie
+	aux|be-PRESP part|change-PASTP .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|6|MOD 6|8|SUBJ 7|8|AUX 8|4|COMP
+	9|4|PUNCT
+%spa:	$ST
+%tim:	2:0 1:0
+*ATT:	&hmm ?
+%spa:	$SO $RI $TQ
+%tim:	5 1:6
+*ATT:	&hmm ?
+%spa:	$SO $RI $TQ $C
+%tim:	4 2:5
+*ATT:	hey ?
+%mor:	co|hey ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$RI $EX $T
+%tim:	4 1:2
+*ATT:	hey ?
+%mor:	co|hey ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$RI $EX $C $T
+%tim:	2 1:5
+*ATT:	hello .
+%mor:	co|hello .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$GR $T
+%tim:	7 1:0
+*ATT:	hello .
+%mor:	co|hello .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$GR $C $T
+%tim:	6 1:0
+*ATT:	o:h o:h !
+%mor:	co|oh co|oh !
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+%spa:	$SO $BC
+%tim:	3:3 1:1
+*TUR:	oh that's a big sound .
+%mor:	co|oh pro:dem|that~cop|be&3S art|a adj|big n|sound .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|6|MOD 5|6|MOD 6|3|PRED 7|3|PUNCT
+%spa:	$ST
+%tim:	2:0 3:3
+*ATT:	hoo@o [x 3] woo@o [x 4] !
+%mor:	on|hoo on|woo !
+%gra:	1|0|INCROOT 2|1|OBJ 3|1|PUNCT
+%spa:	$SO $PH
+%tim:	3:0 3:7
+*ATT:	hey ?
+%mor:	co|hey ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$RI $TQ
+%tim:	6 1:8
+*ATT:	oh dear .
+%mor:	co|oh co|dear .
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+%spa:	$BC $T
+%tim:	1:2 1:6
+*ATT:	oh dear .
+%mor:	co|oh co|dear .
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+%spa:	$BC $C $T
+%tim:	9 1:3
+*ATT:	oh dear .
+%mor:	co|oh co|dear .
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+%spa:	$BC $C
+%tim:	1:0 2:4
+*ATT:	Hannah ?
+%mor:	n:prop|Hannah ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$RI $EX $T
+%tim:	6 1:0
+*ATT:	Hannah ?
+%mor:	n:prop|Hannah ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$RI $EX $C $T
+%tim:	6 1:0
+*ATT:	Hannah ?
+%mor:	n:prop|Hannah ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$RI $EX $C $T
+%tim:	3 1:1
+*ATT:	Hannah ?
+%mor:	n:prop|Hannah ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$RI $EX $C $T
+%tim:	4 1:1
+*ATT:	mummie's here .
+%mor:	n|mum&dadj-DIM~cop|be&3S adv|here .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|2|PUNCT
+%spa:	$EX $T
+%tim:	9 1:1
+*ATT:	mummie's here darling .
+%mor:	n|mum&dadj-DIM~cop|be&3S adv|here co|darling .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|JCT 4|2|PRED 5|2|PUNCT
+%spa:	$EX $C $T
+%tim:	1:2 1:1
+*ATT:	hey ?
+%mor:	co|hey ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$RI $BC
+%tim:	3 0:6
+*TUR:	are you stretching ?
+%mor:	cop|be&PRES pro|you part|stretch-PRESP ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+%spa:	$Y-N $T
+%tim:	1:0 1:7
+*ATT:	mummie's here .
+%mor:	n|mum&dadj-DIM~cop|be&3S adv|here .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|2|PUNCT
+%spa:	$EX $T
+%tim:	8 1:5
+*ATT:	mummie's here .
+%mor:	n|mum&dadj-DIM~cop|be&3S adv|here .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|2|PUNCT
+%spa:	$EX $C
+%tim:	8 0:9
+*ATT:	yes she is .
+%mor:	co|yes pro:sub|she cop|be&3S .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+%spa:	$PC $T
+%tim:	8 1:5
+*ATT:	yes she is .
+%mor:	co|yes pro:sub|she cop|be&3S .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+%spa:	$PC $C
+%tim:	8 2:1
+*ATT:	hey ?
+%mor:	co|hey ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$RI $EX $T
+%tim:	4 1:1
+*ATT:	hey ?
+%mor:	co|hey ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$RI $EX $C $T
+%tim:	3 0:7
+*ATT:	hey ?
+%mor:	co|hey ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$RI $EX $C $T
+%tim:	3 1:0
+*ATT:	oh .
+%mor:	co|oh .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$SO $BC $T
+%tim:	9 0:7
+*ATT:	oh .
+%mor:	co|oh .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$SO $BC $C $T
+%tim:	9 0:6
+*ATT:	oh .
+%mor:	co|oh .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$SO $BC $C $T
+%tim:	6 0:9
+*TUR:	oh: rolly over .
+%mor:	co|oh adj|roll&dv-Y prep|over .
+%gra:	1|2|COM 2|0|ROOT 3|2|JCT 4|2|PUNCT
+%spa:	$SO $CO
+%tim:	1:9 1:5
+*TUR:	rolly over .
+%mor:	adj|roll&dv-Y prep|over .
+%gra:	1|0|INCROOT 2|1|JCT 3|1|PUNCT
+%spa:	$CO $C $T
+%tim:	9 1:9
+*ATT:	rollie+pollie .
+%mor:	n|+n|rollie+n|pollie .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$PE $C
+%tim:	1:5 2:0
+*ATT:	rollie+pollie .
+%mor:	n|+n|rollie+n|pollie .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$PE $C $T
+%tim:	1:0 1:8
+*ATT:	there .
+%mor:	adv|there .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$PE $T
+%tim:	1:3 1:3
+*ATT:	there .
+%mor:	adv|there .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$PE $C $T
+%tim:	1:0 1:2
+*TUR:	all done .
+%mor:	post|all part|do&PASTP .
+%gra:	1|2|AUX 2|0|ROOT 3|2|PUNCT
+%spa:	$ST $T
+%tim:	7 1:3
+*TUR:	all done .
+%mor:	post|all part|do&PASTP .
+%gra:	1|2|AUX 2|0|ROOT 3|2|PUNCT
+%spa:	$ST $C
+%tim:	8 1:8
+*ATT:	hey ?
+%mor:	co|hey ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$RI $EX
+%tim:	4 2:3
+*ATT:	hey ?
+%mor:	co|hey ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$RI $EX $C $T
+%tim:	3 1:4
+*ATT:	Hannah ?
+%mor:	n:prop|Hannah ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$RI $EX $T
+%tim:	4 1:7
+*ATT:	Hannah ?
+%mor:	n:prop|Hannah ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$RI $EX $C
+%tim:	4 2:5
+*ATT:	Hannah ?
+%mor:	n:prop|Hannah ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$RI $EX $C $T
+%tim:	5 1:7
+*ATT:	hey ?
+%mor:	co|hey ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$RI $EX $T
+%tim:	3 0:9
+*ATT:	oo &ah o:h ?
+%mor:	co|oo co|oh ?
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+%spa:	$SO $PH $T
+%tim:	6 1:1
+*ATT:	o:h o:h ?
+%mor:	co|oh co|oh ?
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+%spa:	$SO $PH $C $T
+%tim:	6 1:4
+*ATT:	Hannah ?
+%mor:	n:prop|Hannah ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$RI $EX
+%tim:	3 1:8
+*ATT:	hello .
+%mor:	co|hello .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$GR
+%tim:	7 1:0
+*ATT:	hello .
+%mor:	co|hello .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$GR $C $T
+%tim:	5 1:4
+*ATT:	hey hey .
+%mor:	co|hey co|hey .
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+%spa:	$SO $PH $T
+%tim:	4 1:5
+*ATT:	mummie's here .
+%mor:	n|mum&dadj-DIM~cop|be&3S adv|here .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|2|PUNCT
+%spa:	$EX $T
+%tim:	9 0:7
+*ATT:	chp@o [x 2] ?
+%mor:	on|chp ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$SO $PH $T
+%tim:	6 0:7
+*ATT:	hello .
+%mor:	co|hello .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$GR
+%tim:	6 2:0
+@Comment:	Total running time is approximately 26 minutes
+@End

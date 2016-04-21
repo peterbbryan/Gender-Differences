@@ -1,0 +1,528 @@
+@UTF8
+@PID:	11312/c-00035937-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child , MOT Mother , SIS Sister , INV Investigator
+@ID:	eng|HSLLD|CHI|10;0.19|female|||Target_Child|||
+@ID:	eng|HSLLD|MOT|||||Mother|10||
+@ID:	eng|HSLLD|SIS|||||Sister|||
+@ID:	eng|HSLLD|INV|||||Investigator|||
+@Birth of CHI:	05-JUL-1985
+@Comment:	SES of Mot is lower
+@Date:	24-JUL-1995
+@Location:	Boston , MA USA
+@Situation:	Home Visit 7
+@Activities:	Letter writing
+*CHI:	Mom (.) you remember the story ?
+%mor:	n:prop|Mom pro|you v|remember det|the n|story ?
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+@Comment:	Time is 0:32
+@Comment:	Chi completes the letter writing task in a room full of noisy children. She doesn't seem distracted by them or by Mot asking them to leave every so often. She shares what she is going to write with Mot , and includes some of her suggestions , but seems very capable of writing the letter without any help. She asks EXP if Eric Carle will write back to her. When Mot asks her why she writes sincerely if she doesn't know what it means , Chi answers <because I like the way it sounds>.
+*INV:	dear Eric .
+%mor:	adj|dear n:prop|Eric .
+%gra:	1|0|INCROOT 2|1|OBJ 3|1|PUNCT
+*INV:	I liked your book The_Very_Hungry_Caterpillar .
+%mor:	pro:sub|I v|like-PAST pro:poss:det|your n|book
+	n:prop|The_Very_Hungry_Caterpillar .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|MOD 4|2|OBJ 5|4|APP 6|2|PUNCT
+*INV:	It was fun .
+%mor:	n:prop|It cop|be&PAST&13S adj|fun .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*INV:	I never seen something so small eat so much .
+%mor:	pro:sub|I adv|never part|see&PASTP pro:indef|something adv|so
+	adj|small v|eat adv|so qn|much .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|3|OBJ 5|3|JCT 6|7|MOD 7|3|CJCT 8|9|JCT
+	9|7|JCT 10|3|PUNCT
+*INV:	I learned that a caterpillar makes a cocoon , gets inside , and when he comes out he's a butterfly .
+%mor:	pro:sub|I v|learn-PAST rel|that det|a n|caterpillar v|make-3S det|a
+	n|cocoon cm|cm v|get-3S adv|inside cm|cm coord|and conj|when
+	pro:sub|he v|come-3S adv|out pro:sub|he~aux|be&3S det|a
+	n|+n|butter+n|fly .
+%gra:	1|2|SUBJ 2|0|ROOT 3|6|LINK 4|5|DET 5|6|SUBJ 6|2|COMP 7|8|DET 8|6|OBJ
+	9|8|LP 10|8|XMOD 11|10|JCT 12|10|LP 13|10|CONJ 14|16|LINK 15|16|SUBJ
+	16|13|COORD 17|16|JCT 18|21|SUBJ 19|21|AUX 20|21|DET 21|16|COMP 22|2|PUNCT
+*INV:	will you write me back because I never got a letter from an author before .
+%mor:	mod|will pro|you v|write pro:obj|me adv|back conj|because pro:sub|I
+	adv|never v|get&PAST det|a n|letter prep|from det|a n|author
+	adv|before .
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|JCT 6|9|LINK 7|9|SUBJ 8|9|JCT
+	9|3|CJCT 10|11|DET 11|9|OBJ 12|11|NJCT 13|14|DET 14|12|POBJ 15|14|NJCT
+	16|3|PUNCT
+*INV:	sincerely , Chi .
+%mor:	adv|sincere&dadj-LY cm|cm n:prop|Chi .
+%gra:	1|3|JCT 2|1|LP 3|0|ROOT 4|3|PUNCT
+*CHI:	(.) you do ?
+%mor:	pro|you v|do ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*CHI:	(.) well then I have_to look at it .
+%mor:	co|well adv:tem|then pro:sub|I mod:aux|have_to v|look prep|at
+	pro|it .
+%gra:	1|5|COM 2|5|JCT 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|JCT 7|6|POBJ 8|5|PUNCT
+*CHI:	(.) he gotta eat [!] .
+%mor:	pro:sub|he mod:aux|gotta v|eat .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|PUNCT
+*MOT:	(..) go in there .
+%mor:	v|go prep|in pro:dem|there .
+%gra:	1|0|ROOT 2|1|JCT 3|2|POBJ 4|1|PUNCT
+*MOT:	bye .
+%mor:	co|bye .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%com:	MOT tells the other children in the room to leave .
+*MOT:	(..) good bye .
+%mor:	adj|good co|bye .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+%com:	the children still haven't left and are being quite noisy
+*MOT:	(..) xxx go on inside .
+%mor:	v|go adv|on adv|inside .
+%gra:	1|0|ROOT 2|1|JCT 3|1|JCT 4|1|PUNCT
+*MOT:	xxx .
+*MOT:	(.) go ahead .
+%mor:	v|go adv|ahead .
+%gra:	1|0|ROOT 2|1|JCT 3|1|PUNCT
+*INV:	(.) you can go look at that one honey (.) okay ?
+%mor:	pro|you mod|can v|go v|look prep|at det|that pro:indef|one n|honey
+	adj|okay ?
+%gra:	1|3|SUBJ 2|3|AUX 3|4|SRL 4|0|ROOT 5|4|JCT 6|8|DET 7|8|MOD 8|5|POBJ
+	9|4|JCT 10|4|PUNCT
+%add:	one of the other children
+*INV:	thank you .
+%mor:	v|thank pro|you .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+%com:	EXP has given one of the kids something else to do
+*MOT:	(..) now whaddya [: what do you] have_to write about ?
+%mor:	adv|now pro:wh|what mod|do pro|you mod:aux|have_to v|write
+	adv|about ?
+%gra:	1|6|JCT 2|6|SUBJ 3|6|AUX 4|6|SUBJ 5|6|AUX 6|0|ROOT 7|6|JCT 8|6|PUNCT
+*MOT:	+^ the book ?
+%mor:	det|the n|book ?
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*MOT:	itself ?
+%mor:	pro:refl|itself ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	xxx (.) Dear@q +...
+%mor:	meta|Dear +...
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	just write a letter to the author .
+%mor:	adv|just v|write det|a n|letter prep|to det|the n|author .
+%gra:	1|2|JCT 2|0|ROOT 3|4|DET 4|2|OBJ 5|4|NJCT 6|7|DET 7|5|POBJ 8|2|PUNCT
+*MOT:	Dear Eric +//.
+%mor:	n:prop|Dear n:prop|Eric +//.
+%gra:	1|0|INCROOT 2|1|APP 3|1|PUNCT
+*CHI:	I like this , Dear +...
+%mor:	pro:sub|I v|like det|this cm|cm n:prop|Dear +...
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|DET 4|3|LP 5|2|OBJ 6|2|PUNCT
+*MOT:	Dear Eric .
+%mor:	n:prop|Dear n:prop|Eric .
+%gra:	1|0|INCROOT 2|1|APP 3|1|PUNCT
+*CHI:	Dear Eric .
+%mor:	n:prop|Dear n:prop|Eric .
+%gra:	1|0|INCROOT 2|1|APP 3|1|PUNCT
+*CHI:	I like your book .
+%mor:	pro:sub|I v|like pro:poss:det|your n|book .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|MOD 4|2|OBJ 5|2|PUNCT
+*MOT:	(.) go ahead .
+%mor:	v|go adv|ahead .
+%gra:	1|0|ROOT 2|1|JCT 3|1|PUNCT
+*MOT:	(..) whaddya [: what do you] wanna write ?
+%mor:	pro:wh|what mod|do pro|you v|want~inf|to v|write ?
+%gra:	1|4|LINK 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|6|INF 6|4|XCOMP 7|4|PUNCT
+*CHI:	Dear Eric I like your book +/.
+%mor:	n:prop|Dear n:prop|Eric pro:sub|I v|like pro:poss:det|your n|book
+	+/.
+%gra:	1|4|LINK 2|1|APP 3|4|SUBJ 4|0|ROOT 5|6|MOD 6|4|OBJ 7|4|PUNCT
+*MOT:	no you got_to write &um +...
+%mor:	co|no pro|you mod:aux|got_to v|write +...
+%gra:	1|4|COM 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|PUNCT
+*CHI:	Dear Eric I like your book The Very Hungry Caterpillar .
+%mor:	n:prop|Dear n:prop|Eric pro:sub|I v|like pro:poss:det|your n|book
+	n:prop|The n:prop|Very n:prop|Hungry n:prop|Caterpillar .
+%gra:	1|4|LINK 2|1|APP 3|4|SUBJ 4|0|ROOT 5|6|MOD 6|4|OBJ 7|4|JCT 8|7|APP
+	9|8|APP 10|9|APP 11|4|PUNCT
+*MOT:	okay .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	(..) okay xxx .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	(..) xxx should I write it like that in capital letters ?
+%mor:	mod|should pro:sub|I v|write pro|it prep|like pro:dem|that adv|in
+	adj|capital n|letter-PL ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|JCT 6|9|MOD 7|8|JCT 8|9|MOD
+	9|5|POBJ 10|3|PUNCT
+*MOT:	yup but <do that> [/] do that +...
+%mor:	co|yup conj|but v|do pro:dem|that +...
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*CHI:	(..) xxx &=whispers .
+%com:	Chi is talking to herself as she writes ?
+*MOT:	(..) xxx .
+*CHI:	xxx .
+*INV:	yup .
+%mor:	co|yup .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	+^ this [= the magnets?] is for later .
+%mor:	pro:dem|this cop|be&3S prep|for adv|later .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|3|POBJ 5|2|PUNCT
+*MOT:	xxx .
+*CHI:	huh ?
+%mor:	co|huh ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	do you want .
+%mor:	mod|do pro|you v|want .
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*CHI:	it was fun and I never seen nobody eat so much .
+%mor:	pro|it cop|be&PAST&13S adj|fun coord|and pro:sub|I adv|never
+	part|see&PASTP pro:indef|nobody v|eat adv|so qn|much .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|9|LINK 5|9|SUBJ 6|9|JCT 7|9|JCT 8|9|SUBJ
+	9|2|CJCT 10|11|JCT 11|9|JCT 12|2|PUNCT
+*MOT:	www .
+%com:	MOT tells kids to leave again
+*MOT:	(.) you're supposed to be writin(g) [!] (.) not running your mouth .
+%mor:	pro|you~aux|be&PRES v|suppose-PAST inf|to aux|be part|write-PRESP
+	neg|not part|run-PRESP pro:poss:det|your n|mouth .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|6|INF 5|6|AUX 6|3|XCOMP 7|6|NEG 8|6|OBJ
+	9|10|MOD 10|8|OBJ 11|3|PUNCT
+*CHI:	I was just telling you what I was gonna write .
+%mor:	pro:sub|I cop|be&PAST&13S adv|just part|tell-PRESP pro|you
+	pro:wh|what pro:sub|I aux|be&PAST&13S part|go-PRESP~inf|to v|write .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|2|PRED 5|4|OBJ 6|9|LINK 7|9|SUBJ 8|9|AUX
+	9|4|COMP 10|11|INF 11|9|XCOMP 12|2|PUNCT
+*MOT:	well you did .
+%mor:	co|well pro|you v|do&PAST .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*MOT:	(..) now why'd you like the book ?
+%mor:	adv|now adv:wh|why~mod|genmod pro|you prep|like det|the n|book ?
+%gra:	1|0|NJCT 2|4|LINK 3|4|AUX 4|1|POBJ 5|4|JCT 6|7|DET 7|5|POBJ 8|0|ROOT
+*CHI:	because it was fun and I never seen nobody eat that much before .
+%mor:	conj|because pro|it cop|be&PAST&13S adj|fun coord|and pro:sub|I
+	adv|never part|see&PASTP pro:indef|nobody v|eat rel|that adv|much
+	adv|before .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|3|CONJ 6|10|SUBJ 7|10|JCT
+	8|10|JCT 9|10|SUBJ 10|5|COORD 11|13|LINK 12|13|JCT 13|10|JCT 14|3|PUNCT
+*MOT:	no [?] .
+%mor:	co|no .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	that's the only reason ?
+%mor:	pro:dem|that~cop|be&3S det|the qn|only n|reason ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|DET 4|5|QUANT 5|2|PRED 6|2|PUNCT
+*MOT:	huh ?
+%mor:	co|huh ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	and the caterpillar was cute .
+%mor:	conj|and det|the n|caterpillar cop|be&PAST&13S adj|cute .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|PRED 6|4|PUNCT
+*MOT:	put a (.) period right there .
+%mor:	v|put&ZERO det|a n|period adv|right adv|there .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|JCT 5|1|JCT 6|1|PUNCT
+*MOT:	(..) (be)cause [=? could] it was [=? be] educational ?
+%mor:	conj|because pro|it cop|be&PAST&13S adj|educational ?
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|3|PUNCT
+*CHI:	(.) yup (.) because you <don't eat much> [//] don't eat too much xxx .
+%mor:	co|yup conj|because pro|you mod|do~neg|not v|eat adv|too qn|much .
+%gra:	1|6|COM 2|6|LINK 3|6|SUBJ 4|6|AUX 5|4|NEG 6|0|ROOT 7|6|JCT 8|6|JCT
+	9|6|PUNCT
+*SIS:	www .
+*MOT:	www .
+%com:	SIS asks if she can look at The Very Hngry Caterpillar . Mot asks her to leave .
+*CHI:	Mom [?] ?
+%mor:	n:prop|Mom ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	go ahead .
+%mor:	v|go adv|ahead .
+%gra:	1|0|ROOT 2|1|JCT 3|1|PUNCT
+*MOT:	write it write it .
+%mor:	v|write pro|it v|write pro|it .
+%gra:	1|0|ROOT 2|3|SUBJ 3|1|COMP 4|3|OBJ 5|1|PUNCT
+*CHI:	(.) it was fun .
+%mor:	pro|it cop|be&PAST&13S adj|fun .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+%com:	Chi is talking to herself as she writes .
+*CHI:	(..) and I never seen nobody eat so much .
+%mor:	conj|and pro:sub|I adv|never part|see&PASTP pro:indef|nobody v|eat
+	adv|so qn|much .
+%gra:	1|6|LINK 2|6|SUBJ 3|6|JCT 4|6|JCT 5|6|SUBJ 6|0|ROOT 7|8|JCT 8|6|JCT
+	9|6|PUNCT
+*CHI:	(.) Mom .
+%mor:	n:prop|Mom .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	(.) &hmm I have [?] never seen (.) something so small eat so much .
+%mor:	pro:sub|I aux|have adv|never part|see&PASTP pro:indef|something
+	adv|so adj|small v|eat adv|so qn|much .
+%gra:	1|4|SUBJ 2|4|AUX 3|4|JCT 4|0|ROOT 5|4|OBJ 6|4|JCT 7|8|MOD 8|4|CJCT
+	9|10|JCT 10|8|JCT 11|4|PUNCT
+*CHI:	xxx .
+*MOT:	(..) xxx write that .
+%mor:	v|write pro:dem|that .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+*MOT:	(.) I never seen something so small (.) eat so much .
+%mor:	pro:sub|I adv|never part|see&PASTP pro:indef|something adv|so
+	adj|small v|eat adv|so qn|much .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|3|OBJ 5|3|JCT 6|7|MOD 7|3|CJCT 8|9|JCT
+	9|7|JCT 10|3|PUNCT
+*CHI:	I don't know why I wrote that sentence .
+%mor:	pro:sub|I mod|do~neg|not v|know adv:wh|why pro:sub|I v|write&PAST
+	det|that n|sentence .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|7|LINK 6|7|SUBJ 7|4|COMP 8|9|DET
+	9|7|OBJ 10|4|PUNCT
+*MOT:	(..) www .
+%com:	MOT tells the other children to leave again
+*CHI:	put a period ?
+%mor:	v|put&ZERO det|a n|period ?
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+*MOT:	yup .
+%mor:	co|yup .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	and what else ?
+%mor:	conj|and pro:wh|what post|else ?
+%gra:	1|0|INCROOT 2|1|COORD 3|2|PQ 4|1|PUNCT
+*CHI:	(.) I don't know .
+%mor:	pro:sub|I mod|do~neg|not v|know .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|PUNCT
+*MOT:	did you learn something ?
+%mor:	v|do&PAST pro|you v|learn pro:indef|something ?
+%gra:	1|0|ROOT 2|3|SUBJ 3|1|COMP 4|3|OBJ 5|1|PUNCT
+*CHI:	(.) I don't know .
+%mor:	pro:sub|I mod|do~neg|not v|know .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|PUNCT
+*MOT:	(.) yes so you learned that (.) caterpillars turn into cocoons right ?
+%mor:	co|yes co|so pro|you v|learn-PAST rel|that n|caterpillar-PL n|turn
+	prep|into n|cocoon-PL adv|right ?
+%gra:	1|4|COM 2|4|COM 3|4|SUBJ 4|0|ROOT 5|7|LINK 6|7|MOD 7|4|OBJ 8|7|NJCT
+	9|8|POBJ 10|9|NJCT 11|4|PUNCT
+*MOT:	I mean (.) make a cocoon right ?
+%mor:	pro:sub|I v|mean v|make det|a n|cocoon adv|right ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|5|DET 5|3|OBJ 6|5|NJCT 7|2|PUNCT
+*MOT:	and turn into butterflies .
+%mor:	conj|and n|turn prep|into n|+n|butter+n|fly-PL .
+%gra:	1|0|INCROOT 2|1|COORD 3|2|NJCT 4|3|POBJ 5|1|PUNCT
+*CHI:	(.) I already knew that .
+%mor:	pro:sub|I adv|already v|know&PAST rel|that .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*MOT:	<but the book> [//] <but still> [//] but you read this book before you &l learned it in school .
+%mor:	conj|but pro|you v|read&ZERO det|this n|book conj|before pro|you
+	v|learn-PAST pro|it prep|in n|school .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|8|LINK 7|8|SUBJ 8|3|CJCT
+	9|8|OBJ 10|8|JCT 11|10|POBJ 12|3|PUNCT
+*CHI:	no I didn't .
+%mor:	co|no pro:sub|I mod|do&PAST~neg|not .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|NEG 5|3|PUNCT
+*MOT:	well anyway (.) you could write that .
+%mor:	co|well co|anyway pro|you mod|could v|write pro:dem|that .
+%gra:	1|5|COM 2|5|COM 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|OBJ 7|5|PUNCT
+*CHI:	I learned that a caterpillar turns into a butterfly .
+%mor:	pro:sub|I v|learn-PAST rel|that det|a n|caterpillar v|turn-3S
+	prep|into det|a n|+n|butter+n|fly .
+%gra:	1|2|SUBJ 2|0|ROOT 3|6|LINK 4|5|DET 5|6|SUBJ 6|2|COMP 7|6|JCT 8|9|DET
+	9|7|POBJ 10|2|PUNCT
+*MOT:	into a who ?
+%mor:	prep|into det|a rel|who ?
+%gra:	1|0|INCROOT 2|3|DET 3|1|POBJ 4|1|PUNCT
+*MOT:	xxx &=laughs .
+*INV:	&=laughs .
+*CHI:	(.) I learned that a caterpillar makes a cocoon and then when it comes out it's a butterfly .
+%mor:	pro:sub|I v|learn-PAST rel|that det|a n|caterpillar v|make-3S det|a
+	n|cocoon coord|and adv:tem|then conj|when pro|it v|come-3S adv|out
+	pro|it~cop|be&3S det|a n|+n|butter+n|fly .
+%gra:	1|2|SUBJ 2|0|ROOT 3|6|LINK 4|5|DET 5|6|SUBJ 6|2|COMP 7|8|DET 8|6|OBJ
+	9|8|CONJ 10|9|COORD 11|13|LINK 12|13|SUBJ 13|10|CJCT 14|13|JCT 15|16|SUBJ
+	16|13|COMP 17|18|DET 18|16|PRED 19|2|PUNCT
+*MOT:	okay .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	(..) www .
+%com:	MOT talks to another child
+*CHI:	(.) is he gonna write us back ?
+%mor:	cop|be&3S pro:sub|he part|go-PRESP~inf|to v|write pro:obj|us
+	adv|back ?
+%gra:	1|0|ROOT 2|1|PRED 3|2|XMOD 4|5|INF 5|3|XCOMP 6|5|OBJ 7|5|JCT 8|1|PUNCT
+*INV:	(.) I don't know .
+%mor:	pro:sub|I mod|do~neg|not v|know .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|PUNCT
+*MOT:	&=laughs .
+*INV:	that's a good question .
+%mor:	pro:dem|that~cop|be&3S det|a adj|good n|question .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|DET 4|5|MOD 5|2|PRED 6|2|PUNCT
+*MOT:	go ahead <you can ask him> [//] you can ask [/] (.) ask him in your letter .
+%mor:	v|go adv|ahead pro|you mod|can v|ask pro:obj|him prep|in
+	pro:poss:det|your n|letter .
+%gra:	1|0|ROOT 2|1|JCT 3|5|SUBJ 4|5|AUX 5|1|COMP 6|5|OBJ 7|5|JCT 8|9|MOD
+	9|7|POBJ 10|1|PUNCT
+*MOT:	(.) xxx .
+*CHI:	(..) how do you spell cocoon ?
+%mor:	adv:wh|how mod|do pro|you n|spell n|cocoon ?
+%gra:	1|4|LINK 2|4|AUX 3|4|SUBJ 4|5|MOD 5|0|INCROOT 6|5|PUNCT
+*CHI:	oh I see how .
+%mor:	co|oh pro:sub|I v|see adv|how .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|PUNCT
+%com:	cocoon is spelled incorrectly in Chi's letter
+*MOT:	(.) xxx .
+*MOT:	(.) xxx .
+*MOT:	(.) xxx ?
+*CHI:	yeah .
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	alright .
+%mor:	co|alright .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	(..) xxx [=? out] a (.) butterfly .
+%mor:	det|a n|+n|butter+n|fly .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*CHI:	that's only xxx and when he comes xxx butterfly .
+%mor:	pro:dem|that~cop|be&3S adv|only conj|and conj|when pro:sub|he
+	v|come-3S n|+n|butter+n|fly .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|2|PRED 5|7|LINK 6|7|SUBJ 7|4|CJCT 8|7|OBJ
+	9|2|PUNCT
+*MOT:	&=giggles .
+*MOT:	(.) he's [!] a butterfly .
+%mor:	pro:sub|he~aux|be&3S det|a n|+n|butter+n|fly .
+%gra:	1|4|SUBJ 2|4|AUX 3|4|DET 4|0|INCROOT 5|4|PUNCT
+*MOT:	(..) www .
+%com:	MOT talks to another child
+@Comment:	Time is 9:33
+*CHI:	and then put will you write me back ?
+%mor:	conj|and adv:tem|then v|put&ZERO mod|will pro|you v|write
+	pro:obj|me adv|back ?
+%gra:	1|3|LINK 2|3|JCT 3|6|SUBJ 4|6|AUX 5|6|SUBJ 6|0|ROOT 7|6|OBJ 8|6|JCT
+	9|6|PUNCT
+@Comment:	Time is 10:00
+*MOT:	(.) &hmm ?
+*CHI:	huh ?
+%mor:	co|huh ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	you know what to write .
+%mor:	pro|you v|know pro:wh|what inf|to v|write .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|5|INF 5|3|XCOMP 6|2|PUNCT
+*CHI:	(.) and then will you write me back (be)cause I never got a note from an author .
+%mor:	conj|and adv:tem|then mod|will pro|you v|write pro:obj|me adv|back
+	conj|because pro:sub|I adv|never v|get&PAST det|a n|note prep|from
+	det|a n|author .
+%gra:	1|5|LINK 2|5|JCT 3|5|AUX 4|5|SUBJ 5|0|ROOT 6|5|OBJ 7|5|JCT 8|11|LINK
+	9|11|SUBJ 10|11|JCT 11|5|CJCT 12|13|DET 13|11|OBJ 14|13|NJCT 15|16|DET
+	16|14|POBJ 17|5|PUNCT
+*MOT:	xxx .
+*CHI:	oh .
+%mor:	co|oh .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	<will you> [/] <will you> [/] (.) will you write me back (be)cause I never got a note from a author [>] +/.
+%mor:	mod|will pro|you v|write pro:obj|me adv|back conj|because pro:sub|I
+	adv|never v|get&PAST det|a n|note prep|from det|a n|author +/.
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|JCT 6|9|LINK 7|9|SUBJ 8|9|JCT
+	9|3|CJCT 10|11|DET 11|9|OBJ 12|11|NJCT 13|14|DET 14|12|POBJ 15|3|PUNCT
+*MOT:	an [<] author before .
+%mor:	det|a n|author adv|before .
+%gra:	1|2|DET 2|0|INCROOT 3|2|NJCT 4|2|PUNCT
+*MOT:	(..) go ahead .
+%mor:	v|go adv|ahead .
+%gra:	1|0|ROOT 2|1|JCT 3|1|PUNCT
+*MOT:	(..) stop right there .
+%mor:	n|stop adv|right adv|there .
+%gra:	1|0|INCROOT 2|3|JCT 3|1|JCT 4|1|PUNCT
+*MOT:	(.) <you don't cut it off right there> [/] you don't cut it off right there .
+%mor:	pro|you mod|do~neg|not v|cut&ZERO pro|it adv|off adv|right
+	adv|there .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|OBJ 6|4|JCT 7|4|JCT 8|4|JCT
+	9|4|PUNCT
+*MOT:	you cut it off right there [!] .
+%mor:	pro|you v|cut&ZERO pro|it adv|off adv|right adv|there .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|JCT 5|2|JCT 6|2|JCT 7|2|PUNCT
+*MOT:	then you do it on the next line .
+%mor:	adv:tem|then pro|you v|do pro|it prep|on det|the adj|next n|line .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|JCT 6|8|DET 7|8|MOD 8|5|POBJ
+	9|3|PUNCT
+*MOT:	you write the whole thing on the next line .
+%mor:	pro|you v|write det|the n|whole n|thing prep|on det|the adj|next
+	n|line .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|DET 4|5|MOD 5|2|OBJ 6|2|JCT 7|9|DET 8|9|MOD
+	9|6|POBJ 10|2|PUNCT
+%com:	Chi had written <ca-> on one line and use on the next . she changed it to <be-> on one line and cause on the next
+*MOT:	(..) www .
+%com:	MOT is speaking to another child
+*MOT:	(..) now write love Chi .
+%mor:	adv|now v|write n|love n:prop|Chi .
+%gra:	1|2|JCT 2|0|ROOT 3|2|OBJ 4|2|JCT 5|2|PUNCT
+*MOT:	(.) or sincerely Chi .
+%mor:	conj|or adv|sincere&dadj-LY n:prop|Chi .
+%gra:	1|3|LINK 2|3|JCT 3|0|ROOT 4|3|PUNCT
+*MOT:	(.) it's up to you .
+%mor:	pro|it~cop|be&3S adv|up prep|to pro|you .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|2|JCT 5|4|POBJ 6|2|PUNCT
+*MOT:	www .
+%com:	MOT speaks to another child
+*CHI:	Mom (.) what does that mean ?
+%mor:	n:prop|Mom adv|what mod|do&3S pro:dem|that adj|mean ?
+%gra:	1|4|SUBJ 2|4|JCT 3|4|AUX 4|0|ROOT 5|4|PRED 6|4|PUNCT
+*MOT:	(.) what sincerely@q ?
+%mor:	pro:wh|what meta|sincerely ?
+%gra:	1|2|LINK 2|0|ROOT 3|2|PUNCT
+*MOT:	(.) if you don't know what it means why you gonna write it ?
+%mor:	conj|if pro|you mod|do~neg|not v|know pro:wh|what pro|it v|mean-3S
+	adv:wh|why pro|you part|go-PRESP~inf|to v|write pro|it ?
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|3|NEG 5|0|ROOT 6|8|OBJ 7|8|SUBJ 8|5|COMP
+	9|11|LINK 10|11|SUBJ 11|8|OBJ 12|13|INF 13|11|XCOMP 14|13|OBJ 15|5|PUNCT
+*CHI:	(be)cause I like the way it sounds .
+%mor:	conj|because pro:sub|I v|like det|the n|way pro|it v|sound-3S .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|7|SUBJ 7|5|XMOD 8|3|PUNCT
+*MOT:	&=laughs [>] .
+*INV:	&=laughs [<] .
+*MOT:	(..) dear god that girl got a long name .
+%mor:	adj|dear n|god det|that n|girl v|get&PAST det|a adj|long n|name .
+%gra:	1|2|MOD 2|5|LINK 3|4|DET 4|5|SUBJ 5|0|ROOT 6|8|DET 7|8|MOD 8|5|OBJ
+	9|5|PUNCT
+%com:	Chi's last name is hyphenated
+*CHI:	no he willn't .
+%mor:	co|no pro:sub|he mod|will~neg|not .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|NEG 5|3|PUNCT
+%int:	quietly
+*INV:	(.) great .
+%mor:	adj|great .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	+^ all set ?
+%mor:	qn|all n|set ?
+%gra:	1|2|QUANT 2|0|INCROOT 3|2|PUNCT
+*INV:	will you read it for me Chi ?
+%mor:	mod|will pro|you v|read&ZERO pro|it prep|for pro:obj|me n:prop|Chi
+	?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|JCT 6|5|POBJ 7|5|POBJ 8|3|PUNCT
+*INV:	can I hear +...
+%mor:	mod|can pro:sub|I v|hear +...
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*CHI:	Dear Eric .
+%mor:	n:prop|Dear n:prop|Eric .
+%gra:	1|0|INCROOT 2|1|APP 3|1|PUNCT
+*CHI:	I like your book The Very Hungry Caterpillar .
+%mor:	pro:sub|I v|like pro:poss:det|your n|book n:prop|The n:prop|Very
+	n:prop|Hungry n:prop|Caterpillar .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|MOD 4|2|OBJ 5|2|JCT 6|5|APP 7|6|APP 8|7|APP
+	9|2|PUNCT
+*CHI:	it was fun .
+%mor:	pro|it cop|be&PAST&13S adj|fun .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*CHI:	I never seen something so small eat so much .
+%mor:	pro:sub|I adv|never part|see&PASTP pro:indef|something adv|so
+	adj|small v|eat adv|so qn|much .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|3|OBJ 5|3|JCT 6|7|MOD 7|3|CJCT 8|9|JCT
+	9|7|JCT 10|3|PUNCT
+*CHI:	I learned that a caterpillar makes a cocoon (.) gets inside (.) and when he comes out he's a butterfly .
+%mor:	pro:sub|I v|learn-PAST rel|that det|a n|caterpillar v|make-3S det|a
+	n|cocoon v|get-3S n|inside coord|and conj|when pro:sub|he v|come-3S
+	adv|out pro:sub|he~aux|be&3S det|a n|+n|butter+n|fly .
+%gra:	1|2|SUBJ 2|0|ROOT 3|6|LINK 4|5|DET 5|6|SUBJ 6|2|COMP 7|8|DET 8|9|SUBJ
+	9|6|COMP 10|9|OBJ 11|9|CONJ 12|14|LINK 13|14|SUBJ 14|11|COORD 15|14|JCT
+	16|19|SUBJ 17|19|AUX 18|19|DET 19|14|COMP 20|2|PUNCT
+*CHI:	will you write me back because I never got a letter from an author before .
+%mor:	mod|will pro|you v|write pro:obj|me adv|back conj|because pro:sub|I
+	adv|never v|get&PAST det|a n|letter prep|from det|a n|author
+	adv|before .
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|JCT 6|9|LINK 7|9|SUBJ 8|9|JCT
+	9|3|CJCT 10|11|DET 11|9|OBJ 12|11|NJCT 13|14|DET 14|12|POBJ 15|14|NJCT
+	16|3|PUNCT
+*CHI:	sincerely Chi .
+%mor:	adv|sincere&dadj-LY n:prop|Chi .
+%gra:	1|2|JCT 2|0|ROOT 3|2|PUNCT
+*INV:	that's wonderful .
+%mor:	pro:dem|that~cop|be&3S adj|wonder-FULL .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*INV:	thank you so much .
+%mor:	v|thank pro|you adv|so qn|much .
+%gra:	1|0|ROOT 2|1|OBJ 3|4|JCT 4|1|JCT 5|1|PUNCT
+@Comment:	Time is 13:16
+@End

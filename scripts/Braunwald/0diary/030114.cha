@@ -1,0 +1,78 @@
+@UTF8
+@PID:	11312/c-00011130-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, MOT Mother, SIS Sister, FAT Father
+@ID:	eng|Braunwald|CHI|03;01.14|female|||Target_Child|||
+@ID:	eng|Braunwald|MOT|||||Mother|||
+@ID:	eng|Braunwald|SIS|||||Sister|||
+@ID:	eng|Braunwald|FAT|||||Father|||
+@Date:	03-APR-1974
+*CHI:	give me brownies .
+%mor:	v|give pro:obj|me n|brown&dadj-DIM-PL .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|OBJ 4|1|PUNCT
+%sit:	622
+*SIS:	brownies !
+%mor:	n|brown&dadj-DIM-PL !
+%gra:	1|0|INCROOT 2|1|PUNCT
+%sit:	622
+*SIS:	you mean cinnamonon [: cinnamon] buns .
+%mor:	pro|you v|mean n|cinnamon n|bun-PL .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|MOD 4|2|OBJ 5|2|PUNCT
+%sit:	622
+*CHI:	no one else can have any of my cinnamon bun, okay ?
+%mor:	qn|no pro:indef|one post|else mod|can v|have qn|any prep|of
+	pro:poss:det|my n|cinnamon n|bun cm|cm adj|okay ?
+%gra:	1|2|QUANT 2|5|SUBJ 3|2|PQ 4|5|AUX 5|0|ROOT 6|12|QUANT 7|12|JCT 8|9|MOD
+	9|10|MOD 10|7|POBJ 11|10|LP 12|5|OBJ 13|5|PUNCT
+%sit:	623
+*SIS:	only Katie if there's leftovers .
+%mor:	adv|only n:prop|Katie conj|if pro:exist|there~cop|be&3S
+	n|+v|left+prep|over-PL .
+%gra:	1|2|JCT 2|0|ROOT 3|5|LINK 4|5|SUBJ 5|2|CJCT 6|5|PRED 7|2|PUNCT
+%sit:	623
+*FAT:	Katie's having soup .
+%mor:	n:prop|Katie~aux|be&3S part|have-PRESP n|soup .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+%sit:	623
+*CHI:	you hafta grow in the bosom then down in the uterus .
+%mor:	pro|you mod:aux|hafta v|grow prep|in det|the n|bosom adv:tem|then
+	adv|down prep|in det|the n|uterus .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|3|XJCT 8|7|JCT
+	9|7|JCT 10|11|DET 11|9|POBJ 12|3|PUNCT
+%sit:	624
+*MOT:	you what ?
+%mor:	pro|you pro:wh|what ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+%sit:	624
+*CHI:	you hafta grow down in the bosom then down in the uterus .
+%mor:	pro|you mod:aux|hafta v|grow adv|down prep|in det|the n|bosom
+	adv:tem|then adv|down prep|in det|the n|uterus .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|3|JCT 6|7|DET 7|5|POBJ 8|3|JCT
+	9|8|JCT 10|8|JCT 11|12|DET 12|10|POBJ 13|3|PUNCT
+%sit:	624
+*FAT:	see, baseball's starting in a couple of days .
+%mor:	co|see cm|cm n|baseball~aux|be&3S part|start-PRESP prep|in det|a
+	n|couple prep|of n|day-PL .
+%gra:	1|5|COM 2|1|LP 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|JCT 7|8|DET 8|6|POBJ
+	9|8|NJCT 10|9|POBJ 11|5|PUNCT
+%sit:	625
+*SIS:	how's fat's Ruthie getting ?
+%mor:	rel|how~aux|be&3S n|fat~aux|be&3S n:prop|Ruthie part|get-PRESP ?
+%gra:	1|3|LINK 2|3|AUX 3|6|SUBJ 4|6|AUX 5|6|AUX 6|0|ROOT 7|6|PUNCT
+%sit:	625
+*CHI:	Ruthie's getting fat as a baseball .
+%mor:	n:prop|Ruthie~aux|be&3S part|get-PRESP n|fat conj|as det|a
+	n|baseball .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|3|JCT 6|7|DET 7|5|OBJ 8|3|PUNCT
+%sit:	625
+*MOT:	what ?
+%mor:	pro:wh|what ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%sit:	625
+*CHI:	she's getting fat as a baseball .
+%mor:	pro:sub|she~aux|be&3S part|get-PRESP n|fat conj|as det|a n|baseball
+	.
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|3|OBJ 6|7|DET 7|5|OBJ 8|3|PUNCT
+%sit:	625
+@End

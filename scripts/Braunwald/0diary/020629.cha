@@ -1,0 +1,47 @@
+@UTF8
+@PID:	11312/c-00010960-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, MOT Mother
+@ID:	eng|Braunwald|CHI|02;06.29|female|||Target_Child|||
+@ID:	eng|Braunwald|MOT|||||Mother|||
+@Date:	19-SEP-1973
+*CHI:	if a monster stealed our washing machine, then we be sad .
+%mor:	conj|if det|a n|monster v|steal-PAST pro:poss:det|our
+	part|wash-PRESP n|machine cm|cm adv:tem|then pro:sub|we cop|be
+	adj|sad .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|7|MOD 6|7|MOD 7|4|OBJ 8|7|LP
+	9|11|JCT 10|11|SUBJ 11|7|CJCT 12|11|PRED 13|4|PUNCT
+%sit:	692
+*CHI:	this a friendly dog .
+%mor:	det|this det|a adj|friend&dn-LY n|dog .
+%gra:	1|4|DET 2|4|DET 3|4|MOD 4|0|INCROOT 5|4|PUNCT
+%sit:	693
+*CHI:	he doesn't bite .
+%mor:	pro:sub|he mod|do&3S~neg|not v|bite .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|PUNCT
+%sit:	693
+*CHI:	let me say “Braunwald residence” .
+%mor:	v|let&ZERO pro:obj|me v|say bq|bq n:prop|Braunwald n|residence
+	eq|eq .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|COMP 4|3|OBJ 5|6|MOD 6|7|MOD 7|4|MOD 8|1|PUNCT
+%sit:	694
+*MOT:	it's not our phone .
+%mor:	pro|it~cop|be&3S neg|not pro:poss:det|our n|phone .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|NEG 4|5|MOD 5|2|PRED 6|2|PUNCT
+%sit:	694
+*CHI:	Mommy, that our telephone ?
+%mor:	n:prop|Mommy cm|cm rel|that pro:poss:det|our n|telephone ?
+%gra:	1|5|MOD 2|1|LP 3|5|LINK 4|5|MOD 5|0|INCROOT 6|5|PUNCT
+%sit:	695
+*MOT:	nope, it's the Evans' .
+%mor:	co|nope cm|cm pro|it~cop|be&3S det|the n:prop|Evans~poss|s .
+%gra:	1|4|COM 2|1|LP 3|4|SUBJ 4|0|ROOT 5|6|DET 6|4|PRED 7|6|POSS 8|4|PUNCT
+%sit:	695
+*CHI:	when our telephone rings, then I get it .
+%mor:	conj|when pro:poss:det|our n|telephone n|ring-PL cm|cm adv:tem|then
+	pro:sub|I v|get pro|it .
+%gra:	1|4|LINK 2|3|MOD 3|4|MOD 4|8|SUBJ 5|4|LP 6|8|JCT 7|8|SUBJ 8|0|ROOT
+	9|8|OBJ 10|8|PUNCT
+%sit:	695
+@End

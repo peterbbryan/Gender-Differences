@@ -1,0 +1,54 @@
+@UTF8
+@PID:	11312/c-00011007-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, MOT Mother
+@ID:	eng|Braunwald|CHI|02;08.16|female|||Target_Child|||
+@ID:	eng|Braunwald|MOT|||||Mother|||
+@Date:	05-NOV-1973
+*CHI:	this is her cradle, right ?
+%mor:	pro:dem|this cop|be&3S pro:poss:det|her n|cradle cm|cm n|right ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|MOD 4|6|MOD 5|4|LP 6|2|PRED 7|2|PUNCT
+%sit:	963
+*MOT:	right .
+%mor:	co|right .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%sit:	963
+*CHI:	let me get one that isn't tored [: torn] [*] .
+%mor:	v|let&ZERO pro:obj|me v|get pro:indef|one rel|that
+	cop|be&3S~neg|not part|tear&PASTP .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|COMP 4|3|OBJ 5|6|LINK 6|4|CMOD 7|6|NEG 8|6|PRED
+	9|1|PUNCT
+%sit:	964
+*CHI:	I wanna wear one that wasn't tored [: torn] [*] .
+%mor:	pro:sub|I v|want~inf|to v|wear pro:indef|one rel|that
+	cop|be&PAST&13S~neg|not part|tear&PASTP .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|INF 4|2|XCOMP 5|4|OBJ 6|7|LINK 7|4|COMP 8|7|NEG
+	9|7|PRED 10|2|PUNCT
+%sit:	964
+*CHI:	my dolly wants to kiss you, and she wants to tell you somethin(g)
+	about her school .
+%mor:	pro:poss:det|my n|doll-DIM v|want-3S inf|to v|kiss pro|you cm|cm
+	coord|and pro:sub|she v|want-3S inf|to v|tell pro|you
+	pro:indef|something prep|about pro:poss:det|her n|school .
+%gra:	1|2|MOD 2|3|SUBJ 3|0|ROOT 4|5|INF 5|3|XCOMP 6|5|OBJ 7|6|LP 8|5|COORD
+	9|10|SUBJ 10|8|CONJ 11|12|INF 12|10|XCOMP 13|14|SUBJ 14|12|OBJ 15|12|JCT
+	16|17|MOD 17|15|POBJ 18|3|PUNCT
+%sit:	965
+*CHI:	want your fountain pen ?
+%mor:	v|want pro:poss:det|your n|fountain n|pen ?
+%gra:	1|0|ROOT 2|3|MOD 3|4|MOD 4|1|OBJ 5|1|PUNCT
+%sit:	966
+*MOT:	no no .
+%mor:	co|no co|no .
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+%sit:	966
+*CHI:	for extra .
+%mor:	conj|for adj|extra .
+%gra:	1|2|LINK 2|0|ROOT 3|2|PUNCT
+%sit:	966
+*MOT:	no, I don't want it .
+%mor:	co|no cm|cm pro:sub|I mod|do~neg|not v|want pro|it .
+%gra:	1|6|COM 2|1|LP 3|6|SUBJ 4|6|AUX 5|4|NEG 6|0|ROOT 7|6|OBJ 8|6|PUNCT
+%sit:	966
+@End

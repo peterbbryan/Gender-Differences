@@ -1,0 +1,217 @@
+@UTF8
+@PID:	11312/c-00034881-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child , MOT Mother
+@ID:	eng|HSLLD|CHI|3;10.00|male|||Target_Child|||
+@ID:	eng|HSLLD|MOT|||||Mother|14||
+@Birth of CHI:	08-OCT-1984
+@Comment:	SES of Mot is lower
+@Date:	08-AUG-1988
+@Location:	Boston , MA , USA
+@Situation:	Home Visit 1; took place in STE's bedroom; Mot and STE alternately sitting and laying on the floor; early afternoon of a very warm summer day
+@Activities:	Elicited report
+*MOT:	where did you go with Fred yesterday ?
+%mor:	adv:wh|where mod|do&PAST pro|you v|go prep|with n:prop|Fred
+	adv:tem|yesterday ?
+%gra:	1|4|LINK 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|7|MOD 7|5|POBJ 8|4|PUNCT
+%cod:	$N:RI:O
+*CHI:	huh ?
+%mor:	co|huh ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$N:RC
+*MOT:	where did you go with Fred (.) ?
+%mor:	adv:wh|where mod|do&PAST pro|you v|go prep|with n:prop|Fred ?
+%gra:	1|4|LINK 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|5|POBJ 7|4|PUNCT
+%cod:	$N:GC
+*MOT:	you Ricky (.) and Richard (.) Fred .
+%mor:	pro|you n:prop|Ricky coord|and n:prop|Richard n:prop|Fred .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|CONJ 4|3|COORD 5|4|APP 6|2|PUNCT
+%cod:	$N:RI:S
+*MOT:	Nella ?
+%mor:	n:prop|Nella ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$N:RI:S
+*CHI:	0 .
+%act:	absently moves toy
+*MOT:	huh ?
+%mor:	co|huh ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$N:RI:S:R
+*CHI:	crab .
+%mor:	n|crab .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%int:	rising
+%cod:	$N:GI:RS
+*CHI:	to buy crab .
+%mor:	inf|to n|buy n|crab .
+%gra:	1|2|INF 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+%cod:	$N:GI:S
+*MOT:	oh .
+%mor:	co|oh .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$N:FA
+*CHI:	and it bites [!] <and I> [/] <and I> [/] (.) and I see a frog (.) walking .
+%mor:	conj|and pro|it v|bite-3S coord|and pro:sub|I v|see det|a n|frog
+	part|walk-PRESP .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|6|LINK 5|6|SUBJ 6|3|COMP 7|8|DET 8|6|OBJ
+	9|8|XMOD 10|3|PUNCT
+%gpx:	laying on his back
+%act:	playing with bus
+%cod:	$N:GI:S $N:GI:S
+*MOT:	now what [/] what else did you see ?
+%mor:	adv|now pro:wh|what post|else mod|do&PAST pro|you v|see ?
+%gra:	1|6|JCT 2|6|SUBJ 3|2|PQ 4|6|AUX 5|6|SUBJ 6|0|ROOT 7|6|PUNCT
+%cod:	$N:RI:C
+*MOT:	what else ?
+%mor:	pro:wh|what post|else ?
+%gra:	1|0|INCROOT 2|1|PQ 3|1|PUNCT
+%cod:	$N:RI:C:R
+*CHI:	and they [?] pick up (.) frogs (.) and they [?] pick up (.) crabs +...
+%mor:	conj|and pro:sub|they v|pick prep|up n|frog-PL coord|and
+	pro:sub|they v|pick prep|up n|crab-PL +...
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|4|POBJ 6|8|LINK 7|8|SUBJ 8|3|CJCT
+	9|8|JCT 10|9|POBJ 11|3|PUNCT
+%act:	bef plays with bus
+%alt:	<2 , 7> then
+%cod:	$N:GI:RC $N:GI:S
+*MOT:	and what else ?
+%mor:	conj|and pro:wh|what post|else ?
+%gra:	1|0|INCROOT 2|1|COORD 3|2|PQ 4|1|PUNCT
+%cod:	$N:RI:C
+*CHI:	0 .
+%act:	plays with bus without answering
+*MOT:	what else ?
+%mor:	pro:wh|what post|else ?
+%gra:	1|0|INCROOT 2|1|PQ 3|1|PUNCT
+%cod:	$N:RI:C:R
+*CHI:	and [?] go out .
+%mor:	conj|and v|go adv|out .
+%gra:	1|2|LINK 2|0|ROOT 3|2|JCT 4|2|PUNCT
+%cod:	$N:GI:RC
+*MOT:	out where (.) ?
+%mor:	prep|out adv:wh|where ?
+%gra:	1|0|INCROOT 2|1|POBJ 3|1|PUNCT
+%cod:	$N:RI:S
+*MOT:	what else did you do with them ?
+%mor:	pro:wh|what post|else mod|do&PAST pro|you v|do prep|with
+	pro:obj|them ?
+%gra:	1|5|LINK 2|1|PQ 3|5|AUX 4|5|SUBJ 5|0|ROOT 6|5|JCT 7|6|POBJ 8|5|PUNCT
+%cod:	$N:RI:C
+*CHI:	and [?] go out <with (.) moto(rcycle)> [//] to buy motorcycle +...
+%mor:	conj|and v|go adv|out prep|to n|buy n|motorcycle +...
+%gra:	1|2|LINK 2|0|ROOT 3|2|JCT 4|2|JCT 5|6|MOD 6|4|POBJ 7|2|PUNCT
+%cod:	$N:GI:RC
+*MOT:	oh xxx again .
+%mor:	co|oh adv|again .
+%gra:	1|0|INCROOT 2|1|JCT 3|1|PUNCT
+%cod:	$O
+*MOT:	motorcycles in your head .
+%mor:	n|motorcycle-PL prep|in pro:poss:det|your n|head .
+%gra:	1|0|INCROOT 2|1|NJCT 3|4|MOD 4|2|POBJ 5|1|PUNCT
+%cod:	$O
+*MOT:	you're always talking about motorcycles !
+%mor:	pro|you~cop|be&PRES adv|always part|talk-PRESP prep|about
+	n|motorcycle-PL !
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|2|XJCT 5|4|JCT 6|5|POBJ 7|2|PUNCT
+%cod:	$O
+*MOT:	I don't think xxx !
+%mor:	pro:sub|I mod|do~neg|not v|think !
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|PUNCT
+%cod:	$O
+*MOT:	zzz .
+%mor:	co|zzz .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%par:	laughs
+*CHI:	motorcycle in head [?] .
+%mor:	n|motorcycle prep|in n|head .
+%gra:	1|0|INCROOT 2|1|NJCT 3|2|POBJ 4|1|PUNCT
+%cod:	$O
+*CHI:	you had two .
+%mor:	pro|you v|have&PAST det:num|two .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+%cod:	$O
+%par:	sing-song
+*MOT:	no .
+%mor:	co|no .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$O
+*MOT:	you don't always talk about motorcycles .
+%mor:	pro|you mod|do~neg|not adv|always n|talk prep|about n|motorcycle-PL
+	.
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|NEG 4|2|JCT 5|2|XJCT 6|5|NJCT 7|6|POBJ 8|2|PUNCT
+%cod:	$O
+*CHI:	haha you [!] do .
+%mor:	co|haha pro|you v|do .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+%cod:	$O
+*MOT:	why don't you tell me everything you and Fred did yesterday (.) .
+%mor:	adv:wh|why mod|do~neg|not pro|you v|tell pro:obj|me
+	pro:indef|everything pro|you coord|and n:prop|Fred v|do&PAST
+	adv:tem|yesterday .
+%gra:	1|5|LINK 2|5|AUX 3|2|NEG 4|5|SUBJ 5|0|ROOT 6|5|OBJ2 7|5|OBJ 8|11|SUBJ
+	9|11|LINK 10|11|SUBJ 11|7|CJCT 12|11|JCT 13|5|PUNCT
+%cod:	$N:RI:O
+*MOT:	and Ricky and Richard .
+%mor:	conj|and n:prop|Ricky coord|and n:prop|Richard .
+%gra:	1|0|INCROOT 2|1|COORD 3|2|CONJ 4|3|COORD 5|1|PUNCT
+%cod:	$N:RI:O
+*CHI:	I go to (.) crab .
+%mor:	pro:sub|I v|go prep|to n|crab .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|3|POBJ 5|2|PUNCT
+%cod:	$N:GI:RO
+%int:	<4> rising
+*CHI:	<to see c(rab) [/] > [>] .
+%mor:	inf|to v|see .
+%gra:	1|2|INF 2|0|ROOT 3|2|PUNCT
+%cod:	$N:GI:S:I
+*MOT:	<but you went [/] > [<] .
+%mor:	conj|but pro|you .
+%gra:	1|0|INCROOT 2|1|OBJ 3|1|PUNCT
+%cod:	$N:U
+*CHI:	I see crab and I see (.) crab walking [?] and crab walking +...
+%mor:	pro:sub|I v|see n|crab coord|and pro:sub|I v|see n|crab
+	part|walk-PRESP coord|and n|crab part|walk-PRESP +...
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|CONJ 5|6|SUBJ 6|4|COORD 7|6|OBJ 8|7|XMOD
+	9|8|CONJ 10|11|MOD 11|9|COORD 12|2|PUNCT
+%int:	<8 , 11> rising
+%par:	<8>yells
+%cod:	$N:GI:S $N:GI:S $N:GI:S
+*CHI:	and they bite [!] me (.) and I say ouch@q !
+%mor:	conj|and pro:sub|they v|bite pro:obj|me coord|and pro:sub|I v|say
+	meta|ouch !
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|COORD 6|7|SUBJ 7|5|CONJ 8|7|OBJ
+	9|3|PUNCT
+%par:	yells
+%act:	acts out events rolling on the floor
+%cod:	$N:GI:S $N:GI:S
+*CHI:	&ah !
+%par:	yells
+%act:	acts out events rolling on the floor
+%cod:	$N:GI:S
+*CHI:	haha !
+%mor:	co|haha !
+%gra:	1|0|INCROOT 2|1|PUNCT
+%par:	yells
+%act:	acts out events rolling on the floor
+%cod:	$N:U
+*CHI:	and I laugh !
+%mor:	conj|and pro:sub|I v|laugh !
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+%par:	yells
+%act:	acts out events rolling on the floor
+%cod:	$N:GI:S
+*CHI:	and I laugh !
+%mor:	conj|and pro:sub|I v|laugh !
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+%par:	yells
+%act:	acts out events rolling on the floor
+%cod:	$N:GI:S
+*CHI:	and I laugh !
+%mor:	conj|and pro:sub|I v|laugh !
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+%par:	yells
+%act:	acts out events rolling on the floor
+%com:	this is a very dramatic account
+%cod:	$N:GI:S
+@End

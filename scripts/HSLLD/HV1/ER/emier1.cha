@@ -1,0 +1,303 @@
+@UTF8
+@PID:	11312/c-00034877-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child , MOT Mother , SIS Sister , EX2 Investigator
+@ID:	eng|HSLLD|CHI|3;07.23|female|||Target_Child|||
+@ID:	eng|HSLLD|MOT|||||Mother|9||
+@ID:	eng|HSLLD|SIS|||||Sister|||
+@ID:	eng|HSLLD|EX2|||||Investigator|||
+@Birth of CHI:	21-DEC-1984
+@Comment:	SES of Mot is lower
+@Date:	15-AUG-1988
+@Location:	Boston , MA USA
+@Situation:	First home visit
+@Activities:	Elicited report
+*MOT:	what did you do the day before that ?
+%mor:	pro:wh|what mod|do&PAST pro|you v|do det|the n|day prep|before
+	pro:dem|that ?
+%gra:	1|4|LINK 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|6|DET 6|4|OBJ 7|6|NJCT 8|7|POBJ
+	9|4|PUNCT
+%cod:	$N:RI:O
+*CHI:	nothing .
+%mor:	pro:indef|nothing .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$N:GI:RO
+*MOT:	zzz .
+%mor:	co|zzz .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	nothing [!] ?
+%mor:	pro:indef|nothing ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$N:FC
+*MOT:	you could forget ?
+%mor:	pro|you mod|could v|forget ?
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|PUNCT
+%cod:	$N:RI:L
+*MOT:	when we went to +...
+%mor:	conj|when pro:sub|we v|go&PAST prep|to +...
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|PUNCT
+%int:	<4> lengthened
+%cod:	$N:RI:S:B
+*MOT:	what beach did we go to ?
+%mor:	pro:wh|what n|beach mod|do&PAST pro:sub|we v|go prep|to ?
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|5|SUBJ 5|0|ROOT 6|5|JCT 7|5|PUNCT
+%par:	intake of breath
+%cod:	$N:RI:S
+*SIS:	zzz .
+%mor:	co|zzz .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%par:	babbles
+*CHI:	I don't know .
+%mor:	pro:sub|I mod|do~neg|not v|know .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|PUNCT
+%cod:	$N:GI:RS:N
+*MOT:	we went to Salisbury beach Emily !
+%mor:	pro:sub|we v|go&PAST prep|to n:prop|Salisbury n|beach n:prop|Emily
+	!
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|5|MOD 5|3|POBJ 6|5|APP 7|2|PUNCT
+%cod:	$N:GI:RS:S
+*EX2:	you went to Salisbury beach ?
+%mor:	pro|you v|go&PAST prep|to n:prop|Salisbury n|beach ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|5|MOD 5|3|POBJ 6|2|PUNCT
+*MOT:	and what did you do while we were there (.) ?
+%mor:	coord|and pro:wh|what mod|do&PAST pro|you v|do conj|while
+	pro:sub|we cop|be&PAST adv|there ?
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|5|SUBJ 5|0|ROOT 6|8|LINK 7|8|SUBJ 8|5|CJCT
+	9|8|JCT 10|5|PUNCT
+%cod:	$N:RI:S
+*MOT:	remember you were crying ?
+%mor:	co|remember pro|you aux|be&PAST part|cry-PRESP ?
+%gra:	1|4|COM 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|PUNCT
+%cod:	$N:RI:S
+*MOT:	how come ?
+%mor:	adv:wh|how v|come ?
+%gra:	1|2|LINK 2|0|ROOT 3|2|PUNCT
+%cod:	$N:RI:S
+*CHI:	I wanted uncle [>] .
+%mor:	pro:sub|I v|want-PAST n|uncle .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+%cod:	$N:GI:RS
+*MOT:	<you wanted> [<] [/] you wanted uncle ?
+%mor:	pro|you v|want-PAST n|uncle ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+%cod:	$N:FC
+*CHI:	yeah [>] .
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$N:FR
+*MOT:	no [<] that's not why .
+%mor:	co|no pro:dem|that~cop|be&3S neg|not adv:wh|why .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|NEG 5|3|PRED 6|3|PUNCT
+%cod:	$N:FC
+*MOT:	what did the boys get to do that you couldn't do ?
+%mor:	adv|what v|do&PAST det|the n|boy-PL v|get inf|to v|do pro:dem|that
+	pro|you mod|could~neg|not v|do ?
+%gra:	1|2|JCT 2|0|ROOT 3|4|DET 4|5|SUBJ 5|2|COMP 6|7|INF 7|5|XCOMP 8|7|OBJ
+	9|12|SUBJ 10|12|AUX 11|10|NEG 12|7|CJCT 13|2|PUNCT
+%cod:	$N:RI:S
+*CHI:	I don't know (.) .
+%mor:	pro:sub|I mod|do~neg|not v|know .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|PUNCT
+%cod:	$N:GI:RS:N
+*MOT:	Chi you don't want to talk to me anymore ?
+%mor:	n:prop|Chi pro|you mod|do~neg|not v|want inf|to v|talk prep|to
+	pro:obj|me adv|anymore ?
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|3|NEG 5|0|ROOT 6|7|INF 7|5|XCOMP 8|7|JCT
+	9|8|POBJ 10|7|JCT 11|5|PUNCT
+%cod:	$O
+*CHI:	they dunked under water again .
+%mor:	pro:sub|they v|dunk-PAST prep|under n|water adv|again .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|3|POBJ 5|4|NJCT 6|2|PUNCT
+%cod:	$N:GI:RS
+*MOT:	no .
+%mor:	co|no .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$N:FC
+*MOT:	the [///] what about the slides (.) ?
+%mor:	pro:wh|what adv|about det|the n|slide-PL ?
+%gra:	1|4|LINK 2|4|JCT 3|4|DET 4|0|INCROOT 5|4|PUNCT
+%int:	<5> lengthened
+%cod:	$N:RI:S
+*MOT:	Emily ?
+%mor:	n:prop|Emily ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$N:RI:S:R
+*MOT:	the water slide huh ?
+%mor:	det|the n|water n|slide co|huh ?
+%gra:	1|3|DET 2|3|MOD 3|0|INCROOT 4|3|COM 5|3|PUNCT
+%cod:	$N:RI:L
+*MOT:	did they get to go on it ?
+%mor:	mod|do&PAST pro:sub|they v|get inf|to v|go prep|on pro|it ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|5|INF 5|3|XCOMP 6|5|JCT 7|6|POBJ 8|3|PUNCT
+%com:	someone is twirling dial of toy phone and making bell ring
+%cod:	$N:RI:L
+*CHI:	yeah .
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$N:GI:RL
+*MOT:	and you didn't ?
+%mor:	conj|and pro|you mod|do&PAST~neg|not ?
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|NEG 5|3|PUNCT
+%cod:	$N:RI:L
+*MOT:	how come ?
+%mor:	adv:wh|how v|come ?
+%gra:	1|2|LINK 2|0|ROOT 3|2|PUNCT
+%cod:	$N:RI:S
+*CHI:	(be)cause <I wasn't> [/] I wasn't too big .
+%mor:	conj|because pro:sub|I aux|be&PAST&13S~neg|not adv|too adj|big .
+%gra:	1|6|LINK 2|6|SUBJ 3|6|AUX 4|3|NEG 5|6|JCT 6|0|ROOT 7|6|PUNCT
+%cod:	$N:GI:RS
+*MOT:	I know you weren't big enough .
+%mor:	pro:sub|I v|know pro|you cop|be&PAST~neg|not adj|big adv|enough .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|SUBJ 4|2|COMP 5|4|NEG 6|4|PRED 7|6|JCT 8|2|PUNCT
+%cod:	$N:FA
+*MOT:	that was [!] sad huh ?
+%mor:	pro:dem|that cop|be&PAST&13S adj|sad co|huh ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|COM 5|2|PUNCT
+%cod:	$N:RE
+*MOT:	I was sad too .
+%mor:	pro:sub|I cop|be&PAST&13S adj|sad post|too .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|3|PQ 5|2|PUNCT
+%com:	more phone noises
+%cod:	$N:GI:S
+*CHI:	I wasn't sad I when [//] <when th(ey)> [//] when they get [//] got out .
+%mor:	pro:sub|I cop|be&PAST&13S~neg|not adj|sad pro:sub|I conj|when
+	pro:sub|they v|get&PAST adv|out .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|NEG 4|2|PRED 5|2|PRED 6|8|LINK 7|8|SUBJ 8|5|CJCT
+	9|8|JCT 10|2|PUNCT
+%cod:	$N:GI:S
+*MOT:	no I know you weren't sad when they got out .
+%mor:	co|no pro:sub|I v|know pro|you cop|be&PAST~neg|not adj|sad
+	conj|when pro:sub|they v|get&PAST adv|out .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|5|SUBJ 5|3|COMP 6|5|NEG 7|5|PRED 8|10|LINK
+	9|10|SUBJ 10|5|CJCT 11|10|JCT 12|3|PUNCT
+%cod:	$N:FA
+*MOT:	<what did we go> [//] where did we go after that ?
+%mor:	adv:wh|where mod|do&PAST pro:sub|we v|go prep|after pro:dem|that ?
+%gra:	1|4|LINK 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|5|POBJ 7|4|PUNCT
+%cod:	$N:RI:S
+*MOT:	do you remember ?
+%mor:	mod|do pro|you v|remember ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+%cod:	$N:RI:S:R
+*CHI:	to the beach .
+%mor:	prep|to det|the n|beach .
+%gra:	1|0|INCROOT 2|3|DET 3|1|POBJ 4|1|PUNCT
+%cod:	$N:GI:RS
+*MOT:	no .
+%mor:	co|no .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$N:FC
+*MOT:	first we went on the +...
+%mor:	adv|first pro:sub|we v|go&PAST prep|on det|the +...
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ
+%int:	<4-5> lengthened
+%cod:	$N:RI:S:B
+*MOT:	what we go on before we went to the beach ?
+%mor:	pro:wh|what pro:sub|we v|go adv|on adv|before pro:sub|we v|go&PAST
+	prep|to det|the n|beach ?
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|JCT 6|7|SUBJ 7|3|CJCT 8|7|JCT
+	9|10|DET 10|8|POBJ 11|3|PUNCT
+%cod:	$N:RI:S
+*CHI:	I don't know .
+%mor:	pro:sub|I mod|do~neg|not v|know .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|PUNCT
+%cod:	$N:GI:RS:N
+*MOT:	the rides !
+%mor:	det|the n|ride-PL !
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+%cod:	$N:GI:RS:S
+*CHI:	okay .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$N:FA
+*CHI:	I remember dinosaur .
+%mor:	pro:sub|I v|remember n|dinosaur .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+%cod:	$N:GI:S
+*EX2:	the dinosaur ?
+%mor:	det|the n|dinosaur ?
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*EX2:	wow .
+%mor:	co|wow .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%int:	lengthened
+*MOT:	the dinosaur .
+%mor:	det|the n|dinosaur .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*MOT:	yup .
+%mor:	co|yup .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$N:FA
+*MOT:	we went on the dinosaur and what else ?
+%mor:	pro:sub|we v|go&PAST prep|on det|the n|dinosaur coord|and
+	pro:wh|what post|else ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|5|DET 5|3|POBJ 6|2|CONJ 7|6|COORD 8|7|PQ
+	9|2|PUNCT
+%cod:	$N:FA $N:RI:C
+*MOT:	what other ride did you go on ?
+%mor:	pro:wh|what qn|other n|ride mod|do&PAST pro|you v|go adv|on ?
+%gra:	1|6|LINK 2|3|QUANT 3|6|SUBJ 4|6|AUX 5|6|SUBJ 6|0|ROOT 7|6|JCT 8|6|PUNCT
+%cod:	$N:RI:S
+*CHI:	I don't know .
+%mor:	pro:sub|I mod|do~neg|not v|know .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|PUNCT
+%cod:	$N:GI:RS:N
+*CHI:	some(thing) goes up and down .
+%mor:	pro:indef|something v|go-3S adv|up coord|and adv|down .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|2|CONJ 5|4|COORD 6|2|PUNCT
+%cod:	$N:GI:RS
+*MOT:	the ride that goes up and down ?
+%mor:	det|the n|ride rel|that v|go-3S adv|up coord|and adv|down ?
+%gra:	1|2|DET 2|0|INCROOT 3|4|LINK 4|2|CMOD 5|4|JCT 6|4|CONJ 7|6|COORD
+	8|2|PUNCT
+%cod:	$N:RC
+*CHI:	yep .
+%mor:	co|yep .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$N:GC
+*MOT:	that was a baby roller coaster .
+%mor:	pro:dem|that cop|be&PAST&13S det|a n|baby n|roll&dv-AGT co#n|aster
+	.
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|DET 4|5|MOD 5|2|PRED 6|5|XMOD 7|2|PUNCT
+%cod:	$N:GI:S
+*CHI:	yep [>] .
+%mor:	co|yep .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$N:FA
+*MOT:	<did you> [<] like that one (.) ?
+%mor:	mod|do&PAST pro|you co|like det|that pro:indef|one ?
+%gra:	1|2|AUX 2|5|SUBJ 3|2|COM 4|5|DET 5|0|ROOT 6|5|PUNCT
+%cod:	$N:RE
+*MOT:	&hmm ?
+%cod:	$N:RE::R
+*MOT:	do you want to tell Investigator what else you did ?
+%mor:	mod|do pro|you v|want inf|to v|tell n:prop|Investigator pro:wh|what
+	post|else pro|you v|do&PAST ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|5|INF 5|3|XCOMP 6|5|OBJ 7|10|OBJ 8|7|PQ
+	9|10|SUBJ 10|5|COMP 11|3|PUNCT
+%cod:	$N:RI:C
+*MOT:	how big were the waves ?
+%mor:	adv:wh|how adj|big cop|be&PAST det|the n|wave-PL ?
+%gra:	1|3|LINK 2|3|MOD 3|0|ROOT 4|5|DET 5|3|PRED 6|3|PUNCT
+%cod:	$N:RI:S
+*SIS:	zzz .
+%mor:	co|zzz .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%par:	babbles
+*CHI:	zzz .
+%mor:	co|zzz .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%par:	sighs
+*MOT:	you want to tell her how big they were [>] ?
+%mor:	pro|you v|want inf|to v|tell pro:obj|her adv:wh|how adj|big
+	pro:sub|they cop|be&PAST ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|INF 4|2|XCOMP 5|4|OBJ 6|9|LINK 7|9|JCT 8|9|SUBJ
+	9|4|COMP 10|2|PUNCT
+%cod:	$N:RI:S:R
+*CHI:	<I> [<] [///] no .
+%mor:	co|no .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$O:R
+@End

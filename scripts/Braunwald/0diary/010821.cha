@@ -1,0 +1,89 @@
+@UTF8
+@PID:	11312/c-00010674-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, MOT Mother
+@ID:	eng|Braunwald|CHI|01;08.21|female|||Target_Child|||
+@ID:	eng|Braunwald|MOT|||||Mother|||
+@Date:	10-NOV-1972
+*CHI:	col(d) Baura [: Laura] chair .
+%mor:	n|cold n:prop|Laura n|chair .
+%gra:	1|3|MOD 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+%sit:	1725
+*CHI:	need .
+%mor:	v|need .
+%gra:	1|0|ROOT 2|1|PUNCT
+%sit:	1726
+*MOT:	need what ?
+%mor:	v|need pro:wh|what ?
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+%sit:	1726
+*CHI:	need dat [: that] crayon .
+%mor:	v|need pro:dem|that v|crayon .
+%gra:	1|0|ROOT 2|3|SUBJ 3|1|COMP 4|1|PUNCT
+%sit:	1726
+*CHI:	write something .
+%mor:	v|write pro:indef|something .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+%sit:	1727
+*MOT:	what are you writing ?
+%mor:	pro:wh|what aux|be&PRES pro|you part|write-PRESP ?
+%gra:	1|4|LINK 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+%sit:	1727
+*CHI:	something .
+%mor:	pro:indef|something .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%sit:	1727
+*CHI:	write Mommy@q Daddy@q .
+%mor:	v|write meta|Mommy meta|Daddy .
+%gra:	1|0|ROOT 2|1|OBJ 3|2|MOD 4|1|PUNCT
+%sit:	1728
+*CHI:	Laura pay [: play] Toto .
+%mor:	n:prop|Laura n|play n:prop|Toto .
+%gra:	1|2|SUBJ 2|0|INCROOT 3|2|APP 4|2|PUNCT
+%sit:	1729
+*CHI:	dat [: that] blue car .
+%mor:	pro:dem|that adj|blue n|car .
+%gra:	1|3|MOD 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+%sit:	1730
+*CHI:	blue car .
+%mor:	adj|blue n|car .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+%sit:	1731
+*CHI:	Poppy_Sam der [: there] .
+%mor:	n:prop|Poppy_Sam adv|there .
+%gra:	1|0|INCROOT 2|1|JCT 3|1|PUNCT
+%sit:	1732
+*CHI:	poo potty .
+%mor:	v|poo adj|pot&dn-Y .
+%gra:	1|0|ROOT 2|1|JCT 3|1|PUNCT
+%sit:	1733 dozens of times
+*CHI:	poo bathroom .
+%mor:	v|poo n|+n|bath+n|room .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+%sit:	1733 dozens of times
+*MOT:	find your pipit@c [= blanket] .
+%mor:	v|find pro:poss:det|your chi|pipit .
+%gra:	1|0|ROOT 2|3|MOD 3|1|OBJ 4|1|PUNCT
+%sit:	1734
+*CHI:	where Laura pipit@c [= blanket] ?
+%mor:	adv:wh|where n:prop|Laura chi|pipit ?
+%gra:	1|2|LINK 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+%sit:	1734
+*CHI:	do not .
+%mor:	mod|do neg|not .
+%gra:	1|0|INCROOT 2|1|NEG 3|1|PUNCT
+%sit:	1735
+*CHI:	do not .
+%mor:	mod|do neg|not .
+%gra:	1|0|INCROOT 2|1|NEG 3|1|PUNCT
+%sit:	1735
+*CHI:	can't .
+%mor:	mod|can~neg|not .
+%gra:	1|0|INCROOT 2|1|NEG 3|1|PUNCT
+%sit:	1736
+*CHI:	cane [: crane] .
+%mor:	n|crane .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%sit:	1737
+@End
