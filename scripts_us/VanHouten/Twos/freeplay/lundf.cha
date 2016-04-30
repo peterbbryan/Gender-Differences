@@ -1,0 +1,586 @@
+@UTF8
+@PID:	11312/c-00017717-1
+@Begin
+@Languages:	eng
+@Participants:	MOT Lori Mother , CHI Adam Target_Child
+@ID:	eng|VanHouten|CHI|2;4.|male|typical||Target_Child|||
+@ID:	eng|VanHouten|MOT|||||Mother|||
+@Comment:	Education of MOT is 2
+@Situation:	Freeplay. Mother and Child sit on floor playing with box of experimenter provided toys. First they play with magnetic chalkboard and pieces; then with puppets. Child is quite intelligible.
+@Comment:	Age Group of MOT Older
+@Bg:	mother_freeplay
+*CHI:	hey (.) all done .
+%mor:	co|hey qn|all part|do&PASTP .
+%gra:	1|3|COM 2|3|QUANT 3|0|ROOT 4|3|PUNCT
+%sit:	stops writing on chalk board .
+%cod:	$MLU=2 $NMV=0 $Ini $Rep
+*MOT:	you're all done with this ?
+%mor:	pro|you~aux|be&PRES adv|all part|do&PASTP prep|with pro:dem|this ?
+%gra:	1|4|SUBJ 2|4|AUX 3|4|JCT 4|0|ROOT 5|4|JCT 6|5|POBJ 7|4|PUNCT
+%cod:	$MLU=6 $MLU=1 $Rre $Exp
+*CHI:	I write no more .
+%mor:	pro:sub|I v|write qn|no pro:indef|more .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|QUANT 4|2|OBJ 5|2|PUNCT
+%cod:	$MLU=4 $NMV=1 $Res $Rep
+*MOT:	what do you wanna do now ?
+%mor:	pro:wh|what mod|do pro|you v|want~inf|to v|do adv|now ?
+%gra:	1|4|LINK 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|6|INF 6|4|XCOMP 7|6|JCT 8|4|PUNCT
+%cod:	$MLU=6 $NMV=1 $Rre $Rfi
+*CHI:	play .
+%mor:	n|play .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%sit:	moves to box of toys .
+%cod:	$MLU=1 $NMV=1 $Res $Des
+*MOT:	uhhuh .
+%mor:	co|uhhuh .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=0 $Rde $Acc
+*MOT:	let's put this away .
+%mor:	v|let~pro:obj|us v|put&ZERO det|this adv|away .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|COMP 4|5|DET 5|3|JCT 6|1|PUNCT
+%sit:	removes chalk board .
+%cod:	$MLU=5 $NMV=2 $Ini $Rep
+*MOT:	over here (.) for now .
+%mor:	adv|over adv|here prep|for adv|now .
+%gra:	1|2|JCT 2|0|ROOT 3|2|JCT 4|3|POBJ 5|2|PUNCT
+%cod:	$MLU=4 $NMV=1 $Con $Rep
+*CHI:	play (.) play (.) play .
+%mor:	n|play n|play n|play .
+%gra:	1|3|MOD 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+%sit:	gets out plastic box .
+%cod:	$MLU=3 $NMV=3 $Ini $Des
+*MOT:	okay .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=0 $Rde $Acc
+*MOT:	what do you wanna do with the little girl ?
+%mor:	pro:wh|what mod|do pro|you v|want~inf|to v|do prep|with det|the
+	adj|little n|girl ?
+%gra:	1|4|LINK 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|6|INF 6|4|XCOMP 7|6|JCT 8|10|DET
+	9|10|MOD 10|7|POBJ 11|4|PUNCT
+%cod:	$MLU=9 $NMV=1 $Con $Rfi
+*CHI:	wait a minute .
+%mor:	v|wait det|a n|minute .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+%cod:	$MLU=3 $NMV=1 $Ini $Des
+*MOT:	wait a minute ?
+%mor:	v|wait det|a n|minute ?
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+%cod:	$MLU=3 $NMV=1 $Rde $Exp
+*MOT:	what do you wanna do ?
+%mor:	pro:wh|what mod|do pro|you v|want~inf|to v|do ?
+%gra:	1|4|LINK 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|6|INF 6|4|XCOMP 7|4|PUNCT
+%cod:	$MLU=5 $NMV=1 $Con $Rfi
+*CHI:	I don't wanna xxx .
+%mor:	pro:sub|I mod|do~neg|not v|want~inf|to .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+%sit:	puts toy down; takes out box of chalk .
+%cod:	$Res $Des
+*MOT:	that's chalk .
+%mor:	pro:dem|that~cop|be&3S n|chalk .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+%cod:	$MLU=3 $NMV=1 $Rta $Rep
+*CHI:	0 .
+%sit:	tries to take a piece out .
+*MOT:	the same one we had .
+%mor:	det|the adj|same pro:indef|one pro:sub|we v|have&PAST .
+%gra:	1|3|DET 2|3|MOD 3|5|LINK 4|5|SUBJ 5|0|ROOT 6|5|PUNCT
+%cod:	$MLU=5 $NMV=0 $Rta $Rep
+*MOT:	we already had one piece o(f) white one .
+%mor:	pro:sub|we adv|already v|have&PAST pro:indef|one n|piece prep|of
+	n|white pro:indef|one .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|3|OBJ 5|4|OBJ 6|5|NJCT 7|8|MOD 8|6|POBJ
+	9|3|PUNCT
+%sit:	takes away box of chalk .
+%cod:	$MLU=8 $MLU=1 $Con $Rep
+*MOT:	did you see these ?
+%mor:	v|do&PAST pro|you co|see det|these ?
+%gra:	1|0|ROOT 2|1|OBJ 3|1|COM 4|5|DET 5|3|PUNCT
+%cod:	$MLU=4 $NMV=1 $Ini $Rfi
+*MOT:	look .
+%mor:	co|look .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=1 $Ini $C/R
+*MOT:	they're magnets .
+%mor:	pro:sub|they~aux|be&PRES n|magnet-PL .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|INCROOT 4|3|PUNCT
+%cod:	$MLU=3 $NMV=1 $Con $Rep
+*MOT:	look .
+%mor:	co|look .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=1 $Ini $C/R
+*MOT:	they stick on here .
+%mor:	pro:sub|they v|stick prep|on pro:dem|here .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|3|POBJ 5|2|PUNCT
+%sit:	begins to remove magnets from box and place on board .
+%cod:	$MLU=4 $NMV=1 $Con $Rep
+*MOT:	look .
+%mor:	co|look .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=1 $Ini $C/R
+*MOT:	there's a dog .
+%mor:	pro:exist|there~cop|be&3S det|a n|dog .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+%cod:	$MLU=4 $NMV=1 $Con $Rep
+*MOT:	see doggie ?
+%mor:	v|see n|dog-DIM ?
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+%cod:	$MLU=2 $NMV=1 $Con $Rfi
+*MOT:	wow .
+%mor:	co|wow .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=0 $Con $Rep
+*CHI:	there's a doggie .
+%mor:	pro:exist|there~cop|be&3S det|a n|dog-DIM .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+%cod:	$MLU=4 $NMV=1 $Res $Rep
+*MOT:	yeah .
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=0 $Rre $C/A
+*MOT:	kitty+cat .
+%mor:	n|+n|kitty+n|cat .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%sit:	removes new piece .
+%cod:	$MLU=1 $NMV=0 $Ini $Rep
+*CHI:	there's a little boy .
+%mor:	pro:exist|there~cop|be&3S det|a adj|little n|boy .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|DET 4|5|MOD 5|2|PRED 6|2|PUNCT
+%cod:	$MLU=5 $NMV=1 $Ini $Rep
+*MOT:	yeah .
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=0 $Rre $C/A
+*MOT:	oh (.) I think we can do a house .
+%mor:	co|oh pro:sub|I v|think pro:sub|we mod|can v|do det|a n|house .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|6|SUBJ 5|6|AUX 6|3|COMP 7|8|DET 8|6|OBJ
+	9|3|PUNCT
+%cod:	$MLU=7 $NMV=2 $Ini $Rep
+*MOT:	you wanna make a house ?
+%mor:	pro|you v|want~inf|to v|make det|a n|house ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|INF 4|2|XCOMP 5|6|DET 6|4|OBJ 7|2|PUNCT
+%cod:	$MLU=5 $NMV=1 $Con $Rfi
+*MOT:	let's see .
+%mor:	v|let~pro:obj|us v|see .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|COMP 4|1|PUNCT
+%cod:	$MLU=3 $NMV=2 $Ini $Rfa
+*MOT:	let's see .
+%mor:	v|let~pro:obj|us v|see .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|COMP 4|1|PUNCT
+%cod:	$MLU=3 $NMV=2 $Con $Rfa
+*MOT:	is this a house ?
+%mor:	cop|be&3S det|this det|a n|house ?
+%gra:	1|0|ROOT 2|4|DET 3|4|DET 4|1|PRED 5|1|PUNCT
+%cod:	$MLU=4 $NMV=1 $Ini $Rfi
+*MOT:	watch Mommy .
+%mor:	n|watch n:prop|Mommy .
+%gra:	1|0|INCROOT 2|1|APP 3|1|PUNCT
+%cod:	$MLU=2 $NMV=1 $Ini $C/R
+*CHI:	gotta take all those off .
+%mor:	mod:aux|gotta v|take adv|all det|those adv|off .
+%gra:	1|2|AUX 2|0|ROOT 3|2|JCT 4|5|DET 5|2|JCT 6|2|PUNCT
+%cod:	$MLU=5 $NMV=1 $Ini $Rep
+*MOT:	does it stick ?
+%mor:	mod|do&3S pro|it v|stick ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+%sit:	tries a piece on the back of the board .
+%cod:	$MLU=3 $NMV=1 $Ini $Rfi
+*MOT:	nope (.) they don't .
+%mor:	co|nope pro:sub|they mod|do~neg|not .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|NEG 5|3|PUNCT
+%cod:	$MLU=4 $NMV=1 $Con $Rep
+*MOT:	you wanna draw a house ?
+%mor:	pro|you v|want~inf|to v|draw det|a n|house ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|INF 4|2|XCOMP 5|6|DET 6|4|OBJ 7|2|PUNCT
+%cod:	$MLU=5 $NMV=1 $Ini $Rfi
+*MOT:	watch Mommy build a house .
+%mor:	n|watch n:prop|Mommy v|build det|a n|house .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+%cod:	$MLU=5 $NMV=2 $Con $C/R
+*MOT:	look .
+%mor:	co|look .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=1 $Con $C/R
+*MOT:	wow .
+%mor:	co|wow .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$MLU=0 $NMV=0 $Con $Rep
+*MOT:	see that ?
+%mor:	v|see rel|that ?
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+%cod:	$MLU=2 $NMV=1 $Con $Rfi
+*MOT:	what's that ?
+%mor:	pro:wh|what~cop|be&3S pro:dem|that ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+%cod:	$MLU=3 $NMV=1 $Con $Rfi
+*CHI:	hey (.) we're playing with a lotta [: lot of] games .
+%mor:	co|hey pro:sub|we~aux|be&PRES part|play-PRESP prep|with det|a n|lot
+	prep|of n|game-PL .
+%gra:	1|4|COM 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ 8|7|NJCT
+	9|8|POBJ 10|4|PUNCT
+%sit:	looks at box , looks at camera person .
+%cod:	$MLU=7 $NMV=1 $Ini $Rep
+*MOT:	yeah (.) there's a lotta [: lot of] games in there .
+%mor:	co|yeah pro:exist|there~cop|be&3S det|a n|lot prep|of n|game-PL
+	prep|in pro:dem|there .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|PRED 6|5|NJCT 7|6|POBJ 8|7|NJCT
+	9|8|POBJ 10|3|PUNCT
+%cod:	$MLU=8 $NMV=1 $Rre $C/A
+*MOT:	Adam (.) do you know what this is right here ?
+%mor:	n:prop|Adam v|do pro|you v|know adv|what det|this aux|be&3S
+	adv|right adv|here ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|COMP 5|4|JCT 6|7|DET 7|5|POBJ 8|9|JCT
+	9|7|JCT 10|2|PUNCT
+%cod:	$MLU=9 $NMV=2 $Ini $Rfi
+*CHI:	what ?
+%mor:	pro:wh|what ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%sit:	wasn't looking where Mother pointed .
+%cod:	$MLU=1 $NMV=0 $Res $Rfi
+*CHI:	what ?
+%mor:	pro:wh|what ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=0 $Con $Rfi
+*MOT:	what's that ?
+%mor:	pro:wh|what~cop|be&3S pro:dem|that ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+%cod:	$MLU=3 $NMV=1 $Rri $Rfi
+*CHI:	house .
+%mor:	n|house .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=0 $Res $Rep
+*MOT:	do you know what this is right here ?
+%mor:	mod|do pro|you v|know adv|what det|this aux|be&3S adv|right
+	adv|here ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|8|JCT 8|6|JCT
+	9|3|PUNCT
+%cod:	$MLU=8 $NMV=2 $Ini $Rfi
+*CHI:	what ?
+%mor:	pro:wh|what ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%sit:	wasn't looking where Mother pointed .
+%cod:	$MLU=1 $NMV=0 $Res $Rfi
+*MOT:	what's this ?
+%mor:	pro:wh|what~cop|be&3S pro:dem|this ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+%cod:	$MLU=3 $NMV=1 $Rre $Rfi
+*CHI:	windy .
+%mor:	adj|wind&dn-Y .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=0 $Res $Rep
+*MOT:	no (.) what's this ?
+%mor:	co|no pro:wh|what~cop|be&3S pro:dem|this ?
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|3|PUNCT
+%cod:	$MLU=1 $NMV=1 $Rre $Rfi
+*CHI:	windy .
+%mor:	adj|wind&dn-Y .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=0 $Res $Rep
+*MOT:	it's not windy .
+%mor:	pro|it~cop|be&3S neg|not adj|wind&dn-Y .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|NEG 4|2|PRED 5|2|PUNCT
+%cod:	$MLU=4 $NMV=1 $Rre $Tea
+*MOT:	is that the sun ?
+%mor:	cop|be&3S rel|that det|the n|sun ?
+%gra:	1|0|ROOT 2|4|LINK 3|4|DET 4|1|PRED 5|1|PUNCT
+%cod:	$MLU=4 $NMV=1 $Con $Tea
+*CHI:	that the sun .
+%mor:	rel|that det|the n|sun .
+%gra:	1|3|LINK 2|3|DET 3|0|INCROOT 4|3|PUNCT
+%cod:	$MLU=3 $NMV=0 $Res $Lim
+*MOT:	no (.) it might not be the sun either .
+%mor:	co|no pro|it mod|might neg|not cop|be det|the n|sun adv|either .
+%gra:	1|5|COM 2|5|SUBJ 3|5|AUX 4|3|NEG 5|0|ROOT 6|7|DET 7|5|PRED 8|7|NJCT
+	9|5|PUNCT
+%cod:	$MLU=8 $NMV=1 $Rle $Rep
+*MOT:	it's kinda green .
+%mor:	pro|it~cop|be&3S adv|kinda adj|green .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|2|PRED 5|2|PUNCT
+%cod:	$MLU=4 $NMV=1 $Con $Rep
+*MOT:	do you know what this is ?
+%mor:	mod|do pro|you v|know adv|what det|this cop|be&3S ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|DET 6|3|INCROOT 7|6|PUNCT
+%cod:	$MLU=6 $NMV=2 $Ini $Rfi
+*CHI:	what ?
+%mor:	pro:wh|what ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=0 $Res $Rfi
+*MOT:	what is that ?
+%mor:	pro:wh|what cop|be&3S pro:dem|that ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+%cod:	$MLU=3 $NMV=1 $Rri $Rfi
+*CHI:	car .
+%mor:	n|car .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=0 $Res $Rep
+*MOT:	car .
+%mor:	n|car .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=0 $Rre $C/A
+*MOT:	and what's this ?
+%mor:	conj|and pro:wh|what~cop|be&3S pro:dem|this ?
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|3|PUNCT
+%cod:	$MLU=4 $NMV=1 $Ini $Rfi
+*CHI:	a little boy .
+%mor:	det|a adj|little n|boy .
+%gra:	1|3|DET 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+%cod:	$MLU=3 $NMV=0 $Res $Rep
+*CHI:	a little +/.
+%mor:	det|a adj|little +/.
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+%cod:	$Con $Rep
+*MOT:	that's a little girl .
+%mor:	pro:dem|that~cop|be&3S det|a adj|little n|girl .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|DET 4|5|MOD 5|2|PRED 6|2|PUNCT
+%cod:	$MLU=5 $NMV=1 $Rre $Tea
+*CHI:	a little +/.
+%mor:	det|a adj|little +/.
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+%cod:	$Res $Lim
+*MOT:	what's that ?
+%mor:	pro:wh|what~cop|be&3S pro:dem|that ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+%cod:	$MLU=3 $NMV=0 $Ini $Rfi
+*CHI:	a boy .
+%mor:	det|a n|boy .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+%cod:	$MLU=2 $NMV=0 $Res $Rep
+*MOT:	yeah .
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=0 $Rre $C/A
+*MOT:	do you know what this is ?
+%mor:	mod|do pro|you v|know adv|what det|this cop|be&3S ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|DET 6|3|INCROOT 7|6|PUNCT
+%cod:	$MLU=6 $NMV=2 $Ini $Rfi
+*CHI:	what ?
+%mor:	pro:wh|what ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=0 $Res $Rfi
+*MOT:	what's this right here ?
+%mor:	adv:wh|what~cop|be&3S det|this adv|right adv|here ?
+%gra:	1|2|LINK 2|0|ROOT 3|4|DET 4|2|JCT 5|4|JCT 6|2|PUNCT
+%cod:	$MLU=5 $NMV=1 $Rri $Rfi
+*CHI:	a little boy .
+%mor:	det|a adj|little n|boy .
+%gra:	1|3|DET 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+%cod:	$MLU=3 $NMV=0 $Res $Rep
+*MOT:	no (.) what's that ?
+%mor:	co|no pro:wh|what~cop|be&3S pro:dem|that ?
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|3|PUNCT
+%cod:	$MLU=4 $NMV=1 $Rre $Rfi
+*CHI:	doggie .
+%mor:	n|dog-DIM .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=0 $Res $Rep
+*MOT:	and what's this ?
+%mor:	conj|and pro:wh|what~cop|be&3S pro:dem|this ?
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|3|PUNCT
+%cod:	$MLU=4 $NMV=1 $Ini $Rfi
+*CHI:	kitty+cat .
+%mor:	n|+n|kitty+n|cat .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=0 $Res $Rep
+*MOT:	that's right .
+%mor:	pro:dem|that~cop|be&3S adv|right .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|2|PUNCT
+%cod:	$MLU=3 $NMV=1 $Rre $C/A
+*CHI:	0 .
+%sit:	has been fidgety and inattentive for several turns .
+*MOT:	you don't wanna play with this anymore ?
+%mor:	pro|you mod|do~neg|not v|want~inf|to n|play prep|with det|this
+	adv|anymore ?
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|6|INF 6|4|XCOMP 7|6|NJCT 8|9|DET
+	9|7|POBJ 10|4|PUNCT
+%cod:	$MLU=8 $NMV=1 $Rta $Rfi
+*MOT:	huh ?
+%mor:	co|huh ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$MLU=0 $NMV=0 $Con $Rfi
+*CHI:	no .
+%mor:	co|no .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=0 $Res $Des
+*MOT:	you wanna put it away over here ?
+%mor:	pro|you v|want~inf|to v|put&ZERO pro|it adv|away prep|over
+	pro:dem|here ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|INF 4|2|XCOMP 5|4|OBJ 6|4|JCT 7|4|JCT 8|7|POBJ
+	9|2|PUNCT
+%cod:	$MLU=7 $NMV=1 $Rde $Rfi
+*MOT:	until later ?
+%mor:	conj|until adv|later ?
+%gra:	1|0|INCROOT 2|1|JCT 3|1|PUNCT
+%cod:	$MLU=2 $NMV=0 $Con $Rfi
+*CHI:	that xxx .
+%mor:	pro:dem|that .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%sit:	reaches for Ernie puppet .
+%cod:	$Ini
+*MOT:	oh (.) what's that ?
+%mor:	co|oh pro:wh|what~cop|be&3S pro:dem|that ?
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|3|PUNCT
+%cod:	$MLU=3 $NMV=1 $Res $Rfi
+*MOT:	I want you to sit like this .
+%mor:	pro:sub|I v|want pro|you inf|to v|sit prep|like pro:dem|this .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|5|INF 5|2|XCOMP 6|5|JCT 7|6|POBJ 8|2|PUNCT
+%com:	whisper .
+%sit:	adjusts Child toward camera .
+%cod:	$MLU=7 $NMV=2 $Ini $C/R
+*MOT:	who's this ?
+%mor:	pro:wh|who~cop|be&3S pro:dem|this ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+%cod:	$MLU=3 $NMV=1 $Ini $Rfi
+*CHI:	Ernie .
+%mor:	n:prop|Ernie .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=0 $Res $Rep
+*MOT:	that's Ernie ?
+%mor:	pro:dem|that~aux|be&3S n:prop|Ernie ?
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|PUNCT
+%cod:	$MLU=3 $NMV=1 $Rre $Exp
+*CHI:	yeah .
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=0 $Res $Rep
+*MOT:	do you know what he is ?
+%mor:	mod|do pro|you v|know pro:wh|what pro:sub|he cop|be&3S ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|6|LINK 5|6|SUBJ 6|3|COMP 7|6|PUNCT
+%cod:	$MLU=6 $NMV=2 $Ini $Tea
+*MOT:	this is a puppet .
+%mor:	pro:dem|this cop|be&3S det|a n|puppet .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+%cod:	$MLU=4 $NMV=1 $Con $Tea
+*CHI:	a puppet .
+%mor:	det|a n|puppet .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+%cod:	$MLU=2 $NMV=0 $Res $Lim
+*MOT:	you wanna talk for Ernie ?
+%mor:	pro|you v|want~inf|to n|talk prep|for n:prop|Ernie ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|INF 4|2|XCOMP 5|4|NJCT 6|5|POBJ 7|2|PUNCT
+%cod:	$MLU=5 $NMV=1 $Ini $Rfi
+*CHI:	yeah .
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=0 $Res $Des
+*MOT:	what is Ernie saying ?
+%mor:	pro:wh|what cop|be&3S n:prop|Ernie part|say-PRESP ?
+%gra:	1|2|LINK 2|0|ROOT 3|4|AUX 4|2|PRED 5|2|PUNCT
+%cod:	$MLU=4 $NMV=1 $Rde $Rfi
+*MOT:	what's Ernie saying to you ?
+%mor:	rel|what~aux|be&3S n:prop|Ernie part|say-PRESP prep|to pro|you ?
+%gra:	1|2|LINK 2|0|ROOT 3|2|OBJ 4|3|XMOD 5|4|JCT 6|5|POBJ 7|2|PUNCT
+%cod:	$MLU=6 $NMV=1 $Con $Rfi
+*MOT:	hi (.) Adam .
+%mor:	co|hi n:prop|Adam .
+%gra:	1|2|COM 2|0|ROOT 3|2|PUNCT
+%sit:	high+pitched voice , talking for puppet .
+%cod:	$MLU=2 $NMV=0 $Ini $Col
+*MOT:	how are you ?
+%mor:	adv:wh|how aux|be&PRES pro|you ?
+%gra:	1|0|INCROOT 2|1|INCROOT 3|2|OBJ 4|2|PUNCT
+%cod:	$MLU=3 $NMV=1 $Con $Col
+*CHI:	&l +/.
+%mor:	+/.
+%gra:	1|0|INCROOT
+%cod:	$Res
+*MOT:	you wanna talk to him ?
+%mor:	pro|you v|want~inf|to n|talk prep|to pro:obj|him ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|INF 4|2|XCOMP 5|4|NJCT 6|5|POBJ 7|2|PUNCT
+%cod:	$MLU=5 $NMV=1 $Res $Rfi
+*CHI:	lotta [: lot of] games .
+%mor:	n|lot prep|of n|game-PL .
+%gra:	1|0|INCROOT 2|1|NJCT 3|2|POBJ 4|1|PUNCT
+%sit:	addressed to puppet .
+%cod:	$MLU=2 $NMV=0 $Res $Col
+*MOT:	yeah (.) that's games .
+%mor:	co|yeah pro:dem|that~cop|be&3S n|game-PL .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|3|PUNCT
+%sit:	Mother doesn't realize that Child addressed puppet .
+%cod:	$MLU=4 $NMV=1 $Rco $C/A
+*CHI:	that lotta [: lot of] games .
+%mor:	det|that n|lot prep|of n|game-PL .
+%gra:	1|2|DET 2|0|INCROOT 3|2|NJCT 4|3|POBJ 5|2|PUNCT
+%sit:	addressed to puppet , more obviously .
+%cod:	$MLU=3 $NMV=0 $Ini $Col
+*MOT:	oh (.) yeah ?
+%mor:	co|oh co|yeah ?
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+%sit:	puppet's voice .
+%cod:	$MLU=1 $NMV=0 $Rco $Col
+*MOT:	what're you playin(g) ?
+%mor:	rel|what~aux|be&PRES pro|you part|play-PRESP ?
+%gra:	1|2|LINK 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+%sit:	puppet's voice .
+%cod:	$MLU=4 $NMV=1 $Con $Col
+*CHI:	I play lotta [: lot of] games .
+%mor:	pro:sub|I n|play n|lot prep|of n|game-PL .
+%gra:	1|2|SUBJ 2|0|INCROOT 3|2|OBJ 4|3|NJCT 5|4|POBJ 6|2|PUNCT
+%sit:	addressed to puppet .
+%cod:	$MLU=4 $NMV=1 $Res $Col
+*MOT:	oh (.) yeah ?
+%mor:	co|oh co|yeah ?
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+%sit:	puppet voice .
+%cod:	$MLU=1 $NMV=0 $Rco $Col
+*CHI:	play a little .
+%mor:	v|play det|a adj|little .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+%sit:	to puppet , tries to put chalk in puppet's mouth .
+%cod:	$MLU=3 $NMV=0 $Res $Col
+*MOT:	no (.) I don't like chalk .
+%mor:	co|no pro:sub|I mod|do~neg|not v|like n|chalk .
+%gra:	1|5|COM 2|5|SUBJ 3|5|AUX 4|3|NEG 5|0|ROOT 6|5|OBJ 7|5|PUNCT
+%sit:	puppet's voice .
+%cod:	$MLU=6 $NMV=1 $Rco $Col
+*MOT:	that's to write with (.) not to eat .
+%mor:	pro:dem|that~aux|be&3S inf|to v|write prep|with neg|not inf|to
+	v|eat .
+%gra:	1|4|SUBJ 2|4|AUX 3|4|INF 4|0|ROOT 5|4|JCT 6|5|NEG 7|8|INF 8|5|POBJ
+	9|4|PUNCT
+%sit:	puppet's voice .
+%cod:	$MLU=8 $NMV=2 $Con $Col
+*CHI:	not to eat .
+%mor:	neg|not inf|to v|eat .
+%gra:	1|0|NEG 2|3|INF 3|1|XCOMP 4|1|PUNCT
+%sit:	to puppet .
+%cod:	$MLU=3 $NMV=0 $Res $Col
+*MOT:	no (.) yuck(y) .
+%mor:	qn|no adj|yuck&dn-Y .
+%gra:	1|2|QUANT 2|0|ROOT 3|2|PUNCT
+%sit:	puppet's voice .
+%cod:	$MLU=2 $NMV=0 $Rco $Col
+*MOT:	you're not supposed to eat chalk (.) Adam .
+%mor:	pro|you~aux|be&PRES neg|not part|suppose-PASTP inf|to v|eat n|chalk
+	n:prop|Adam .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|6|INF 6|4|XCOMP 7|6|OBJ 8|6|OBJ
+	9|4|PUNCT
+%sit:	puppet's voice .
+%cod:	$MLU=8 $NMV=2 $Con $Col
+*MOT:	you want to make Ernie talk ?
+%mor:	pro|you v|want inf|to v|make n:prop|Ernie n|talk ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|INF 4|2|XCOMP 5|6|MOD 6|4|OBJ 7|2|PUNCT
+%cod:	$MLU=7 $NMV=2 $Ini $Rfi
+*CHI:	yeah .
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=0 $Res $Des
+*MOT:	you know who's over here ?
+%mor:	pro|you v|know rel|who~aux|be&3S prep|over pro:dem|here ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|3|INCROOT 5|4|JCT 6|5|POBJ 7|4|PUNCT
+%cod:	$MLU=6 $NMV=2 $Ini $Rfi
+*MOT:	look .
+%mor:	co|look .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=1 $Ini $C/R
+*MOT:	do you wanna make Cookie Monster talk ?
+%mor:	mod|do pro|you v|want~inf|to v|make n:prop|Cookie n:prop|Monster
+	n|talk ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|5|INF 5|3|XCOMP 6|8|MOD 7|8|MOD 8|5|OBJ
+	9|3|PUNCT
+%cod:	$MLU=7 $NMV=2 $Con $Rfi
+*CHI:	yeah .
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=0 $Res $Des
+@Eg:	mother_freeplay
+@End

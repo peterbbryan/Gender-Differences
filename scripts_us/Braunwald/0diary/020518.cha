@@ -1,0 +1,48 @@
+@UTF8
+@PID:	11312/c-00010922-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, FAT Father
+@ID:	eng|Braunwald|CHI|02;05.18|female|||Target_Child|||
+@ID:	eng|Braunwald|FAT|||||Father|||
+@Date:	08-AUG-1973
+*FAT:	how_come your hair's so curly ?
+%mor:	adv:wh|how_come pro:poss:det|your n|hair~poss|s adv|so
+	adj|curl&dv-Y ?
+%gra:	1|3|LINK 2|3|MOD 3|6|SUBJ 4|3|POSS 5|6|JCT 6|0|ROOT 7|6|PUNCT
+%sit:	455
+*CHI:	because, because I need a haircut .
+%mor:	conj|because cm|cm conj|because pro:sub|I v|need det|a
+	n|+n|hair+n|cut .
+%gra:	1|5|LINK 2|1|LP 3|5|LINK 4|5|SUBJ 5|0|ROOT 6|7|DET 7|5|OBJ 8|5|PUNCT
+%sit:	455
+*CHI:	this is terrible apple juice .
+%mor:	pro:dem|this cop|be&3S adj|terrible n|apple n|juice .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|MOD 4|5|MOD 5|2|PRED 6|2|PUNCT
+%sit:	456
+*CHI:	I don't wanna drink this terrible apple juice (be)cause it's
+	terrible .
+%mor:	pro:sub|I mod|do~neg|not v|want~inf|to v|drink det|this
+	adj|terrible n|apple n|juice conj|because pro|it~cop|be&3S
+	adj|terrible .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|6|INF 6|4|XCOMP 7|10|DET 8|9|MOD
+	9|10|MOD 10|6|OBJ 11|13|LINK 12|13|SUBJ 13|6|CJCT 14|13|PRED 15|4|PUNCT
+%sit:	456
+*CHI:	I was looking for my bottle and you took it away .
+%mor:	pro:sub|I aux|be&PAST&13S part|look-PRESP prep|for pro:poss:det|my
+	n|bottle coord|and pro|you v|take&PAST pro|it adv|away .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|6|MOD 6|4|POBJ 7|9|LINK 8|9|SUBJ
+	9|3|XJCT 10|9|OBJ 11|9|JCT 12|3|PUNCT
+%sit:	457
+*CHI:	when I need a kleenex then you give me this .
+%mor:	conj|when pro:sub|I v|need det|a n|kleenex adv:tem|then pro|you
+	v|give pro:obj|me pro:dem|this .
+%gra:	1|3|LINK 2|3|SUBJ 3|8|CJCT 4|5|DET 5|8|SUBJ 6|8|JCT 7|8|SUBJ 8|0|ROOT
+	9|8|OBJ 10|8|OBJ 11|8|PUNCT
+%sit:	458
+*CHI:	I don't have one my hand .
+%mor:	pro:sub|I mod|do~neg|not v|have pro:indef|one pro:poss:det|my
+	n|hand .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|OBJ 6|7|MOD 7|4|OBJ 8|4|PUNCT
+%sit:	458
+@End

@@ -1,0 +1,221 @@
+@UTF8
+@PID:	11312/c-00016751-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, MOT Mother
+@ID:	eng|McCune|CHI|2;0.|female|||Target_Child|||
+@ID:	eng|McCune|MOT|||||Mother|||
+*CHI:	0 .
+%act:	holds toolbox
+*MOT:	0 .
+%act:	holds toolbox
+*CHI:	screwdriver .
+%mor:	n|+n|screw+n|driver .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	takes toolbox
+*MOT:	0 .
+%act:	opens toolbox
+*CHI:	0 .
+%act:	puts toolbox on floor
+*MOT:	screwdriver .
+%mor:	n|+n|screw+n|driver .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	right .
+%mor:	co|right .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	screwdriver .
+%mor:	n|+n|screw+n|driver .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	takes pliers
+*MOT:	are you going to build something ?
+%mor:	cop|be&PRES pro|you part|go-PRESP inf|to v|build
+	pro:indef|something ?
+%gra:	1|0|ROOT 2|1|OBJ 3|2|XMOD 4|5|INF 5|3|XCOMP 6|5|OBJ 7|1|PUNCT
+*CHI:	yeah .
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	walks towards bucket
+*MOT:	what are you going to build ?
+%mor:	pro:wh|what aux|be&PRES pro|you part|go-PRESP inf|to v|build ?
+%gra:	1|4|LINK 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|6|INF 6|4|XCOMP 7|4|PUNCT
+*CHI:	xxx .
+%act:	pats bucket
+*MOT:	here .
+%mor:	adv|here .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	takes block
+*MOT:	here's some wood .
+%mor:	pro:exist|here~cop|be&3S qn|some n|wood .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|QUANT 4|2|PRED 5|2|PUNCT
+*CHI:	0 .
+%act:	takes block
+*CHI:	xxx .
+%act:	touches screwdriver to block
+*CHI:	0 .
+%act:	puts wrench in toolbox
+*MOT:	you can bang it with the hammer .
+%mor:	pro|you mod|can v|bang pro|it prep|with det|the n|hammer .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|3|JCT 6|7|DET 7|5|POBJ 8|3|PUNCT
+*CHI:	0 .
+%act:	takes hammer
+*CHI:	this .
+%mor:	pro:dem|this .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	shows m hammer
+*MOT:	yeah .
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	here .
+%mor:	adv|here .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	puts block on bucket
+*CHI:	0 .
+%act:	hammers block
+*MOT:	good .
+%mor:	adj|good .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	0 .
+%act:	hammers block
+*MOT:	do you wanna saw it ?
+%mor:	mod|do pro|you v|want~inf|to v|saw pro|it ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|5|INF 5|3|XCOMP 6|5|OBJ 7|3|PUNCT
+%act:	takes saw
+*MOT:	here .
+%mor:	adv|here .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	offers c saw
+*CHI:	0 .
+%act:	puts hammer in toolbox
+*CHI:	now, this .
+%mor:	adv|now cm|cm pro:dem|this .
+%gra:	1|3|JCT 2|1|LP 3|0|ROOT 4|3|PUNCT
+%act:	takes screwdriver
+*CHI:	0 .
+%act:	pretends to fix block with screwdriver
+*MOT:	that's a screwdriver .
+%mor:	pro:dem|that~cop|be&3S det|a n|+n|screw+n|driver .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+*CHI:	0 .
+%act:	pretends to fix block with screwdriver
+*MOT:	0 .
+%act:	offers c saw
+*CHI:	your, turn .
+%mor:	pro:poss:det|your cm|cm n|turn .
+%gra:	1|3|MOD 2|1|LP 3|0|INCROOT 4|3|PUNCT
+%act:	pushes saw toward m
+*MOT:	0 .
+%act:	saws block
+*CHI:	my, turn .
+%mor:	pro:poss:det|my cm|cm n|turn .
+%gra:	1|3|MOD 2|1|LP 3|0|INCROOT 4|3|PUNCT
+%act:	takes saw
+*CHI:	your, turn .
+%mor:	pro:poss:det|your cm|cm n|turn .
+%gra:	1|3|MOD 2|1|LP 3|0|INCROOT 4|3|PUNCT
+%act:	saws block
+*CHI:	your, turn .
+%mor:	pro:poss:det|your cm|cm n|turn .
+%gra:	1|3|MOD 2|1|LP 3|0|INCROOT 4|3|PUNCT
+%act:	gives m saw
+*MOT:	my turn .
+%mor:	pro:poss:det|my n|turn .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+%act:	takes saw
+*MOT:	you're being very fair this morning .
+%mor:	pro|you~aux|be&PRES part|be-PRESP adv|very adv|fair det|this
+	n|morning .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|3|JCT 6|7|DET 7|3|OBJ 8|3|PUNCT
+%act:	saws block
+*CHI:	xxx .
+*MOT:	0 .
+%act:	discards saw
+*CHI:	your, turn .
+%mor:	pro:poss:det|your cm|cm n|turn .
+%gra:	1|3|MOD 2|1|LP 3|0|INCROOT 4|3|PUNCT
+%act:	gives m screwdriver
+*MOT:	0 .
+%act:	takes screwdriver
+*MOT:	I'm going to take the screw out .
+%mor:	pro:sub|I~aux|be&1S part|go-PRESP inf|to v|take det|the n|screw
+	adv|out .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|INF 5|3|XCOMP 6|7|DET 7|5|OBJ 8|5|JCT
+	9|3|PUNCT
+%act:	uses screwdriver on block
+*MOT:	0 .
+%act:	pretends to unscrew
+*MOT:	0 .
+%act:	gives c screwdriver
+*CHI:	my, turn .
+%mor:	pro:poss:det|my cm|cm n|turn .
+%gra:	1|3|MOD 2|1|LP 3|0|INCROOT 4|3|PUNCT
+%act:	takes screwdriver
+*CHI:	grr .
+%mor:	co|grr .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	pretends to use screwdriver on blocj
+*CHI:	0 .
+%act:	discards screwdriver
+*CHI:	your, turn .
+%mor:	pro:poss:det|your cm|cm n|turn .
+%gra:	1|3|MOD 2|1|LP 3|0|INCROOT 4|3|PUNCT
+%act:	touches toys in bucket
+*CHI:	what's, in, it ?
+%mor:	rel|what~aux|be&3S cm|cm adv|in cm|cm pro|it ?
+%gra:	1|2|LINK 2|0|ROOT 3|2|LP 4|2|JCT 5|2|LP 6|2|OBJ 7|2|PUNCT
+%act:	takes purse
+*CHI:	0 .
+%act:	touches clasp
+*MOT:	I don't know .
+%mor:	pro:sub|I mod|do~neg|not v|know .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|PUNCT
+%act:	turns c around
+*MOT:	you have_to open it and find out .
+%mor:	pro|you mod:aux|have_to v|open pro|it coord|and v|find adv|out .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|3|CONJ 6|5|COORD 7|6|JCT 8|3|PUNCT
+*CHI:	0 .
+%act:	tries to turn clasp
+*MOT:	you have_to turn this .
+%mor:	pro|you mod:aux|have_to v|turn pro:dem|this .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*MOT:	turn this .
+%mor:	v|turn pro:dem|this .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+*CHI:	0 .
+%act:	tries to turn clasp
+*CHI:	0 .
+%act:	turns clasp
+*MOT:	yeah [x 1] .
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	that's right .
+%mor:	pro:dem|that~cop|be&3S adv|right .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|2|PUNCT
+*MOT:	oh .
+%mor:	co|oh .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	you did it .
+%mor:	pro|you v|do&PAST pro|it .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*CHI:	0 .
+%act:	turns clasp
+*MOT:	you turned it too far .
+%mor:	pro|you v|turn-PAST pro|it adv|too adv|far .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|JCT 5|2|JCT 6|2|PUNCT
+*MOT:	turn it again .
+%mor:	v|turn pro|it adv|again .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|JCT 4|1|PUNCT
+*MOT:	just a little .
+%mor:	adv|just det|a adj|little .
+%gra:	1|3|JCT 2|3|DET 3|0|INCROOT 4|3|PUNCT
+*CHI:	0 .
+%act:	turns clasp
+*MOT:	because you turned it .
+%mor:	conj|because pro|you v|turn-PAST pro|it .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*MOT:	that's it .
+%mor:	pro:dem|that~cop|be&3S pro|it .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*MOT:	stop [x 1] .
+%mor:	n|stop .
+%gra:	1|0|INCROOT 2|1|PUNCT
+@End

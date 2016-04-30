@@ -1,0 +1,51 @@
+@UTF8
+@PID:	11312/c-00010893-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, MOT Mother
+@ID:	eng|Braunwald|CHI|02;04.18|female|||Target_Child|||
+@ID:	eng|Braunwald|MOT|||||Mother|||
+@Date:	08-JUL-1973
+*CHI:	little bit cream, okay Mama ?
+%mor:	adj|little n|bit n|cream cm|cm adj|okay n:prop|Mama ?
+%gra:	1|3|MOD 2|3|MOD 3|0|INCROOT 4|3|LP 5|3|XMOD 6|5|OBJ 7|3|PUNCT
+%sit:	278
+*CHI:	wanna little bit cream after milk .
+%mor:	v|want~inf|to adj|little n|bit n|cream prep|after n|milk .
+%gra:	1|0|ROOT 2|5|INF 3|5|MOD 4|5|MOD 5|1|XCOMP 6|5|NJCT 7|6|POBJ 8|1|PUNCT
+%sit:	278
+*MOT:	okay .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%sit:	278
+*CHI:	whose that recorder player is ?
+%mor:	rel|whose adv|that n|record&dv-AGT n|play&dv-AGT aux|be&3S ?
+%gra:	1|5|LINK 2|5|JCT 3|4|MOD 4|5|SUBJ 5|0|ROOT 6|5|PUNCT
+%sit:	279
+*MOT:	Laura's .
+%mor:	n:prop|Laura~poss|s .
+%gra:	1|0|INCROOT 2|1|POSS 3|1|PUNCT
+%sit:	279
+*CHI:	whose that recorder player is ?
+%mor:	rel|whose adv|that n|record&dv-AGT n|play&dv-AGT aux|be&3S ?
+%gra:	1|5|LINK 2|5|JCT 3|4|MOD 4|5|SUBJ 5|0|ROOT 6|5|PUNCT
+%sit:	279
+*MOT:	Laura's .
+%mor:	n:prop|Laura~poss|s .
+%gra:	1|0|INCROOT 2|1|POSS 3|1|PUNCT
+%sit:	279
+*CHI:	a balloon .
+%mor:	det|a n|balloon .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+%sit:	280
+*CHI:	two balloons .
+%mor:	det:num|two n|balloon-PL .
+%gra:	1|2|QUANT 2|0|INCROOT 3|2|PUNCT
+%sit:	280
+*CHI:	bet those are balloons, aren't (th)em ?
+%mor:	v|bet&ZERO pro:dem|those cop|be&PRES n|balloon-PL cm|cm
+	aux|be&PRES~neg|not pro:obj|them ?
+%gra:	1|0|ROOT 2|1|OBJ 3|2|COORD 4|8|SUBJ 5|4|LP 6|8|AUX 7|6|NEG 8|3|PRED
+	9|1|PUNCT
+%sit:	280
+@End

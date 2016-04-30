@@ -1,0 +1,2319 @@
+@UTF8
+@PID:	11312/c-00016745-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Laura Target_Child, MOT Mother
+@ID:	eng|McCune|CHI|1;6.|female|||Target_Child|||
+@ID:	eng|McCune|MOT|||||Mother|||
+@Birth of CHI:	07-JUN-1979
+*CHI:	0 .
+%act:	takes elephant
+*CHI:	0 .
+%act:	opens elephant
+*CHI:	push [x 1] .
+%mor:	n|push .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	closes elephant
+*MOT:	push .
+%mor:	n|push .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	holds elephant
+*MOT:	right .
+%mor:	co|right .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	that .
+%mor:	pro:dem|that .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	push that .
+%mor:	v|push pro:dem|that .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+%act:	takes elephant, closes elephant
+@New Episode
+*CHI:	xxx .
+%act:	takes mop
+*CHI:	0 .
+%act:	falls to floor
+*MOT:	oh I'm sorry .
+%mor:	co|oh pro:sub|I~cop|be&1S adj|sorry .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|3|PUNCT
+*CHI:	0 .
+%act:	gets up
+*CHI:	0 .
+%act:	mops floor
+*MOT:	oh you're going to clean ?
+%mor:	co|oh pro|you~aux|be&PRES part|go-PRESP inf|to v|clean ?
+%gra:	1|4|COM 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|INF 6|4|XCOMP 7|4|PUNCT
+*MOT:	oh thank_you .
+%mor:	co|oh n|thank_you .
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+*CHI:	0 .
+%act:	gives m mop
+@New Episode
+*MOT:	oh my turn ?
+%mor:	co|oh pro:poss:det|my n|turn ?
+%gra:	1|3|COM 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+*MOT:	thank_you .
+%mor:	co|thank_you .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	0 .
+%act:	mops floor
+*CHI:	0 .
+%act:	takes popbeads
+*CHI:	xxx .
+%act:	gives m popbeads
+*MOT:	these are big beads .
+%mor:	pro:dem|these cop|be&PRES adj|big n|bead-PL .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|MOD 4|2|PRED 5|2|PUNCT
+%act:	takes popbeads
+*MOT:	look .
+%mor:	co|look .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	0 .
+%act:	pulls beads apart, connects beads
+*CHI:	0 .
+%act:	holds on
+*MOT:	0 .
+%act:	pulls beads apart, closes them
+*CHI:	0 .
+%act:	holds on
+*MOT:	0 .
+%act:	pulls beads apart, closes them
+*CHI:	0 .
+%act:	takes popbeads
+*MOT:	can you pull them apart ?
+%mor:	mod|can pro|you v|pull pro:obj|them adv|apart ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|JCT 6|3|PUNCT
+*CHI:	0 .
+%act:	puts beads on neck
+*MOT:	oh pretty .
+%mor:	co|oh adv|pretty .
+%gra:	1|0|INCROOT 2|1|JCT 3|1|PUNCT
+*CHI:	no .
+%mor:	co|no .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	takes beads off neck
+*CHI:	0 .
+%act:	discards beads
+@New Episode
+*MOT:	no .
+%mor:	co|no .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	takes beads
+*CHI:	neigh@o [x 2] .
+%mor:	on|neigh .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	walks towards puzzle
+*CHI:	xxx .
+%act:	takes puzzle
+*CHI:	0 .
+%act:	sits down with puzzle on lap
+*MOT:	what's this ?
+%mor:	pro:wh|what~cop|be&3S pro:dem|this ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+%act:	points to piece
+*CHI:	cow .
+%mor:	n|cow .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	points to puzzle
+*MOT:	what ?
+%mor:	pro:wh|what ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	it's a pig .
+%mor:	pro|it~cop|be&3S det|a n|pig .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+*MOT:	what does a pig say ?
+%mor:	pro:wh|what v|do&3S det|a n|pig v|say ?
+%gra:	1|2|LINK 2|5|LINK 3|4|DET 4|5|SUBJ 5|0|ROOT 6|5|PUNCT
+*CHI:	0 .
+%act:	takes piece out
+*MOT:	that's a rooster .
+%mor:	pro:dem|that~cop|be&3S det|a n|rooster .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+%act:	points to piece
+*CHI:	&roos [x 1] .
+%act:	tries to fit piece
+*MOT:	a rooster .
+%mor:	det|a n|rooster .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*MOT:	right .
+%mor:	co|right .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	0 .
+%act:	piece slips off puzzle
+*CHI:	oop .
+%mor:	co|oop .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	what does a rooster say ?
+%mor:	pro:wh|what v|do&3S det|a n|rooster v|say ?
+%gra:	1|2|LINK 2|5|LINK 3|4|DET 4|5|SUBJ 5|0|ROOT 6|5|PUNCT
+%act:	takes piece
+*CHI:	0 .
+%act:	fits piece
+*MOT:	cock_a_doodle_doo .
+%mor:	co|cock_a_doodle_doo .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	yeah .
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	that was good .
+%mor:	pro:dem|that cop|be&PAST&13S adj|good .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*MOT:	here's a cow .
+%mor:	pro:exist|here~cop|be&3S det|a n|cow .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+%act:	points to another piece
+*CHI:	hey [x 1] .
+%mor:	co|hey .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	touches piece
+*MOT:	the cow says what ?
+%mor:	det|the n|cow v|say-3S pro:wh|what ?
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+%act:	arranges piece
+*CHI:	xxx .
+%act:	points to piece
+*CHI:	hey .
+%mor:	co|hey .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	points to another piece
+*MOT:	that's a donkey .
+%mor:	pro:dem|that~cop|be&3S det|a n|donkey .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+%act:	points to piece
+*MOT:	donkey says hee haw .
+%mor:	n|donkey v|say-3S co|hee co|haw .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|COM 4|2|COM 5|2|PUNCT
+*CHI:	hee, haw .
+%mor:	co|hee cm|cm v|haw .
+%gra:	1|3|COM 2|1|LP 3|0|ROOT 4|3|PUNCT
+%act:	tries to remove puzzle piece
+*MOT:	right .
+%mor:	co|right .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	hee, haw .
+%mor:	co|hee cm|cm v|haw .
+%gra:	1|3|COM 2|1|LP 3|0|ROOT 4|3|PUNCT
+%act:	tries to remove puzzle piece
+*MOT:	hee haw .
+%mor:	co|hee co|haw .
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+%act:	helps c remove piece
+*CHI:	neigh .
+%mor:	on|neigh .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	holds piece up
+*MOT:	okay .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	it looks like a horsie .
+%mor:	pro|it v|look-3S prep|like det|a n|horse-DIM .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|5|DET 5|3|POBJ 6|2|PUNCT
+*CHI:	0 .
+%act:	tries to fit piece
+*CHI:	no, push .
+%mor:	co|no cm|cm n|push .
+%gra:	1|3|COM 2|1|LP 3|0|INCROOT 4|3|PUNCT
+%act:	tries to fit piece
+*MOT:	push .
+%mor:	n|push .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	helps c put piece in puzzle
+*MOT:	right .
+%mor:	co|right .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	okay .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	you did it .
+%mor:	pro|you v|do&PAST pro|it .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*CHI:	xxx .
+%act:	takes out piece
+*MOT:	that's a goose .
+%mor:	pro:dem|that~cop|be&3S det|a n|goose .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+*MOT:	a goose says honk honk .
+%mor:	det|a n|goose v|say-3S n|honk n|honk .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|5|MOD 5|3|OBJ 6|3|PUNCT
+*CHI:	(h)onk [x 1] .
+%mor:	n|honk .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	reaches for another piece
+*CHI:	0 .
+%act:	drops piece on floor
+*CHI:	0 .
+%act:	discards puzzle
+@New Episode
+*CHI:	book .
+%mor:	n|book .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	touches book
+*CHI:	0 .
+%act:	takes toolbox
+*MOT:	this is a toolbox .
+%mor:	pro:dem|this cop|be&3S det|a n|+n|tool+n|box .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+%act:	sets toolbox on floor
+@New Episode
+*CHI:	xxx .
+%act:	attempts to open toolbox
+*CHI:	xxx .
+%act:	holds handle
+*CHI:	open .
+%mor:	adj|open .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	screams, gives m toolbox
+*MOT:	do you want me to open it ?
+%mor:	mod|do pro|you v|want pro:obj|me inf|to v|open pro|it ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|6|INF 6|3|XCOMP 7|6|OBJ 8|3|PUNCT
+%act:	takes toolbox
+*CHI:	xxx .
+%act:	flips handle of toolbox
+*MOT:	look .
+%mor:	co|look .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	opens toolbox
+*MOT:	from here .
+%mor:	prep|from pro:dem|here .
+%gra:	1|0|INCROOT 2|1|POBJ 3|1|PUNCT
+*MOT:	you have_to push up .
+%mor:	pro|you mod:aux|have_to v|push adv|up .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|3|PUNCT
+*CHI:	push, up .
+%mor:	n|push cm|cm adv|up .
+%gra:	1|0|INCROOT 2|1|LP 3|1|JCT 4|1|PUNCT
+%act:	opens toolbox completely
+*CHI:	push, up .
+%mor:	n|push cm|cm adv|up .
+%gra:	1|0|INCROOT 2|1|LP 3|1|JCT 4|1|PUNCT
+%act:	dumps tools out
+*CHI:	0 .
+%act:	takes out screwdriver from toolbox
+*CHI:	byebye .
+%mor:	co|byebye .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	closes toolbox
+*CHI:	0 .
+%act:	regards screwdriver
+*CHI:	0 .
+%act:	touches end of screwdriver to saw on floor, bending screwdriver
+*MOT:	hum .
+%mor:	n|hum .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	0 .
+%act:	touches screwdriver to floor, bending screwdriver
+*CHI:	xxx .
+%act:	discards screwdriver
+@New Episode
+*CHI:	0 .
+%act:	takes pat book
+*CHI:	xxx .
+%act:	tries to take book out of box
+*CHI:	0 .
+%act:	whines, gives pat book to m
+*CHI:	0 .
+%act:	whines
+*MOT:	turn it upside down .
+%mor:	v|turn pro|it up#v|side adv|down .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|COMP 4|3|JCT 5|1|PUNCT
+%act:	shakes pat book out of box
+*CHI:	0 .
+%act:	takes pat book
+*MOT:	that's pat the bunny .
+%mor:	pro:dem|that~cop|be&3S n|pat det|the n|bunny .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|5|DET 5|3|OBJ 6|2|PUNCT
+%act:	takes book
+*MOT:	see ?
+%mor:	v|see ?
+%gra:	1|0|ROOT 2|1|PUNCT
+%act:	points to book
+*MOT:	see Paul and Judy ?
+%mor:	v|see n:prop|Paul coord|and n:prop|Judy ?
+%gra:	1|0|ROOT 2|1|OBJ 3|1|CONJ 4|3|COORD 5|1|PUNCT
+*CHI:	0 .
+%act:	tries to turn page
+*MOT:	look [x 3] .
+%mor:	co|look .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	Judy's patting the bunny .
+%mor:	n:prop|Judy~aux|be&3S part|pat-PRESP det|the n|bunny .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*CHI:	0 .
+%act:	pats the bunny
+*MOT:	now you pat the bunny .
+%mor:	adv|now pro|you v|pat det|the n|bunny .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*CHI:	0 .
+%act:	continues patting the bunny
+*MOT:	yeah .
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	soft [x 1] .
+%mor:	adv|soft .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	nice .
+%mor:	adj|nice .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	0 .
+%act:	continues patting the bunny
+*MOT:	nice .
+%mor:	adj|nice .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	feels good .
+%mor:	v|feel-3S adj|good .
+%gra:	1|0|ROOT 2|1|JCT 3|1|PUNCT
+*MOT:	now .
+%mor:	adv|now .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	turns page
+*CHI:	0 .
+%act:	picks up flap
+*MOT:	play peek a boo .
+%mor:	n|play n|peek det|a co|boo .
+%gra:	1|2|MOD 2|0|INCROOT 3|4|DET 4|2|COM 5|2|PUNCT
+*CHI:	0 .
+%act:	lifts up flap
+*MOT:	where's Paul ?
+%mor:	rel|where~aux|be&3S n:prop|Paul ?
+%gra:	1|3|LINK 2|3|AUX 3|0|ROOT 4|3|PUNCT
+*MOT:	peek a boo .
+%mor:	v|peek det|a co|boo .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+*MOT:	where's Paul ?
+%mor:	rel|where~aux|be&3S n:prop|Paul ?
+%gra:	1|3|LINK 2|3|AUX 3|0|ROOT 4|3|PUNCT
+*CHI:	0 .
+%act:	touches the opposite page
+*MOT:	see Judy's playing peek a boo .
+%mor:	co|see n:prop|Judy~poss|s part|play-PRESP n|peek det|a co|boo .
+%gra:	1|5|COM 2|5|MOD 3|2|POSS 4|5|MOD 5|0|ROOT 6|7|DET 7|5|COM 8|5|PUNCT
+*MOT:	now you're playing peek a boo .
+%mor:	adv|now pro|you~aux|be&PRES part|play-PRESP n|peek det|a co|boo .
+%gra:	1|4|JCT 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|7|DET 7|4|COM 8|4|PUNCT
+*CHI:	0 .
+%act:	lifts up flap, brings head closer to book
+*MOT:	peek a boo .
+%mor:	v|peek det|a co|boo .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+*CHI:	0 .
+%act:	laughs
+*MOT:	where's Paul ?
+%mor:	rel|where~aux|be&3S n:prop|Paul ?
+%gra:	1|3|LINK 2|3|AUX 3|0|ROOT 4|3|PUNCT
+*CHI:	0 .
+%act:	lifts up flap
+*MOT:	peek a boo .
+%mor:	v|peek det|a co|boo .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+*MOT:	where's Paul ?
+%mor:	rel|where~aux|be&3S n:prop|Paul ?
+%gra:	1|3|LINK 2|3|AUX 3|0|ROOT 4|3|PUNCT
+*CHI:	0 .
+%act:	lifts up flap
+*MOT:	peek a boo .
+%mor:	v|peek det|a co|boo .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+*MOT:	there's Paul .
+%mor:	pro:exist|there~cop|be&3S n:prop|Paul .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*MOT:	where's Laura ?
+%mor:	rel|where~aux|be&3S n:prop|Laura ?
+%gra:	1|3|LINK 2|3|AUX 3|0|ROOT 4|3|PUNCT
+*CHI:	0 .
+%act:	picks up flap
+*MOT:	peek a boo Paul .
+%mor:	v|peek det|a n|boo n:prop|Paul .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|3|APP 5|1|PUNCT
+*MOT:	0 .
+%act:	turns page
+*MOT:	Paul's smelling the flowers .
+%mor:	n:prop|Paul~aux|be&3S part|smell-PRESP det|the n|flower-PL .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+%act:	points to page
+*MOT:	now you smell the flowers .
+%mor:	adv|now pro|you v|smell det|the n|flower-PL .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*CHI:	0 .
+%act:	sniffs
+*MOT:	0 .
+%act:	brings book closer to c's face
+*CHI:	uhuh .
+%mor:	co|uhuh .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	0 .
+%act:	smells book
+*MOT:	&um .
+%act:	shows c book
+*MOT:	good .
+%mor:	adj|good .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	xxx .
+%act:	turns page
+*MOT:	wait .
+%mor:	co|wait .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	let's see what's on the next page .
+%mor:	v|let~pro:obj|us v|see pro:wh|what~aux|be&3S prep|on det|the
+	adj|next n|page .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|COMP 4|3|OBJ 5|4|INCROOT 6|5|JCT 7|9|DET 8|9|MOD
+	9|6|POBJ 10|5|PUNCT
+*CHI:	xxx .
+%act:	continues to try to turn page
+*CHI:	0 .
+%act:	turns page
+*CHI:	0 .
+%act:	pats bunny
+*MOT:	you want to pat the bunny again ?
+%mor:	pro|you v|want inf|to v|pat det|the n|bunny adv|again ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|INF 4|2|XCOMP 5|6|DET 6|4|OBJ 7|4|JCT 8|2|PUNCT
+*MOT:	right ?
+%mor:	co|right ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	0 .
+%act:	continues to pat the bunny
+*CHI:	0 .
+%act:	points to the opposite page
+*MOT:	yeah .
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	Judy is patting the bunny .
+%mor:	n:prop|Judy aux|be&3S part|pat-PRESP det|the n|bunny .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*MOT:	let's see what's on this page .
+%mor:	v|let~pro:obj|us v|see rel|what~aux|be&3S prep|on det|this n|page .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|COMP 4|5|LINK 5|3|COMP 6|5|JCT 7|8|DET 8|6|POBJ
+	9|5|PUNCT
+%act:	turns some pages of the book
+*MOT:	oh .
+%mor:	co|oh .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	points to page
+*MOT:	Judy's looking in the mirror .
+%mor:	n:prop|Judy~aux|be&3S part|look-PRESP prep|in det|the n|mirror .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|3|PUNCT
+*MOT:	now you look in the mirror Laura .
+%mor:	adv|now pro|you v|look prep|in det|the n|mirror n:prop|Laura .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|6|APP 8|3|PUNCT
+*CHI:	0 .
+%act:	brings face to book, sniffs
+*MOT:	do you see Laura ?
+%mor:	mod|do pro|you v|see n:prop|Laura ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*CHI:	0 .
+%act:	looks into mirror
+*MOT:	hi Laura .
+%mor:	co|hi n:prop|Laura .
+%gra:	1|2|COM 2|0|ROOT 3|2|PUNCT
+*MOT:	oh .
+%mor:	co|oh .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	turns page
+*MOT:	let's see .
+%mor:	v|let~pro:obj|us v|see .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|COMP 4|1|PUNCT
+*MOT:	oh look .
+%mor:	co|oh co|look .
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+*MOT:	Judy's feeling daddy's scratchy face .
+%mor:	n:prop|Judy~aux|be&3S part|feel-PRESP n|daddy~poss|s
+	adj|scratch&dv-Y n|face .
+%gra:	1|3|SUBJ 2|3|AUX 3|7|MOD 4|7|MOD 5|4|POSS 6|7|MOD 7|0|INCROOT 8|7|PUNCT
+*MOT:	now you feel daddy's scratchy face .
+%mor:	adv|now pro|you v|feel n|daddy~poss|s adj|scratch&dv-Y n|face .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|7|MOD 5|4|POSS 6|7|MOD 7|3|OBJ 8|3|PUNCT
+*CHI:	0 .
+%act:	touches page
+*MOT:	no [x 1] .
+%mor:	co|no .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	points to specific spot on page
+*MOT:	right here .
+%mor:	adv|right adv|here .
+%gra:	1|0|INCROOT 2|1|JCT 3|1|PUNCT
+*MOT:	look .
+%mor:	co|look .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	look .
+%mor:	co|look .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	points to spot on page
+*MOT:	here .
+%mor:	adv|here .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	feel it .
+%mor:	v|feel pro|it .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+%act:	helps c feel that spot
+*MOT:	scratchy .
+%mor:	adj|scratch&dv-Y .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	0 .
+%act:	turns page
+*MOT:	Judy's reading her book .
+%mor:	n:prop|Judy~aux|be&3S part|read-PRESP pro:poss:det|her n|book .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|MOD 5|3|OBJ 6|3|PUNCT
+%act:	turns page of little book
+*MOT:	now you read her a book .
+%mor:	adv|now pro|you v|read&ZERO pro:obj|her det|a n|book .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|6|DET 6|3|OBJ 7|3|PUNCT
+*CHI:	0 .
+%act:	touches page of little book
+*CHI:	mine [x 1] .
+%mor:	pro:poss|mine .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	takes book
+*CHI:	0 .
+%act:	finds page with bunny on it, touches bunny
+*MOT:	you want to pat the bunny ?
+%mor:	pro|you v|want inf|to v|pat det|the n|bunny ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|INF 4|2|XCOMP 5|6|DET 6|4|OBJ 7|2|PUNCT
+*CHI:	0 .
+%act:	continues to feel the bunny
+*CHI:	bunny .
+%mor:	n|bunny .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	puts book on m's lap
+*MOT:	bunny .
+%mor:	n|bunny .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	0 .
+%act:	continues to feel bunny
+*MOT:	very soft .
+%mor:	adv|very adj|soft .
+%gra:	1|2|JCT 2|0|ROOT 3|2|PUNCT
+@New Episode
+*CHI:	0 .
+%act:	takes book from bucket
+*CHI:	0 .
+%act:	discards book
+@New Episode
+*CHI:	0 .
+%act:	takes sponge
+*CHI:	push .
+%mor:	n|push .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	wipes floor with sponge
+*CHI:	0 .
+%act:	discards sponge
+@New Episode
+*CHI:	0 .
+%act:	takes saw
+*CHI:	xxx .
+%act:	regards saw
+*MOT:	that's a saw .
+%mor:	pro:dem|that~cop|be&3S det|a n|saw .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+*CHI:	0 .
+%act:	looks up at camera, smiles
+*CHI:	0 .
+%act:	touches saw
+*MOT:	do you know how to work the saw ?
+%mor:	mod|do pro|you v|know adv:wh|how inf|to v|work det|the n|saw ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|6|INF 6|4|XCOMP 7|8|DET 8|6|OBJ
+	9|3|PUNCT
+*MOT:	can you saw this ?
+%mor:	mod|can pro|you v|saw pro:dem|this ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*MOT:	0 .
+%act:	puts toolbox in front of c
+*MOT:	0 .
+%act:	saws toolbox
+*CHI:	xxx .
+%act:	takes saw
+*CHI:	0 .
+%act:	saws toolbox
+*MOT:	yeah .
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	that's right .
+%mor:	pro:dem|that~cop|be&3S adv|right .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|2|PUNCT
+*CHI:	0 .
+%act:	discards saw and toolbox
+@New Episode
+*CHI:	choochoo@o [x 1] .
+%mor:	on|choochoo .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	takes truck
+*MOT:	oh .
+%mor:	co|oh .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	choochoo@o .
+%mor:	on|choochoo .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	choochoo@o [x 3] .
+%mor:	on|choochoo .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	touches truck
+*CHI:	0 .
+%act:	lifts dumper
+*CHI:	0 .
+%act:	touches wheel
+*MOT:	wheel .
+%mor:	n|wheel .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	these are the wheels .
+%mor:	pro:dem|these cop|be&PRES det|the n|wheel-PL .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+%act:	turns wheel
+*MOT:	the wheels go round and round .
+%mor:	det|the n|wheel-PL v|go adv|round coord|and adv|round .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|CONJ 6|5|COORD 7|3|PUNCT
+%act:	turns wheels
+*MOT:	the wheels on the truck go round and round .
+%mor:	det|the n|wheel-PL prep|on det|the n|truck v|go adv|round coord|and
+	adv|round .
+%gra:	1|2|DET 2|0|INCROOT 3|6|LINK 4|5|DET 5|6|SUBJ 6|2|XMOD 7|6|JCT 8|6|CONJ
+	9|8|COORD 10|2|PUNCT
+*CHI:	0 .
+%act:	replaces dumper
+*MOT:	here look .
+%mor:	adv|here v|look .
+%gra:	1|2|JCT 2|0|ROOT 3|2|PUNCT
+*MOT:	you can put things in back of the truck like this and then you can
+	dump them all out .
+%mor:	pro|you mod|can v|put&ZERO n|thing-PL adv|in adv|back prep|of
+	det|the n|truck prep|like det|this conj|and adv:tem|then pro|you
+	mod|can v|dump pro:obj|them post|all adv|out .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|3|JCT 6|3|JCT 7|3|JCT 8|9|DET
+	9|7|POBJ 10|3|JCT 11|16|DET 12|16|LINK 13|16|JCT 14|16|SUBJ 15|16|AUX
+	16|10|POBJ 17|16|OBJ 18|17|PQ 19|16|JCT 20|3|PUNCT
+%act:	places several objects in the back of the truck
+*MOT:	0 .
+%act:	dumps objects out of truck
+*MOT:	here .
+%mor:	adv|here .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	replaces objects into dumper
+*MOT:	dump them out .
+%mor:	v|dump pro:obj|them adv|out .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|JCT 4|1|PUNCT
+*MOT:	can you dump them out ?
+%mor:	mod|can pro|you v|dump pro:obj|them adv|out ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|JCT 6|3|PUNCT
+*CHI:	0 .
+%act:	touches object in truck
+*MOT:	here .
+%mor:	adv|here .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	touches dumper
+*MOT:	look this up .
+%mor:	v|look det|this adv|up .
+%gra:	1|0|ROOT 2|3|DET 3|1|JCT 4|1|PUNCT
+*MOT:	and here they all are .
+%mor:	conj|and adv|here pro:sub|they post|all cop|be&PRES .
+%gra:	1|5|LINK 2|5|JCT 3|5|SUBJ 4|3|PQ 5|0|ROOT 6|5|PUNCT
+%act:	dumps objects out
+*MOT:	they fall down .
+%mor:	pro:sub|they v|fall adv|down .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|2|PUNCT
+@New Episode
+*CHI:	back book .
+%mor:	adj|back n|book .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+%act:	takes purse from bucket
+*CHI:	back book .
+%mor:	adj|back n|book .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+%act:	picks up purse from floor
+*MOT:	pocketbook .
+%mor:	n|+n|pocket+n|book .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	0 .
+%act:	tries to open purse, whines
+*CHI:	out [x 1] .
+%mor:	adv|out .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	gives purse to m
+*MOT:	here you turn it .
+%mor:	adv|here pro|you v|turn pro|it .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+%act:	touches clasp on purse
+*MOT:	here you do it .
+%mor:	adv|here pro|you v|do pro|it .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+%act:	offers c purse
+*CHI:	0 .
+%act:	opens purse
+*CHI:	0 .
+%act:	shows m purse, screams
+*MOT:	you sound mad .
+%mor:	pro|you adj|sound adj|mad .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|2|PUNCT
+*MOT:	what are you mad about ?
+%mor:	pro:wh|what aux|be&PRES pro|you adj|mad prep|about ?
+%gra:	1|4|LINK 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|4|PUNCT
+*MOT:	here .
+%mor:	adv|here .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	holds purse
+*MOT:	it's opened .
+%mor:	pro|it~aux|be&3S part|open-PASTP .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|PUNCT
+*CHI:	0 .
+%act:	takes purse
+*CHI:	0 .
+%act:	discards purse
+@New Episode
+*CHI:	baby .
+%mor:	n|baby .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	takes baby doll from bucket
+*MOT:	yeah .
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	0 .
+%act:	takes blanket off baby
+*MOT:	that's the baby's blanket .
+%mor:	pro:dem|that~cop|be&3S det|the n|baby~poss|s n|blanket .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|4|POSS 6|4|XMOD 7|2|PUNCT
+*MOT:	it's like your comfy .
+%mor:	pro|it~cop|be&3S rel|like pro:poss:det|your adj|comfy .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|LINK 4|5|MOD 5|2|PRED 6|2|PUNCT
+*CHI:	off .
+%mor:	adv|off .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	attempts to take off hat
+*CHI:	off .
+%mor:	adv|off .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	gives m doll
+*MOT:	do you wanna take this off ?
+%mor:	mod|do pro|you v|want~inf|to v|take det|this adv|off ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|5|INF 5|3|XCOMP 6|7|DET 7|5|JCT 8|3|PUNCT
+%act:	takes doll
+*CHI:	baby .
+%mor:	n|baby .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	here .
+%mor:	adv|here .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	gives c the hat strings
+*MOT:	pull .
+%mor:	v|pull .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	here take this .
+%mor:	pro:exist|here v|take det|this .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*MOT:	take this .
+%mor:	v|take det|this .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+*MOT:	pull .
+%mor:	v|pull .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	0 .
+%act:	pulls hat string
+*MOT:	good .
+%mor:	adj|good .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	you did it .
+%mor:	pro|you v|do&PAST pro|it .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*MOT:	0 .
+%act:	finishes untying hat
+*CHI:	0 .
+%act:	takes hat
+*CHI:	off [x 1] .
+%mor:	adv|off .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	opens up the doll's shirt
+*MOT:	okay .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	helps c take shirt off
+*MOT:	pull this [x 1] .
+%mor:	v|pull det|this .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+%act:	points to sleeve
+*CHI:	0 .
+%act:	takes shirt off
+*MOT:	yes .
+%mor:	co|yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	&un this .
+%mor:	pro:dem|this .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	pulls on doll's diaper
+*MOT:	what is this ?
+%mor:	pro:wh|what aux|be&3S det|this ?
+%gra:	1|0|INCROOT 2|4|AUX 3|4|DET 4|1|PUNCT
+%act:	points to diaper
+*CHI:	what, that ?
+%mor:	pro:wh|what cm|cm rel|that ?
+%gra:	1|3|LINK 2|1|LP 3|0|ROOT 4|3|PUNCT
+%act:	pulls on doll's diaper
+*MOT:	diaper .
+%mor:	n|diaper .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	unsnaps diaper
+*MOT:	like you have .
+%mor:	v|like pro|you v|have .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*CHI:	xxx .
+%act:	takes diaper off
+*CHI:	0 .
+%act:	discards diaper
+*MOT:	now the baby has no clothes .
+%mor:	adv|now det|the n|baby v|have&3S qn|no n:pt|clothes .
+%gra:	1|4|JCT 2|3|DET 3|4|SUBJ 4|0|ROOT 5|6|QUANT 6|4|OBJ 7|4|PUNCT
+*MOT:	no clothes on .
+%mor:	qn|no n:pt|clothes adv|on .
+%gra:	1|2|QUANT 2|0|ROOT 3|2|JCT 4|2|PUNCT
+*MOT:	she's going to be cold .
+%mor:	pro:sub|she~aux|be&3S part|go-PRESP inf|to cop|be adj|cold .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|INF 5|3|XCOMP 6|5|PRED 7|3|PUNCT
+*CHI:	xxx .
+%act:	gives m diaper
+*CHI:	0 .
+%act:	discards doll
+@New Episode
+*CHI:	shoes .
+%mor:	n|shoe-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	reaches into bucket
+*CHI:	cup [x 1] .
+%mor:	n|cup .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	0 .
+%act:	takes nesting cups
+*CHI:	0 .
+%act:	approaches m with nesting cups
+*MOT:	cup .
+%mor:	n|cup .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	cup [x 2] .
+%mor:	n|cup .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	gives m cups
+@New Episode
+*MOT:	now what do you wanna do with these cups ?
+%mor:	adv|now pro:wh|what mod|do pro|you v|want~inf|to v|do prep|with
+	det|these n|cup-PL ?
+%gra:	1|5|JCT 2|5|SUBJ 3|5|AUX 4|5|SUBJ 5|0|ROOT 6|7|INF 7|5|XCOMP 8|7|JCT
+	9|10|DET 10|8|POBJ 11|5|PUNCT
+*CHI:	bunny, oh .
+%mor:	n|bunny cm|cm co|oh .
+%gra:	1|0|INCROOT 2|1|LP 3|1|COM 4|1|PUNCT
+%act:	reaches for pat book
+*CHI:	0 .
+%act:	takes pat book
+*CHI:	bunny .
+%mor:	n|bunny .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	puts pat book on lap
+*MOT:	do you want to read about the bunny again ?
+%mor:	mod|do pro|you v|want inf|to v|read&ZERO prep|about det|the n|bunny
+	adv|again ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|5|INF 5|3|XCOMP 6|5|JCT 7|8|DET 8|6|POBJ
+	9|8|NJCT 10|3|PUNCT
+*CHI:	xxx .
+%act:	holds book
+*CHI:	xxx .
+*MOT:	what ?
+%mor:	pro:wh|what ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	takes pat book
+*CHI:	xxx .
+%act:	watches m
+*MOT:	0 .
+%act:	takes pat book out of box
+*CHI:	one, two .
+%mor:	det:num|one cm|cm det:num|two .
+%gra:	1|3|QUANT 2|1|LP 3|0|ROOT 4|3|PUNCT
+%act:	watches m turn pages
+*MOT:	0 .
+%act:	opens pat book
+*MOT:	Paul .
+%mor:	n:prop|Paul .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	Judy .
+%mor:	n:prop|Judy .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	see .
+%mor:	v|see .
+%gra:	1|0|ROOT 2|1|PUNCT
+%act:	points to page
+*MOT:	here are Paul and Judy .
+%mor:	adv|here cop|be&PRES n:prop|Paul coord|and n:prop|Judy .
+%gra:	1|2|JCT 2|0|ROOT 3|2|PRED 4|3|CONJ 5|4|COORD 6|2|PUNCT
+*MOT:	Paul, Judy .
+%mor:	n:prop|Paul cm|cm n:prop|Judy .
+%gra:	1|3|SUBJ 2|1|LP 3|0|ROOT 4|3|PUNCT
+*MOT:	Judy's patting the bunny .
+%mor:	n:prop|Judy~aux|be&3S part|pat-PRESP det|the n|bunny .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+%act:	turns page
+*CHI:	0 .
+%act:	touches bunny
+*CHI:	bunny .
+%mor:	n|bunny .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	looks at page
+*MOT:	oh .
+%mor:	co|oh .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	touches bunny
+*MOT:	soft .
+%mor:	adv|soft .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	0 .
+%act:	touches bunny
+*CHI:	0 .
+%act:	turns page
+*MOT:	Judy's playing peek a boo .
+%mor:	n:prop|Judy~poss|s part|play-PRESP n|peek det|a co|boo .
+%gra:	1|4|MOD 2|1|POSS 3|4|MOD 4|0|ROOT 5|6|DET 6|4|COM 7|4|PUNCT
+*MOT:	you play peek a boo .
+%mor:	pro|you n|play v|peek det|a co|boo .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|COM 6|3|PUNCT
+*CHI:	0 .
+%act:	looks at page
+*MOT:	where's Paul ?
+%mor:	rel|where~aux|be&3S n:prop|Paul ?
+%gra:	1|3|LINK 2|3|AUX 3|0|ROOT 4|3|PUNCT
+*CHI:	0 .
+%act:	lifts up flap
+*MOT:	here's Paul .
+%mor:	pro:exist|here~cop|be&3S n:prop|Paul .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*MOT:	where's Paul ?
+%mor:	rel|where~aux|be&3S n:prop|Paul ?
+%gra:	1|3|LINK 2|3|AUX 3|0|ROOT 4|3|PUNCT
+*CHI:	0 .
+%act:	lifts up flap
+*MOT:	there's Paul .
+%mor:	pro:exist|there~cop|be&3S n:prop|Paul .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*MOT:	peek a boo .
+%mor:	v|peek det|a co|boo .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+*CHI:	0 .
+%act:	lowers flap
+*MOT:	where's Paul ?
+%mor:	rel|where~aux|be&3S n:prop|Paul ?
+%gra:	1|3|LINK 2|3|AUX 3|0|ROOT 4|3|PUNCT
+*CHI:	0 .
+%act:	lifts up flap
+*MOT:	peek a boo .
+%mor:	v|peek det|a co|boo .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+*MOT:	0 .
+%act:	turns page
+*MOT:	Paul can smell flowers .
+%mor:	n:prop|Paul n|can n|smell n|flower-PL .
+%gra:	1|4|MOD 2|4|MOD 3|4|MOD 4|0|INCROOT 5|4|PUNCT
+*MOT:	now Laura smell the flowers .
+%mor:	adv|now n:prop|Laura n|smell det|the n|flower-PL .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|INCROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*CHI:	no .
+%mor:	co|no .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	looks at page
+*CHI:	0 .
+%act:	turns page
+*MOT:	no .
+%mor:	co|no .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	why not ?
+%mor:	adv:wh|why neg|not ?
+%gra:	1|0|INCROOT 2|1|NEG 3|1|PUNCT
+*MOT:	they smell good .
+%mor:	pro:sub|they v|smell adj|good .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|2|PUNCT
+*CHI:	peek, a, boo .
+%mor:	n|peek cm|cm det|a cm|cm co|boo .
+%gra:	1|0|INCROOT 2|1|LP 3|4|DET 4|1|LP 5|1|COM 6|1|PUNCT
+%act:	lifts up flap in book
+*MOT:	you want to play peek a boo ?
+%mor:	pro|you v|want prep|to n|play n|peek det|a co|boo ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|5|MOD 5|3|POBJ 6|7|DET 7|2|COM 8|2|PUNCT
+*CHI:	0 .
+%act:	touches page several times
+*CHI:	peek, a, boo .
+%mor:	n|peek cm|cm det|a cm|cm co|boo .
+%gra:	1|0|INCROOT 2|1|LP 3|4|DET 4|1|LP 5|1|COM 6|1|PUNCT
+%act:	lifts up flap
+*MOT:	0 .
+%act:	turns page
+*MOT:	do you wanna feel daddy's scratchy face ?
+%mor:	mod|do pro|you v|want~inf|to n|feel n|daddy~poss|s adj|scratch&dv-Y
+	n|face ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|5|INF 5|9|MOD 6|9|MOD 7|6|POSS 8|9|MOD
+	9|3|OBJ 10|3|PUNCT
+%act:	touches book
+*MOT:	scratchy .
+%mor:	adj|scratch&dv-Y .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	takes c's finger, touches page
+*MOT:	here .
+%mor:	adv|here .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	turns several pages
+*MOT:	look at this one .
+%mor:	v|look prep|at det|this pro:indef|one .
+%gra:	1|0|ROOT 2|1|JCT 3|4|DET 4|2|POBJ 5|1|PUNCT
+*MOT:	do you wanna put your finger through mommy's ring ?
+%mor:	mod|do pro|you v|want~inf|to v|put&ZERO pro:poss:det|your n|finger
+	prep|through n|mommy~poss|s n|ring ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|5|INF 5|3|XCOMP 6|7|MOD 7|5|OBJ 8|5|JCT
+	9|11|MOD 10|9|POSS 11|8|POBJ 12|3|PUNCT
+*CHI:	0 .
+%act:	puts through hole in page
+*MOT:	yeah .
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	0 .
+%act:	takes m's hand, puts m's finger through hole in page
+*MOT:	my finger doesn't fit but your finger fits .
+%mor:	pro:poss:det|my n|finger mod|do&3S~neg|not v|fit&ZERO conj|but
+	pro:poss:det|your n|finger n|fit-PL .
+%gra:	1|2|MOD 2|5|SUBJ 3|5|AUX 4|3|NEG 5|0|ROOT 6|9|LINK 7|8|MOD 8|9|MOD
+	9|5|CJCT 10|5|PUNCT
+*MOT:	that's all .
+%mor:	pro:dem|that~cop|be&3S pro:indef|all .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+%act:	turns page
+*MOT:	byebye .
+%mor:	co|byebye .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	can you say byebye@q ?
+%mor:	mod|can pro|you v|say meta|byebye ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*CHI:	byebye .
+%mor:	co|byebye .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	looks at book
+*MOT:	Paul and Judy are waving byebye to you .
+%mor:	n:prop|Paul coord|and n:prop|Judy aux|be&PRES part|wave-PRESP
+	co|byebye prep|to pro|you .
+%gra:	1|5|LINK 2|5|LINK 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|COM 7|5|JCT 8|7|POBJ
+	9|5|PUNCT
+*CHI:	0 .
+%act:	lowers head to page, makes kissing sound
+*MOT:	oh that's sweet .
+%mor:	co|oh pro:dem|that~cop|be&3S co|sweet .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|COM 5|3|PUNCT
+*MOT:	byebye Paul and Judy .
+%mor:	co|byebye n:prop|Paul coord|and n:prop|Judy .
+%gra:	1|2|COM 2|0|ROOT 3|2|CONJ 4|3|COORD 5|2|PUNCT
+*CHI:	0 .
+%act:	regards page
+*CHI:	0 .
+%act:	turns several pages
+*CHI:	0 .
+%act:	touches bunny
+*MOT:	you like to feel the bunny don't you ?
+%mor:	pro|you v|like inf|to v|feel det|the n|bunny mod|do~neg|not pro|you
+	?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|INF 4|2|XCOMP 5|6|DET 6|9|SUBJ 7|9|AUX 8|7|NEG
+	9|4|OBJ 10|2|PUNCT
+*CHI:	byebye [x 1] .
+%mor:	co|byebye .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	turns page
+*CHI:	0 .
+%act:	closes book
+*MOT:	byebye Paul and Judy .
+%mor:	co|byebye n:prop|Paul coord|and n:prop|Judy .
+%gra:	1|2|COM 2|0|ROOT 3|2|CONJ 4|3|COORD 5|2|PUNCT
+*MOT:	byebye bunny .
+%mor:	co|byebye n|bunny .
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+*CHI:	&un Judy, Judy .
+%mor:	n:prop|Judy cm|cm n:prop|Judy .
+%gra:	1|3|SUBJ 2|1|LP 3|0|ROOT 4|3|PUNCT
+%act:	looks at book
+*MOT:	mum .
+%mor:	adj|mum .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	Judy .
+%mor:	n:prop|Judy .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	looks at book
+*MOT:	Judy .
+%mor:	n:prop|Judy .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	right .
+%mor:	co|right .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	and Paul .
+%mor:	coord|and n:prop|Paul .
+%gra:	1|0|INCROOT 2|1|COORD 3|1|PUNCT
+*MOT:	can you say Paul@q ?
+%mor:	mod|can pro|you v|say meta|Paul ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*MOT:	Judy .
+%mor:	n:prop|Judy .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	0 .
+%act:	turns page
+*MOT:	Judy can pat the bunny .
+%mor:	n:prop|Judy mod|can v|pat det|the n|bunny .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*MOT:	now Laura pat bunny .
+%mor:	adv|now n:prop|Laura n|pat n|bunny .
+%gra:	1|4|JCT 2|4|MOD 3|4|MOD 4|0|INCROOT 5|4|PUNCT
+*CHI:	0 .
+%act:	touches page
+*CHI:	okay .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	closes book
+*MOT:	okay .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	0 .
+%act:	takes pat book box out of bucket
+*CHI:	xxx .
+%act:	gives box to m
+@New Episode
+*MOT:	this is the box .
+%mor:	pro:dem|this cop|be&3S det|the n|box .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+*MOT:	see ?
+%mor:	v|see ?
+%gra:	1|0|ROOT 2|1|PUNCT
+%act:	puts pat book into box
+*CHI:	hello .
+%mor:	co|hello .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	takes phone out of bucket
+*MOT:	hello .
+%mor:	co|hello .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	hello .
+%mor:	co|hello .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	brings phone close to m
+*MOT:	are you going to make a telephone call ?
+%mor:	cop|be&PRES pro|you part|go-PRESP inf|to v|make det|a n|telephone
+	n|call ?
+%gra:	1|0|ROOT 2|1|OBJ 3|2|XMOD 4|5|INF 5|3|XCOMP 6|8|DET 7|8|MOD 8|5|OBJ
+	9|1|PUNCT
+*CHI:	no .
+%mor:	co|no .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	puts receiver to ear
+*MOT:	0 .
+%act:	arranges phone for c
+*CHI:	hello .
+%mor:	co|hello .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	puts phone to ear
+*MOT:	hello .
+%mor:	co|hello .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	xxx .
+%act:	gives m receiver
+*MOT:	who's there ?
+%mor:	rel|who~aux|be&3S adv|there ?
+%gra:	1|2|LINK 2|0|ROOT 3|2|JCT 4|2|PUNCT
+%act:	puts receiver to ear
+*MOT:	hello grandpa grandma .
+%mor:	co|hello grand#n|pa grand#n|ma .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*MOT:	how are you ?
+%mor:	adv:wh|how aux|be&PRES pro|you ?
+%gra:	1|0|INCROOT 2|1|INCROOT 3|2|OBJ 4|2|PUNCT
+*MOT:	do you wanna talk to Laura, okay here she is .
+%mor:	mod|do pro|you v|want~inf|to n|talk prep|to n:prop|Laura cm|cm
+	adj|okay adv|here pro:sub|she cop|be&3S .
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|5|INF 5|3|XCOMP 6|5|NJCT 7|6|POBJ 8|7|LP
+	9|12|LINK 10|9|JCT 11|12|SUBJ 12|5|CJCT 13|3|PUNCT
+*MOT:	do you wanna talk to grandma and grandpa ?
+%mor:	mod|do pro|you v|want~inf|to n|talk prep|to grand#n|ma coord|and
+	grand#n|pa ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|5|INF 5|3|XCOMP 6|5|NJCT 7|6|POBJ 8|7|CONJ
+	9|8|COORD 10|3|PUNCT
+%act:	gives receiver to c
+*CHI:	0 .
+%act:	puts receiver to ear
+*MOT:	hello Laura .
+%mor:	co|hello n:prop|Laura .
+%gra:	1|2|COM 2|0|ROOT 3|2|PUNCT
+*MOT:	it's grandma .
+%mor:	pro|it~cop|be&3S grand#n|ma .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*CHI:	0 .
+%act:	gives m receiver
+*MOT:	she does not want to talk to you .
+%mor:	pro:sub|she mod|do&3S neg|not v|want inf|to v|talk prep|to pro|you
+	.
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|6|INF 6|4|XCOMP 7|6|JCT 8|7|POBJ
+	9|4|PUNCT
+%act:	puts receiver to ear
+*MOT:	byebye .
+%mor:	co|byebye .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	0 .
+%act:	hangs phone up
+*CHI:	oh .
+%mor:	co|oh .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	touches receiver
+*CHI:	hello .
+%mor:	co|hello .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	puts receiver to ear
+*MOT:	hello .
+%mor:	co|hello .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	three .
+%mor:	det:num|three .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	touches dial
+*MOT:	two three .
+%mor:	det:num|two det:num|three .
+%gra:	1|2|QUANT 2|0|ROOT 3|2|PUNCT
+*MOT:	nine eight five .
+%mor:	det:num|nine det:num|eight det:num|five .
+%gra:	1|2|QUANT 2|3|QUANT 3|0|ROOT 4|3|PUNCT
+%act:	dials phone
+*CHI:	hello .
+%mor:	co|hello .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	puts receiver to ear
+*MOT:	hello .
+%mor:	co|hello .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	Laura is that you ?
+%mor:	n:prop|Laura cop|be&3S rel|that pro|you ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|3|OBJ 5|2|PUNCT
+*CHI:	xxx .
+%act:	offers m receiver
+*MOT:	what ?
+%mor:	pro:wh|what ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	hello .
+%mor:	co|hello .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	gives m receiver
+*MOT:	hello .
+%mor:	co|hello .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	xxx .
+*MOT:	goodbye .
+%mor:	co|goodbye .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	0 .
+%act:	gives c receiver
+*CHI:	byebye .
+%mor:	co|byebye .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	takes receiver
+*CHI:	two .
+%mor:	det:num|two .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	touches dial
+*MOT:	two three .
+%mor:	det:num|two det:num|three .
+%gra:	1|2|QUANT 2|0|ROOT 3|2|PUNCT
+*CHI:	hello .
+%mor:	co|hello .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	puts receiver to ear
+*MOT:	who is it ?
+%mor:	pro:wh|who cop|be&3S pro|it ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*CHI:	0 .
+%act:	looks around, smiles
+*CHI:	hello .
+%mor:	co|hello .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	picks up entire phone, puts to ear
+*MOT:	0 .
+%act:	laughs
+*CHI:	two .
+%mor:	det:num|two .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	touches dial
+*MOT:	three .
+%mor:	det:num|three .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	hello .
+%mor:	co|hello .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	puts receiver to ear
+*MOT:	look .
+%mor:	co|look .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	dials phone
+*MOT:	one two three four five .
+%mor:	det:num|one det:num|two det:num|three det:num|four det:num|five .
+%gra:	1|2|QUANT 2|3|QUANT 3|4|QUANT 4|5|QUANT 5|0|ROOT 6|5|PUNCT
+*CHI:	hello .
+%mor:	co|hello .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	puts receiver to ear
+*CHI:	0 .
+%act:	gives m phone
+*MOT:	hello .
+%mor:	co|hello .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	yes .
+%mor:	co|yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	xxx .
+*MOT:	Laura's right here .
+%mor:	n:prop|Laura~aux|be&3S adv|right adv|here .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|3|PUNCT
+*MOT:	Laura was reading pat the bunny and she was patting the bunny and
+	Laura can telephone .
+%mor:	n:prop|Laura aux|be&PAST&13S part|read-PRESP n|pat det|the n|bunny
+	coord|and pro:sub|she aux|be&PAST&13S part|pat-PRESP det|the n|bunny
+	coord|and n:prop|Laura mod|can v|telephone .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|6|DET 6|3|OBJ 7|10|LINK 8|10|SUBJ
+	9|10|AUX 10|6|CMOD 11|12|DET 12|10|OBJ 13|16|LINK 14|16|SUBJ 15|16|AUX
+	16|3|CJCT 17|3|PUNCT
+*MOT:	do you &wa +/.
+%mor:	mod|do pro|you +/.
+%gra:	1|0|INCROOT 2|1|OBJ 3|1|PUNCT
+*CHI:	no .
+%mor:	co|no .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	takes receiver
+*CHI:	0 .
+%act:	discards phone
+@New Episode
+*CHI:	0 .
+%act:	touches blanket
+*CHI:	0 .
+%act:	discards blanket
+@New Episode
+*CHI:	xxx .
+%act:	takes purse
+*MOT:	what ?
+%mor:	pro:wh|what ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	hat .
+%mor:	n|hat .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	puts purse on head
+*MOT:	hat .
+%mor:	n|hat .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	oh how pretty .
+%mor:	co|oh adv:wh|how adv|pretty .
+%gra:	1|2|COM 2|0|ROOT 3|2|JCT 4|2|PUNCT
+*CHI:	0 .
+%act:	looks around, smiles, purse is hanging from c's neck
+*MOT:	that's a pocketbook .
+%mor:	pro:dem|that~cop|be&3S det|a n|+n|pocket+n|book .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+*CHI:	0 .
+%act:	takes purse off her neck
+*CHI:	0 .
+%act:	puts purse on m's neck
+*MOT:	what are you doing ?
+%mor:	pro:wh|what aux|be&PRES pro|you part|do-PRESP ?
+%gra:	1|4|LINK 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+*MOT:	what is this [x 1] .
+%mor:	pro:wh|what aux|be&3S det|this .
+%gra:	1|0|INCROOT 2|4|AUX 3|4|DET 4|1|PUNCT
+*CHI:	bokbook [: pocketbook] .
+%mor:	n|+n|pocket+n|book .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	touches purse
+*MOT:	pocketbook .
+%mor:	n|+n|pocket+n|book .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	bokbook [: pocketbook] .
+%mor:	n|+n|pocket+n|book .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	touches purse
+*MOT:	bockbook [: pocketbook] .
+%mor:	n|+n|pocket+n|book .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	oh .
+%mor:	co|oh .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	takes purse off m's neck
+*MOT:	is this my hat ?
+%mor:	cop|be&3S det|this pro:poss:det|my n|hat ?
+%gra:	1|0|ROOT 2|4|DET 3|4|MOD 4|1|PRED 5|1|PUNCT
+%act:	puts purse on head
+*CHI:	0 .
+%act:	puts purse around m's neck
+*CHI:	0 .
+%act:	sits on m's lap, purse falls off m's head
+*MOT:	oops .
+%mor:	co|oops .
+%gra:	1|0|INCROOT 2|1|PUNCT
+@New Episode
+*CHI:	0 .
+%act:	climbs on to m's lap, leans backwards
+*MOT:	oh no .
+%mor:	co|oh co|no .
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+*MOT:	we'll do that later .
+%mor:	pro:sub|we~mod|will v|do det|that adv|later .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|DET 5|3|JCT 6|3|PUNCT
+*MOT:	okay ?
+%mor:	co|okay ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	now let's play with the toys .
+%mor:	adv|now v|let~pro:obj|us v|play prep|with det|the n|toy-PL .
+%gra:	1|2|JCT 2|0|ROOT 3|2|OBJ 4|2|COMP 5|4|JCT 6|7|DET 7|5|POBJ 8|2|PUNCT
+*MOT:	there are so many nice toys .
+%mor:	adv|there cop|be&PRES adv|so qn|many adj|nice n|toy-PL .
+%gra:	1|2|JCT 2|0|ROOT 3|2|JCT 4|6|QUANT 5|6|MOD 6|2|PRED 7|2|PUNCT
+*CHI:	xxx .
+%act:	sits on m's lap
+*MOT:	there's so many nice toys .
+%mor:	pro:dem|there~cop|be&3S adv|so qn|many adj|nice n|toy-PL .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|6|QUANT 5|6|MOD 6|2|PRED 7|2|PUNCT
+%act:	turns c around
+*MOT:	let's look at some of the other toys .
+%mor:	v|let~pro:obj|us v|look prep|at qn|some prep|of det|the qn|other
+	n|toy-PL .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|COMP 4|3|JCT 5|4|POBJ 6|5|NJCT 7|9|DET 8|9|QUANT
+	9|6|POBJ 10|1|PUNCT
+*MOT:	oh look at this .
+%mor:	co|oh v|look prep|at pro:dem|this .
+%gra:	1|2|COM 2|0|ROOT 3|2|JCT 4|3|POBJ 5|2|PUNCT
+%act:	shows c dog
+*CHI:	0 .
+%act:	takes dog
+*CHI:	0 .
+%act:	hugs dog, makes hugging noise
+*MOT:	oh you're hugging the dog .
+%mor:	co|oh pro|you~aux|be&PRES part|hug-PRESP det|the n|dog .
+%gra:	1|4|COM 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+*CHI:	0 .
+%act:	pats dog
+*MOT:	nice dog .
+%mor:	adj|nice n|dog .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*CHI:	0 .
+%act:	continues to pat the dog
+*MOT:	where are the doggy's eyes ?
+%mor:	adv:wh|where cop|be&PRES det|the n|dog-DIM~poss|s n|eye-PL ?
+%gra:	1|2|LINK 2|0|ROOT 3|6|DET 4|6|MOD 5|4|POSS 6|2|PRED 7|2|PUNCT
+*CHI:	eyes .
+%mor:	n|eye-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	points to eyes
+*MOT:	where are Laura's eyes ?
+%mor:	adv:wh|where aux|be&PRES n:prop|Laura~poss|s n|eye-PL ?
+%gra:	1|5|LINK 2|5|AUX 3|5|MOD 4|3|POSS 5|0|INCROOT 6|5|PUNCT
+*CHI:	eyes .
+%mor:	n|eye-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	points to her ear
+*MOT:	no [x 1] .
+%mor:	co|no .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	that's your ear .
+%mor:	pro:dem|that~aux|be&3S pro:poss:det|your n|ear .
+%gra:	1|4|SUBJ 2|4|AUX 3|4|MOD 4|0|INCROOT 5|4|PUNCT
+*MOT:	eyes .
+%mor:	n|eye-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	points to c's eyes
+*CHI:	0 .
+%act:	touches eye
+@New Episode
+*CHI:	0 .
+%act:	takes puppet
+*CHI:	0 .
+%act:	looks through toys in bucket
+*CHI:	0 .
+%act:	takes monkey doll
+*MOT:	oh .
+%mor:	co|oh .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	Oscar .
+%mor:	n:prop|Oscar .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	gives m puppet
+@New Episode
+*MOT:	Oscar .
+%mor:	n:prop|Oscar .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	no .
+%mor:	co|no .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	Grover .
+%mor:	n:prop|Grover .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	&un daddy [x 2] .
+%mor:	n|daddy .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	gives m monkey doll
+*MOT:	this is a monkey who likes to suck his thumb .
+%mor:	pro:dem|this cop|be&3S det|a n|monkey rel|who v|like-3S inf|to
+	v|suck pro:poss:det|his n|thumb .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|6|LINK 6|4|CMOD 7|8|INF 8|6|XCOMP
+	9|10|MOD 10|8|OBJ 11|2|PUNCT
+*MOT:	0 .
+%act:	puts thumb in monkeys mouth
+*MOT:	here look at that .
+%mor:	adv|here v|look prep|at pro:dem|that .
+%gra:	1|2|JCT 2|0|ROOT 3|2|JCT 4|3|POBJ 5|2|PUNCT
+%act:	shows c
+*CHI:	0 .
+%act:	sits on m's lap
+*MOT:	here .
+%mor:	adv|here .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	look at that monkey .
+%mor:	v|look prep|at det|that n|monkey .
+%gra:	1|0|ROOT 2|1|JCT 3|4|DET 4|2|POBJ 5|1|PUNCT
+*CHI:	0 .
+%act:	tries to take thumb out of monkeys mouth
+*MOT:	he doesn't wanna take his thumb out_of his mouth .
+%mor:	pro:sub|he mod|do&3S~neg|not v|want~inf|to v|take pro:poss:det|his
+	n|thumb prep|out_of pro:poss:det|his n|mouth .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|6|INF 6|4|XCOMP 7|8|MOD 8|6|OBJ
+	9|6|JCT 10|11|MOD 11|9|POBJ 12|4|PUNCT
+*MOT:	you have_to pull hard .
+%mor:	pro|you mod:aux|have_to v|pull adv|hard .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|3|PUNCT
+*CHI:	0 .
+%act:	pulls thumb out of monkeys mouth
+*MOT:	you did it .
+%mor:	pro|you v|do&PAST pro|it .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*CHI:	push .
+%mor:	n|push .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	tries to put thumb in monkeys mouth
+*MOT:	yeah .
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	push .
+%mor:	n|push .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	push it in .
+%mor:	v|push pro|it adv|in .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|JCT 4|1|PUNCT
+*CHI:	0 .
+%act:	tries to put thumb in monkeys mouth
+*MOT:	almost .
+%mor:	adv|almost .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	push .
+%mor:	n|push .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	puts thumb in monkeys mouth
+*MOT:	there .
+%mor:	adv|there .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	0 .
+%act:	takes monkeys thumb out of mouth
+*MOT:	pull .
+%mor:	v|pull .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	you pull .
+%mor:	pro|you v|pull .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*CHI:	0 .
+%act:	strokes monkey
+*MOT:	he's soft too .
+%mor:	pro:sub|he~cop|be&3S adj|soft post|too .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|3|PQ 5|2|PUNCT
+*MOT:	just like the bunny .
+%mor:	adv|just prep|like det|the n|bunny .
+%gra:	1|0|JCT 2|1|JCT 3|4|DET 4|2|POBJ 5|1|PUNCT
+*CHI:	0 .
+%act:	discards monkey
+@New Episode
+*CHI:	xxx .
+%act:	looks through toys in bucket
+*MOT:	0 .
+%act:	set up
+@New Episode
+*CHI:	0 .
+%act:	holds necklace
+*MOT:	what do you have there ?
+%mor:	pro:wh|what mod|do pro|you v|have adv|there ?
+%gra:	1|4|LINK 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|4|PUNCT
+*CHI:	0 .
+%act:	puts necklace around neck
+*MOT:	beads [x 1] .
+%mor:	n|bead-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	beads .
+%mor:	n|bead-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	holds necklace up
+*MOT:	beads .
+%mor:	n|bead-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	they're very pretty .
+%mor:	pro:sub|they~cop|be&PRES adv|very adj|pretty .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|JCT 4|2|PRED 5|2|PUNCT
+*MOT:	aren't they ?
+%mor:	aux|be&PRES~neg|not pro:sub|they ?
+%gra:	1|3|AUX 2|1|NEG 3|0|INCROOT 4|3|PUNCT
+*CHI:	0 .
+%act:	puts necklace around m's neck
+*MOT:	oh .
+%mor:	co|oh .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	thank_you .
+%mor:	co|thank_you .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	whoops .
+%mor:	co|whoops .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	necklace slip off
+*MOT:	you missed .
+%mor:	pro|you v|miss-PAST .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*CHI:	0 .
+%act:	puts necklace around m's neck again
+*MOT:	thank_you .
+%mor:	co|thank_you .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	0 .
+%act:	pulls necklace, whines
+*MOT:	do you wanna take them back ?
+%mor:	mod|do pro|you v|want~inf|to v|take pro:obj|them adv|back ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|5|INF 5|3|XCOMP 6|5|OBJ 7|5|JCT 8|3|PUNCT
+*MOT:	you have_to take them up over my head .
+%mor:	pro|you mod:aux|have_to v|take pro:obj|them adv|up prep|over
+	pro:poss:det|my n|head .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|3|JCT 6|3|JCT 7|8|MOD 8|6|POBJ
+	9|3|PUNCT
+*MOT:	can't just pull .
+%mor:	mod|can~neg|not adv|just v|pull .
+%gra:	1|4|AUX 2|1|NEG 3|4|JCT 4|0|ROOT 5|4|PUNCT
+*CHI:	0 .
+%act:	removes necklace
+*MOT:	that's right .
+%mor:	pro:dem|that~cop|be&3S adv|right .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|2|PUNCT
+*CHI:	0 .
+%act:	fingers necklace
+*MOT:	they feel good too .
+%mor:	pro:sub|they v|feel adj|good post|too .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|3|PQ 5|2|PUNCT
+*MOT:	don't they ?
+%mor:	mod|do~neg|not pro:sub|they ?
+%gra:	1|3|AUX 2|1|NEG 3|0|INCROOT 4|3|PUNCT
+*CHI:	0 .
+%act:	puts necklace around m's neck
+*CHI:	0 .
+%act:	pulls necklace, whines
+*CHI:	0 .
+%act:	shakes necklace
+*MOT:	what are you doing ?
+%mor:	pro:wh|what aux|be&PRES pro|you part|do-PRESP ?
+%gra:	1|4|LINK 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+*CHI:	0 .
+%act:	pulls necklace, whines
+*MOT:	you can't just pull .
+%mor:	pro|you mod|can~neg|not adv|just v|pull .
+%gra:	1|5|SUBJ 2|5|AUX 3|2|NEG 4|5|JCT 5|0|ROOT 6|5|PUNCT
+*MOT:	you have_to take them up over my head .
+%mor:	pro|you mod:aux|have_to v|take pro:obj|them adv|up prep|over
+	pro:poss:det|my n|head .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|3|JCT 6|3|JCT 7|8|MOD 8|6|POBJ
+	9|3|PUNCT
+*CHI:	0 .
+%act:	removes necklace
+*MOT:	that's right .
+%mor:	pro:dem|that~cop|be&3S adv|right .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|2|PUNCT
+*CHI:	0 .
+%act:	puts necklace on floor
+*CHI:	0 .
+%act:	gathers necklace in hands
+*MOT:	you really like those beads .
+%mor:	pro|you adv|real&dadj-LY prep|like det|those n|bead-PL .
+%gra:	1|0|INCROOT 2|1|JCT 3|2|JCT 4|5|DET 5|3|POBJ 6|1|PUNCT
+*MOT:	don't you ?
+%mor:	mod|do~neg|not pro|you ?
+%gra:	1|3|AUX 2|1|NEG 3|0|INCROOT 4|3|PUNCT
+*CHI:	0 .
+%act:	puts necklace around m's neck
+*MOT:	see ?
+%mor:	v|see ?
+%gra:	1|0|ROOT 2|1|PUNCT
+%act:	touches beads
+*MOT:	do you like this ?
+%mor:	mod|do pro|you prep|like pro:dem|this ?
+%gra:	1|0|INCROOT 2|1|OBJ 3|2|JCT 4|3|POBJ 5|1|PUNCT
+*CHI:	0 .
+%act:	pulls necklace, whines
+*CHI:	0 .
+%act:	shakes necklace
+*CHI:	0 .
+%act:	pulls necklace
+*MOT:	do you wanna take them off ?
+%mor:	mod|do pro|you v|want~inf|to v|take pro:obj|them adv|off ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|5|INF 5|3|XCOMP 6|5|OBJ 7|5|JCT 8|3|PUNCT
+*CHI:	0 .
+%act:	puts necklace around her neck
+*MOT:	oh .
+%mor:	co|oh .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	you're putting them on you .
+%mor:	pro|you~aux|be&PRES part|put-PRESP pro:obj|them prep|on pro|you .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|3|JCT 6|5|POBJ 7|3|PUNCT
+*MOT:	look .
+%mor:	co|look .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	picks up other end of beads
+*MOT:	we can both get in .
+%mor:	pro:sub|we mod|can post|both v|get adv|in .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|PQ 4|0|ROOT 5|4|JCT 6|4|PUNCT
+*MOT:	0 .
+%act:	puts other end of beads around her neck
+*MOT:	0 .
+%act:	laugh
+*CHI:	0 .
+%act:	pulls backwards, whines
+*MOT:	0 .
+%act:	removes beads
+*CHI:	0 .
+%act:	removes necklace from neck
+*MOT:	yeah .
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	that's right .
+%mor:	pro:dem|that~cop|be&3S adv|right .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|2|PUNCT
+*CHI:	off .
+%mor:	adv|off .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	continues trying to remove beads
+*CHI:	hey [x 1] .
+%mor:	co|hey .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	stamps on necklace
+*MOT:	you're all caught .
+%mor:	pro|you~aux|be&PRES adv|all v|catch&PAST .
+%gra:	1|4|SUBJ 2|4|AUX 3|4|JCT 4|0|ROOT 5|4|PUNCT
+%act:	helps c get out of beads
+*CHI:	out .
+%mor:	adv|out .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	approaches m with necklace
+*MOT:	you're out .
+%mor:	pro|you~aux|be&PRES adv|out .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|2|PUNCT
+*MOT:	that's right .
+%mor:	pro:dem|that~cop|be&3S adv|right .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|2|PUNCT
+*CHI:	0 .
+%act:	puts necklace on own neck
+*MOT:	oh .
+%mor:	co|oh .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	you look very nice .
+%mor:	pro|you v|look adv|very adj|nice .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|2|JCT 5|2|PUNCT
+*CHI:	0 .
+%act:	pushes m's leg with book, whines
+*CHI:	0 .
+%act:	takes necklace off
+*MOT:	why don't you play with something else now ?
+%mor:	adv:wh|why mod|do~neg|not pro|you v|play prep|with
+	pro:indef|something post|else adv|now ?
+%gra:	1|5|LINK 2|5|AUX 3|2|NEG 4|5|SUBJ 5|0|ROOT 6|5|JCT 7|6|POBJ 8|7|PQ
+	9|7|JCT 10|5|PUNCT
+*MOT:	look over there .
+%mor:	v|look prep|over pro:dem|there .
+%gra:	1|0|ROOT 2|1|JCT 3|2|POBJ 4|1|PUNCT
+*MOT:	look at all these things there .
+%mor:	v|look prep|at qn|all det|these n|thing-PL adv|there .
+%gra:	1|0|ROOT 2|1|JCT 3|5|QUANT 4|5|DET 5|2|POBJ 6|5|NJCT 7|1|PUNCT
+*CHI:	0 .
+%act:	puts necklace on m's head
+*CHI:	0 .
+%act:	puts necklace on floor
+*CHI:	0 .
+%act:	gathers necklace up in hand
+*CHI:	&un beads .
+%mor:	n|bead-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	puts necklace on dog
+*MOT:	beads .
+%mor:	n|bead-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	you're gonna put the beads on the doggy ?
+%mor:	pro|you~aux|be&PRES part|go-PRESP~inf|to v|put&ZERO det|the
+	n|bead-PL prep|on det|the n|dog-DIM ?
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|INF 5|3|XCOMP 6|7|DET 7|5|OBJ 8|5|JCT
+	9|10|DET 10|8|POBJ 11|3|PUNCT
+*CHI:	0 .
+%act:	lifts dog with necklace on
+*MOT:	oh .
+%mor:	co|oh .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	that looks nice .
+%mor:	rel|that v|look-3S adj|nice .
+%gra:	1|2|LINK 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*CHI:	0 .
+%act:	removes necklace from dog
+*CHI:	0 .
+%act:	puts necklace on, beads fall
+*CHI:	0 .
+%act:	takes necklace, shakes
+*MOT:	here .
+%mor:	adv|here .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	takes dog, holds up to c
+*CHI:	0 .
+%act:	puts necklace on dog
+*CHI:	0 .
+%act:	laughs, holds on to dog
+*MOT:	0 .
+%act:	holds dog up, laughs
+*CHI:	0 .
+%act:	leans back on couch
+@New Episode
+*MOT:	look .
+%mor:	co|look .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	look at all the other things here .
+%mor:	v|look prep|at qn|all det|the qn|other n|thing-PL adv|here .
+%gra:	1|0|ROOT 2|1|JCT 3|6|QUANT 4|6|DET 5|6|QUANT 6|2|POBJ 7|6|NJCT
+	8|1|PUNCT
+*MOT:	look at this .
+%mor:	v|look prep|at pro:dem|this .
+%gra:	1|0|ROOT 2|1|JCT 3|2|POBJ 4|1|PUNCT
+%act:	straightens baby bottle on bucket
+*CHI:	num@b [x 1] .
+%mor:	bab|num .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	looks at toys on buckets
+*MOT:	yum [x 1] .
+%mor:	co|yum .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	num@b .
+%mor:	bab|num .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	looks at toys on buckets
+*CHI:	xxx .
+*MOT:	what do you see that's yum yum ?
+%mor:	pro:wh|what mod|do pro|you v|see pro:dem|that~cop|be&3S n|yum n|yum
+	?
+%gra:	1|4|LINK 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|5|COORD 7|8|MOD 8|6|PRED
+	9|4|PUNCT
+*CHI:	0 .
+%act:	takes bellball
+*CHI:	0 .
+%act:	shakes bellball, makes rolling noise with tongue
+*CHI:	0 .
+%act:	sits on m's lap
+*CHI:	0 .
+%act:	shakes bellball
+*CHI:	0 .
+%act:	discards bellball
+@New Episode
+*CHI:	num@b .
+%mor:	bab|num .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	takes baby bottle
+*CHI:	0 .
+%act:	pours baby bottle into cup
+*CHI:	0 .
+%act:	discards baby bottle
+*CHI:	xxx .
+%act:	takes cup and spoon
+*CHI:	0 .
+%act:	puts spoon in cup
+*MOT:	you put the spoon in the cup .
+%mor:	pro|you v|put&ZERO det|the n|spoon prep|in det|the n|cup .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|JCT 6|7|DET 7|5|POBJ 8|2|PUNCT
+*CHI:	0 .
+%act:	discards spoon and cup
+*MOT:	0 .
+%act:	babysitter comes in front door
+*CHI:	hi .
+%mor:	co|hi .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	stands up, looks at babysitter
+*CHI:	xxx .
+%act:	sits on floor
+*MOT:	0 .
+%act:	seats c on floor
+*MOT:	here's the spoon .
+%mor:	pro:exist|here~cop|be&3S det|the n|spoon .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+%act:	gives c spoon
+*CHI:	0 .
+%act:	stirs cup
+*CHI:	0 .
+%act:	feeds m with spoon
+*MOT:	thank_you .
+%mor:	co|thank_you .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	eats
+*MOT:	very good [x 1] .
+%mor:	adv|very adj|good .
+%gra:	1|2|JCT 2|0|ROOT 3|2|PUNCT
+*CHI:	0 .
+%act:	stirs spoon in cup
+*MOT:	it's a little hot .
+%mor:	pro|it~cop|be&3S det|a adj|little adj|hot .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|DET 4|5|MOD 5|2|PRED 6|2|PUNCT
+*CHI:	0 .
+%act:	feeds m with spoon
+*MOT:	it's a little hot .
+%mor:	pro|it~cop|be&3S det|a adj|little adj|hot .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|DET 4|5|MOD 5|2|PRED 6|2|PUNCT
+*MOT:	can you blow ?
+%mor:	mod|can pro|you v|blow ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*MOT:	0 .
+%act:	blows on spoon
+*MOT:	now it's good .
+%mor:	adv|now pro|it~cop|be&3S adj|good .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|3|PUNCT
+%act:	pretends to eat
+*CHI:	0 .
+%act:	discards spoon and cup
+@New Episode
+*CHI:	&un .
+%act:	takes mailtruck
+*CHI:	choochoo@o [x 1] .
+%mor:	on|choochoo .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	choochoo@o .
+%mor:	on|choochoo .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	choochoo@o [x 1] .
+%mor:	on|choochoo .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	takes mailtruck, drives it around
+*CHI:	xxx .
+%act:	kicks toys on floor with foot
+*CHI:	0 .
+%act:	takes mailtruck
+*CHI:	choochoo@o [x 6] .
+%mor:	on|choochoo .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	drives mailtruck on floor
+*CHI:	0 .
+%act:	discards mailtruck
+@New Episode
+*CHI:	xxx .
+%act:	takes nesting cups
+*MOT:	those are cups too .
+%mor:	pro:dem|those cop|be&PRES n|cup-PL post|too .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|3|PQ 5|2|PUNCT
+*MOT:	huh ?
+%mor:	co|huh ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	yellow .
+%mor:	adj|yellow .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	this is a yellow cup .
+%mor:	pro:dem|this cop|be&3S det|a adj|yellow n|cup .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|DET 4|5|MOD 5|2|PRED 6|2|PUNCT
+%act:	touches cup
+*CHI:	bunny .
+%mor:	n|bunny .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	holds up nesting cup
+*CHI:	0 .
+%act:	discards cup
+@New Episode
+*CHI:	hat .
+%mor:	n|hat .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	takes scrubbrush, puts it on head
+*CHI:	0 .
+%act:	brushes head with scrubbrush
+*MOT:	hat .
+%mor:	n|hat .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	oh you're brushing your hair .
+%mor:	co|oh pro|you~aux|be&PRES part|brush-PRESP pro:poss:det|your n|hair
+	.
+%gra:	1|4|COM 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|MOD 6|4|OBJ 7|4|PUNCT
+*CHI:	0 .
+%act:	brushes m's hair with scrubbrush
+*CHI:	ow .
+%mor:	co|ow .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	looks at m
+*MOT:	o:w .
+%mor:	co|ow .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	laughs
+*CHI:	0 .
+%act:	discards scrubbrush
+@New Episode
+*MOT:	that's what Rachael says .
+%mor:	pro:dem|that~cop|be&3S pro:wh|what n:prop|Rachael v|say-3S .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|LINK 4|5|SUBJ 5|2|PRED 6|2|PUNCT
+*MOT:	isn't it ?
+%mor:	cop|be&3S~neg|not pro|it ?
+%gra:	1|0|ROOT 2|1|NEG 3|1|PRED 4|1|PUNCT
+*CHI:	beads [x 1] .
+%mor:	n|bead-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	takes necklace
+*CHI:	num@b [x 2] .
+%mor:	bab|num .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	shakes necklace
+*CHI:	0 .
+%act:	disentangles necklace from dog
+*CHI:	0 .
+%act:	puts necklace into teacup
+*MOT:	you're putting the beads into the cup ?
+%mor:	pro|you~aux|be&PRES part|put-PRESP det|the n|bead-PL prep|into
+	det|the n|cup ?
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|JCT 7|8|DET 8|6|POBJ
+	9|3|PUNCT
+*CHI:	0 .
+%act:	continues putting entire necklace into cup
+*CHI:	0 .
+%act:	lifts up cup
+*MOT:	are you going to eat the beads ?
+%mor:	cop|be&PRES pro|you part|go-PRESP inf|to v|eat det|the n|bead-PL ?
+%gra:	1|0|ROOT 2|1|OBJ 3|2|XMOD 4|5|INF 5|3|XCOMP 6|7|DET 7|5|OBJ 8|1|PUNCT
+*CHI:	0 .
+%act:	puts necklace in mouth
+*MOT:	0 .
+%act:	laughs
+*MOT:	do they taste good ?
+%mor:	mod|do pro:sub|they v|taste adj|good ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|PUNCT
+*CHI:	0 .
+%act:	continues trying to get necklace into cup
+*CHI:	0 .
+%act:	approaches m with cup and necklace
+*CHI:	0 .
+%act:	pours necklace out of cup
+*MOT:	all out .
+%mor:	pro:indef|all adv|out .
+%gra:	1|0|INCROOT 2|1|JCT 3|1|PUNCT
+*CHI:	0 .
+%act:	puts necklace back into cup
+*MOT:	you're putting them back in .
+%mor:	pro|you~aux|be&PRES part|put-PRESP pro:obj|them adv|back adv|in .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|3|JCT 6|3|JCT 7|3|PUNCT
+*MOT:	so carefully you're putting them in .
+%mor:	adv|so adv|care&dadj-FULL-LY pro|you~aux|be&PRES part|put-PRESP
+	pro:obj|them adv|in .
+%gra:	1|5|JCT 2|5|JCT 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|OBJ 7|5|JCT 8|5|PUNCT
+*MOT:	you're putting the beads in the cup .
+%mor:	pro|you~aux|be&PRES part|put-PRESP det|the n|bead-PL prep|in
+	det|the n|cup .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|JCT 7|8|DET 8|6|POBJ
+	9|3|PUNCT
+*CHI:	0 .
+%act:	approaches m with beads and cup
+*CHI:	0 .
+%act:	pours necklace out of cup
+*MOT:	up .
+%mor:	adv|up .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	up .
+%mor:	adv|up .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	they fell out .
+%mor:	pro:sub|they v|fall&PAST adv|out .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|2|PUNCT
+*CHI:	oh .
+%mor:	co|oh .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	lifts up two nesting cups
+*CHI:	0 .
+%act:	separates cups, discards one
+*CHI:	&un this .
+%mor:	pro:dem|this .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	puts necklace into nesting cup
+*MOT:	now you're going to put the beads into the yellow cup .
+%mor:	adv|now pro|you~aux|be&PRES part|go-PRESP inf|to v|put&ZERO det|the
+	n|bead-PL prep|into det|the adj|yellow n|cup .
+%gra:	1|4|JCT 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|INF 6|4|XCOMP 7|8|DET 8|6|OBJ
+	9|6|JCT 10|12|DET 11|12|MOD 12|9|POBJ 13|4|PUNCT
+%act:	picks up end of necklace
+*CHI:	0 .
+%act:	continues to try to put the necklace into the nesting cups
+*MOT:	0 .
+%act:	hold up necklace
+*CHI:	0 .
+%act:	approaches necklace with cup
+*CHI:	0 .
+%act:	puts necklace in cup
+*CHI:	0 .
+%act:	pours the beads out of the nesting cup
+*CHI:	0 .
+%act:	gives m necklace
+*MOT:	okay .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	takes necklace
+*MOT:	0 .
+%act:	puts beads on
+*CHI:	beads [x 4] .
+%mor:	n|bead-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	stands up
+*MOT:	what else do you have here ?
+%mor:	pro:wh|what post|else v|do pro|you v|have adv|here ?
+%gra:	1|3|LINK 2|1|PQ 3|0|ROOT 4|5|SUBJ 5|3|CJCT 6|5|JCT 7|3|PUNCT
+@New Episode
+*CHI:	0 .
+%act:	pulls necklace
+*MOT:	here .
+%mor:	adv|here .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	look Laura .
+%mor:	v|look n:prop|Laura .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+*MOT:	what are these things over here ?
+%mor:	pro:wh|what aux|be&PRES det|these n|thing-PL prep|over pro:dem|here
+	?
+%gra:	1|2|OBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|4|NJCT 6|5|POBJ 7|2|PUNCT
+%act:	touches toys
+*MOT:	look .
+%mor:	co|look .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	pours from pot into cup
+*MOT:	here .
+%mor:	adv|here .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	look .
+%mor:	co|look .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	fixes pot cover
+*MOT:	here .
+%mor:	adv|here .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	0 .
+%act:	pours pot into cup
+*MOT:	0 .
+%act:	puts cup on plate
+*MOT:	would you like something to drink ?
+%mor:	mod|will&COND pro|you v|like pro:indef|something inf|to v|drink ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|6|INF 6|4|XCOMP 7|3|PUNCT
+*CHI:	0 .
+%act:	takes cup and plate
+*CHI:	0 .
+%act:	drinks from cup, makes drinking noise
+*MOT:	0 .
+%act:	takes cup, drinks
+*MOT:	0 .
+%act:	drinks from cup
+*CHI:	0 .
+%act:	drinks from plate
+*CHI:	num@b .
+%mor:	bab|num .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	now let's give some .
+%mor:	adv|now v|let~pro:obj|us v|give qn|some .
+%gra:	1|2|JCT 2|0|ROOT 3|2|OBJ 4|2|COMP 5|4|OBJ 6|2|PUNCT
+*MOT:	do you wanna give something to the dolly .
+%mor:	mod|do pro|you v|want~inf|to v|give pro:indef|something prep|to
+	det|the n|doll-DIM .
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|5|INF 5|3|XCOMP 6|5|OBJ 7|5|JCT 8|9|DET
+	9|7|POBJ 10|3|PUNCT
+*MOT:	0 .
+%act:	puts cup on plate
+*CHI:	0 .
+%act:	discards plate
+*CHI:	0 .
+%act:	gives dog to drink from cup
+*MOT:	you're gonna give something to the doggy ?
+%mor:	pro|you~cop|be&PRES part|go-PRESP~inf|to v|give pro:indef|something
+	prep|to det|the n|dog-DIM ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|5|INF 5|3|XCOMP 6|5|OBJ 7|5|JCT 8|9|DET
+	9|7|POBJ 10|2|PUNCT
+*MOT:	oh I bet he was thirsty .
+%mor:	co|oh pro:sub|I v|bet&ZERO pro:sub|he cop|be&PAST&13S
+	adj|thirst&dn-Y .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|5|SUBJ 5|3|COMP 6|5|PRED 7|3|PUNCT
+*MOT:	how about for the monkey ?
+%mor:	adv:wh|how adv|about prep|for det|the n|monkey ?
+%gra:	1|2|LINK 2|0|ROOT 3|2|JCT 4|5|DET 5|3|POBJ 6|2|PUNCT
+%act:	holds up monkey
+*MOT:	maybe the monkey wants some .
+%mor:	adv|maybe det|the n|monkey v|want-3S qn|some .
+%gra:	1|4|JCT 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*CHI:	0 .
+%act:	feeds monkey with cup
+*MOT:	0 .
+%act:	makes eating sound
+*CHI:	0 .
+%act:	gives m cup
+*MOT:	now some for me .
+%mor:	adv|now qn|some prep|for pro:obj|me .
+%gra:	1|0|INCROOT 2|3|QUANT 3|1|JCT 4|3|POBJ 5|1|PUNCT
+*MOT:	0 .
+%act:	drinks from cup
+*MOT:	thank_you .
+%mor:	co|thank_you .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	puts cup on saucer
+*MOT:	oop .
+%mor:	co|oop .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	it's all_gone .
+%mor:	pro|it~cop|be&3S adj|all_gone .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*MOT:	here .
+%mor:	adv|here .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	puts pot next to cup and saucer
+*MOT:	can you pour some more ?
+%mor:	mod|can pro|you v|pour qn|some pro:indef|more ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|5|QUANT 5|3|OBJ 6|3|PUNCT
+*MOT:	it's all_gone .
+%mor:	pro|it~cop|be&3S adj|all_gone .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*CHI:	0 .
+%act:	removes pot cover
+*CHI:	0 .
+%act:	pours from pot into cup
+*MOT:	oh good .
+%mor:	co|oh adj|good .
+%gra:	1|2|COM 2|0|ROOT 3|2|PUNCT
+*MOT:	thank_you .
+%mor:	co|thank_you .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	oh now I can have some more .
+%mor:	co|oh adv|now pro:sub|I mod|can v|have qn|some pro:indef|more .
+%gra:	1|5|COM 2|5|JCT 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|7|QUANT 7|5|OBJ 8|5|PUNCT
+%act:	takes cup
+*MOT:	0 .
+%act:	drinks from cup
+*MOT:	oh it's very good .
+%mor:	co|oh pro|it~cop|be&3S adv|very adj|good .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|5|JCT 5|3|PRED 6|3|PUNCT
+%act:	puts saucer on cup
+*CHI:	xxx .
+*MOT:	0 .
+%act:	puts spoon on saucer
+*CHI:	0 .
+%act:	takes cup
+*CHI:	0 .
+%act:	pours from cup to pot
+*CHI:	0 .
+%act:	takes pot cover
+*MOT:	that's the cover .
+%mor:	pro:dem|that~cop|be&3S det|the n|cover .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+*CHI:	0 .
+%act:	covers pot
+*CHI:	0 .
+%act:	discards the cover
+*CHI:	0 .
+%act:	pours from pot to saucer
+*CHI:	0 .
+%act:	gives m saucer
+*MOT:	thank_you .
+%mor:	co|thank_you .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	drinks from saucer
+*MOT:	0 .
+%act:	gives c saucer
+*CHI:	0 .
+%act:	drinks from saucer, makes drinking sounds
+*CHI:	0 .
+%act:	gives m saucer
+*MOT:	oh boy that sounded good .
+%mor:	co|oh n|boy rel|that v|sound-PAST adj|good .
+%gra:	1|2|COM 2|0|INCROOT 3|4|LINK 4|2|CMOD 5|4|JCT 6|2|PUNCT
+%act:	takes saucer
+@End

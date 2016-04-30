@@ -1,0 +1,41 @@
+@UTF8
+@PID:	11312/c-00011160-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, MOT Mother
+@ID:	eng|Braunwald|CHI|03;03.03|female|||Target_Child|||
+@ID:	eng|Braunwald|MOT|||||Mother|||
+@Date:	23-MAY-1974
+*MOT:	if you need to spit up, you go to the bathroom, okay ?
+%mor:	conj|if pro|you v|need prep|to n|spit adv|up cm|cm pro|you v|go
+	prep|to det|the n|+n|bath+n|room cm|cm adj|okay ?
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|4|POBJ 6|3|JCT 7|6|LP 8|9|SUBJ
+	9|3|CJCT 10|9|JCT 11|12|DET 12|10|POBJ 13|12|LP 14|9|JCT 15|3|PUNCT
+%sit:	778
+*CHI:	it's not coming through my tummy into my mouth .
+%mor:	pro|it~cop|be&3S neg|not part|come-PRESP prep|through
+	pro:poss:det|my n|tummy prep|into pro:poss:det|my n|mouth .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|NEG 4|2|PRED 5|4|JCT 6|7|MOD 7|5|POBJ 8|4|JCT
+	9|10|MOD 10|8|POBJ 11|2|PUNCT
+%sit:	778
+*MOT:	good .
+%mor:	adj|good .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%sit:	778
+*CHI:	I think I hafta throw+up .
+%mor:	pro:sub|I v|think pro:sub|I mod:aux|hafta n|+v|throw+prep|up .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|SUBJ 4|5|AUX 5|2|OBJ 6|2|PUNCT
+%sit:	779
+*MOT:	well, don't eat any more .
+%mor:	co|well cm|cm mod|do~neg|not v|eat qn|any pro:indef|more .
+%gra:	1|5|COM 2|1|LP 3|5|AUX 4|3|NEG 5|0|ROOT 6|7|QUANT 7|5|OBJ 8|5|PUNCT
+%sit:	779
+*CHI:	no, not now .
+%mor:	co|no cm|cm neg|not adv|now .
+%gra:	1|0|INCROOT 2|1|LP 3|1|NEG 4|1|JCT 5|1|PUNCT
+%sit:	779
+*CHI:	after lunch .
+%mor:	prep|after n|lunch .
+%gra:	1|0|INCROOT 2|1|POBJ 3|1|PUNCT
+%sit:	779
+@End

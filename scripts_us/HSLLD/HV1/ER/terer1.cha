@@ -1,0 +1,132 @@
+@UTF8
+@PID:	11312/c-00034925-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child , MOT Mother , INV Investigator
+@ID:	eng|HSLLD|CHI|4;3.14|female|||Target_Child|||
+@ID:	eng|HSLLD|MOT|||||Mother|12||
+@ID:	eng|HSLLD|INV|||||Investigator|||
+@Birth of CHI:	15-OCT-1985
+@Comment:	SES of Mot is lower
+@Date:	01-JUL-1989
+@Location:	Boston , MA USA
+@Situation:	Home Visit 1
+@Activities:	Elicited report
+@Transcriber:	Monica Frazier , Jim Catalano
+*MOT:	did you go to school yesterday ?
+%mor:	v|do&PAST pro|you v|go prep|to n|school adv:tem|yesterday ?
+%gra:	1|0|ROOT 2|3|SUBJ 3|1|COMP 4|5|INF 5|3|XCOMP 6|5|INCROOT 7|6|PUNCT
+%cod:	$N:RI:L
+@Comment:	Time is 27:10
+*MOT:	what did you do in school ?
+%mor:	pro:wh|what mod|do&PAST pro|you v|do prep|in n|school ?
+%gra:	1|4|LINK 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|5|POBJ 7|4|PUNCT
+%cod:	$N:RI:S
+*CHI:	I don't know [>] .
+%mor:	pro:sub|I mod|do~neg|not v|know .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|PUNCT
+%int:	softly
+%cod:	$N:GI:RS:N
+*MOT:	think [<] .
+%mor:	v|think .
+%gra:	1|0|ROOT 2|1|PUNCT
+%cod:	$O:T
+*CHI:	I don't know .
+%mor:	pro:sub|I mod|do~neg|not v|know .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|PUNCT
+%cod:	$O:R
+*MOT:	look at me look at me [<] .
+%mor:	v|look prep|at pro:obj|me v|look prep|at pro:obj|me .
+%gra:	1|0|ROOT 2|1|JCT 3|2|POBJ 4|2|POBJ 5|4|JCT 6|5|POBJ 7|1|PUNCT
+%cod:	$O:C
+*CHI:	<test test> [<] !
+%mor:	n|test n|test !
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+%cod:	$O:U
+*MOT:	did you go outside yesterday ?
+%mor:	mod|do&PAST pro|you v|go adv|outside adv:tem|yesterday ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|INCROOT 6|5|PUNCT
+%cod:	$N:RI:L
+*CHI:	mhm .
+%mor:	co|yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$N:GI:RL
+*MOT:	in school ?
+%mor:	prep|in n|school ?
+%gra:	1|0|INCROOT 2|1|POBJ 3|1|PUNCT
+%cod:	$N:RI:L
+*CHI:	&mm mhm .
+%mor:	co|yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$N:GI:RL
+*MOT:	did you ?
+%mor:	v|do&PAST pro|you ?
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+%cod:	$N:RI:L
+*CHI:	&mm want to talk xxx .
+%mor:	v|want inf|to v|talk .
+%gra:	1|0|ROOT 2|3|INF 3|1|XCOMP 4|1|PUNCT
+%cod:	$O:U
+*INV:	www .
+%exp:	EXP tells Chi she has to put the toys away so the Elicited Report can be completed
+%cod:	$O:O
+*MOT:	look at me .
+%mor:	v|look prep|at pro:obj|me .
+%gra:	1|0|ROOT 2|1|JCT 3|2|POBJ 4|1|PUNCT
+%cod:	$O:C
+*MOT:	what did you do outside school yesterday ?
+%mor:	pro:wh|what mod|do&PAST pro|you v|do prep|outside n|school
+	adv:tem|yesterday ?
+%gra:	1|4|LINK 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|7|MOD 7|5|POBJ 8|4|PUNCT
+%cod:	$N:RI:S
+*CHI:	I don't know .
+%mor:	pro:sub|I mod|do~neg|not v|know .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|PUNCT
+%cod:	$N:GI:RS:N
+*MOT:	did you play in the swing ?
+%mor:	mod|do&PAST pro|you v|play prep|in det|the n|swing ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|3|PUNCT
+%cod:	$N:RI:L
+*CHI:	nuhuh .
+%mor:	co|nuhuh .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$N:GI:RL
+*MOT:	huh ?
+%mor:	co|huh ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$N:RC
+*CHI:	nuhuh .
+%mor:	co|nuhuh .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$N:GC
+*MOT:	did you play in the sandbox ?
+%mor:	mod|do&PAST pro|you v|play prep|in det|the n|+n|sand+n|box ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|3|PUNCT
+%cod:	$N:RI:L
+*CHI:	mhm .
+%mor:	co|yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$N:GI:RL
+*MOT:	did you wear your bathing suit and swim ?
+%mor:	v|do&PAST pro|you v|wear pro:poss:det|your part|bathe-PRESP n|suit
+	coord|and n|swim ?
+%gra:	1|0|ROOT 2|3|SUBJ 3|1|COMP 4|6|MOD 5|6|MOD 6|3|OBJ 7|6|CONJ 8|7|COORD
+	9|1|PUNCT
+%cod:	$N:RI:L $N:RI:L
+*CHI:	nuhuh .
+%mor:	co|nuhuh .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$N:GI:RL
+*MOT:	no (.) did you take a nap ?
+%mor:	co|no mod|do&PAST pro|you v|take det|a n|nap ?
+%gra:	1|4|COM 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+%cod:	$N:FA $N:RI:L
+*CHI:	mhm .
+%mor:	co|yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$N:GI:RL
+*MOT:	what'd you eat for breakfast ?
+%mor:	rel|what~mod|genmod pro|you v|eat prep|for n|breakfast ?
+%gra:	1|2|LINK 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|5|POBJ 7|4|PUNCT
+%cod:	$N:RI:S
+@End

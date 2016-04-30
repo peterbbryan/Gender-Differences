@@ -1,0 +1,98 @@
+@UTF8
+@PID:	11312/c-00010980-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, MOT Mother, FAT Father, SIS Sister
+@ID:	eng|Braunwald|CHI|02;07.19|female|||Target_Child|||
+@ID:	eng|Braunwald|MOT|||||Mother|||
+@ID:	eng|Braunwald|FAT|||||Father|||
+@ID:	eng|Braunwald|SIS|||||Sister|||
+@Date:	09-OCT-1973
+*FAT:	what's wrong with your daddy ?
+%mor:	rel|what~cop|be&3S adj|wrong prep|with pro:poss:det|your n|daddy ?
+%gra:	1|2|LINK 2|0|ROOT 3|2|PRED 4|2|JCT 5|6|MOD 6|4|POBJ 7|2|PUNCT
+%sit:	809
+*FAT:	he can help you .
+%mor:	pro:sub|he mod|can v|help pro|you .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+%sit:	809
+*CHI:	I don't love you, that's all .
+%mor:	pro:sub|I mod|do~neg|not v|love pro|you cm|cm
+	pro:dem|that~aux|be&3S pro:indef|all .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|OBJ 6|9|LINK 7|9|SUBJ 8|9|AUX
+	9|4|COMP 10|4|PUNCT
+%sit:	809
+*MOT:	what did you do special at storytime today ?
+%mor:	pro:wh|what mod|do&PAST pro|you v|do n|special prep|at
+	n|+n|story+n|time adv:tem|today ?
+%gra:	1|4|LINK 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|4|JCT 7|8|MOD 8|6|POBJ
+	9|4|PUNCT
+%sit:	810
+*CHI:	we popped popcorns .
+%mor:	pro:sub|we v|pop-PAST n|+n|pop+n|corn-PL .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+%sit:	810
+*CHI:	what's happened to Miss_Hunter, Jo ?
+%mor:	rel|what~aux|be&3S part|happen-PASTP prep|to n:prop|Miss_Hunter
+	cm|cm n:prop|Jo ?
+%gra:	1|2|LINK 2|3|AUX 3|0|ROOT 4|3|JCT 5|7|MOD 6|5|LP 7|4|POBJ 8|3|PUNCT
+%sit:	811
+*SIS:	she has larigynitis [: laryngitis] .
+%mor:	pro:sub|she v|have&3S n|laryngitis .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+%sit:	811
+*FAT:	she has a cold .
+%mor:	pro:sub|she v|have&3S det|a n|cold .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+%sit:	811
+*CHI:	Mom, Miss_Hunter has a cold .
+%mor:	n:prop|Mom cm|cm n:prop|Miss_Hunter v|have&3S det|a n|cold .
+%gra:	1|4|LINK 2|1|LP 3|4|SUBJ 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+%sit:	811
+*CHI:	give me a second kiss .
+%mor:	v|give pro:obj|me det|a n|second n|kiss .
+%gra:	1|0|ROOT 2|1|OBJ 3|5|DET 4|5|MOD 5|1|OBJ 6|1|PUNCT
+%sit:	812
+*CHI:	hey, Mommy, give me a second kiss .
+%mor:	co|hey cm|cm n:prop|Mommy cm|cm v|give pro:obj|me det|a n|second
+	n|kiss .
+%gra:	1|5|COM 2|1|LP 3|5|SUBJ 4|3|LP 5|0|ROOT 6|5|OBJ 7|9|DET 8|9|MOD 9|5|OBJ
+	10|5|PUNCT
+%sit:	812
+*MOT:	sure .
+%mor:	adj|sure .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%sit:	812
+*CHI:	maybe we could buy a mitt or make a mitt outa sand .
+%mor:	adv|maybe pro:sub|we mod|could v|buy det|a n|mitt coord|or v|make
+	det|a n|mitt prep|outa n|sand .
+%gra:	1|4|JCT 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|DET 6|4|OBJ 7|6|CONJ 8|7|COORD
+	9|10|DET 10|8|OBJ 11|10|NJCT 12|11|POBJ 13|4|PUNCT
+%sit:	813
+*MOT:	outa sand ?
+%mor:	prep|outa n|sand ?
+%gra:	1|0|INCROOT 2|1|POBJ 3|1|PUNCT
+%sit:	813
+*CHI:	maybe I could borrow one of yours .
+%mor:	adv|maybe pro:sub|I mod|could v|borrow det:num|one prep|of
+	pro:poss|yours .
+%gra:	1|4|JCT 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|5|JCT 7|6|POBJ 8|4|PUNCT
+%sit:	813
+*MOT:	sure, that's a good idea .
+%mor:	adj|sure cm|cm pro:dem|that~cop|be&3S det|a adj|good n|idea .
+%gra:	1|4|LINK 2|1|LP 3|4|SUBJ 4|0|ROOT 5|7|DET 6|7|MOD 7|4|PRED 8|4|PUNCT
+%sit:	813
+*CHI:	I told (th)em when it's over .
+%mor:	pro:sub|I v|tell&PAST pro:obj|them conj|when pro|it~cop|be&3S
+	adv|over .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|6|LINK 5|6|SUBJ 6|2|CJCT 7|6|JCT 8|2|PUNCT
+%sit:	814
+*CHI:	I'll turn it off .
+%mor:	pro:sub|I~mod|will v|turn pro|it adv|off .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|3|JCT 6|3|PUNCT
+%sit:	814
+*CHI:	it just stinks .
+%mor:	pro|it adv|just v|stink-3S .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|3|PUNCT
+%sit:	815 numerous times
+@End

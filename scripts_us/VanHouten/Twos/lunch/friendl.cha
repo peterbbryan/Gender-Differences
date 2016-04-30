@@ -1,0 +1,553 @@
+@UTF8
+@PID:	11312/c-00017703-1
+@Begin
+@Languages:	eng
+@Participants:	MOT Susan Mother , CHI Stephen Target_Child
+@ID:	eng|VanHouten|CHI|2;4.|male|typical||Target_Child|||
+@ID:	eng|VanHouten|MOT|||||Mother|||
+@Comment:	Education of MOT is 2
+@Situation:	Lunch. Child sitting in chair with booster seat at table. Mother sits at table with him , peeling an orange. Child is fairly intelligible , due to Mother's repetition of his utterances.
+@Comment:	Age Group of MOT Older
+*CHI:	I want orange .
+%mor:	pro:sub|I v|want adj|orange .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|2|PUNCT
+%sit:	gaze at orange in Mother's hand , reach .
+%cod:	$MLU=3 $NMV=1 $Ini $Des
+*MOT:	you want orange ?
+%mor:	pro|you v|want adj|orange ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|2|PUNCT
+%cod:	$MLU=3 $NMV=1 $Rde $Exp
+*CHI:	yeah .
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=0 $Res $Rep
+*MOT:	it's not ready .
+%mor:	pro|it~cop|be&3S neg|not adj|ready .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|NEG 4|2|PRED 5|2|PUNCT
+%cod:	$MLU=3 $NMV=1 $Rre $Rep
+*CHI:	huh ?
+%mor:	co|huh ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$MLU=0 $NMV=0 $Res $Rfi
+*MOT:	not ready .
+%mor:	neg|not adj|ready .
+%gra:	1|2|NEG 2|0|INCROOT 3|2|PUNCT
+%cod:	$MLU=2 $NMV=0 $Rri $Rep
+*CHI:	no ?
+%mor:	co|no ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=0 $Res $Rfi
+*MOT:	no .
+%mor:	co|no .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=0 $Rri $C/A
+*CHI:	pea .
+%mor:	n|pea .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=0 $Ini $Rep
+*MOT:	what ?
+%mor:	pro:wh|what ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=0 $Rre $Cla
+*CHI:	pea round .
+%mor:	n|pea adv|round .
+%gra:	1|0|INCROOT 2|1|JCT 3|1|PUNCT
+%cod:	$MLU=2 $NMV=0 $Res $Rep
+*MOT:	see Eric ?
+%mor:	v|see n:prop|Eric ?
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+%cod:	$MLU=2 $NMV=1 $Rre $Exp
+*MOT:	Eric's sleeping .
+%mor:	n:prop|Eric~aux|be&3S part|sleep-PRESP .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|PUNCT
+%cod:	$MLU=3 $NMV=1 $Con $Rep
+*CHI:	huh ?
+%mor:	co|huh ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$MLU=0 $NMV=0 $Res $Rfi
+*MOT:	mhm .
+%mor:	co|yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=0 $Rri $Rep
+*CHI:	pea ?
+%mor:	n|pea ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=0 $Ini $Rfi
+*MOT:	pea .
+%mor:	n|pea .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=0 $Rri $C/A
+*CHI:	ball ?
+%mor:	n|ball ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=0 $Ini $Rfi
+*MOT:	it's a ball .
+%mor:	pro|it~cop|be&3S det|a n|ball .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+%cod:	$MLU=4 $NMV=1 $Rri $C/A
+*MOT:	it's round .
+%mor:	pro|it~cop|be&3S adj|round .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+%cod:	$MLU=3 $NMV=1 $Con $Rep
+*CHI:	ball ?
+%mor:	n|ball ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=0 $Res $Rfi
+*MOT:	ball .
+%mor:	n|ball .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=0 $Rri $C/A
+*MOT:	mhm .
+%mor:	co|yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=0 $Con $C/A
+*MOT:	it looks like a ball (.) doesn't it ?
+%mor:	pro|it v|look-3S prep|like det|a n|ball mod|do&3S~neg|not pro|it ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|5|DET 5|8|SUBJ 6|8|AUX 7|6|NEG 8|3|POBJ
+	9|2|PUNCT
+%cod:	$MLU=8 $NMV=1 $Con $Rfi
+*CHI:	mhm .
+%mor:	co|yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=0 $Res $Rep
+*CHI:	xxx .
+%sit:	has food and fingers in mouth .
+%cod:	$Ini
+*MOT:	what ?
+%mor:	pro:wh|what ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=0 $Res $Cla
+*CHI:	ball .
+%mor:	n|ball .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=0 $Res $Rep
+*MOT:	what's that ?
+%mor:	pro:wh|what~cop|be&3S pro:dem|that ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+%cod:	$MLU=3 $NMV=1 $Ini $Rfi
+*CHI:	pea .
+%mor:	n|pea .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=0 $Res $Rep
+*MOT:	peas .
+%mor:	n|pea-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=0 $Rre $C/A
+*MOT:	and what else ?
+%mor:	conj|and pro:wh|what post|else ?
+%gra:	1|0|INCROOT 2|1|COORD 3|2|PQ 4|1|PUNCT
+%cod:	$MLU=3 $NMV=0 $Ini $Rfi
+*CHI:	carrot .
+%mor:	n|carrot .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=0 $Res $Rep
+*MOT:	carrots .
+%mor:	n|carrot-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=0 $Rre $C/A
+*MOT:	and what +/.
+%mor:	conj|and pro:wh|what +/.
+%gra:	1|0|INCROOT 2|1|COORD 3|1|PUNCT
+%cod:	$Ini $Rfi
+*CHI:	ball .
+%mor:	n|ball .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=0 $Ini $Rep
+*MOT:	what's this ?
+%mor:	pro:wh|what~cop|be&3S pro:dem|this ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+%sit:	points to food .
+%cod:	$MLU=3 $NMV=1 $Ini $Rfi
+*CHI:	squash .
+%mor:	n|squash .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=0 $Res $Rep
+*MOT:	you like the squash ?
+%mor:	pro|you prep|like det|the n|squash ?
+%gra:	1|0|INCROOT 2|1|JCT 3|4|DET 4|2|POBJ 5|1|PUNCT
+%cod:	$MLU=4 $NMV=0 $Rre $Rfi
+*CHI:	hot (.) the squash (.) hot ?
+%mor:	adj|hot det|the n|squash adj|hot ?
+%gra:	1|0|INCROOT 2|3|DET 3|1|OBJ 4|3|XMOD 5|1|PUNCT
+%cod:	$MLU=4 $NMV=0 $Ini $Rfi
+*MOT:	no (.) it's not hot .
+%mor:	co|no pro|it~cop|be&3S neg|not adj|hot .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|NEG 5|3|PRED 6|3|PUNCT
+%cod:	$MLU=5 $NMV=1 $Rri $Rep
+*MOT:	it's cold (.) as a matter of fact .
+%mor:	pro|it~cop|be&3S adv|cold prep|as det|a n|matter prep|of n|fact .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|2|JCT 5|6|DET 6|4|POBJ 7|6|NJCT 8|7|POBJ
+	9|2|PUNCT
+%cod:	$MLU=8 $NMV=1 $Con $Rep
+*CHI:	cold .
+%mor:	n|cold .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=0 $Res $Rep
+*MOT:	cold .
+%mor:	n|cold .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=0 $Rre $C/A
+*CHI:	squash cold .
+%mor:	n|squash n|cold .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+%cod:	$MLU=2 $NMV=0 $Res $Rep
+*CHI:	not hot ?
+%mor:	neg|not adj|hot ?
+%gra:	1|2|NEG 2|0|INCROOT 3|2|PUNCT
+%cod:	$MLU=2 $NMV=0 $Con $Rfi
+*MOT:	it's nice .
+%mor:	pro|it~cop|be&3S adj|nice .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+%cod:	$MLU=3 $NMV=1 $Rri $Rep
+*CHI:	hot ?
+%mor:	adj|hot ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=0 $Res $Rfi
+*MOT:	it's not hot .
+%mor:	pro|it~cop|be&3S neg|not adj|hot .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|NEG 4|2|PRED 5|2|PUNCT
+%cod:	$MLU=4 $NMV=1 $Rri $Rep
+*MOT:	I don't think .
+%mor:	pro:sub|I mod|do~neg|not v|think .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|PUNCT
+%cod:	$MLU=4 $NMV=1 $Con $Rep
+*MOT:	is it hot ?
+%mor:	aux|be&3S pro|it adj|hot ?
+%gra:	1|0|INCROOT 2|1|OBJ 3|2|XMOD 4|1|PUNCT
+%cod:	$MLU=3 $NMV=1 $Con $Rfi
+*CHI:	hot ?
+%mor:	adj|hot ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=0 $Res $Rfi
+*MOT:	no (.) it's nice .
+%mor:	co|no pro|it~cop|be&3S adj|nice .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|3|PUNCT
+%cod:	$MLU=4 $NMV=1 $Rri $Rep
+*CHI:	this hot ?
+%mor:	det|this adj|hot ?
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+%sit:	points to carrots .
+%cod:	$MLU=2 $NMV=0 $Ini $Rfi
+*CHI:	this hot ?
+%mor:	det|this adj|hot ?
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+%cod:	$MLU=2 $NMV=0 $Con $Rfi
+*MOT:	it's nice .
+%mor:	pro|it~cop|be&3S adj|nice .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+%cod:	$MLU=3 $NMV=1 $Rri $Rep
+*CHI:	this hot ?
+%mor:	det|this adj|hot ?
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+%sit:	asks about carrots again .
+%cod:	$MLU=2 $NMV=0 $Res $Rfi
+*MOT:	they're not hot .
+%mor:	pro:sub|they~cop|be&PRES neg|not adj|hot .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|NEG 4|2|PRED 5|2|PUNCT
+%cod:	$MLU=4 $NMV=1 $Rri $Rep
+*CHI:	no ?
+%mor:	co|no ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=0 $Res $Rfi
+*MOT:	the carrots are nice .
+%mor:	det|the n|carrot-PL cop|be&PRES adj|nice .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|3|PUNCT
+%cod:	$MLU=4 $NMV=1 $Rri $Rep
+*MOT:	they're nice .
+%mor:	pro:sub|they~cop|be&PRES adj|nice .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+%cod:	$MLU=3 $NMV=1 $Con $Rep
+*CHI:	cold ?
+%mor:	n|cold ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=0 $Res $Rfi
+*MOT:	cold .
+%mor:	n|cold .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=0 $Rri $C/A
+*MOT:	cold .
+%mor:	n|cold .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=0 $Con $C/A
+*CHI:	hot (.) hot ?
+%mor:	adj|hot adj|hot ?
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+%sit:	points to hotdog .
+%cod:	$MLU=2 $NMV=0 $Ini $Rfi
+*MOT:	no .
+%mor:	co|no .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=0 $Rri $Rep
+*MOT:	that's nice (.) too .
+%mor:	pro:dem|that~cop|be&3S adj|nice post|too .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|3|PQ 5|2|PUNCT
+%cod:	$MLU=4 $NMV=1 $Con $Rep
+*CHI:	huh ?
+%mor:	co|huh ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	MLU=0 $NMV=0 $Res $Rfi
+*MOT:	that's nice (.) too .
+%mor:	pro:dem|that~cop|be&3S adj|nice post|too .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|3|PQ 5|2|PUNCT
+%cod:	$MLU=4 $NMV=1 $Rri $Rep
+*CHI:	nice too .
+%mor:	adj|nice post|too .
+%gra:	1|0|INCROOT 2|1|PQ 3|1|PUNCT
+%cod:	$MLU=2 $NMV=0 $Res $Rep
+*MOT:	nice too .
+%mor:	adj|nice post|too .
+%gra:	1|0|INCROOT 2|1|PQ 3|1|PUNCT
+%cod:	$MLU=2 $NMV=0 $Rre $C/A
+*CHI:	me eat hot+dog .
+%mor:	pro:obj|me v|eat n|+adj|hot+n|dog .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+%cod:	$MLU=3 $NMV=1 $Ini $Rep
+*MOT:	how's the hot+dog ?
+%mor:	adv:wh|how~cop|be&3S det|the n|+adj|hot+n|dog ?
+%gra:	1|2|LINK 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+%cod:	$MLU=4 $NMV=1 $Rre $Rfi
+*MOT:	is it good ?
+%mor:	aux|be&3S pro|it adj|good ?
+%gra:	1|0|INCROOT 2|1|OBJ 3|2|XMOD 4|1|PUNCT
+%cod:	$MLU=3 $NMV=1 $Con $Rfi
+*CHI:	mhm .
+%mor:	co|yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=0 $Res $Rep
+*MOT:	mhm .
+%mor:	co|yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=0 $Rre $C/A
+*CHI:	Daddy .
+%mor:	n:prop|Daddy .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%sit:	point camera .
+%cod:	$MLU=1 $NMV=0 $Ini $Rep
+*MOT:	Daddy .
+%mor:	n:prop|Daddy .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%sit:	did not see Child's point .
+%cod:	$MLU=1 $NMV=0 $Rre $Rsc
+*MOT:	where's Daddy ?
+%mor:	rel|where~aux|be&3S n:prop|Daddy ?
+%gra:	1|3|LINK 2|3|AUX 3|0|ROOT 4|3|PUNCT
+%cod:	$MLU=3 $NMV=1 $Ini $Rfi
+*CHI:	Daddy .
+%mor:	n:prop|Daddy .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=0 $Ini $Rep
+*CHI:	Daddy camera .
+%mor:	n:prop|Daddy n|camera .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+%cod:	$MLU=2 $NMV=0 $Con $Rep
+*MOT:	like Daddy's (.) I know .
+%mor:	prep|like n:prop|Daddy~poss|s pro:sub|I v|know .
+%gra:	1|5|LINK 2|1|POBJ 3|2|POSS 4|5|SUBJ 5|0|ROOT 6|5|PUNCT
+%cod:	$MLU=4 $NMV=1 $Rre $C/A
+*MOT:	where is Daddy ?
+%mor:	adv:wh|where cop|be&3S n:prop|Daddy ?
+%gra:	1|2|LINK 2|0|ROOT 3|2|PRED 4|2|PUNCT
+%cod:	$MLU=3 $NMV=1 $Ini $Rfi
+*CHI:	he at home ?
+%mor:	pro:sub|he prep|at n|home ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|POBJ 4|2|PUNCT
+%cod:	$MLU=3 $NMV=0 $Res $Rfi
+*MOT:	no .
+%mor:	co|no .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=0 $Rri $Rep
+*MOT:	he's not home .
+%mor:	pro:sub|he~aux|be&3S neg|not n|home .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|INCROOT 5|4|PUNCT
+%cod:	$MLU=4 $NMV=1 $Con $Rep
+*MOT:	where is he ?
+%mor:	adv:wh|where cop|be&3S pro:sub|he ?
+%gra:	1|2|LINK 2|0|ROOT 3|2|PRED 4|2|PUNCT
+%cod:	$MLU=3 $NMV=1 $Ini $Rfi
+*CHI:	home ?
+%mor:	n|home ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=0 $Res $Rfi
+*MOT:	no .
+%mor:	co|no .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=0 $Rri $Rep
+*CHI:	home ?
+%mor:	n|home ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=0 $Res $Rfi
+*MOT:	don't be silly .
+%mor:	mod|do~neg|not cop|be adj|silly .
+%gra:	1|3|AUX 2|1|NEG 3|0|ROOT 4|3|PRED 5|3|PUNCT
+%cod:	$MLU=4 $NMV=1 $Rfi $C/R
+*MOT:	Daddy's not home .
+%mor:	n:prop|Daddy~poss|s neg|not n|home .
+%gra:	1|0|INCROOT 2|1|POSS 3|1|NEG 4|1|JCT 5|1|PUNCT
+%cod:	$MLU=4 $NMV=1 $Con $Rep
+*MOT:	where is he ?
+%mor:	adv:wh|where cop|be&3S pro:sub|he ?
+%gra:	1|2|LINK 2|0|ROOT 3|2|PRED 4|2|PUNCT
+%cod:	$MLU=3 $NMV=1 $Ini $Rfi
+*MOT:	is he at work ?
+%mor:	cop|be&3S pro:sub|he prep|at n|work ?
+%gra:	1|0|ROOT 2|1|PRED 3|2|JCT 4|3|POBJ 5|1|PUNCT
+%cod:	$MLU=4 $NMV=1 $Con $Rfi
+*CHI:	bakery .
+%mor:	n|bakery .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=0 $Res $Rep
+*MOT:	at the bakery .
+%mor:	prep|at det|the n|bakery .
+%gra:	1|0|INCROOT 2|3|DET 3|1|POBJ 4|1|PUNCT
+%cod:	$MLU=3 $NMV=0 $Rre $C/A
+*CHI:	Noel bakery .
+%mor:	n:prop|Noel n|bakery .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+%cod:	$MLU=2 $NMV=0 $Ini $Rep
+*MOT:	Noel .
+%mor:	n:prop|Noel .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=0 $Rre $C/A
+*MOT:	Noel's at the bakery .
+%mor:	n:prop|Noel~cop|be&3S prep|at det|the n|bakery .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|5|DET 5|3|POBJ 6|2|PUNCT
+%cod:	$MLU=5 $NMV=1 $Con $C/A
+*MOT:	who else is at the bakery ?
+%mor:	pro:wh|who post|else aux|be&3S prep|at det|the n|bakery ?
+%gra:	1|0|INCROOT 2|1|PQ 3|1|XJCT 4|3|JCT 5|6|DET 6|4|POBJ 7|1|PUNCT
+%cod:	$MLU=6 $NMV=1 $Ini $Rfi
+*CHI:	Greg .
+%mor:	n:prop|Greg .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=0 $Res $Rep
+*MOT:	Greg .
+%mor:	n:prop|Greg .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=0 $Rre $C/A
+*MOT:	who else ?
+%mor:	pro:wh|who post|else ?
+%gra:	1|0|INCROOT 2|1|PQ 3|1|PUNCT
+%cod:	$MLU=2 $NMV=0 $Ini $Rfi
+*MOT:	who else ?
+%mor:	pro:wh|who post|else ?
+%gra:	1|0|INCROOT 2|1|PQ 3|1|PUNCT
+%cod:	$MLU=2 $NMV=0 $Con $Rfi
+*CHI:	Mommy .
+%mor:	n:prop|Mommy .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=0 $Res $Rep
+*MOT:	tsk .
+%mor:	co|tsk .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$MLU=0 $NMV=0 $Rre $Rsc
+*CHI:	Steve ?
+%mor:	n:prop|Steve ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=0 $Res $Rfi
+*MOT:	Steve doesn't work at the bakery .
+%mor:	n:prop|Steve mod|do&3S~neg|not v|work prep|at det|the n|bakery .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ 8|4|PUNCT
+%cod:	$MLU=7 $NMV=1 $Rri $Rep
+*CHI:	uhhuh .
+%mor:	co|uhhuh .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%sit:	acknowledging Mother's comment .
+%cod:	$MLU=1 $NMV=0 $Res $Rep
+*MOT:	who else works at the bakery ?
+%mor:	pro:wh|who post|else n|work-PL prep|at det|the n|bakery ?
+%gra:	1|3|MOD 2|1|PQ 3|0|INCROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|3|PUNCT
+%cod:	$MLU=6 $NMV=1 $Ini $Rfi
+*CHI:	Greg .
+%mor:	n:prop|Greg .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=0 $Res $Rep
+*MOT:	Greg .
+%mor:	n:prop|Greg .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=0 $Rre $C/A
+*MOT:	who else ?
+%mor:	pro:wh|who post|else ?
+%gra:	1|0|INCROOT 2|1|PQ 3|1|PUNCT
+%cod:	$MLU=2 $NMV=0 $Ini $Rfi
+*CHI:	huh ?
+%mor:	co|huh ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$MLU=0 $NMV=0 $Res $Rfi
+*CHI:	Pa_da .
+%mor:	n:prop|Pa_da .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$MLU=2 $NMV=0 $Con $Rep
+*MOT:	Pa_Dominic .
+%mor:	n:prop|Pa_Dominic .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$MLU=2 $NMV=0 $Rre $C/A
+*MOT:	who else ?
+%mor:	pro:wh|who post|else ?
+%gra:	1|0|INCROOT 2|1|PQ 3|1|PUNCT
+%cod:	$MLU=2 $NMV=0 $Ini $Rfi
+*CHI:	Buffy .
+%mor:	n:prop|Buffy .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=0 $Res $Rep
+*MOT:	Buffy doesn't work at the bakery .
+%mor:	n:prop|Buffy mod|do&3S~neg|not v|work prep|at det|the n|bakery .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ 8|4|PUNCT
+%cod:	$MLU=7 $NMV=1 $Rre $Rep
+*CHI:	no ?
+%mor:	co|no ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=0 $Res $Rfi
+*MOT:	no .
+%mor:	co|no .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=0 $Rri $C/A
+*CHI:	no ?
+%mor:	co|no ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=0 $Res $Rfi
+*MOT:	no .
+%mor:	co|no .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=0 $Rri $C/A
+*MOT:	Buffy's a dog .
+%mor:	n:prop|Buffy~poss|s det|a n|dog .
+%gra:	1|0|INCROOT 2|1|POSS 3|4|DET 4|1|OBJ 5|1|PUNCT
+%cod:	$MLU=4 $NMV=1 $Con $Rep
+*CHI:	no ?
+%mor:	co|no ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=0 $Res $Rfi
+*MOT:	no .
+%mor:	co|no .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=0 $Rri $C/A
+*CHI:	Midnight dog .
+%mor:	n:prop|Midnight n|dog .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+%cod:	$MLU=2 $NMV=0 $Ini $Rep
+*MOT:	Midnight's a dog .
+%mor:	n:prop|Midnight~poss|s det|a n|dog .
+%gra:	1|0|INCROOT 2|1|POSS 3|4|DET 4|1|OBJ 5|1|PUNCT
+%cod:	$MLU=4 $NMV=1 $Rre $C/A
+*MOT:	who else ?
+%mor:	pro:wh|who post|else ?
+%gra:	1|0|INCROOT 2|1|PQ 3|1|PUNCT
+%cod:	$MLU=2 $NMV=0 $Ini $Rfi
+*CHI:	Midnight booboo .
+%mor:	n:prop|Midnight n|+on|boo+on|boo .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+%cod:	$MLU=2 $NMV=0 $Ini $Rep
+*MOT:	Midnight has a booboo ?
+%mor:	n:prop|Midnight v|have&3S det|a n|+on|boo+on|boo ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+%cod:	$MLU=4 $NMV=1 $Rre $Exp
+*CHI:	paw .
+%mor:	n|paw .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=0 $Res $Rep
+*MOT:	on her paw .
+%mor:	prep|on pro:poss:det|her n|paw .
+%gra:	1|0|INCROOT 2|3|MOD 3|1|POBJ 4|1|PUNCT
+%sit:	phone rings .
+%cod:	$MLU=3 $NMV=0 $Rre $C/A
+@End

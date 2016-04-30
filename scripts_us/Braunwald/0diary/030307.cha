@@ -1,0 +1,29 @@
+@UTF8
+@PID:	11312/c-00011164-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child
+@ID:	eng|Braunwald|CHI|03;03.07|female|||Target_Child|||
+@Date:	27-MAY-1974
+*CHI:	how (a)bout taking temperature in your nose ?
+%mor:	adv:wh|how adv|about part|take-PRESP n|temperature prep|in
+	pro:poss:det|your n|nose ?
+%gra:	1|0|INCROOT 2|1|JCT 3|4|MOD 4|2|POBJ 5|4|JCT 6|7|MOD 7|5|POBJ 8|1|PUNCT
+%sit:	790
+*CHI:	do you know what, Nanny_Two, our cat died .
+%mor:	mod|do pro|you v|know pro:wh|what cm|cm n:prop|Nanny_Two cm|cm
+	pro:poss:det|our n|cat v|die-PAST .
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|10|LINK 5|4|LP 6|10|JCT 7|6|LP 8|9|MOD
+	9|10|SUBJ 10|3|COMP 11|3|PUNCT
+%sit:	791
+*CHI:	Katie died .
+%mor:	n:prop|Katie v|die-PAST .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+%sit:	791
+*CHI:	I dreamed about I went to school with my pipit@c [= blanket] today .
+%mor:	pro:sub|I v|dream-PAST adv|about pro:sub|I v|go&PAST prep|to
+	n|school prep|with pro:poss:det|my chi|pipit adv:tem|today .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|5|SUBJ 5|2|COMP 6|7|INF 7|5|XCOMP 8|7|JCT
+	9|10|MOD 10|8|POBJ 11|10|PRED 12|2|PUNCT
+%sit:	792
+@End

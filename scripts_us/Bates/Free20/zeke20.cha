@@ -1,0 +1,509 @@
+@UTF8
+@PID:	11312/c-00015245-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Zeke Target_Child , MOT Mother
+@ID:	eng|Bates|CHI|1;8.|male|typical|MC|Target_Child|||
+@ID:	eng|Bates|MOT|||||Mother|||
+@Bg:	mother_freeplay
+*CHI:	0 .
+%act:	picks up nesting cup stack . holds , then unnests
+*MOT:	wan(t) (t)a play with those ?
+%mor:	v|want inf|to v|play prep|with pro:dem|those ?
+%gra:	1|0|ROOT 2|3|INF 3|1|XCOMP 4|3|JCT 5|4|POBJ 6|1|PUNCT
+%act:	discards dollhouse
+%par:	<bef> gasps
+*MOT:	stack [/] stack (th)em up ?
+%mor:	v|stack pro:obj|them adv|up ?
+%gra:	1|0|ROOT 2|1|OBJ 3|1|JCT 4|1|PUNCT
+%act:	discards shape box object
+*MOT:	can we make a tower (.) Zeke ?
+%mor:	mod|can pro:sub|we v|make det|a n|tower n:prop|Zeke ?
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|5|APP 7|3|PUNCT
+*CHI:	0 .
+%act:	picks up nesting cups and holds
+*MOT:	wan(t) (t)a make a tower ?
+%mor:	v|want inf|to v|make det|a n|tower ?
+%gra:	1|0|ROOT 2|3|INF 3|1|XCOMP 4|5|DET 5|3|OBJ 6|1|PUNCT
+*MOT:	wan(t) (t)a make a tower ?
+%mor:	v|want inf|to v|make det|a n|tower ?
+%gra:	1|0|ROOT 2|3|INF 3|1|XCOMP 4|5|DET 5|3|OBJ 6|1|PUNCT
+%act:	<1w> pulls nesting cup toward self
+*MOT:	&hmm ?
+*MOT:	you wan(t) (t)a make a tower ?
+%mor:	pro|you v|want inf|to v|make det|a n|tower ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|INF 4|2|XCOMP 5|6|DET 6|4|OBJ 7|2|PUNCT
+%act:	<1w> stacks nesting cups
+*CHI:	0 .
+%act:	puts nesting cups down . shuts shape box lid
+*MOT:	make a tower ?
+%mor:	v|make det|a n|tower ?
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+*MOT:	0 [=! gasps] .
+*CHI:	oh !
+%mor:	co|oh !
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	<aft> attempts to shut door . puts man in dollhouse through door . shuts door
+*MOT:	look at Mommy's tower she's making !
+%mor:	v|look prep|at n:prop|Mommy~poss|s n|tower pro:sub|she~aux|be&3S
+	part|make-PRESP !
+%gra:	1|0|ROOT 2|1|JCT 3|8|SUBJ 4|3|POSS 5|8|JCT 6|8|SUBJ 7|8|AUX 8|2|POBJ
+	9|1|PUNCT
+%act:	continues to stack nesting cups
+*MOT:	look at this tower !
+%mor:	v|look prep|at det|this n|tower !
+%gra:	1|0|ROOT 2|1|JCT 3|4|DET 4|2|POBJ 5|1|PUNCT
+%act:	picks up more nesting cups and stacks
+*CHI:	0 .
+%act:	reaches in dollhouse . takes out object . tosses back
+*MOT:	look at that tower (.) Zeke !
+%mor:	v|look prep|at det|that n|tower n:prop|Zeke !
+%gra:	1|0|ROOT 2|1|JCT 3|4|DET 4|2|POBJ 5|4|APP 6|1|PUNCT
+%act:	moves tower away from self slowly
+*CHI:	0 .
+%par:	<bef> laughs
+%act:	attempts to open dollhouse doors . succeeds
+%gpx:	smiles
+*CHI:	0 .
+%act:	knocks over tower
+*MOT:	oh !
+%mor:	co|oh !
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	good !
+%mor:	adj|good !
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	<1w> discards dollhouse
+%par:	<aft> laughs
+*MOT:	will you go get me the other pieces ?
+%mor:	mod|will pro|you v|go v|get pro:obj|me det|the qn|other n|piece-PL
+	?
+%gra:	1|3|AUX 2|3|SUBJ 3|4|SRL 4|0|ROOT 5|4|OBJ 6|8|DET 7|8|QUANT 8|4|OBJ
+	9|4|PUNCT
+%gpx:	<6w-8w> points to nesting cups
+%act:	picks up nesting cups
+*MOT:	&hmm ?
+*MOT:	will you go get the other pieces ?
+%mor:	mod|will pro|you v|go v|get det|the qn|other n|piece-PL ?
+%gra:	1|3|AUX 2|3|SUBJ 3|4|SRL 4|0|ROOT 5|7|DET 6|7|QUANT 7|4|OBJ 8|4|PUNCT
+*MOT:	&hmm ?
+*CHI:	0 .
+%act:	opens dollhouse door . picks up bed and puts in dollhouse
+*MOT:	want me to make a tower again ?
+%mor:	v|want pro:obj|me inf|to v|make det|a n|tower adv|again ?
+%gra:	1|0|ROOT 2|1|OBJ 3|4|INF 4|1|XCOMP 5|6|DET 6|4|OBJ 7|4|JCT 8|1|PUNCT
+%act:	<1w> holds nesting cups . <1w> picks up nesting cups .
+*MOT:	&hmm ?
+%act:	<1w> picks up nesting cups and holds
+*CHI:	0 .
+%act:	attempts to shut dollhouse door . succeeds
+*MOT:	want me to make a tower again ?
+%mor:	v|want pro:obj|me inf|to v|make det|a n|tower adv|again ?
+%gra:	1|0|ROOT 2|1|OBJ 3|4|INF 4|1|XCOMP 5|6|DET 6|4|OBJ 7|4|JCT 8|1|PUNCT
+%act:	picks up nesting cup under Zeke . shuts dollhouse door . pulls nesting cups toward self . stacks
+*CHI:	&uh !
+%act:	<aft> hands on rim of dollhouse . opens doors and reaches in briefly
+*MOT:	you gonna <le(t)> [//] wait until I get it done ?
+%mor:	pro|you part|go-PRESP~inf|to v|wait conj|until pro:sub|I v|get
+	pro|it part|do&PASTP ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|INF 4|2|XCOMP 5|7|LINK 6|7|SUBJ 7|4|CJCT 8|7|OBJ
+	9|7|JCT 10|9|PUNCT
+%act:	continues stacking nesting cups
+%par:	<bef> small laugh
+*CHI:	&ah [>] !
+%act:	knocks over tower
+*CHI:	&ah [>] !
+*MOT:	&ah [<] !
+*MOT:	&ah !
+%act:	waves arms . picks up nesting cups
+*MOT:	&ah !
+*MOT:	&ah !
+*CHI:	&ah !
+*MOT:	&ah !
+*MOT:	&ah !
+%act:	<1w> puts nesting cups down in pile . discards dollhouse
+*CHI:	&ah .
+*CHI:	ball !
+%mor:	n|ball !
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	<dur> takes out ball and puts on floor . reaches in shape box and takes out another ball <bef> opens shape box .
+%xpho:	bA
+*MOT:	ball !
+%mor:	n|ball !
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	play it [?] .
+%mor:	v|play pro|it .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+*CHI:	0 .
+%act:	tosses ball out . reaches in shape box again . takes hand out
+*MOT:	oh .
+%mor:	co|oh .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	reaches in shape box , takes out object and shuts lid
+%par:	<1w> spoken softly .
+*MOT:	look at this !
+%mor:	v|look prep|at pro:dem|this !
+%gra:	1|0|ROOT 2|1|JCT 3|2|POBJ 4|1|PUNCT
+%par:	<1w-3w> spoken softly .
+*MOT:	Zeke ?
+%mor:	n:prop|Zeke ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%par:	<1w> spoken louder
+*MOT:	wan(t) (t)a put that in here ?
+%mor:	v|want inf|to v|put&ZERO pro:dem|that prep|in pro:dem|here ?
+%gra:	1|0|ROOT 2|3|INF 3|1|XCOMP 4|3|OBJ 5|3|JCT 6|5|POBJ 7|1|PUNCT
+*MOT:	there's all these little [!] things .
+%mor:	pro:exist|there~cop|be&3S qn|all det|these adj|little n|thing-PL .
+%gra:	1|2|SUBJ 2|0|ROOT 3|6|QUANT 4|6|DET 5|6|MOD 6|2|PRED 7|2|PUNCT
+%act:	opens shape box and takes out objects
+*MOT:	&hmm ?
+*CHI:	0 .
+%act:	puts ball on floor . holds object to shape box lid . attempts to put ball in open shape box lid
+*MOT:	oh (.) just a sec(ond) .
+%mor:	co|oh adv|just det|a n|second .
+%gra:	1|4|COM 2|4|JCT 3|4|DET 4|0|INCROOT 5|4|PUNCT
+*CHI:	0 .
+%act:	shuts shape box lid on Mother's hand . puts object in shape box
+*MOT:	can you do this one ?
+%mor:	mod|can pro|you v|do det|this pro:indef|one ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*CHI:	0 .
+%act:	picks up ball shaped object
+*MOT:	can you put this one in ?
+%mor:	mod|can pro|you v|put&ZERO det|this pro:indef|one adv|in ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|JCT 7|3|PUNCT
+%act:	holds out object to Zeke
+*CHI:	0 .
+%act:	puts own object on shape box lid . drops it . picks up and puts in shape box
+*MOT:	good boy !
+%mor:	adj|good n|boy !
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*CHI:	&uh !
+%act:	<aft> attempts to put in wrong hole <bef> takes object from Mother .
+*MOT:	no (.) it doesn't go in that hole .
+%mor:	co|no pro|it mod|do&3S~neg|not v|go prep|in det|that n|hole .
+%gra:	1|5|COM 2|5|SUBJ 3|5|AUX 4|3|NEG 5|0|ROOT 6|5|JCT 7|8|DET 8|6|POBJ
+	9|5|PUNCT
+%gpx:	<6w-7w> points to correct hole
+*MOT:	it goes in this hole .
+%mor:	pro|it v|go-3S prep|in det|this n|hole .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|5|DET 5|3|POBJ 6|2|PUNCT
+*CHI:	0 .
+%act:	tries right hole . takes hand away
+*MOT:	can you get it ?
+%mor:	mod|can pro|you v|get pro|it ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*MOT:	do you know how to do it ?
+%mor:	mod|do pro|you v|know adv:wh|how inf|to v|do pro|it ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|6|INF 6|4|XCOMP 7|6|OBJ 8|3|PUNCT
+%gpx:	points to correct hole
+*CHI:	0 .
+%act:	reaches for Mother's object
+*MOT:	want Mommy to show you ?
+%mor:	v|want n:prop|Mommy inf|to v|show pro|you ?
+%gra:	1|0|ROOT 2|1|OBJ 3|4|INF 4|2|XCOMP 5|4|OBJ 6|1|PUNCT
+%act:	takes object from Zeke
+*MOT:	see ?
+%mor:	v|see ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	it goes this way .
+%mor:	pro|it v|go-3S det|this n|way .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+%act:	holds out object to Zeke
+*MOT:	see ?
+%mor:	v|see ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	boop@o !
+%mor:	on|boop !
+%gra:	1|0|INCROOT 2|1|PUNCT
+%int:	<1w> high pitch
+*CHI:	0 .
+%act:	takes object from Mother
+*MOT:	this goes in this hole .
+%mor:	pro:dem|this v|go-3S prep|in det|this n|hole .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|5|DET 5|3|POBJ 6|2|PUNCT
+%gpx:	points to correct hole
+*CHI:	0 .
+%act:	tries correct hole
+*MOT:	turn it around (.) you can do it !
+%mor:	v|turn pro|it prep|around pro|you mod|can v|do pro|it !
+%gra:	1|6|SUBJ 2|1|OBJ 3|1|JCT 4|3|POBJ 5|6|AUX 6|0|ROOT 7|6|OBJ 8|6|PUNCT
+*CHI:	0 .
+%act:	fumbles . stops , leaving object on lid . takes hand away
+*MOT:	&ah !
+*MOT:	xxx get it [?] .
+%mor:	v|get pro|it .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+*MOT:	do it again .
+%mor:	mod|do pro|it adv|again .
+%gra:	1|2|AUX 2|0|ROOT 3|2|JCT 4|2|PUNCT
+*MOT:	keep goin(g) .
+%mor:	v|keep n:gerund|go-PRESP .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+*MOT:	you can do it .
+%mor:	pro|you mod|can v|do pro|it .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*CHI:	0 .
+%act:	puts hand back on object and tries to put it in again . succeeds
+*MOT:	that's [!] it !
+%mor:	pro:dem|that~cop|be&3S pro|it !
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+%act:	holds object out to Zeke
+*MOT:	put that one in .
+%mor:	v|put&ZERO adv|that pro:indef|one adv|in .
+%gra:	1|0|ROOT 2|1|JCT 3|1|XJCT 4|3|JCT 5|1|PUNCT
+*CHI:	0 .
+%act:	takes object and attempts wrong hole
+*MOT:	no (.) it goes in the round [!] hole .
+%mor:	co|no pro|it v|go-3S prep|in det|the adj|round n|hole .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|7|DET 6|7|MOD 7|4|POBJ 8|3|PUNCT
+*CHI:	0 .
+%act:	tries other holes . stops . takes hand off shape box
+*MOT:	it goes in the round [!] hole .
+%mor:	pro|it v|go-3S prep|in det|the adj|round n|hole .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|6|DET 5|6|MOD 6|3|POBJ 7|2|PUNCT
+*MOT:	goes in that [!] hole .
+%mor:	v|go-3S prep|in det|that n|hole .
+%gra:	1|0|ROOT 2|1|JCT 3|4|DET 4|2|POBJ 5|1|PUNCT
+%gpx:	<1w> points to hole
+*CHI:	0 .
+%act:	tries correct hole . succeeds
+*MOT:	good boy !
+%mor:	adj|good n|boy !
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+%par:	<2w> small laugh
+*CHI:	0 .
+%act:	opens shape box and helps Mother
+*MOT:	get them all out ?
+%mor:	v|get pro:obj|them post|all adv|out ?
+%gra:	1|0|ROOT 2|1|OBJ 3|2|PQ 4|1|JCT 5|1|PUNCT
+*MOT:	&hmm ?
+%act:	<1w> rights shape box . shuts lid and moves toward Zeke
+*CHI:	xxx .
+%act:	swipes at objects . picks up object and attempts to put in shape box
+*MOT:	0 .
+%act:	puts object on lid . gathers objects
+*CHI:	0 .
+%act:	object falls . touches objects on floor
+*MOT:	0 .
+%act:	picks up object and holds out to Zeke
+*CHI:	0 .
+%act:	picks up object
+*MOT:	this one in it .
+%mor:	det|this pro:indef|one prep|in pro|it .
+%gra:	1|2|DET 2|0|ROOT 3|2|NJCT 4|3|POBJ 5|2|PUNCT
+*CHI:	0 .
+%act:	takes object from Mother
+*MOT:	goes [/] goes in this hole .
+%mor:	v|go-3S prep|in det|this n|hole .
+%gra:	1|0|ROOT 2|1|JCT 3|4|DET 4|2|POBJ 5|1|PUNCT
+%gpx:	points to hole
+*CHI:	0 .
+%act:	briefly attempts to put object in shape box . attempts other object briefly . attempts first object again
+*MOT:	yeah ?
+%mor:	co|yeah ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	0 .
+%act:	attempts second object again over correct hole
+*MOT:	good !
+%mor:	adj|good !
+%gra:	1|0|INCROOT 2|1|PUNCT
+%par:	<1w> spoken loudly
+*MOT:	that's the way !
+%mor:	pro:dem|that~cop|be&3S det|the n|way !
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+*CHI:	0 .
+%act:	object drops in . puts first object in other hand
+*MOT:	yeah !
+%mor:	co|yeah !
+%gra:	1|0|INCROOT 2|1|PUNCT
+%gpx:	points to correct hole
+*MOT:	you can put that in this hole .
+%mor:	pro|you mod|can v|put&ZERO pro:dem|that prep|in det|this n|hole .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|3|JCT 6|7|DET 7|5|POBJ 8|3|PUNCT
+*CHI:	0 .
+%act:	attempts to put object in correct hole
+*MOT:	turn it around .
+%mor:	v|turn pro|it adv|around .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|JCT 4|1|PUNCT
+*CHI:	0 .
+%act:	stops . lets go
+*MOT:	this way (.) Zeke !
+%mor:	pro:dem|this n|way n:prop|Zeke !
+%gra:	1|2|MOD 2|0|INCROOT 3|2|APP 4|2|PUNCT
+%act:	<1w> picks up object .
+*MOT:	see ?
+%mor:	v|see ?
+%gra:	1|0|ROOT 2|1|PUNCT
+%act:	<1w> drops in <1w> holds over hole .
+*MOT:	like that ?
+%mor:	prep|like pro:dem|that ?
+%gra:	1|0|INCROOT 2|1|POBJ 3|1|PUNCT
+%act:	<aft> stacks nesting cups
+*CHI:	&uh !
+%act:	<aft> shuts dollhouse door . takes out bed , examines briefly and puts in mouth <dur> sits by dollhouse . <bef> moves around in vicinity of dollhouse .
+*MOT:	what're you chewing on the bed for ?
+%mor:	rel|what~aux|be&PRES pro|you part|chew-PRESP prep|on det|the n|bed
+	prep|for ?
+%gra:	1|2|LINK 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ 8|4|JCT
+	9|4|PUNCT
+*MOT:	&hmm ?
+%act:	<1w> discards nesting cups
+*MOT:	what're you chewing on the bed for ?
+%mor:	rel|what~aux|be&PRES pro|you part|chew-PRESP prep|on det|the n|bed
+	prep|for ?
+%gra:	1|2|LINK 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ 8|4|JCT
+	9|4|PUNCT
+%act:	reaches in dollhouse
+*MOT:	what's this ?
+%mor:	pro:wh|what~cop|be&3S pro:dem|this ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+%act:	<dur> holds out to Zeke <bef> picks up chair .
+*CHI:	yyy .
+%act:	takes bed out of mouth
+%gpx:	points to chair
+%alt:	chair
+%xpho:	kA+kA
+*MOT:	that a chair ?
+%mor:	rel|that det|a n|chair ?
+%gra:	1|3|LINK 2|3|DET 3|0|INCROOT 4|3|PUNCT
+*MOT:	a chair ?
+%mor:	det|a n|chair ?
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*CHI:	0 .
+%act:	returns bed to mouth
+*MOT:	and wan(t) (t)a [?] put a person in the chair ?
+%mor:	coord|and v|want inf|to v|put&ZERO det|a n|person prep|in det|the
+	n|chair ?
+%gra:	1|2|LINK 2|0|ROOT 3|4|INF 4|2|XCOMP 5|6|DET 6|4|OBJ 7|4|JCT 8|9|DET
+	9|7|POBJ 10|2|PUNCT
+%act:	picks up man and puts in chair
+*MOT:	like that ?
+%mor:	prep|like pro:dem|that ?
+%gra:	1|0|INCROOT 2|1|POBJ 3|1|PUNCT
+*MOT:	in [/] in here ?
+%mor:	prep|in pro:dem|here ?
+%gra:	1|0|INCROOT 2|1|POBJ 3|1|PUNCT
+%act:	<dur> puts man in chair in dollhouse through doors <bef> pushes dollhouse back and opens doors .
+*MOT:	oh (.) here's one .
+%mor:	co|oh pro:exist|here~cop|be&3S pro:indef|one .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|3|PUNCT
+%act:	picks up another chair and puts by first one
+%par:	spoken softly
+*MOT:	lounge [!] chair .
+%mor:	n|lounge n|chair .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*CHI:	what !
+%mor:	pro:wh|what !
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	<aft> takes bed from mouth
+%xpho:	w6
+*MOT:	xxx put this person in the chair ?
+%mor:	v|put&ZERO det|this n|person prep|in det|the n|chair ?
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|JCT 5|6|DET 6|4|POBJ 7|1|PUNCT
+%act:	puts man in chair
+*MOT:	oh .
+%mor:	co|oh .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	<dur> puts down in dollhouse <bef> picks up ladder and takes out through door .
+*MOT:	what's this ?
+%mor:	pro:wh|what~cop|be&3S pro:dem|this ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+%act:	picks up chicken and holds out to Zeke
+*CHI:	yyy !
+%gpx:	smiles
+%act:	begins to reach for chicken . stops . continues to mouth bed
+%alt:	birdie
+%xpho:	b3ri
+*MOT:	birdie !
+%mor:	n|bird-DIM !
+%gra:	1|0|INCROOT 2|1|PUNCT
+%gpx:	smiles
+*MOT:	it's a chicken !
+%mor:	pro|it~cop|be&3S det|a n|chicken !
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+*MOT:	cluck_cluck_cluck@o .
+%mor:	on|cluck_cluck_cluck .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	walks chicken on floor and Zeke
+%exp:	Mother clucks ten times
+*CHI:	0 .
+%gpx:	smiles
+*MOT:	it's gonna get Zeke .
+%mor:	pro|it~aux|be&3S part|go-PRESP~inf|to v|get n:prop|Zeke .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|INF 5|3|XCOMP 6|5|OBJ 7|3|PUNCT
+%act:	<1w> puts chicken in dollhouse through door .
+*MOT:	and then +...
+%mor:	conj|and adv:tem|then +...
+%gra:	1|0|INCROOT 2|1|COORD 3|1|PUNCT
+%act:	<1w> picks up dog and holds toward Zeke
+*MOT:	what's this ?
+%mor:	pro:wh|what~cop|be&3S pro:dem|this ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*CHI:	yyy .
+%act:	takes bed out . mouths bed
+%xpho:	6 ka det
+*MOT:	doggie ?
+%mor:	n|dog-DIM ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	does that look like a dog to you ?
+%mor:	mod|do&3S pro:dem|that v|look prep|like det|a n|dog prep|to pro|you
+	?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|3|JCT 8|7|POBJ
+	9|3|PUNCT
+*MOT:	&hmm ?
+*MOT:	that look like a dog to you ?
+%mor:	rel|that v|look prep|like det|a n|dog prep|to pro|you ?
+%gra:	1|2|LINK 2|0|ROOT 3|2|JCT 4|5|DET 5|3|POBJ 6|2|JCT 7|6|POBJ 8|2|PUNCT
+%act:	<1w> touches objects in dollhouse , searching <1w> puts dog in dollhouse .
+*MOT:	and what +...
+%mor:	conj|and pro:wh|what +...
+%gra:	1|0|INCROOT 2|1|COORD 3|1|PUNCT
+%act:	<aft> picks up man and examines
+*MOT:	oh boy .
+%mor:	co|oh n|boy .
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+%act:	arranges furniture . rights table
+%par:	<1w> spoken very softly
+*MOT:	table .
+%mor:	n|table .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	0 .
+%act:	examines bed . puts back in mouth
+*MOT:	look at that nice table .
+%mor:	v|look prep|at det|that adj|nice n|table .
+%gra:	1|0|ROOT 2|1|JCT 3|5|DET 4|5|MOD 5|2|POBJ 6|1|PUNCT
+*MOT:	it's a grill .
+%mor:	pro|it~cop|be&3S det|a n|grill .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+%act:	<1w> picks up man and puts out through door
+*MOT:	<this fit> [/] this fit there ?
+%mor:	det|this n|fit adv|there ?
+%gra:	1|2|DET 2|0|INCROOT 3|2|NJCT 4|2|PUNCT
+%par:	spoken softly
+*CHI:	0 .
+%act:	tosses bed . picks up car and puts in dollhouse
+*MOT:	we take someone for a ride in the car ?
+%mor:	pro:sub|we v|take pro:indef|someone prep|for det|a n|ride prep|in
+	det|the n|car ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|JCT 5|6|DET 6|4|POBJ 7|6|NJCT 8|9|DET
+	9|7|POBJ 10|2|PUNCT
+%act:	puts man in car
+*MOT:	&hmm ?
+*MOT:	wan(t) (t)a take somebody for a ride in the car ?
+%mor:	v|want inf|to v|take pro:indef|somebody prep|for det|a n|ride
+	prep|in det|the n|car ?
+%gra:	1|0|ROOT 2|3|INF 3|1|XCOMP 4|3|OBJ 5|3|JCT 6|7|DET 7|5|POBJ 8|7|NJCT
+	9|10|DET 10|8|POBJ 11|1|PUNCT
+%act:	<1w> reaches in dollhouse , picks up man and attempts to put in car
+*CHI:	yyy ?
+%act:	<aft> manipulates man in car . stands up and begins to wander away <bef> picks up car , preventing Mother from putting man in it . man falls .
+%xpho:	n6.
+*MOT:	stay over here now (.) Zeke .
+%mor:	n|stay prep|over pro:dem|here adv|now n:prop|Zeke .
+%gra:	1|0|INCROOT 2|1|NJCT 3|2|POBJ 4|5|JCT 5|3|APP 6|1|PUNCT
+%act:	<1w> moves dollhouse and men
+*MOT:	stay over here .
+%mor:	n|stay prep|over pro:dem|here .
+%gra:	1|0|INCROOT 2|1|NJCT 3|2|POBJ 4|1|PUNCT
+@Eg:	mother_freeplay
+@End

@@ -1,0 +1,823 @@
+@UTF8
+@PID:	11312/c-00015435-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Baxter Target_Child , THA Thad Adult , SUS Susan Adult , TOY Speaking_Toy Non_Human , MOT Mother
+@ID:	eng|Bohannon|CHI|3;0.|male|typical||Target_Child|||
+@ID:	eng|Bohannon|THA|||||Adult|||
+@ID:	eng|Bohannon|SUS|||||Adult|||
+@ID:	eng|Bohannon|TOY|||||Non_Human|||
+@ID:	eng|Bohannon|MOT|||||Mother|||
+@Situation:	patio/balcony and inside Bax's house
+*THA:	what's your name ?
+%mor:	pro:wh|what~cop|be&3S pro:poss:det|your n|name ?
+%gra:	1|2|LINK 2|0|ROOT 3|4|MOD 4|2|PRED 5|2|PUNCT
+*THA:	is your name Baxter ?
+%mor:	cop|be&3S pro:poss:det|your n|name n:prop|Baxter ?
+%gra:	1|0|ROOT 2|3|MOD 3|1|PRED 4|3|APP 5|1|PUNCT
+*CHI:	0 .
+%act:	pushes toy car at Thad
+*THA:	do you want your car back ?
+%mor:	mod|do pro|you v|want pro:poss:det|your n|car adv|back ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|5|MOD 5|3|OBJ 6|3|JCT 7|3|PUNCT
+*CHI:	0 .
+%act:	playing with carpet
+*THA:	hey Bax , what are you doing over there ?
+%mor:	co|hey n:prop|Bax cm|cm pro:wh|what aux|be&PRES pro|you
+	part|do-PRESP prep|over pro:dem|there ?
+%gra:	1|4|COM 2|4|SUBJ 3|2|LP 4|7|LINK 5|7|AUX 6|7|SUBJ 7|0|ROOT 8|7|JCT
+	9|8|POBJ 10|7|PUNCT
+*CHI:	0 .
+%act:	hides behind father's leg
+*THA:	do you go to school ?
+%mor:	mod|do pro|you v|go prep|to n|school ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|4|POBJ 6|3|PUNCT
+*CHI:	xxx .
+*THA:	where do you go to school ?
+%mor:	adv:wh|where mod|do pro|you v|go prep|to n|school ?
+%gra:	1|4|LINK 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|5|POBJ 7|4|PUNCT
+*THA:	what cartoons do you like to watch ?
+%mor:	pro:wh|what n|cartoon-PL v|do pro|you v|like prep|to n|watch ?
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|COM 6|5|JCT 7|6|POBJ 8|3|PUNCT
+*THA:	do you like He_Man ?
+%mor:	mod|do pro|you prep|like n:prop|He_Man ?
+%gra:	1|0|INCROOT 2|1|OBJ 3|2|JCT 4|3|POBJ 5|1|PUNCT
+*CHI:	I wike [: like] He_Man .
+%mor:	pro:sub|I v|like n:prop|He_Man .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*THA:	you do like He_Man ?
+%mor:	pro|you v|do prep|like n:prop|He_Man ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|3|POBJ 5|2|PUNCT
+%gpx:	nods head yes
+*CHI:	xxx .
+*THA:	what do you think of Skelator ?
+%mor:	pro:wh|what mod|do pro|you v|think prep|of n:prop|Skelator ?
+%gra:	1|4|LINK 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|5|POBJ 7|4|PUNCT
+*CHI:	xxx da [: the] mountain .
+%mor:	det|the n|mountain .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*THA:	what ?
+%mor:	pro:wh|what ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	xxx .
+*CHI:	&uh oh .
+%mor:	co|oh .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%exp:	Bax was referring to grand parents who live on a mountain
+*CHI:	there a &brut [?] down here .
+%mor:	adv|there det|a adv|down adv|here .
+%gra:	1|3|JCT 2|3|DET 3|0|ROOT 4|3|JCT 5|3|PUNCT
+*THA:	there's a what down there ?
+%mor:	pro:exist|there~cop|be&3S det|a adv|what adv|down adv|there ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|JCT 5|2|JCT 6|2|JCT 7|2|PUNCT
+*CHI:	xxx .
+*CHI:	it's a bwoo [: blue] car .
+%mor:	pro|it~cop|be&3S det|a n|blue n|car .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|DET 4|5|MOD 5|2|PRED 6|2|PUNCT
+*THA:	yeah , there's a blue car and a black pick up truck and a big
+	yellow truck over there .
+%mor:	co|yeah cm|cm pro:exist|there~cop|be&3S det|a n|blue n|car
+	coord|and det|a n|black v|pick prep|up n|truck coord|and det|a
+	adj|big adj|yellow n|truck prep|over pro:dem|there .
+%gra:	1|4|COM 2|1|LP 3|4|SUBJ 4|0|ROOT 5|7|DET 6|7|MOD 7|4|PRED 8|11|LINK
+	9|10|DET 10|11|SUBJ 11|7|XMOD 12|11|JCT 13|12|POBJ 14|11|CONJ 15|18|DET
+	16|18|MOD 17|18|MOD 18|14|COORD 19|18|NJCT 20|19|POBJ 21|4|PUNCT
+*THA:	do you see the big yellow one ?
+%mor:	mod|do pro|you v|see det|the adj|big n|yellow pro:indef|one ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|6|DET 5|6|MOD 6|3|OBJ 7|6|OBJ 8|3|PUNCT
+*CHI:	I see dat [: that] bwoo [: blue] .
+%mor:	pro:sub|I v|see adv|that adj|blue .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|2|JCT 5|2|PUNCT
+*CHI:	xxx .
+*CHI:	goin(g) school .
+%mor:	part|go-PRESP n|school .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*THA:	going to school ?
+%mor:	part|go-PRESP prep|to n|school ?
+%gra:	1|0|INCROOT 2|1|JCT 3|2|POBJ 4|1|PUNCT
+*CHI:	xxx .
+*CHI:	ow (.) I tore this .
+%mor:	co|ow pro:sub|I v|tear&PAST pro:dem|this .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*THA:	what is that ?
+%mor:	pro:wh|what cop|be&3S pro:dem|that ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*CHI:	what is dat [: that] ?
+%mor:	pro:wh|what cop|be&3S pro:dem|that ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*CHI:	xxx .
+*CHI:	stick over dere [: there] .
+%mor:	n|stick prep|over pro:dem|there .
+%gra:	1|0|INCROOT 2|1|NJCT 3|2|POBJ 4|1|PUNCT
+%exp:	holds up stick
+*THA:	yeah , you found a stick .
+%mor:	co|yeah cm|cm pro|you v|find&PAST det|a n|stick .
+%gra:	1|4|COM 2|1|LP 3|4|SUBJ 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+*CHI:	xxx .
+*CHI:	go (.) which another one .
+%mor:	v|go rel|which qn|another pro:indef|one .
+%gra:	1|0|ROOT 2|4|LINK 3|4|QUANT 4|1|COMP 5|1|PUNCT
+*THA:	what's that underneath that carpet there Bax ?
+%mor:	rel|what~aux|be&3S pro:dem|that prep|underneath det|that n|carpet
+	adv|there n:prop|Bax ?
+%gra:	1|2|LINK 2|0|ROOT 3|2|OBJ 4|3|JCT 5|6|DET 6|4|POBJ 7|8|JCT 8|3|XJCT
+	9|2|PUNCT
+*CHI:	huh ?
+%mor:	co|huh ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*THA:	you was looking over there underneath the carpet .
+%mor:	pro|you aux|be&PAST&13S part|look-PRESP prep|over pro:dem|there
+	adv|underneath det|the n|carpet .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|8|SUBJ 6|8|JCT 7|8|DET 8|3|JCT
+	9|3|PUNCT
+*CHI:	0 .
+%act:	plays with car
+*THA:	what kind of car is that ?
+%mor:	pro:wh|what n|kind prep|of n|car cop|be&3S pro:dem|that ?
+%gra:	1|5|LINK 2|5|SUBJ 3|5|JCT 4|5|SUBJ 5|0|ROOT 6|5|PRED 7|5|PUNCT
+*THA:	a race car ?
+%mor:	det|a n|race n|car ?
+%gra:	1|3|DET 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+*CHI:	xxx .
+*CHI:	store .
+%mor:	n|store .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*THA:	go to the store ?
+%mor:	v|go prep|to det|the n|store ?
+%gra:	1|0|ROOT 2|1|JCT 3|4|DET 4|2|POBJ 5|1|PUNCT
+*CHI:	xxx .
+*CHI:	goy [: toy] store .
+%mor:	n|toy n|store .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*CHI:	xxx .
+*THA:	what kind of store ?
+%mor:	pro:wh|what n|kind prep|of n|store ?
+%gra:	1|0|INCROOT 2|1|OBJ 3|2|NJCT 4|3|POBJ 5|1|PUNCT
+*CHI:	xxx .
+*CHI:	the mountain over dere [: there] .
+%mor:	det|the n|mountain prep|over pro:dem|there .
+%gra:	1|2|DET 2|0|INCROOT 3|2|NJCT 4|3|POBJ 5|2|PUNCT
+%exp:	break in tape
+*THA:	what kind of door is that ?
+%mor:	pro:wh|what n|kind prep|of n|door cop|be&3S pro:dem|that ?
+%gra:	1|5|LINK 2|5|SUBJ 3|5|JCT 4|5|SUBJ 5|0|ROOT 6|5|PRED 7|5|PUNCT
+%exp:	the screen door to the patio
+*CHI:	xxx .
+*THA:	what's this , right here what's this made of ?
+%mor:	pro:wh|what~cop|be&3S pro:dem|this cm|cm adv|right adv|here
+	pro:wh|what~cop|be&3S pro:dem|this v|make&PAST prep|of ?
+%gra:	1|2|LINK 2|0|ROOT 3|8|JCT 4|3|LP 5|3|JCT 6|3|JCT 7|8|SUBJ 8|2|PRED
+	9|8|PRED 10|9|XMOD 11|10|JCT 12|2|PUNCT
+*CHI:	0 .
+%act:	inspects screen
+*CHI:	get open dat [: that] .
+%mor:	v|get v|open pro:dem|that .
+%gra:	1|0|ROOT 2|1|COMP 3|2|OBJ 4|1|PUNCT
+*CHI:	get open dat [: that] .
+%mor:	v|get v|open pro:dem|that .
+%gra:	1|0|ROOT 2|1|COMP 3|2|OBJ 4|1|PUNCT
+%exp:	screen door already opened
+*THA:	do you want me to close that ?
+%mor:	mod|do pro|you v|want pro:obj|me inf|to v|close pro:dem|that ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|6|INF 6|3|XCOMP 7|6|OBJ 8|3|PUNCT
+*CHI:	let me close that .
+%mor:	v|let&ZERO pro:obj|me v|close pro:dem|that .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|COMP 4|3|OBJ 5|1|PUNCT
+*THA:	here you go , let me help you .
+%mor:	adv|here pro|you v|go cm|cm v|let&ZERO pro:obj|me v|help pro|you .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|3|LP 5|3|COMP 6|5|OBJ 7|5|COMP 8|7|OBJ
+	9|3|PUNCT
+*THA:	get hold of it .
+%mor:	v|get n|hold prep|of pro|it .
+%gra:	1|0|ROOT 2|1|OBJ 3|2|NJCT 4|3|POBJ 5|1|PUNCT
+*CHI:	0 .
+%act:	steps back from door
+*THA:	here do you want to help ?
+%mor:	pro:exist|here mod|do pro|you v|want prep|to co|help ?
+%gra:	1|4|SUBJ 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|5|POBJ 7|4|PUNCT
+*CHI:	I wanna help .
+%mor:	pro:sub|I v|want~inf|to co|help .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|INF 4|2|XCOMP 5|2|PUNCT
+*THA:	okay get a hold of it there .
+%mor:	co|okay v|get det|a n|hold prep|of pro|it adv|there .
+%gra:	1|2|COM 2|0|ROOT 3|4|DET 4|2|OBJ 5|4|NJCT 6|5|POBJ 7|6|JCT 8|2|PUNCT
+%exp:	together we close the door
+*THA:	how's that ?
+%mor:	rel|how~aux|be&3S pro:dem|that ?
+%gra:	1|3|LINK 2|3|AUX 3|0|ROOT 4|3|PUNCT
+*CHI:	good .
+%mor:	adj|good .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	xxx .
+*THA:	where's your cat Bax ?
+%mor:	rel|where~aux|be&3S pro:poss:det|your n|cat n:prop|Bax ?
+%gra:	1|4|LINK 2|4|AUX 3|4|MOD 4|0|INCROOT 5|4|APP 6|4|PUNCT
+*THA:	where's your kitty cat ?
+%mor:	rel|where~aux|be&3S pro:poss:det|your n|kitty n|cat ?
+%gra:	1|5|LINK 2|5|AUX 3|4|MOD 4|5|MOD 5|0|INCROOT 6|5|PUNCT
+*CHI:	xxx .
+*CHI:	house .
+%mor:	n|house .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*THA:	over dere [: there] ?
+%mor:	prep|over pro:dem|there ?
+%gra:	1|0|INCROOT 2|1|POBJ 3|1|PUNCT
+%sit:	both gesture in the same direction
+*CHI:	I (.) watch a bird .
+%mor:	pro:sub|I v|watch det|a n|bird .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+%act:	sees a bird
+*THA:	yeah there's some right out yonder ?
+%mor:	co|yeah pro:exist|there~cop|be&3S qn|some n|right adv|out
+	adv|yonder ?
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|5|QUANT 5|3|PRED 6|5|NJCT 7|5|JCT 8|3|PUNCT
+*THA:	d(o) ya see dem [: those] [*] little birds over dere [: there] ?
+%mor:	mod|do pro|you v|see det|those adj|little n|bird-PL prep|over
+	pro:dem|there ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|6|DET 5|6|MOD 6|3|OBJ 7|6|NJCT 8|7|POBJ
+	9|3|PUNCT
+*CHI:	xxx .
+*THA:	no , they're flying see &em .
+%mor:	co|no cm|cm pro:sub|they~aux|be&PRES part|fly-PRESP co|see .
+%gra:	1|5|COM 2|1|LP 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|COM 7|5|PUNCT
+*THA:	They're flying see .
+%mor:	n:prop|They're part|fly-PRESP co|see .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|COM 4|2|PUNCT
+*CHI:	there's one .
+%mor:	pro:exist|there~cop|be&3S pro:indef|one .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*THA:	yeah , you like birds ?
+%mor:	co|yeah cm|cm pro|you prep|like n|bird-PL ?
+%gra:	1|3|COM 2|1|LP 3|0|ROOT 4|3|JCT 5|4|POBJ 6|3|PUNCT
+%sit:	sees the whole flock and becomes exited
+*CHI:	xxx .
+*THA:	where's your car , Bax ?
+%mor:	rel|where~aux|be&3S pro:poss:det|your n|car cm|cm n:prop|Bax ?
+%gra:	1|4|LINK 2|4|AUX 3|4|MOD 4|6|SUBJ 5|4|LP 6|0|ROOT 7|6|PUNCT
+*CHI:	0 .
+%act:	rolls car into Susan's shoe
+*THA:	oops , looks like we wrecked into Susan's shoe .
+%mor:	co|oops cm|cm v|look-3S rel|like pro:sub|we v|wreck-PAST prep|into
+	n:prop|Susan~poss|s n|shoe .
+%gra:	1|3|COM 2|1|LP 3|0|ROOT 4|6|LINK 5|6|SUBJ 6|3|COMP 7|6|JCT 8|10|MOD
+	9|8|POSS 10|7|POBJ 11|3|PUNCT
+*CHI:	0 .
+%act:	plays with car
+*THA:	whatcha [: what are you] having for supper ?
+%mor:	pro:wh|what aux|be&PRES pro|you part|have-PRESP prep|for n|supper ?
+%gra:	1|4|LINK 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|5|POBJ 7|4|PUNCT
+*CHI:	0 .
+%act:	plays with car
+*THA:	here you go .
+%mor:	adv|here pro|you v|go .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+%act:	hands BAX the car
+*THA:	does Daddy have a car like that ?
+%mor:	mod|do&3S n:prop|Daddy v|have det|a n|car prep|like pro:dem|that ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|5|NJCT 7|6|POBJ 8|3|PUNCT
+*CHI:	xxx daddy in it .
+%mor:	n|daddy prep|in pro|it .
+%gra:	1|0|INCROOT 2|1|NJCT 3|2|POBJ 4|1|PUNCT
+*THA:	do you ever go riding in the car with Daddy ?
+%mor:	mod|do pro|you adv|ever v|go part|ride-PRESP prep|in det|the n|car
+	prep|with n:prop|Daddy ?
+%gra:	1|4|LINK 2|4|SUBJ 3|4|JCT 4|0|ROOT 5|4|OBJ 6|5|JCT 7|8|DET 8|6|POBJ
+	9|5|JCT 10|9|POBJ 11|4|PUNCT
+*CHI:	whoops !
+%mor:	co|whoops !
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	pushes car at THA
+*THA:	whoops , d(o) you have a wreck ?
+%mor:	n|whoop-PL cm|cm v|do pro|you v|have det|a n|wreck ?
+%gra:	1|0|INCROOT 2|1|LP 3|1|XMOD 4|5|SUBJ 5|3|COMP 6|7|DET 7|5|OBJ 8|1|PUNCT
+*CHI:	xxx .
+%sit:	Thad and Susan decide to move inside
+%act:	plays with car
+*THA:	do you wanta [: want to] go inside ?
+%mor:	mod|do pro|you v|want inf|to v|go adv|inside ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|5|INF 5|3|XCOMP 6|5|JCT 7|3|PUNCT
+*CHI:	no .
+%mor:	co|no .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*THA:	do you wanta [: want to] stay out here ?
+%mor:	mod|do pro|you v|want inf|to v|stay adv|out adv|here ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|5|INF 5|3|XCOMP 6|5|JCT 7|5|JCT 8|3|PUNCT
+*CHI:	no .
+%mor:	co|no .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*THA:	what do you wanna do ?
+%mor:	pro:wh|what mod|do pro|you v|want~inf|to v|do ?
+%gra:	1|4|LINK 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|6|INF 6|4|XCOMP 7|4|PUNCT
+*CHI:	watermelon .
+%mor:	n|+n|water+n|melon .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%exp:	sees watermelon pattern on SUS sweater
+*SUS:	yeah , that's a watermelon .
+%mor:	co|yeah cm|cm pro:dem|that~cop|be&3S det|a n|+n|water+n|melon .
+%gra:	1|4|COM 2|1|LP 3|4|SUBJ 4|0|ROOT 5|6|DET 6|4|PRED 7|4|PUNCT
+*SUS:	do you know what these are ?
+%mor:	mod|do pro|you v|know adv|what det|these cop|be&PRES ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|DET 6|3|INCROOT 7|6|PUNCT
+*CHI:	seeds .
+%mor:	n|seed-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*SUS:	very good (.) you're smart .
+%mor:	adv|very adj|good pro|you~cop|be&PRES adj|smart .
+%gra:	1|2|JCT 2|4|LINK 3|4|SUBJ 4|0|ROOT 5|4|PRED 6|4|PUNCT
+*CHI:	&=laughs .
+*THA:	do you like watermelon ?
+%mor:	mod|do pro|you prep|like n|+n|water+n|melon ?
+%gra:	1|0|INCROOT 2|1|OBJ 3|2|JCT 4|3|POBJ 5|1|PUNCT
+*CHI:	I like watermelon .
+%mor:	pro:sub|I v|like n|+n|water+n|melon .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*THA:	when was the last time you ate some ?
+%mor:	conj|when cop|be&PAST&13S det|the adj|last n|time pro|you
+	v|eat&PAST qn|some ?
+%gra:	1|2|LINK 2|0|ROOT 3|5|DET 4|5|MOD 5|2|PRED 6|7|SUBJ 7|5|CMOD 8|7|OBJ
+	9|2|PUNCT
+*CHI:	yyy .
+%xpho:	/baw # bore dree dollars/
+*CHI:	mountain ice cream .
+%mor:	n|mountain n|ice n|cream .
+%gra:	1|3|MOD 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+*THA:	where did you eat ice+cream and watermelon ?
+%mor:	adv:wh|where mod|do&PAST pro|you v|eat n|+n|ice+n|cream coord|and
+	n|+n|water+n|melon ?
+%gra:	1|4|LINK 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|5|CONJ 7|6|COORD 8|4|PUNCT
+*CHI:	&uh , keys .
+%mor:	cm|cm v|key-3S .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+%exp:	sees SUS keys
+*SUS:	yeah but don't drop &em .
+%mor:	co|yeah conj|but mod|do~neg|not v|drop .
+%gra:	1|5|COM 2|5|LINK 3|5|AUX 4|3|NEG 5|0|ROOT 6|5|PUNCT
+*CHI:	keys .
+%mor:	n|key-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*SUS:	what color's that ?
+%mor:	pro:wh|what n|color~poss|s pro:dem|that ?
+%gra:	1|4|LINK 2|4|MOD 3|2|POSS 4|0|ROOT 5|4|PUNCT
+*CHI:	&um , brack [: black] .
+%mor:	cm|cm n|black .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*SUS:	close .
+%mor:	adj|close .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*THA:	do you like playing with keys ?
+%mor:	mod|do pro|you v|like part|play-PRESP prep|with n|key-PL ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|4|JCT 6|5|POBJ 7|3|PUNCT
+*CHI:	I like playing with keys .
+%mor:	pro:sub|I v|like part|play-PRESP prep|with n|key-PL .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|3|JCT 5|4|POBJ 6|2|PUNCT
+*CHI:	xxx .
+*CHI:	I wan a key .
+%mor:	pro:sub|I adj|wan det|a n|key .
+%gra:	1|0|INCROOT 2|1|XMOD 3|4|DET 4|2|OBJ 5|1|PUNCT
+*THA:	that's a big key , ain't it ?
+%mor:	pro:dem|that~cop|be&3S det|a adj|big n|key cm|cm aux|be&1S~neg|not
+	pro|it ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|DET 4|5|MOD 5|9|SUBJ 6|5|LP 7|9|AUX 8|7|NEG
+	9|2|PRED 10|2|PUNCT
+*CHI:	0 .
+%act:	plays with keys , approaches tape recorder
+*CHI:	det [: that] mountain .
+%mor:	det|that n|mountain .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*THA:	no , that's the tape recorder .
+%mor:	co|no cm|cm pro:dem|that~cop|be&3S det|the n|tape n|record&dv-AGT .
+%gra:	1|4|COM 2|1|LP 3|4|SUBJ 4|0|ROOT 5|7|DET 6|7|MOD 7|4|PRED 8|4|PUNCT
+*CHI:	tape+recorder .
+%mor:	n|+n|tape+v|record&dv-AGT .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*THA:	uhhuh .
+%mor:	co|uhhuh .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*THA:	(.) you've seen this before , haven't you ?
+%mor:	pro|you~aux|have part|see&PASTP det|this adv|before cm|cm
+	aux|have~neg|not pro|you ?
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|DET 5|3|JCT 6|3|LP 7|9|AUX 8|7|NEG
+	9|3|OBJ 10|3|PUNCT
+*CHI:	0 .
+%act:	points to the watermelon slice on SUS sweater
+*CHI:	waer [//] waermewon [: watermelon] .
+%mor:	n|+n|water+n|melon .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*THA:	yeah , you like watermelon , don'tcha [: don't you] ?
+%mor:	co|yeah cm|cm pro|you prep|like n|+n|water+n|melon cm|cm
+	mod|do~neg|not pro|you ?
+%gra:	1|3|COM 2|1|LP 3|0|ROOT 4|3|JCT 5|9|SUBJ 6|5|LP 7|9|AUX 8|7|NEG
+	9|4|POBJ 10|3|PUNCT
+*CHI:	xxx .
+*CHI:	red car .
+%mor:	adj|red n|car .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+%sit:	points toward a black truck .
+*THA:	you mean the little black truck down there ?
+%mor:	pro|you v|mean det|the adj|little adj|black n|truck adv|down
+	adv|there ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|6|DET 4|6|MOD 5|6|MOD 6|2|OBJ 7|6|NJCT 8|6|NJCT
+	9|2|PUNCT
+*CHI:	little black truck down here .
+%mor:	adj|little adj|black n|truck adv|down adv|here .
+%gra:	1|3|MOD 2|3|MOD 3|0|INCROOT 4|3|JCT 5|4|JCT 6|3|PUNCT
+*SUS:	yeah , there's a little black truck down there .
+%mor:	co|yeah cm|cm pro:exist|there~cop|be&3S det|a adj|little n|black
+	n|truck adv|down adv|there .
+%gra:	1|4|COM 2|1|LP 3|4|SUBJ 4|0|ROOT 5|8|DET 6|7|MOD 7|8|MOD 8|4|PRED
+	9|8|NJCT 10|8|NJCT 11|4|PUNCT
+*SUS:	did you see it ?
+%mor:	v|do&PAST pro|you v|see pro|it ?
+%gra:	1|0|ROOT 2|3|SUBJ 3|1|COMP 4|3|OBJ 5|1|PUNCT
+*CHI:	xxx record+player .
+%mor:	n|+n|record+n|player .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*THA:	record player in the truck .
+%mor:	n|record n|play&dv-AGT prep|in det|the n|truck .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|JCT 4|5|DET 5|3|POBJ 6|2|PUNCT
+*THA:	do you like listening to records ?
+%mor:	mod|do pro|you v|like part|listen-PRESP prep|to n|record-PL ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|4|JCT 6|5|POBJ 7|3|PUNCT
+*CHI:	xxx .
+*CHI:	oh !
+%mor:	co|oh !
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	look at that light .
+%mor:	v|look prep|at det|that n|light .
+%gra:	1|0|ROOT 2|1|JCT 3|4|DET 4|2|POBJ 5|1|PUNCT
+*CHI:	look at that light over there .
+%mor:	v|look prep|at det|that n|light prep|over pro:dem|there .
+%gra:	1|0|ROOT 2|1|JCT 3|4|DET 4|2|POBJ 5|1|JCT 6|5|POBJ 7|1|PUNCT
+*THA:	over where ?
+%mor:	adv|over rel|where ?
+%gra:	1|2|JCT 2|0|ROOT 3|2|PUNCT
+*CHI:	0 .
+%act:	starts to climb the patio railing
+*THA:	where are you wanting to get to ?
+%mor:	adv:wh|where aux|be&PRES pro|you part|want-PRESP inf|to v|get
+	prep|to ?
+%gra:	1|4|LINK 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|6|INF 6|4|XCOMP 7|6|JCT 8|4|PUNCT
+*CHI:	wanna sit here .
+%mor:	v|want~inf|to v|sit adv|here .
+%gra:	1|0|ROOT 2|3|INF 3|1|XCOMP 4|3|JCT 5|1|PUNCT
+*CHI:	I stuck .
+%mor:	pro:sub|I v|stick&PAST .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*THA:	watch your hand .
+%mor:	v|watch pro:poss:det|your n|hand .
+%gra:	1|0|ROOT 2|3|MOD 3|1|OBJ 4|1|PUNCT
+*CHI:	xxx .
+%sit:	we go inside
+%act:	tries to open the screen door
+*MOT:	are you going back to your room and show them your toys ?
+%mor:	cop|be&PRES pro|you part|go-PRESP adv|back prep|to
+	pro:poss:det|your n|room coord|and v|show pro:obj|them
+	pro:poss:det|your n|toy-PL ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|JCT 6|7|MOD 7|5|POBJ 8|3|CONJ
+	9|8|COORD 10|9|OBJ 11|12|MOD 12|9|OBJ 13|3|PUNCT
+*MOT:	take them on back there .
+%mor:	v|take pro:obj|them adv|on adv|back adv|there .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|JCT 4|1|JCT 5|1|JCT 6|1|PUNCT
+%sit:	we go to BAX room
+*MOT:	that's good .
+%mor:	pro:dem|that~cop|be&3S adj|good .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*CHI:	look at that airplane .
+%mor:	v|look prep|at det|that n|airplane .
+%gra:	1|0|ROOT 2|1|JCT 3|4|DET 4|2|POBJ 5|1|PUNCT
+%act:	points to a toy plane
+*THA:	yeah , that's a nice one .
+%mor:	co|yeah cm|cm pro:dem|that~cop|be&3S det|a adj|nice pro:indef|one .
+%gra:	1|4|COM 2|1|LP 3|4|SUBJ 4|0|ROOT 5|7|DET 6|7|MOD 7|4|PRED 8|4|PUNCT
+*THA:	where d(o) ya get it ?
+%mor:	adv:wh|where mod|do pro|you v|get pro|it ?
+%gra:	1|4|LINK 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*CHI:	xxx .
+*CHI:	oh big &co (heli)copter .
+%mor:	co|oh adj|big n|helicopter .
+%gra:	1|3|COM 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+%act:	takes toys out of his toy box
+*THA:	what's that ?
+%mor:	pro:wh|what~cop|be&3S pro:dem|that ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*CHI:	0 .
+%act:	tosses a toy on the floor
+*THA:	what does this do ?
+%mor:	pro:wh|what v|do&3S det|this v|do ?
+%gra:	1|2|LINK 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*CHI:	xxx .
+*CHI:	xxx .
+%sit:	begins playing with a "see and say" toy
+*TOY:	the sheep goes +"/.
+%mor:	det|the n|sheep v|go-3S +"/.
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*TOY:	+" baaaa@o .
+%mor:	on|baaaa .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	the sheep goes xxx right (th)ere the (.) a sheep goes .
+%mor:	det|the n|sheep v|go-3S adv|right adv|there det|the det|a n|sheep
+	v|go-3S .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|JCT 6|8|DET 7|8|DET 8|9|SUBJ
+	9|3|COMP 10|3|PUNCT
+*THA:	how does the sheep go ?
+%mor:	adv:wh|how v|do&3S det|the n|sheep v|go ?
+%gra:	1|2|LINK 2|5|LINK 3|4|DET 4|5|SUBJ 5|0|ROOT 6|5|PUNCT
+*CHI:	wa [: where] kitty cat go ?
+%mor:	adv:wh|where adj|kit&dn-Y n|cat v|go ?
+%gra:	1|3|LINK 2|3|MOD 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+*TOY:	the bird says .
+%mor:	det|the n|bird v|say-3S .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*TOY:	here's a turkey , +"/.
+%mor:	pro:exist|here~cop|be&3S det|a n|turkey cm|cm +"/.
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|4|LP 6|2|PUNCT
+*TOY:	+" gobble gobble .
+%mor:	v|gobble v|gobble .
+%gra:	1|2|SRL 2|0|ROOT 3|2|PUNCT
+*CHI:	what's that ?
+%mor:	pro:wh|what~cop|be&3S pro:dem|that ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*CHI:	a turkey .
+%mor:	det|a n|turkey .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*CHI:	xxx .
+*TOY:	the sheep goes , +"/.
+%mor:	det|the n|sheep v|go-3S cm|cm +"/.
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|LP 5|3|PUNCT
+*TOY:	+" baaaa@o .
+%mor:	on|baaaa .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	0 [=! screams with delight] .
+*CHI:	what's dat [: that] ?
+%mor:	pro:wh|what~cop|be&3S pro:dem|that ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*THA:	looks like tupperware to me .
+%mor:	v|look-3S prep|like n|tupperware prep|to pro:obj|me .
+%gra:	1|0|ROOT 2|1|JCT 3|2|POBJ 4|3|NJCT 5|4|POBJ 6|1|PUNCT
+*CHI:	0 [=! screams] .
+*CHI:	0 .
+%act:	throws toys , screams
+*THA:	www .
+%exp:	BAX is out of control and not talking
+*THA:	what else ya got in there ?
+%mor:	pro:wh|what post|else pro|you v|get&PAST prep|in pro:dem|there ?
+%gra:	1|4|LINK 2|1|PQ 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|5|POBJ 7|4|PUNCT
+*CHI:	0 [=! screams very loudly] .
+*CHI:	lit(t)le car .
+%mor:	adj|little n|car .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*THA:	yeah , that's a lit(t)le ol(d) car .
+%mor:	co|yeah cm|cm pro:dem|that~cop|be&3S det|a adj|little adj|old n|car
+	.
+%gra:	1|4|COM 2|1|LP 3|4|SUBJ 4|0|ROOT 5|6|DET 6|8|MOD 7|8|MOD 8|4|PRED
+	9|4|PUNCT
+*CHI:	xxx .
+%xpho:	/brrrrrrbrrrrr/
+*THA:	uhoh , you've got a pair of pliers now .
+%mor:	co|uhoh cm|cm pro|you~aux|have part|get&PASTP det|a n|pair prep|of
+	n:pt|pliers adv|now .
+%gra:	1|5|COM 2|1|LP 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|7|DET 7|5|OBJ 8|7|NJCT
+	9|8|POBJ 10|9|JCT 11|5|PUNCT
+*CHI:	xxx .
+%xpho:	/brrrr brrrrr/
+*THA:	a tennis ball .
+%mor:	det|a n|tennis n|ball .
+%gra:	1|3|DET 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+*THA:	what do you do with a tennis ball ?
+%mor:	pro:wh|what mod|do pro|you v|do prep|with det|a n|tennis n|ball ?
+%gra:	1|4|LINK 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|8|DET 7|8|MOD 8|5|POBJ
+	9|4|PUNCT
+*CHI:	xxx .
+%xpho:	/brrrrr brrrr/
+*THA:	whatcha [: what do you] got there ?
+%mor:	pro:wh|what mod|do pro|you v|get&PAST adv|there ?
+%gra:	1|4|LINK 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|4|PUNCT
+*CHI:	xxx .
+%xpho:	/brrrrr brrrrr/
+*THA:	hey Bax , how does a sheep go ?
+%mor:	co|hey n:prop|Bax cm|cm rel|how v|do&3S det|a n|sheep v|go ?
+%gra:	1|2|COM 2|0|ROOT 3|2|LP 4|5|LINK 5|2|CMOD 6|7|DET 7|8|SUBJ 8|5|OBJ
+	9|2|PUNCT
+*THA:	do you remember the sheep here ?
+%mor:	mod|do pro|you v|remember det|the n|sheep adv|here ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|5|NJCT 7|3|PUNCT
+*CHI:	xxx .
+%xpho:	/brrrr brrrr/
+*CHI:	delevisin [: television] .
+%mor:	n|television .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*THA:	yeah , that's a television alright .
+%mor:	co|yeah cm|cm pro:dem|that~cop|be&3S det|a n|television adj|alright
+	.
+%gra:	1|4|COM 2|1|LP 3|4|SUBJ 4|0|ROOT 5|6|DET 6|4|PRED 7|6|XMOD 8|4|PUNCT
+*CHI:	xxx .
+*THA:	0 .
+%act:	picks up a play screwdriver
+*THA:	what's this ?
+%mor:	pro:wh|what~cop|be&3S pro:dem|this ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*CHI:	that's (.) bottle .
+%mor:	pro:dem|that~cop|be&3S n|bottle .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*THA:	a bottle ?
+%mor:	det|a n|bottle ?
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*THA:	you sure it ain't a screwdriver ?
+%mor:	pro|you adj|sure pro|it aux|be&1S~neg|not det|a n|+n|screw+n|driver
+	?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|7|AUX 5|4|NEG 6|7|DET 7|2|OBJ 8|2|PUNCT
+*CHI:	0 .
+%act:	throws more toys
+*THA:	hey Bax , what's that ?
+%mor:	co|hey n:prop|Bax cm|cm pro:wh|what~cop|be&3S pro:dem|that ?
+%gra:	1|5|COM 2|5|SUBJ 3|2|LP 4|5|SUBJ 5|0|ROOT 6|5|PRED 7|5|PUNCT
+*THA:	what's this in the truck ?
+%mor:	pro:wh|what~cop|be&3S pro:dem|this prep|in det|the n|truck ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|3|JCT 5|6|DET 6|4|POBJ 7|2|PUNCT
+*CHI:	where's fire car ?
+%mor:	adv:wh|where~cop|be&3S n|fire n|car ?
+%gra:	1|2|LINK 2|0|ROOT 3|4|MOD 4|2|PRED 5|2|PUNCT
+*THA:	that's a fire truck ?
+%mor:	pro:dem|that~cop|be&3S det|a n|fire n|truck ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|DET 4|5|MOD 5|2|PRED 6|2|PUNCT
+*THA:	what's that ?
+%mor:	pro:wh|what~cop|be&3S pro:dem|that ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*THA:	what is that thing , Bax ?
+%mor:	pro:wh|what cop|be&3S rel|that n|thing cm|cm n:prop|Bax ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|6|LINK 4|6|MOD 5|4|LP 6|2|PRED 7|2|PUNCT
+*CHI:	xxx .
+%xpho:	/ooo eee/
+*THA:	what's that one ?
+%mor:	adv:wh|what~cop|be&3S det|that pro:indef|one ?
+%gra:	1|2|LINK 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+*CHI:	xxx .
+*CHI:	Unc(le) Tom Un(cle) [/] Uncle Tom bought to you &un shooer [?] .
+%mor:	n:prop|Uncle n:prop|Tom n:prop|Uncle n:prop|Tom v|buy&PAST prep|to
+	pro|you n|shoo&dv-AGT .
+%gra:	1|5|LINK 2|5|SUBJ 3|5|JCT 4|5|SUBJ 5|0|ROOT 6|5|JCT 7|8|SUBJ 8|6|POBJ
+	9|5|PUNCT
+*CHI:	xxx .
+*THA:	hey Bax , what's this ?
+%mor:	co|hey n:prop|Bax cm|cm pro:wh|what~cop|be&3S pro:dem|this ?
+%gra:	1|5|COM 2|5|SUBJ 3|2|LP 4|5|SUBJ 5|0|ROOT 6|5|PRED 7|5|PUNCT
+*CHI:	xxx .
+*THA:	can you tell me what this is ?
+%mor:	mod|can pro|you v|tell pro:obj|me rel|what det|this cop|be&3S ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|7|LINK 6|7|DET 7|3|COMP 8|3|PUNCT
+%sit:	holding a toy horse
+*CHI:	hibi@wp horse (.) hibi@wp horse .
+%mor:	wplay|hibi n|horse wplay|hibi n|horse .
+%gra:	1|4|MOD 2|4|MOD 3|4|MOD 4|0|INCROOT 5|4|PUNCT
+*THA:	yeah !
+%mor:	co|yeah !
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	0 .
+%act:	saws his toybox with a play saw
+*CHI:	I'm gonna &naa &yit [?] .
+%mor:	pro:sub|I~aux|be&1S part|go-PRESP~inf|to .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*THA:	that's a saw .
+%mor:	pro:dem|that~cop|be&3S det|a n|saw .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+*CHI:	that's a saw .
+%mor:	pro:dem|that~cop|be&3S det|a n|saw .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+*THA:	yeah , you cut boards with it .
+%mor:	co|yeah cm|cm pro|you v|cut&ZERO n|board-PL prep|with pro|it .
+%gra:	1|4|COM 2|1|LP 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|4|JCT 7|6|POBJ 8|4|PUNCT
+*CHI:	0 .
+%act:	throws the saw then picks up a softball
+*CHI:	de [: the] &po [?] baseball .
+%mor:	det|the n|baseball .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*THA:	yeah (.) ya like playing baseball ?
+%mor:	co|yeah pro|you v|like part|play-PRESP n|baseball ?
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|4|OBJ 6|3|PUNCT
+*CHI:	0 .
+%act:	throws more toys , picks up a stomper toy car
+*CHI:	dis [: this] stomper car .
+%mor:	det|this n|stomp&dv-AGT n|car .
+%gra:	1|3|DET 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+*THA:	yeah , stomper .
+%mor:	co|yeah cm|cm n|stomp&dv-AGT .
+%gra:	1|3|COM 2|1|LP 3|0|INCROOT 4|3|PUNCT
+*THA:	you wanna play with the stomper ?
+%mor:	pro|you v|want~inf|to n|play prep|with det|the n|stomp&dv-AGT ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|INF 4|2|XCOMP 5|4|NJCT 6|7|DET 7|5|POBJ 8|2|PUNCT
+*CHI:	what's in here ?
+%mor:	pro:wh|what~cop|be&3S prep|in pro:dem|here ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|3|POBJ 5|2|PUNCT
+%exp:	looking in toy box , gets out paintbrush
+*THA:	yeah , you've got a little paintbrush .
+%mor:	co|yeah cm|cm pro|you~aux|have part|get&PASTP det|a adj|little
+	n|+n|paint+n|brush .
+%gra:	1|5|COM 2|1|LP 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|8|DET 7|8|MOD 8|5|OBJ
+	9|5|PUNCT
+*THA:	you ever painted anything ?
+%mor:	pro|you adv|ever part|paint-PASTP pro:indef|anything ?
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*CHI:	0 .
+%act:	picks up a toy camera
+*THA:	hey Bax , what is that thing ?
+%mor:	co|hey n:prop|Bax cm|cm pro:wh|what cop|be&3S rel|that n|thing ?
+%gra:	1|5|COM 2|5|SUBJ 3|2|LP 4|5|SUBJ 5|0|ROOT 6|7|MOD 7|5|PRED 8|5|PUNCT
+*CHI:	0 [=! scream] .
+*THA:	what are those ?
+%mor:	pro:wh|what aux|be&PRES pro:dem|those ?
+%gra:	1|3|LINK 2|3|AUX 3|0|ROOT 4|3|PUNCT
+*CHI:	camera .
+%mor:	n|camera .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*THA:	camera ?
+%mor:	n|camera ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*THA:	whadaya [: what do you] see ?
+%mor:	pro:wh|what mod|do pro|you v|see ?
+%gra:	1|4|LINK 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+*CHI:	0 .
+%act:	looks through his "camera"
+*THA:	whadaya [: what do you] see , Bax ?
+%mor:	pro:wh|what mod|do pro|you v|see cm|cm n:prop|Bax ?
+%gra:	1|4|LINK 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|LP 6|4|OBJ 7|4|PUNCT
+*CHI:	0 [=! scream] .
+*CHI:	give me Blue Cobra !
+%mor:	v|give pro:obj|me n:prop|Blue n:prop|Cobra !
+%gra:	1|0|ROOT 2|1|OBJ 3|1|OBJ 4|3|APP 5|1|PUNCT
+*THA:	what is [//] what's that ?
+%mor:	pro:wh|what pro:wh|what~cop|be&3S pro:dem|that ?
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|3|PUNCT
+*CHI:	xxx .
+*CHI:	you god [: got] it .
+%mor:	pro|you v|get&PAST pro|it .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*CHI:	xxx .
+*CHI:	god it .
+%mor:	co|god pro|it .
+%gra:	1|2|COM 2|0|ROOT 3|2|PUNCT
+*CHI:	you got a Boa (.) .
+%mor:	pro|you v|get&PAST det|a n:prop|Boa .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*THA:	yeah .
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	yeah , you waddie [: ready] (.) .
+%mor:	co|yeah cm|cm pro|you v|ready .
+%gra:	1|4|COM 2|1|LP 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+*THA:	what is that , Bax ?
+%mor:	pro:wh|what cop|be&3S pro:dem|that cm|cm n:prop|Bax ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|LP 5|2|PRED 6|2|PUNCT
+%act:	showing a He_Man action figure
+*CHI:	xxx He_Man .
+%mor:	n:prop|He_Man .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*THA:	He_Man .
+%mor:	n:prop|He_Man .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	xxx .
+*THA:	what does he do ?
+%mor:	pro:wh|what v|do&3S pro:sub|he v|do ?
+%gra:	1|2|LINK 2|0|ROOT 3|4|SUBJ 4|2|COMP 5|2|PUNCT
+*CHI:	0 [=! growls] .
+*THA:	is that all he does ?
+%mor:	cop|be&3S adv|that adv|all pro:sub|he v|do&3S ?
+%gra:	1|0|ROOT 2|1|JCT 3|5|JCT 4|5|SUBJ 5|1|CJCT 6|1|PUNCT
+*CHI:	(.) (H)e_man xxx .
+%mor:	n:prop|He_man .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	xxx oo look a dat [: that] !
+%mor:	co|oo v|look det|a pro:dem|that !
+%gra:	1|2|COM 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*THA:	unh &hmm .
+%mor:	co|unh .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	xxx .
+%xpho:	/ring e non/
+*THA:	yeah , you've got a ring there .
+%mor:	co|yeah cm|cm pro|you~aux|have part|get&PASTP det|a n|ring
+	adv|there .
+%gra:	1|5|COM 2|1|LP 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|7|DET 7|5|OBJ 8|5|JCT
+	9|5|PUNCT
+*THA:	what's on the ring ?
+%mor:	pro:wh|what~cop|be&3S prep|on det|the n|ring ?
+%gra:	1|2|LINK 2|0|ROOT 3|2|JCT 4|5|DET 5|3|POBJ 6|2|PUNCT
+*CHI:	xxx .
+%xpho:	/eeeeeee/
+*THA:	what's this , Baxter ?
+%mor:	pro:wh|what~cop|be&3S pro:dem|this cm|cm n:prop|Baxter ?
+%gra:	1|2|LINK 2|0|ROOT 3|2|PRED 4|2|LP 5|2|PRED 6|2|PUNCT
+%exp:	points to toy airplane
+*THA:	hey Bax , what's this ?
+%mor:	co|hey n:prop|Bax cm|cm pro:wh|what~cop|be&3S pro:dem|this ?
+%gra:	1|5|COM 2|5|SUBJ 3|2|LP 4|5|SUBJ 5|0|ROOT 6|5|PRED 7|5|PUNCT
+*CHI:	airpwan [: airplane] .
+%mor:	n|airplane .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	a ball .
+%mor:	det|a n|ball .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*THA:	yeah , what kind of ball ?
+%mor:	co|yeah cm|cm pro:wh|what n|kind prep|of n|ball ?
+%gra:	1|3|COM 2|1|LP 3|0|ROOT 4|3|OBJ 5|4|NJCT 6|5|POBJ 7|3|PUNCT
+*CHI:	xxx .
+@End

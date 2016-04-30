@@ -1,0 +1,687 @@
+@UTF8
+@PID:	11312/c-00016959-1
+@Begin
+@Languages:	eng
+@Participants:	MOT Mother , CHI Target_Child
+@ID:	eng|Morisset|MOT|||||Mother|||
+@ID:	eng|Morisset|CHI|3;3.||||Target_Child|||
+@Warning:	CHAT format needs to be double-checked
+@Date:	20-SEP-1987
+@Comment:	screen time is elapsed time from beginning of visit in min:sec
+@Situation:	M-C free-play
+@Location:	Los Angeles , CA , USA (UCLA)
+*MOT:	make xxx some tea .
+%mor:	v|make qn|some n|tea .
+%gra:	1|0|ROOT 2|3|QUANT 3|1|OBJ 4|1|PUNCT
+%tim:	04:42
+%com:	screen time
+*CHI:	okay .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	M pours from teapot in a cup
+*MOT:	make them a cup .
+%mor:	v|make pro:obj|them det|a n|cup .
+%gra:	1|0|ROOT 2|1|OBJ 3|4|DET 4|1|OBJ 5|1|PUNCT
+*MOT:	there .
+%mor:	adv|there .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	M moves cup of tea to other side of C and house
+*CHI:	I &g get some .
+%mor:	pro:sub|I v|get qn|some .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+%act:	C pours from teapot into cup
+*MOT:	<give me the> [/] give me the tea .
+%mor:	v|give pro:obj|me det|the n|tea .
+%gra:	1|0|ROOT 2|1|OBJ 3|4|DET 4|1|OBJ 5|1|PUNCT
+*MOT:	give me the cup .
+%mor:	v|give pro:obj|me det|the n|cup .
+%gra:	1|0|ROOT 2|1|OBJ 3|4|DET 4|1|OBJ 5|1|PUNCT
+*MOT:	give me the cup .
+%mor:	v|give pro:obj|me det|the n|cup .
+%gra:	1|0|ROOT 2|1|OBJ 3|4|DET 4|1|OBJ 5|1|PUNCT
+*CHI:	cup .
+%mor:	n|cup .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	C hands cup to M
+*MOT:	give me the xxx .
+%mor:	v|give pro:obj|me det|the .
+%gra:	1|0|ROOT 2|1|OBJ 3|4|DET 4|1|PUNCT
+%act:	C picks up a cup; drinks from it
+*MOT:	you got_to pour some xxx .
+%mor:	pro|you mod:aux|got_to v|pour qn|some .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+%act:	M bangs teapot on table to get C's attention
+*MOT:	&hmm (.) pour some (.) coffee in there .
+%mor:	v|pour qn|some n|coffee prep|in pro:dem|there .
+%gra:	1|0|ROOT 2|3|QUANT 3|1|OBJ 4|3|NJCT 5|4|POBJ 6|1|PUNCT
+%act:	C pours from teapot in her cup
+*MOT:	there (.) drink your tea .
+%mor:	adv|there v|drink pro:poss:det|your n|tea .
+%gra:	1|2|JCT 2|0|ROOT 3|4|MOD 4|2|OBJ 5|2|PUNCT
+%act:	M and C drink from their cups together
+*MOT:	I want some eggs .
+%mor:	pro:sub|I v|want qn|some n|egg-PL .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|QUANT 4|2|OBJ 5|2|PUNCT
+*MOT:	cook me some eggs .
+%mor:	v|cook pro:obj|me qn|some n|egg-PL .
+%gra:	1|0|ROOT 2|1|OBJ 3|4|QUANT 4|1|OBJ 5|1|PUNCT
+*CHI:	(o)kay .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	C picks up frying pan
+*MOT:	where's the fork ?
+%mor:	adv:wh|where~cop|be&3S det|the n|fork ?
+%gra:	1|2|LINK 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+%act:	M and C manipulate dishes and utensils
+*CHI:	here it [/] it is .
+%mor:	adv|here pro|it cop|be&3S .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+%act:	C holds up fork
+*MOT:	okay (.) cook some eggs .
+%mor:	co|okay v|cook qn|some n|egg-PL .
+%gra:	1|2|COM 2|0|ROOT 3|4|QUANT 4|2|OBJ 5|2|PUNCT
+*MOT:	fried eggs .
+%mor:	v|fry-PAST n|egg-PL .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+*MOT:	<cook (th)em> [//] stir (th)em .
+%mor:	v|stir pro:obj|them .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+*MOT:	stir the eggs .
+%mor:	v|stir det|the n|egg-PL .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+%act:	C appears to be stirring; is blocked by house; C picks up pan; looks around; M reaches for plates
+*MOT:	put the eggs on this plate .
+%mor:	v|put&ZERO det|the n|egg-PL prep|on det|this n|plate .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|JCT 5|6|DET 6|4|POBJ 7|1|PUNCT
+*MOT:	put some on your plate .
+%mor:	v|put&ZERO qn|some prep|on pro:poss:det|your n|plate .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|JCT 4|5|MOD 5|3|POBJ 6|1|PUNCT
+*MOT:	put the eggs on there .
+%mor:	v|put&ZERO det|the n|egg-PL prep|on pro:dem|there .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|JCT 5|4|POBJ 6|1|PUNCT
+*CHI:	oh !
+%mor:	co|oh !
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	like this .
+%mor:	prep|like pro:dem|this .
+%gra:	1|0|INCROOT 2|1|POBJ 3|1|PUNCT
+%act:	M takes pan from C and dishes out eggs
+*CHI:	okay .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	C reaches for pan again
+*MOT:	xxx fork .
+%mor:	n|fork .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	C dishes out eggs
+*MOT:	xxx .
+*CHI:	xxx .
+*CHI:	we need another fork .
+%mor:	pro:sub|we v|need qn|another n|fork .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|QUANT 4|2|OBJ 5|2|PUNCT
+%act:	C finds a fork in pile of utensils
+*CHI:	here .
+%mor:	adv|here .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	C hands M fork
+*MOT:	thanks .
+%mor:	co|thanks .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	eat your eggs xxx all your eggs .
+%mor:	v|eat pro:poss:det|your n|egg-PL adv|all pro:poss:det|your n|egg-PL
+	.
+%gra:	1|0|ROOT 2|3|MOD 3|1|OBJ 4|1|JCT 5|6|MOD 6|4|POBJ 7|1|PUNCT
+%act:	M and C eat
+*MOT:	they're good (.) Danielle [= C's name] .
+%mor:	pro:sub|they~cop|be&PRES adj|good n:prop|Danielle .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PRED 5|2|PUNCT
+*MOT:	oh I [//] do you know what I want to have ?
+%mor:	co|oh mod|do pro|you v|know pro:wh|what pro:sub|I v|want inf|to
+	v|have ?
+%gra:	1|4|COM 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|7|LINK 6|7|SUBJ 7|4|COMP 8|9|INF
+	9|7|XCOMP 10|4|PUNCT
+*CHI:	huh ?
+%mor:	co|huh ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	M reaches for a pan
+*MOT:	I want some oatmeal !
+%mor:	pro:sub|I v|want qn|some n|oatmeal !
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|QUANT 4|2|OBJ 5|2|PUNCT
+%act:	C reaches for M's pan
+*CHI:	I got it [//] I could +...
+%mor:	pro:sub|I v|get&PAST pro:sub|I mod|could +...
+%gra:	1|2|SUBJ 2|4|LINK 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+*MOT:	you want to fix it ?
+%mor:	pro|you v|want inf|to v|fix pro|it ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|INF 4|2|XCOMP 5|4|OBJ 6|2|PUNCT
+*CHI:	yes .
+%mor:	co|yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	okay .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	I could fix it .
+%mor:	pro:sub|I mod|could v|fix pro|it .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*MOT:	get your spoon over there .
+%mor:	v|get pro:poss:det|your n|spoon prep|over pro:dem|there .
+%gra:	1|0|ROOT 2|3|MOD 3|1|OBJ 4|3|NJCT 5|4|POBJ 6|1|PUNCT
+%exp:	M means pile of utensils near C
+*CHI:	the spoon .
+%mor:	det|the n|spoon .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+%act:	C picks up spoon from pile
+*MOT:	uhhuh .
+%mor:	co|uhhuh .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	okay .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	put me some oatmeal on there .
+%mor:	v|put&ZERO pro:obj|me qn|some n|oatmeal prep|on pro:dem|there .
+%gra:	1|0|ROOT 2|1|OBJ 3|4|QUANT 4|1|OBJ 5|1|JCT 6|5|POBJ 7|1|PUNCT
+%act:	M seems to be indicating plate; blocked by house
+*CHI:	on here ?
+%mor:	prep|on pro:dem|here ?
+%gra:	1|0|INCROOT 2|1|POBJ 3|1|PUNCT
+%act:	C indicates something; house blocks
+*MOT:	put me some oatmeal on my plate .
+%mor:	v|put&ZERO pro:obj|me qn|some n|oatmeal prep|on pro:poss:det|my
+	n|plate .
+%gra:	1|0|ROOT 2|1|OBJ 3|4|QUANT 4|1|OBJ 5|1|JCT 6|7|MOD 7|5|POBJ 8|1|PUNCT
+*CHI:	okay .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	C hesitantly manipulates dishes
+*MOT:	come on .
+%mor:	v|come adv|on .
+%gra:	1|0|ROOT 2|1|JCT 3|1|PUNCT
+%act:	M holds up her plate
+*MOT:	put oatmeal on there .
+%mor:	v|put&ZERO n|oatmeal prep|on pro:dem|there .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|JCT 4|3|POBJ 5|1|PUNCT
+%act:	C puts oatmeal on plate with spoon
+*MOT:	put some on your plate (.) too .
+%mor:	v|put&ZERO qn|some prep|on pro:poss:det|your n|plate post|too .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|JCT 4|5|MOD 5|3|POBJ 6|5|PQ 7|1|PUNCT
+%act:	C puts oatmeal on her plate; C drops spoon
+*CHI:	wait .
+%mor:	co|wait .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	C picks spoon up
+*MOT:	it's dirty .
+%mor:	pro|it~cop|be&3S adj|dirt&dn-Y .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*MOT:	the spoon's dirty .
+%mor:	det|the n|spoon~poss|s adj|dirt&dn-Y .
+%gra:	1|2|DET 2|0|INCROOT 3|2|POSS 4|2|XMOD 5|2|PUNCT
+*MOT:	<get a> [/] get a clean spoon .
+%mor:	v|get det|a adj|clean n|spoon .
+%gra:	1|0|ROOT 2|4|DET 3|4|MOD 4|1|OBJ 5|1|PUNCT
+*CHI:	a clean spoon ?
+%mor:	det|a adj|clean n|spoon ?
+%gra:	1|3|DET 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+*MOT:	mhm .
+%mor:	co|yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	C gets a clean spoon from pile of utensils
+*MOT:	get me another spoon .
+%mor:	v|get pro:obj|me qn|another n|spoon .
+%gra:	1|0|ROOT 2|1|OBJ 3|4|QUANT 4|1|OBJ 5|1|PUNCT
+%act:	<bef> C spoons more oatmeal on her plate
+*MOT:	I need a spoon (.) too (.) to eat my oatmeal .
+%mor:	pro:sub|I v|need det|a n|spoon adv|too inf|to v|eat pro:poss:det|my
+	n|oatmeal .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|JCT 6|7|INF 7|2|XCOMP 8|9|MOD
+	9|7|OBJ 10|2|PUNCT
+%act:	C reaches in pile again
+*CHI:	okay .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	here .
+%mor:	adv|here .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	C hands spoon to M
+*MOT:	eat your oatmeal .
+%mor:	v|eat pro:poss:det|your n|oatmeal .
+%gra:	1|0|ROOT 2|3|MOD 3|1|OBJ 4|1|PUNCT
+*MOT:	eat your eggs (.) too .
+%mor:	v|eat pro:poss:det|your n|egg-PL post|too .
+%gra:	1|0|ROOT 2|3|MOD 3|1|OBJ 4|3|PQ 5|1|PUNCT
+%act:	C eats her food
+*MOT:	are they good ?
+%mor:	cop|be&PRES pro:sub|they adj|good ?
+%gra:	1|0|ROOT 2|3|SUBJ 3|1|PRED 4|1|PUNCT
+*CHI:	mhm .
+%mor:	co|yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	xxx need any more xxx ?
+%mor:	v|need qn|any pro:indef|more ?
+%gra:	1|0|ROOT 2|3|QUANT 3|1|OBJ 4|1|PUNCT
+*MOT:	get me some juice now .
+%mor:	v|get pro:obj|me qn|some n|juice adv|now .
+%gra:	1|0|ROOT 2|1|OBJ 3|4|QUANT 4|2|XMOD 5|4|NJCT 6|1|PUNCT
+*CHI:	okay .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	C looks in garage
+*MOT:	maybe xxx over there .
+%mor:	adv|maybe prep|over pro:dem|there .
+%gra:	1|0|INCROOT 2|1|JCT 3|2|POBJ 4|1|PUNCT
+%gpx:	M points at dishes near pile of utensils
+*CHI:	Daddy +...
+%mor:	n:prop|Daddy +...
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	there's juice in there .
+%mor:	pro:exist|there~cop|be&3S n|juice prep|in pro:dem|there .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|JCT 5|4|POBJ 6|2|PUNCT
+%gpx:	M points at pitcher
+*CHI:	oh .
+%mor:	co|oh .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	C picks up pitcher
+*MOT:	pour me a little bit of juice .
+%mor:	v|pour pro:obj|me det|a adj|little n|bit prep|of n|juice .
+%gra:	1|0|ROOT 2|1|OBJ 3|5|DET 4|5|MOD 5|1|OBJ 6|5|NJCT 7|6|POBJ 8|1|PUNCT
+%act:	M holds up cup
+*CHI:	xxx .
+*MOT:	pour the juice .
+%mor:	v|pour det|the n|juice .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+*CHI:	(o)kay .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	C pours in cup
+*CHI:	here .
+%mor:	adv|here .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	C hands to M; M drinks
+*MOT:	give yourself some juice .
+%mor:	v|give pro:refl|yourself qn|some n|juice .
+%gra:	1|0|ROOT 2|1|OBJ 3|4|QUANT 4|2|OBJ 5|1|PUNCT
+*CHI:	xxx [>] .
+*MOT:	xxx [<] ?
+*CHI:	yeah .
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	pour some juice in your cup .
+%mor:	v|pour qn|some n|juice prep|in pro:poss:det|your n|cup .
+%gra:	1|0|ROOT 2|3|QUANT 3|1|OBJ 4|1|JCT 5|6|MOD 6|4|POBJ 7|1|PUNCT
+*MOT:	here's a clean cup (.) right here .
+%mor:	pro:exist|here~cop|be&3S det|a adj|clean n|cup adv|right adv|here .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|DET 4|5|MOD 5|2|PRED 6|5|NJCT 7|5|NJCT 8|2|PUNCT
+%act:	M lifts up a cup
+*MOT:	pour the juice in there .
+%mor:	v|pour det|the n|juice prep|in pro:dem|there .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|3|NJCT 5|4|POBJ 6|1|PUNCT
+%act:	C has a little trouble picking up cup
+*MOT:	pour your juice .
+%mor:	v|pour pro:poss:det|your n|juice .
+%gra:	1|0|ROOT 2|3|MOD 3|1|OBJ 4|1|PUNCT
+%act:	C pours; drinks; M drinks
+%sit:	Examiner enters; changes toys
+%tim:	07:42
+%com:	screen time; 03:00 elapsed and transcribed
+@New Episode
+@Situation:	M-C book-reading
+*CHI:	oh (.) Care_Bear .
+%mor:	co|oh n:prop|Care_Bear .
+%gra:	1|2|COM 2|0|ROOT 3|2|PUNCT
+%sit:	C holds Care-Bear feelings book; M has another book
+%tim:	08:52
+%com:	screen time
+*MOT:	mhm .
+%mor:	co|yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	read it .
+%mor:	v|read&ZERO pro|it .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+*MOT:	what's this ?
+%mor:	pro:wh|what~cop|be&3S pro:dem|this ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+%gpx:	M points at something in her book
+*CHI:	I can't xxx .
+%mor:	pro:sub|I mod|can~neg|not .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|NEG 4|2|PUNCT
+%act:	C seems to be having trouble turning pages in book
+*MOT:	what's this (.) Danielle ?
+%mor:	adv:wh|what~cop|be&3S det|this n:prop|Danielle ?
+%gra:	1|2|LINK 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+*CHI:	I can't .
+%mor:	pro:sub|I mod|can~neg|not .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|NEG 4|2|PUNCT
+%act:	C turns page
+*CHI:	tell me a xxx the Care_Bear .
+%mor:	v|tell pro:obj|me det|a det|the n:prop|Care_Bear .
+%gra:	1|0|ROOT 2|1|OBJ 3|5|DET 4|5|DET 5|1|OBJ 6|1|PUNCT
+%act:	C is reading to herself from Care-Bear book
+*CHI:	and so the Care_bear said +/.
+%mor:	conj|and co|so det|the n:prop|Care_bear v|say&PAST +/.
+%gra:	1|5|LINK 2|5|COM 3|4|DET 4|5|SUBJ 5|0|ROOT 6|5|PUNCT
+*MOT:	xxx he's sorry .
+%mor:	pro:sub|he~cop|be&3S adj|sorry .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+%gpx:	M points at picture in C's book
+*MOT:	look .
+%mor:	co|look .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	xxx .
+*MOT:	<(be)cause he> [//] what did he do ?
+%mor:	pro:wh|what mod|do&PAST pro:sub|he v|do ?
+%gra:	1|4|LINK 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+*CHI:	he wasted .
+%mor:	pro:sub|he v|waste-PAST .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*MOT:	wasted [//] what did he waste ?
+%mor:	pro:wh|what mod|do&PAST pro:sub|he v|waste ?
+%gra:	1|4|LINK 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+*CHI:	he waste the juice .
+%mor:	pro:sub|he v|waste det|the n|juice .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*MOT:	the juice .
+%mor:	det|the n|juice .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+%com:	there is some audio interference; hard to hear
+*MOT:	and xxx here ?
+%mor:	coord|and adv|here ?
+%gra:	1|0|INCROOT 2|1|COORD 3|1|PUNCT
+%act:	M's hand is on opposite page
+*MOT:	angry .
+%mor:	adj|angry .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	angry .
+%mor:	adj|angry .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	xxx .
+*CHI:	xxx .
+%act:	M begins to turn page
+*CHI:	he has the juice !
+%mor:	pro:sub|he v|have&3S det|the n|juice !
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+%gpx:	C points at preceding picture
+*MOT:	xxx .
+*CHI:	and so [/] so +...
+%mor:	coord|and adv|so +...
+%gra:	1|0|INCROOT 2|1|COORD 3|1|PUNCT
+*MOT:	look at that .
+%mor:	v|look prep|at pro:dem|that .
+%gra:	1|0|ROOT 2|1|JCT 3|2|POBJ 4|1|PUNCT
+%act:	M points at page to which she has turned
+*CHI:	a (.) xxx .
+%mor:	det|a .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	&hmm ?
+*CHI:	xxx .
+*MOT:	a present .
+%mor:	det|a n|present .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*CHI:	a present .
+%mor:	det|a n|present .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*MOT:	what's that ?
+%mor:	pro:wh|what~cop|be&3S pro:dem|that ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+%gpx:	M points at something new
+*CHI:	a xxx .
+%mor:	det|a .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	what's this here ?
+%mor:	adv:wh|what~cop|be&3S det|this adv|here ?
+%gra:	1|2|LINK 2|0|ROOT 3|4|DET 4|2|JCT 5|2|PUNCT
+%gpx:	M moves finger
+*CHI:	a xxx .
+%mor:	det|a .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	a jack+in+the+box .
+%mor:	det|a n|+n|jack+prep|in+det|the+n|box .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*CHI:	jack+in+the+box .
+%mor:	n|+n|jack+prep|in+det|the+n|box .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	&j jack+in+the+box .
+%mor:	n|+n|jack+prep|in+det|the+n|box .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	and so +...
+%mor:	coord|and adv|so +...
+%gra:	1|0|INCROOT 2|1|COORD 3|1|PUNCT
+*CHI:	so the xxx said xxx .
+%mor:	co|so det|the part|say&PASTP .
+%gra:	1|3|COM 2|3|DET 3|0|ROOT 4|3|PUNCT
+*MOT:	mhm .
+%mor:	co|yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	what's this ?
+%mor:	pro:wh|what~cop|be&3S pro:dem|this ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+%gpx:	C points
+*MOT:	okay (.) let's look through this one .
+%mor:	co|okay v|let~pro:obj|us v|look prep|through det|this pro:indef|one
+	.
+%gra:	1|2|COM 2|0|ROOT 3|2|OBJ 4|2|COMP 5|4|JCT 6|7|DET 7|5|POBJ 8|2|PUNCT
+%act:	M picks up another book
+*CHI:	<wait wait> [/] wait .
+%mor:	co|wait .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	I got_to close this one .
+%mor:	pro:sub|I mod:aux|got_to v|close det|this pro:indef|one .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+%act:	C turns page
+*CHI:	look (.) and so +/.
+%mor:	v|look conj|and adv|so +/.
+%gra:	1|0|ROOT 2|1|CONJ 3|2|COORD 4|1|PUNCT
+%act:	C continues her story of the book
+*MOT:	see (.) he's scared .
+%mor:	co|see pro:sub|he~aux|be&3S part|scare-PASTP .
+%gra:	1|4|COM 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|PUNCT
+%gpx:	M points
+*MOT:	see ?
+%mor:	v|see ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	see he's scared .
+%mor:	co|see pro:sub|he~aux|be&3S part|scare-PASTP .
+%gra:	1|4|COM 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|PUNCT
+*MOT:	he's scared .
+%mor:	pro:sub|he~aux|be&3S part|scare-PASTP .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|PUNCT
+*CHI:	he's scared .
+%mor:	pro:sub|he~aux|be&3S part|scare-PASTP .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|PUNCT
+*MOT:	very brave .
+%mor:	adv|very adj|brave .
+%gra:	1|2|JCT 2|0|ROOT 3|2|PUNCT
+*CHI:	no (.) wait .
+%mor:	co|no co|wait .
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+%act:	C may have thought M was going to close book
+*CHI:	xxx the Care_Bear xxx Care_Bear .
+%mor:	det|the n:prop|Care_Bear n:prop|Care_Bear .
+%gra:	1|2|DET 2|0|ROOT 3|2|APP 4|2|PUNCT
+%act:	C continues her story
+*MOT:	okay (.) listen to this one .
+%mor:	co|okay v|listen prep|to det|this pro:indef|one .
+%gra:	1|2|COM 2|0|ROOT 3|2|JCT 4|5|DET 5|3|POBJ 6|2|PUNCT
+%act:	M opens another book
+*MOT:	what's this ?
+%mor:	pro:wh|what~cop|be&3S pro:dem|this ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+%gpx:	M points
+*CHI:	bunny+rabbit .
+%mor:	n|+n|bunny+n|rabbit .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	and what is that ?
+%mor:	conj|and pro:wh|what cop|be&3S pro:dem|that ?
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|3|PUNCT
+%gpx:	M points
+*CHI:	duck .
+%mor:	n|duck .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	and what is that on his shoe ?
+%mor:	coord|and pro:wh|what cop|be&3S pro:dem|that prep|on
+	pro:poss:det|his n|shoe ?
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|4|JCT 6|7|MOD 7|5|POBJ 8|3|PUNCT
+*CHI:	&uh (.) shoes .
+%mor:	n|shoe-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	and what is standing on ?
+%mor:	conj|and pro:wh|what aux|be&3S part|stand-PRESP adv|on ?
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|4|PUNCT
+*CHI:	xxx .
+*MOT:	xxx .
+*CHI:	yeah .
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	and what's this right here ?
+%mor:	conj|and pro:wh|what~cop|be&3S pro:dem|this adv|right adv|here ?
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|6|JCT 6|4|JCT 7|3|PUNCT
+%gpx:	M points
+*CHI:	&a (.) &a (.) &a +...
+%act:	C can't seem to answer; looks back at Care-Bear book
+*MOT:	what is this (.) Danielle ?
+%mor:	pro:wh|what cop|be&3S det|this n:prop|Danielle ?
+%gra:	1|2|LINK 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+%act:	M points
+*CHI:	a bed .
+%mor:	det|a n|bed .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*MOT:	and what is this right here ?
+%mor:	coord|and pro:wh|what cop|be&3S det|this adv|right adv|here ?
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|JCT 6|5|JCT 7|3|PUNCT
+*CHI:	xxx .
+%act:	C starts to tell Care Bear story again
+*MOT:	Danielle .
+%mor:	n:prop|Danielle .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	M touches C's arm
+*CHI:	yeah +...
+%mor:	co|yeah +...
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	xxx book .
+%mor:	n|book .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	mhm .
+%mor:	co|yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	what's this right here ?
+%mor:	adv:wh|what~cop|be&3S det|this adv|right adv|here ?
+%gra:	1|2|LINK 2|0|ROOT 3|4|DET 4|2|JCT 5|4|JCT 6|2|PUNCT
+%gpx:	M holds up her book and points
+*MOT:	you know that ?
+%mor:	pro|you v|know pro:dem|that ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*CHI:	a@l .
+%mor:	n:let|a .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%gpx:	M points
+*CHI:	l@l .
+%mor:	n:let|l .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	what's that ?
+%mor:	pro:wh|what~cop|be&3S pro:dem|that ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+%gpx:	M points
+*CHI:	bed .
+%mor:	n|bed .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	frog .
+%mor:	n|frog .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	xxx a bug .
+%mor:	det|a n|bug .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*CHI:	bug .
+%mor:	n|bug .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	what is this right here ?
+%mor:	pro:wh|what cop|be&3S det|this adv|right adv|here ?
+%gra:	1|2|LINK 2|0|ROOT 3|4|DET 4|2|JCT 5|4|JCT 6|2|PUNCT
+%gpx:	M points
+*CHI:	a xxx .
+%mor:	det|a .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	what's that ?
+%mor:	pro:wh|what~cop|be&3S pro:dem|that ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+%gpx:	M points
+*CHI:	a xxx .
+%mor:	det|a .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	it's a window .
+%mor:	pro|it~cop|be&3S det|a n|window .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+*CHI:	window .
+%mor:	n|window .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	and do you know what this is ?
+%mor:	coord|and v|do pro|you v|know adv|what det|this cop|be&3S ?
+%gra:	1|0|CONJ 2|1|COORD 3|4|SUBJ 4|2|ROOT 5|4|JCT 6|7|DET 7|4|INCROOT
+	8|7|PUNCT
+%gpx:	M points
+*MOT:	that's the curtains (.) see ?
+%mor:	pro:dem|that~cop|be&3S det|the n|curtain-PL v|see ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|5|SUBJ 5|2|PRED 6|2|PUNCT
+*CHI:	xxx +/.
+%mor:	+/.
+%gra:	1|0|INCROOT
+%act:	C tries to move book closer to herself
+*MOT:	let me show you now .
+%mor:	v|let&ZERO pro:obj|me v|show pro|you adv|now .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|COMP 4|3|OBJ 5|3|JCT 6|1|PUNCT
+%act:	M moves book closer to herself
+*MOT:	what's this +...
+%mor:	pro:wh|what~cop|be&3S pro:dem|this +...
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+%gpx:	M points
+*MOT:	you can sleep on this .
+%mor:	pro|you mod|can v|sleep prep|on pro:dem|this .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|4|POBJ 6|3|PUNCT
+*MOT:	what is this ?
+%mor:	pro:wh|what aux|be&3S det|this ?
+%gra:	1|0|INCROOT 2|4|AUX 3|4|DET 4|1|PUNCT
+*CHI:	xxx .
+%act:	C squirms; looks under her chair
+*MOT:	Danielle .
+%mor:	n:prop|Danielle .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	M touches C's arm
+*CHI:	huh ?
+%mor:	co|huh ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	what is this right here ?
+%mor:	pro:wh|what cop|be&3S det|this adv|right adv|here ?
+%gra:	1|2|LINK 2|0|ROOT 3|4|DET 4|2|JCT 5|4|JCT 6|2|PUNCT
+%gpx:	M points
+*CHI:	a bed .
+%mor:	det|a n|bed .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*MOT:	no (.) what's on the bed ?
+%mor:	co|no pro:wh|what~cop|be&3S prep|on det|the n|bed ?
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|3|PUNCT
+%gpx:	M taps finger against picture
+*MOT:	what you sleep on ?
+%mor:	pro:wh|what pro|you v|sleep adv|on ?
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|PUNCT
+*CHI:	a pillow .
+%mor:	det|a n|pillow .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*MOT:	okay .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	M turns page; C lays her head on table
+*CHI:	I'm sleeping .
+%mor:	pro:sub|I~aux|be&1S part|sleep-PRESP .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|PUNCT
+*MOT:	Danielle (.) okay (.) what's he doing ?
+%mor:	n:prop|Danielle adj|okay rel|what~aux|be&3S pro:sub|he
+	part|do-PRESP ?
+%gra:	1|6|LINK 2|6|SUBJ 3|4|LINK 4|6|AUX 5|6|SUBJ 6|0|ROOT 7|6|PUNCT
+%gpx:	M touches C; points in book
+*CHI:	huh ?
+%mor:	co|huh ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	what is he doing ?
+%mor:	pro:wh|what cop|be&3S pro:sub|he part|do-PRESP ?
+%gra:	1|2|LINK 2|0|ROOT 3|4|SUBJ 4|2|PRED 5|2|PUNCT
+%sit:	Examiner enters
+%tim:	11:58
+%com:	screen time; 03:06 elapsed and transcribed
+@End

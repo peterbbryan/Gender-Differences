@@ -1,0 +1,65 @@
+@UTF8
+@PID:	11312/c-00010793-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, MOT Mother, FAT Father
+@ID:	eng|Braunwald|CHI|02;00.21|female|||Target_Child|||
+@ID:	eng|Braunwald|MOT|||||Mother|||
+@ID:	eng|Braunwald|FAT|||||Father|||
+*MOT:	ready to go in Ruthie's group today ?
+%mor:	adj|ready inf|to v|go prep|in n:prop|Ruthie~poss|s n|group
+	adv:tem|today ?
+%gra:	1|0|INCROOT 2|3|INF 3|1|XCOMP 4|3|JCT 5|8|MOD 6|5|POSS 7|8|MOD 8|4|POBJ
+	9|1|PUNCT
+%sit:	279
+*CHI:	no .
+%mor:	co|no .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%sit:	279
+*CHI:	I'll stay if you want .
+%mor:	pro:sub|I~mod|will v|stay conj|if pro|you v|want .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|6|LINK 5|6|SUBJ 6|3|CJCT 7|3|PUNCT
+%sit:	279
+*CHI:	Sue right back .
+%mor:	n:prop|Sue n|right n|back .
+%gra:	1|3|MOD 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+%sit:	279
+*CHI:	I'll be in Ruthie's group .
+%mor:	pro:sub|I~mod|will cop|be prep|in n:prop|Ruthie~poss|s n|group .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|7|MOD 6|5|POSS 7|4|POBJ 8|3|PUNCT
+%sit:	279
+*FAT:	Jack is going to a dinner meeting tonight .
+%mor:	n:prop|Jack aux|be&3S part|go-PRESP prep|to det|a n|dinner
+	part|meet-PRESP adv:tem|tonight .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|8|MOD 8|3|JCT
+	9|3|PUNCT
+%sit:	280 also at breakfast
+*FAT:	Sue'll put you to bed .
+%mor:	n:prop|Sue~mod|will v|put&ZERO pro|you prep|to n|bed .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|3|JCT 6|5|POBJ 7|3|PUNCT
+%sit:	280 also at breakfast
+*CHI:	can I come with you ?
+%mor:	mod|can pro:sub|I v|come prep|with pro|you ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|4|POBJ 6|3|PUNCT
+%sit:	280 also at breakfast
+*FAT:	no .
+%mor:	co|no .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%sit:	280 also at breakfast
+*CHI:	I stay Mommy .
+%mor:	pro:sub|I v|stay n:prop|Mommy .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+%sit:	280 also at breakfast
+*CHI:	want cottage cheese .
+%mor:	v|want n|cottage n|cheese .
+%gra:	1|0|ROOT 2|3|MOD 3|1|OBJ 4|1|PUNCT
+%sit:	281
+*MOT:	we don't have any .
+%mor:	pro:sub|we mod|do~neg|not v|have qn|any .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+%sit:	281
+*CHI:	have_to write it you list .
+%mor:	mod:aux|have_to v|write pro|it pro|you v|list .
+%gra:	1|2|AUX 2|0|ROOT 3|2|OBJ 4|5|SUBJ 5|2|COMP 6|2|PUNCT
+%sit:	281
+@End

@@ -1,0 +1,62 @@
+@UTF8
+@PID:	11312/c-00011180-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, MOT Mother
+@ID:	eng|Braunwald|CHI|03;03.23|female|||Target_Child|||
+@ID:	eng|Braunwald|MOT|||||Mother|||
+@Date:	12-JUN-1974
+*CHI:	it's shadowing .
+%mor:	pro|it~aux|be&3S part|shadow-PRESP .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|PUNCT
+%sit:	859
+*CHI:	that's enough for me .
+%mor:	pro:dem|that~cop|be&3S adv|enough prep|for pro:obj|me .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|2|JCT 5|4|POBJ 6|2|PUNCT
+%sit:	860
+*MOT:	I lost my voice .
+%mor:	pro:sub|I v|lose&PAST pro:poss:det|my n|voice .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|MOD 4|2|OBJ 5|2|PUNCT
+%sit:	861
+*CHI:	where is it ?
+%mor:	adv:wh|where aux|be&3S pro|it ?
+%gra:	1|2|LINK 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+%sit:	861
+*CHI:	in San_Diego ?
+%mor:	prep|in n:prop|San_Diego ?
+%gra:	1|0|INCROOT 2|1|POBJ 3|1|PUNCT
+%sit:	861
+*MOT:	no, it's not in San_Diego .
+%mor:	co|no cm|cm pro|it~cop|be&3S neg|not prep|in n:prop|San_Diego .
+%gra:	1|4|COM 2|1|LP 3|4|SUBJ 4|0|ROOT 5|4|NEG 6|4|JCT 7|6|POBJ 8|4|PUNCT
+%sit:	861
+*CHI:	it'll be back soon .
+%mor:	pro|it~mod|will cop|be adv|back adv|soon .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|3|JCT 6|3|PUNCT
+%sit:	861
+*MOT:	would you like a new baby brother ?
+%mor:	mod|will&COND pro|you prep|like det|a adj|new n|baby n|brother ?
+%gra:	1|0|INCROOT 2|1|OBJ 3|2|JCT 4|7|DET 5|6|MOD 6|7|MOD 7|3|POBJ 8|1|PUNCT
+%sit:	862
+*CHI:	yes, but we aren't getting one .
+%mor:	co|yes cm|cm conj|but pro:sub|we aux|be&PRES~neg|not
+	n:gerund|get-PRESP pro:indef|one .
+%gra:	1|0|INCROOT 2|1|LP 3|7|LINK 4|7|SUBJ 5|7|AUX 6|5|NEG 7|1|CJCT 8|7|OBJ
+	9|1|PUNCT
+%sit:	862
+*CHI:	you aren't growing one (be)cause Daddy doesn't have another sperm .
+%mor:	pro|you aux|be&PRES~neg|not n:gerund|grow-PRESP pro:indef|one
+	conj|because n:prop|Daddy mod|do&3S~neg|not v|have qn|another
+	n|sperm .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|OBJ 6|10|LINK 7|10|SUBJ 8|10|AUX
+	9|8|NEG 10|4|CJCT 11|12|QUANT 12|10|OBJ 13|4|PUNCT
+%sit:	862
+*MOT:	oh no, Daddy has lots of sperms, but we already have two nice girls .
+%mor:	co|oh co|no cm|cm n:prop|Daddy aux|have&3S n|lot-PL prep|of
+	n|sperm-PL cm|cm conj|but pro:sub|we adv|already v|have det:num|two
+	adj|nice n|girl-PL .
+%gra:	1|6|COM 2|6|COM 3|2|LP 4|6|SUBJ 5|6|AUX 6|0|ROOT 7|6|NJCT 8|7|POBJ
+	9|8|LP 10|13|LINK 11|13|SUBJ 12|13|JCT 13|6|CJCT 14|16|QUANT 15|16|MOD
+	16|13|OBJ 17|6|PUNCT
+%sit:	862
+@End

@@ -1,0 +1,101 @@
+@UTF8
+@PID:	11312/c-00011091-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, MOT Mother, SIS Sister, FAT Father
+@ID:	eng|Braunwald|CHI|02;11.19|female|||Target_Child|||
+@ID:	eng|Braunwald|MOT|||||Mother|||
+@ID:	eng|Braunwald|SIS|||||Sister|||
+@ID:	eng|Braunwald|FAT|||||Father|||
+@Date:	08-FEB-1974
+*CHI:	I don't know why it's dark out .
+%mor:	pro:sub|I mod|do~neg|not v|know adv:wh|why pro|it~cop|be&3S
+	adj|dark adv|out .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|7|LINK 6|7|SUBJ 7|4|COMP 8|7|PRED
+	9|7|JCT 10|4|PUNCT
+%sit:	409
+*CHI:	it's possible that I saw the moon only .
+%mor:	pro|it~cop|be&3S adj|possible rel|that pro:sub|I v|see&PAST det|the
+	v|moon qn|only .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|6|LINK 5|6|SUBJ 6|2|CJCT 7|8|DET 8|6|COMP
+	9|8|OBJ 10|2|PUNCT
+%sit:	410
+*SIS:	but I saw the moon .
+%mor:	conj|but pro:sub|I v|see&PAST det|the n|moon .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+%sit:	410
+*CHI:	it's possible .
+%mor:	pro|it~cop|be&3S adj|possible .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+%sit:	410
+*SIS:	but I saw it .
+%mor:	conj|but pro:sub|I v|see&PAST pro|it .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+%sit:	410
+*FAT:	hi, Wifey .
+%mor:	co|hi cm|cm n:prop|Wifey .
+%gra:	1|3|COM 2|1|LP 3|0|ROOT 4|3|PUNCT
+%sit:	411
+*CHI:	Mom, you're a wife .
+%mor:	n:prop|Mom cm|cm pro|you~aux|be&PRES det|a n|wife .
+%gra:	1|4|LINK 2|1|LP 3|4|SUBJ 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+%sit:	411
+*SIS:	you know what, Mommy's a wife to Daddy and a mommy to us .
+%mor:	pro|you v|know pro:wh|what cm|cm n:prop|Mommy~poss|s det|a n|wife
+	prep|to n:prop|Daddy coord|and det|a n|mommy prep|to pro:obj|us .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|3|LP 5|3|XMOD 6|5|POSS 7|8|DET 8|5|OBJ
+	9|8|NJCT 10|9|POBJ 11|10|CONJ 12|13|DET 13|11|COORD 14|13|NJCT 15|14|POBJ
+	16|2|PUNCT
+%sit:	411
+*CHI:	I better call my folks .
+%mor:	pro:sub|I adv|good&CP v|call pro:poss:det|my n|folk-PL .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|5|MOD 5|3|OBJ 6|3|PUNCT
+%sit:	411
+*CHI:	I know you're not gonna have a day off .
+%mor:	pro:sub|I v|know pro|you~aux|be&PRES neg|not part|go-PRESP~inf|to
+	v|have det|a n|day adv|off .
+%gra:	1|2|SUBJ 2|0|ROOT 3|6|SUBJ 4|6|AUX 5|4|NEG 6|2|COMP 7|8|INF 8|6|XCOMP
+	9|10|DET 10|8|OBJ 11|8|JCT 12|2|PUNCT
+%sit:	412
+*CHI:	gonna play tennis ?
+%mor:	part|go-PRESP~inf|to n|play n|tennis ?
+%gra:	1|0|INCROOT 2|3|INF 3|4|MOD 4|1|OBJ 5|1|PUNCT
+%sit:	412
+*FAT:	I don't know .
+%mor:	pro:sub|I mod|do~neg|not v|know .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|PUNCT
+%sit:	412
+*FAT:	I took too much on .
+%mor:	pro:sub|I v|take&PAST adv|too adv|much prep|on .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|2|JCT 5|2|JCT 6|2|PUNCT
+%sit:	412
+*CHI:	Mommy you could go in our bathroom, but don't flush it because it's
+	broken .
+%mor:	n:prop|Mommy pro|you mod|could v|go prep|in pro:poss:det|our
+	n|+n|bath+n|room cm|cm conj|but mod|do~neg|not v|flush pro|it
+	conj|because pro|it~aux|be&3S part|break&PASTP .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|7|MOD 7|5|POBJ 8|4|LP
+	9|12|LINK 10|12|AUX 11|10|NEG 12|4|CJCT 13|12|OBJ 14|17|LINK 15|17|SUBJ
+	16|17|AUX 17|12|CJCT 18|4|PUNCT
+%sit:	413
+*MOT:	I think I can flush it .
+%mor:	pro:sub|I v|think pro:sub|I mod|can v|flush pro|it .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|SUBJ 4|5|AUX 5|2|COMP 6|5|OBJ 7|2|PUNCT
+%sit:	413
+*CHI:	I think so too .
+%mor:	pro:sub|I v|think conj|so post|too .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|3|PQ 5|2|PUNCT
+%sit:	413
+*CHI:	how_come it takes so little apple ?
+%mor:	adv:wh|how_come pro|it v|take-3S adv|so adj|little n|apple ?
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|MOD 6|3|OBJ 7|3|PUNCT
+%sit:	414
+*CHI:	how_come so big bag ?
+%mor:	adv:wh|how_come adv|so adj|big n|bag ?
+%gra:	1|4|LINK 2|4|JCT 3|4|MOD 4|0|INCROOT 5|4|PUNCT
+%sit:	414
+*MOT:	because we have the bag .
+%mor:	conj|because pro:sub|we v|have det|the n|bag .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+%sit:	414
+@End

@@ -1,30 +1,40 @@
-from __future__ import division
-import nltk
-from pattern.en import conjugate as conjugate_en
-from os.path import expanduser
-from nltk.tag.senna import SennaTagger
-import os
-import sys
-from nltk.stem.porter import *
 import glob
+import logging
+import re
 import itertools
+import os
 
 
-files = itertools.chain.from_iterable(glob.iglob(os.path.join(root,'*.cha'))
- for root, dirs, files in os.walk('scripts/'))
+FILES = glob.iglob("scripts*/**/*.cha")
 
-for filename in files:
-	with open(filename) as myfile:
 
-		fulltext = open(os.getcwd() + '/' + filename).read()
-		match = re.search("eng\|(.*?)\|CHI\|(.*?)\|(.*?)\|", fulltext)
-		group = match.group(1) if match else None
-		gender = match.group(2) if match else None
-		age = match.group(3) if match else None
-		match = re.search("@Participants:.*CHI (.*?) ", fulltext);
-		name = match.group(1) if match else None
-		
-		if not (group and gender and age and name):
-			print filename
+logging.basicConfig(level=logging.WARNING)
 
-			
+
+def main():
+    for fname in FILES:
+        with open(fname, "r") as source:
+            # Horribly inefficient, but we'll allow it.
+            filestring = source.read()
+            match = re.search("eng\|(.*?)\|CHI\|(.*?)\|(.*?)\|", filestring)
+            group = match.group(1) if match else None
+            if not group:
+                logging.warning("Missing group: %s", fname)
+                break
+            gender = match.group(2) if match else None
+            if not gender:
+                logging.warning("Missing gender: %s", fname)
+                break
+            age = match.group(3) if match else None
+            if not age:
+                logging.warning("Missing age: %s", fname)
+                break
+            match = re.search("@Participants:.*CHI (.*?) ", fulltext)
+            name = match.group(1) if match else None
+            if not name:
+                logging.warning("Missing name: %s", fname)
+                break
+
+
+if __name__ == "__main__":
+    main()

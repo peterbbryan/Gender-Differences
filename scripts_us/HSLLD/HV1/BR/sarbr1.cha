@@ -1,0 +1,702 @@
+@UTF8
+@PID:	11312/c-00034835-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child , MOT Mother , INV1 Investigator , INV2 Investigator
+@ID:	eng|HSLLD|CHI|3;09.30|female|||Target_Child|||
+@ID:	eng|HSLLD|MOT|||||Mother|10||
+@ID:	eng|HSLLD|INV1|||||Investigator|||
+@ID:	eng|HSLLD|INV2|||||Investigator|||
+@Birth of CHI:	28-OCT-1985
+@Date:	27-JUL-1989
+@Location:	Boston , MA USA
+@Situation:	Home Visit 1
+@Activities:	Book Reading 1
+@Bg:	bookreading
+*INV1:	All right here we go .
+%mor:	n:prop|All adv|right adv|here pro:sub|we v|go .
+%gra:	1|5|LINK 2|1|JCT 3|1|JCT 4|5|SUBJ 5|0|ROOT 6|5|PUNCT
+@Comment:	Time is 03:04
+@Comment:	Chi and Mot seated at kitchen table next to each other; Throughout the book reading Chi turns the pages and is intent on the pictures as they are narrated to her
+*INV2:	okay [>] .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	okay [<] .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	ready ?
+%mor:	adj|ready ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%add:	Chi
+*MOT:	the very hungry caterpillar .
+%mor:	det|the adv|very adj|hungry n|caterpillar .
+%gra:	1|2|DET 2|4|JCT 3|4|MOD 4|0|INCROOT 5|4|PUNCT
+*CHI:	the very hungry caterpillar .
+%mor:	det|the adv|very adj|hungry n|caterpillar .
+%gra:	1|2|DET 2|4|JCT 3|4|MOD 4|0|INCROOT 5|4|PUNCT
+*MOT:	(.) for my sister Christa .
+%mor:	conj|for pro:poss:det|my n|sister n:prop|Christa .
+%gra:	1|3|LINK 2|3|MOD 3|0|INCROOT 4|3|APP 5|3|PUNCT
+%act:	bef turns page
+*CHI:	xxx .
+*MOT:	in the light of the moon a little egg lay on the leaf .
+%mor:	prep|in det|the n|light prep|of det|the n|moon det|a adj|little
+	n|egg adj|lay prep|on det|the n|leaf .
+%gra:	1|0|INCROOT 2|3|DET 3|1|POBJ 4|3|NJCT 5|6|DET 6|4|POBJ 7|9|DET 8|9|MOD
+	9|6|CMOD 10|9|XMOD 11|10|JCT 12|13|DET 13|11|POBJ 14|1|PUNCT
+*MOT:	that's the little egg .
+%mor:	pro:dem|that~cop|be&3S det|the adj|little n|egg .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|DET 4|5|MOD 5|2|PRED 6|2|PUNCT
+%add:	Chi
+%act:	points to little egg on leaf
+*MOT:	one Sunday mornin(g) the warm sun came up and pop out of the egg came a tiny and very hungry caterpillar .
+%mor:	det:num|one n:prop|Sunday n|morning det|the adj|warm n|sun
+	v|come&PAST adv|up coord|and n|pop adv|out prep|of det|the n|egg
+	v|come&PAST det|a adj|tiny coord|and adv|very adj|hungry
+	n|caterpillar .
+%gra:	1|3|QUANT 2|3|MOD 3|7|LINK 4|6|DET 5|6|MOD 6|7|SUBJ 7|0|ROOT 8|7|JCT
+	9|7|CONJ 10|9|COORD 11|12|JCT 12|10|NJCT 13|14|DET 14|15|SUBJ 15|12|POBJ
+	16|17|DET 17|10|XMOD 18|17|CONJ 19|21|JCT 20|21|MOD 21|18|COORD
+	22|7|PUNCT
+*MOT:	(.) on Monday he ate through one apple and he was still hungry .
+%mor:	prep|on n:prop|Monday pro:sub|he v|eat&PAST adj|through
+	pro:indef|one n|apple coord|and pro:sub|he aux|be&PAST&13S adv|still
+	adj|hungry .
+%gra:	1|4|LINK 2|1|POBJ 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|7|MOD 7|5|OBJ 8|12|LINK
+	9|12|SUBJ 10|12|AUX 11|12|JCT 12|4|JCT 13|4|PUNCT
+*MOT:	on Tuesday he ate through two pears and he was still hungry .
+%mor:	prep|on n:prop|Tuesday pro:sub|he v|eat&PAST prep|through
+	det:num|two n|pear-PL coord|and pro:sub|he cop|be&PAST&13S adv|still
+	adj|hungry .
+%gra:	1|4|LINK 2|1|POBJ 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|7|QUANT 7|5|POBJ 8|4|CONJ
+	9|10|SUBJ 10|8|COORD 11|12|JCT 12|10|PRED 13|4|PUNCT
+*MOT:	on Wednesday he ate through three plums and <he was still hungry> [=! mock disbelief] .
+%mor:	prep|on n:prop|Wednesday pro:sub|he v|eat&PAST prep|through
+	det:num|three n|plum-PL coord|and pro:sub|he cop|be&PAST&13S
+	adv|still adj|hungry .
+%gra:	1|4|LINK 2|1|POBJ 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|7|QUANT 7|5|POBJ 8|4|CONJ
+	9|10|SUBJ 10|8|COORD 11|12|JCT 12|10|PRED 13|4|PUNCT
+*MOT:	on Thursday he ate through four strawberries but <he was still hungry> [=! mock disbelief] .
+%mor:	prep|on n:prop|Thursday pro:sub|he v|eat&PAST prep|through
+	det:num|four n|strawberry-PL conj|but pro:sub|he cop|be&PAST&13S
+	adv|still adj|hungry .
+%gra:	1|4|LINK 2|1|POBJ 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|7|QUANT 7|5|POBJ
+	8|10|LINK 9|10|SUBJ 10|4|CJCT 11|12|JCT 12|10|PRED 13|4|PUNCT
+*MOT:	on Friday he ate through five oranges (.) but +...
+%mor:	prep|on n:prop|Friday pro:sub|he v|eat&PAST prep|through
+	det:num|five n|orange-PL conj|but +...
+%gra:	1|4|LINK 2|1|POBJ 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|7|QUANT 7|5|POBJ 8|4|JCT
+	9|8|PUNCT
+*CHI:	++ still hungry !
+%mor:	adv|still adj|hungry !
+%gra:	1|2|JCT 2|0|ROOT 3|2|PUNCT
+*MOT:	he was still hungry .
+%mor:	pro:sub|he cop|be&PAST&13S adv|still adj|hungry .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|2|PRED 5|2|PUNCT
+*MOT:	on Saturday he ate through one piece of chocolate cake , one ice cream cone one pickle , one slice of , swiss cheese a slice of salami , one lollipop , one piece of cherry pie , one sausage , one cupcake , one slice of watermelon , that night he had a stomach ache .
+%mor:	prep|on n:prop|Saturday pro:sub|he v|eat&PAST prep|through
+	pro:indef|one n|piece prep|of n|chocolate n|cake cm|cm det:num|one
+	n|ice n|cream n|cone det:num|one n|pickle cm|cm det:num|one n|slice
+	prep|of cm|cm adj|swiss n|cheese det|a n|slice prep|of n|salami
+	cm|cm det:num|one n|lollipop cm|cm det:num|one n|piece prep|of
+	n|cherry n|pie cm|cm det:num|one n|sausage cm|cm det:num|one
+	n|cupcake cm|cm det:num|one n|slice prep|of n|+n|water+n|melon cm|cm
+	rel|that n|night pro:sub|he v|have&PAST det|a n|stomach n|ache .
+%gra:	1|4|LINK 2|1|POBJ 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|5|POBJ 7|6|OBJ 8|7|NJCT
+	9|10|MOD 10|8|POBJ 11|10|LP 12|13|QUANT 13|10|CMOD 14|13|OBJ 15|14|OBJ
+	16|17|QUANT 17|20|MOD 18|17|LP 19|20|QUANT 20|15|CMOD 21|20|NJCT 22|21|LP
+	23|24|MOD 24|21|POBJ 25|26|DET 26|24|OBJ 27|26|NJCT 28|34|MOD 29|28|LP
+	30|31|QUANT 31|34|MOD 32|31|LP 33|34|QUANT 34|27|POBJ 35|34|NJCT
+	36|37|MOD 37|46|MOD 38|37|LP 39|40|QUANT 40|46|MOD 41|40|LP 42|43|QUANT
+	43|46|MOD 44|43|LP 45|46|QUANT 46|35|POBJ 47|46|NJCT 48|47|POBJ 49|48|LP
+	50|48|XMOD 51|50|OBJ 52|53|SUBJ 53|51|CMOD 54|56|DET 55|56|MOD 56|53|OBJ
+	57|4|PUNCT
+%act:	looks at Chi
+*MOT:	(.) the next day was Sunday again .
+%mor:	det|the adj|next n|day cop|be&PAST&13S n:prop|Sunday adv|again .
+%gra:	1|3|DET 2|3|MOD 3|4|SUBJ 4|0|ROOT 5|4|PRED 6|5|JCT 7|4|PUNCT
+*MOT:	the caterpillar ate through one nice green leaf , and after that he felt much better .
+%mor:	det|the n|caterpillar v|eat&PAST prep|through pro:indef|one
+	adj|nice adj|green n|leaf cm|cm conj|and conj|after adv|that
+	pro:sub|he v|feel&PAST adv|much adj|good&CP .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|8|MOD 6|8|MOD 7|8|MOD 8|4|POBJ
+	9|8|LP 10|3|XJCT 11|14|LINK 12|14|JCT 13|14|SUBJ 14|10|CJCT 15|14|JCT
+	16|14|JCT 17|3|PUNCT
+*MOT:	now he wasn't hungry anymore and he wasn't a little caterpillar anymore he was a big fat caterpillar he [>] built a small house called a cocoon around himself and he stayed inside for more than two weeks .
+%mor:	adv|now pro:sub|he cop|be&PAST&13S~neg|not adj|hungry adv|anymore
+	coord|and pro:sub|he cop|be&PAST&13S~neg|not det|a adj|little
+	n|caterpillar adv|anymore pro:sub|he cop|be&PAST&13S det|a adj|big
+	n|fat n|caterpillar pro:sub|he v|build&PAST det|a adj|small n|house
+	v|call-PAST det|a n|cocoon prep|around pro:refl|himself coord|and
+	pro:sub|he v|stay-PAST adv|inside prep|for qn|more prep|than
+	det:num|two n|week-PL .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|3|NEG 5|3|PRED 6|3|JCT 7|9|LINK 8|9|SUBJ
+	9|3|PRED 10|9|NEG 11|13|DET 12|13|MOD 13|9|PRED 14|13|NJCT 15|16|SUBJ
+	16|13|XMOD 17|20|DET 18|19|MOD 19|20|MOD 20|16|PRED 21|22|SUBJ 22|20|XMOD
+	23|25|DET 24|25|MOD 25|26|SUBJ 26|22|COMP 27|28|DET 28|26|OBJ 29|28|NJCT
+	30|29|POBJ 31|33|LINK 32|33|SUBJ 33|30|CJCT 34|33|JCT 35|33|JCT
+	36|35|POBJ 37|36|JCT 38|39|QUANT 39|37|POBJ 40|3|PUNCT
+*CHI:	<&=giggles > [<] .
+*MOT:	then he nibbled a hole in the cocoon and pushed his way out↑ (..) and +...
+%mor:	adv:tem|then pro:sub|he v|nibble-PAST det|a n|hole prep|in det|the
+	n|cocoon coord|and v|push-PAST pro:poss:det|his n|way adv|out
+	coord|and +...
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|5|NJCT 7|8|DET 8|6|POBJ
+	9|3|CONJ 10|9|COORD 11|12|MOD 12|10|OBJ 13|12|NJCT 14|12|COORD 15|3|PUNCT
+%act:	looks at Chi
+*MOT:	he was a beautiful butterfly !
+%mor:	pro:sub|he cop|be&PAST&13S det|a adj|beautiful n|+n|butter+n|fly !
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|DET 4|5|MOD 5|2|PRED 6|2|PUNCT
+*CHI:	yeah .
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	(.) the end .
+%mor:	det|the n|end .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*MOT:	caterpillars , turn into butterflies .
+%mor:	n|caterpillar-PL cm|cm n|turn prep|into n|+n|butter+n|fly-PL .
+%gra:	1|0|INCROOT 2|1|LP 3|1|XMOD 4|3|NJCT 5|4|POBJ 6|1|PUNCT
+*CHI:	yeah !
+%mor:	co|yeah !
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	(..) xxx that one caterpillar !
+%mor:	rel|that det:num|one n|caterpillar !
+%gra:	1|2|LINK 2|3|QUANT 3|0|INCROOT 4|3|PUNCT
+%act:	bef Chi appropriates book for herself
+*CHI:	xxx .
+*CHI:	and he has a black black black !
+%mor:	conj|and pro:sub|he aux|have&3S det|a adj|black adj|black n|black !
+%gra:	1|7|LINK 2|7|SUBJ 3|7|AUX 4|7|DET 5|7|MOD 6|7|MOD 7|0|INCROOT 8|7|PUNCT
+*MOT:	black ?
+%mor:	adj|black ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	black spots ?
+%mor:	adj|black n|spot-PL ?
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*CHI:	uhhuh .
+%mor:	co|uhhuh .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	(.) now you're gonna read to me ?
+%mor:	adv|now pro|you~aux|be&PRES part|go-PRESP~inf|to v|read&ZERO
+	prep|to pro:obj|me ?
+%gra:	1|4|JCT 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|INF 6|4|XCOMP 7|6|JCT 8|7|POBJ
+	9|4|PUNCT
+*CHI:	&=gasp .
+*CHI:	yeah .
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	little caterpillar in this [%act: points and looks at Mot] +...
+%mor:	adj|little n|caterpillar prep|in pro:dem|this +...
+%gra:	1|2|MOD 2|0|INCROOT 3|2|JCT 4|3|POBJ 5|2|PUNCT
+*CHI:	what ?
+%mor:	pro:wh|what ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	++ egg .
+%mor:	n|egg .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	egg .
+%mor:	n|egg .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	and xxx up .
+%mor:	conj|and adv|up .
+%gra:	1|0|INCROOT 2|1|COORD 3|1|PUNCT
+*CHI:	(.) him eat this [/] this apple [%act: points] .
+%mor:	pro:obj|him v|eat det|this n|apple .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*CHI:	(.) this one [%act: points] !
+%mor:	det|this pro:indef|one !
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*CHI:	this [%act: points] !
+%mor:	pro:dem|this !
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	(.) this !
+%mor:	pro:dem|this !
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	him eat (.) what [%act: points and looks at Mot] ?
+%mor:	pro:obj|him v|eat pro:wh|what ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*MOT:	plums .
+%mor:	n|plum-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	plums [%act: points] .
+%mor:	n|plum-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	strawberries (.) and [%act: points] +...
+%mor:	n|strawberry-PL coord|and +...
+%gra:	1|0|INCROOT 2|1|CONJ 3|1|PUNCT
+*CHI:	an orange [%act: points] .
+%mor:	det|a n|orange .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*CHI:	strawberryrawberryrawberry@c [%act: runs finger across line of strawberries] .
+%mor:	chi|strawberryrawberryrawberry .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	and then he saw another thing .
+%mor:	conj|and adv:tem|then pro:sub|he v|see&PAST qn|another n|thing .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|6|QUANT 6|4|OBJ 7|4|PUNCT
+*CHI:	(..) what [%act: looks at Mot] ?
+%mor:	pro:wh|what ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	you <tell me> [>] .
+%mor:	pro|you v|tell pro:obj|me .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+%int:	prompting tone
+*CHI:	<chocolate cake> [<] ?
+%mor:	n|chocolate n|cake ?
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*MOT:	yeah .
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	what↑ ice cream [%act: points and looks at Mot] ?
+%mor:	pro:wh|what n|ice n|cream ?
+%gra:	1|3|LINK 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+*MOT:	mhm .
+%mor:	co|yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	pickle [%act: points] .
+%mor:	n|pickle .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	mhm .
+%mor:	co|yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	cheese [%act: points] .
+%mor:	n|cheese .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	yup .
+%mor:	co|yup .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	what [%act: looks at Mot] ?
+%mor:	pro:wh|what ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	lunch meat (.) salami .
+%mor:	n|lunch n|meat n|salami .
+%gra:	1|3|MOD 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+*CHI:	salami .
+%mor:	n|salami .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	and piece of lollipop (.) and piece lollipop [%act: points] .
+%mor:	conj|and n|piece prep|of n|lollipop coord|and n|piece n|lollipop .
+%gra:	1|0|INCROOT 2|1|COORD 3|2|NJCT 4|3|POBJ 5|4|CONJ 6|7|MOD 7|5|COORD
+	8|1|PUNCT
+*CHI:	and pizza and hotdog (.) what [%act: points] ?
+%mor:	coord|and n|pizza coord|and n|+adj|hot+n|dog pro:wh|what ?
+%gra:	1|0|INCROOT 2|1|COORD 3|2|CONJ 4|5|MOD 5|3|COORD 6|1|PUNCT
+*CHI:	pancake .
+%mor:	n|pancake .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	<&=laughs > [>] .
+*INV1:	<&=laughs > [<] .
+*CHI:	no !
+%mor:	co|no !
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	cupcake .
+%mor:	n|cupcake .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	cupcake .
+%mor:	n|cupcake .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	and what's this↑ this pizza [%act: points] ?
+%mor:	coord|and pro:wh|what~cop|be&3S pro:dem|this det|this n|pizza ?
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|6|DET 6|4|OBJ 7|3|PUNCT
+*CHI:	yeah [>] .
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	no [<] that's cherry pie .
+%mor:	co|no pro:dem|that~cop|be&3S n|cherry n|pie .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|5|MOD 5|3|PRED 6|3|PUNCT
+*CHI:	cherry pie .
+%mor:	n|cherry n|pie .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*MOT:	it does look like pizza though .
+%mor:	pro|it mod|do&3S v|look prep|like n|pizza adv|though .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|4|POBJ 6|5|NJCT 7|3|PUNCT
+*MOT:	(.) and this [%act: points] ?
+%mor:	coord|and pro:dem|this ?
+%gra:	1|0|INCROOT 2|1|COORD 3|1|PUNCT
+*CHI:	(.) what [%act: looks at Mot] ?
+%mor:	pro:wh|what ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	watermelon .
+%mor:	n|+n|water+n|melon .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	watermelon .
+%mor:	n|+n|water+n|melon .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	xxx not anymore .
+%mor:	neg|not adv|anymore .
+%gra:	1|0|NEG 2|1|JCT 3|1|PUNCT
+*CHI:	him fat .
+%mor:	pro:obj|him n|fat .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+%act:	bef turns page
+*MOT:	he's fat and he makes a cocoon +...
+%mor:	pro:sub|he~cop|be&3S adj|fat coord|and pro:sub|he v|make-3S det|a
+	n|cocoon +...
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|6|LINK 5|6|SUBJ 6|2|CJCT 7|8|DET 8|6|OBJ
+	9|2|PUNCT
+*CHI:	him bye bye .
+%mor:	pro:obj|him co|bye co|bye .
+%gra:	1|0|INCROOT 2|1|COM 3|1|COM 4|1|PUNCT
+*CHI:	&=gasps him big butterfly !
+%mor:	pro:obj|him adj|big n|+n|butter+n|fly !
+%gra:	1|3|MOD 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+*MOT:	pretty too huh ?
+%mor:	adv|pretty adv|too co|huh ?
+%gra:	1|3|JCT 2|3|JCT 3|0|INCROOT 4|3|PUNCT
+*CHI:	mhm .
+%mor:	co|yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	all done !
+%mor:	post|all part|do&PASTP !
+%gra:	1|0|INCROOT 2|1|INCROOT 3|2|PUNCT
+%int:	elevated pitch
+*INV1:	great .
+%mor:	adj|great .
+%gra:	1|0|INCROOT 2|1|PUNCT
+@Comment:	Time is 7: 19
+@Activities:	Book Reading number 2 <cat and dog>
+*INV1:	now do you have a favorite book (.) that you want your mom to read to you ?
+%mor:	adv|now v|do pro|you v|have det|a adj|favorite n|book rel|that
+	pro|you v|want pro:poss:det|your n|mom inf|to v|read&ZERO prep|to
+	pro|you ?
+%gra:	1|2|JCT 2|4|LINK 3|4|SUBJ 4|0|ROOT 5|7|DET 6|7|MOD 7|4|OBJ 8|10|LINK
+	9|10|SUBJ 10|7|CMOD 11|12|MOD 12|10|OBJ 13|14|INF 14|12|XCOMP 15|14|JCT
+	16|15|POBJ 17|4|PUNCT
+%add:	Chi
+*CHI:	hunhunh .
+%mor:	co|no .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	<&=laughs > [>] .
+*INV1:	oh [<] yeah ?
+%mor:	co|oh co|yeah ?
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+*INV2:	&aw you showed me many favorite books back there .
+%mor:	pro|you v|show-PAST pro:obj|me qn|many n|favorite n|book-PL
+	adv|back adv|there .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|5|QUANT 5|6|MOD 6|2|COMP 7|8|JCT 8|6|JCT
+	9|2|PUNCT
+%add:	Chi
+*INV2:	<why don't you pick out one of them> [>] ?
+%mor:	adv:wh|why mod|do~neg|not pro|you v|pick prep|out pro:indef|one
+	prep|of pro:obj|them ?
+%gra:	1|5|LINK 2|5|AUX 3|2|NEG 4|5|SUBJ 5|0|ROOT 6|5|JCT 7|6|POBJ 8|7|NJCT
+	9|8|POBJ 10|5|PUNCT
+*CHI:	<you have some more book> [<] .
+%mor:	pro|you v|have qn|some qn|more n|book .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|QUANT 4|5|QUANT 5|2|OBJ 6|2|PUNCT
+*CHI:	you have (a)nother book .
+%mor:	pro|you v|have qn|another n|book .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|QUANT 4|2|OBJ 5|2|PUNCT
+*MOT:	she saw your other book .
+%mor:	pro:sub|she v|see&PAST pro:poss:det|your qn|other n|book .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|MOD 4|5|QUANT 5|2|OBJ 6|2|PUNCT
+%add:	INV1 , INV2
+*INV2:	&ah .
+*INV1:	she saw the other book .
+%mor:	pro:sub|she v|see&PAST det|the qn|other n|book .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|DET 4|5|QUANT 5|2|OBJ 6|2|PUNCT
+*INV1:	curses .
+%mor:	n|curse-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	passes Cat and Dog to Mot
+*MOT:	what's this ?
+%mor:	pro:wh|what~cop|be&3S pro:dem|this ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+%add:	Chi
+*CHI:	doggie and kitty .
+%mor:	n|dog-DIM coord|and adj|kit&dn-Y .
+%gra:	1|0|INCROOT 2|1|CONJ 3|2|COORD 4|1|PUNCT
+*MOT:	0 [%act: flips page and points to picture] .
+*CHI:	spider .
+%mor:	n|spider .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	spider↑ what's this [%act: points] ?
+%mor:	n|spider rel|what~aux|be&3S pro:dem|this ?
+%gra:	1|0|INCROOT 2|3|LINK 3|1|CMOD 4|3|OBJ 5|1|PUNCT
+*CHI:	xxx .
+*MOT:	what ?
+%mor:	pro:wh|what ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	xxx .
+*CHI:	xxx .
+*CHI:	ladybug .
+%mor:	n|+n|lady+n|bug .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	what ?
+%mor:	pro:wh|what ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	fly .
+%mor:	n|fly .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	fly .
+%mor:	n|fly .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	(.) cat and dog .
+%mor:	n|cat coord|and n|dog .
+%gra:	1|0|INCROOT 2|1|CONJ 3|2|COORD 4|1|PUNCT
+*CHI:	cat and dog .
+%mor:	n|cat coord|and n|dog .
+%gra:	1|0|INCROOT 2|1|CONJ 3|2|COORD 4|1|PUNCT
+*MOT:	who walks (.) out through the back door ?
+%mor:	rel|who v|walk-3S adv|out prep|through det|the adj|back n|door ?
+%gra:	1|2|LINK 2|0|ROOT 3|2|JCT 4|2|JCT 5|7|DET 6|7|MOD 7|4|POBJ 8|2|PUNCT
+%act:	points
+*MOT:	who walks pitterpatter@o down the garden ?
+%mor:	rel|who v|walk-3S on|pitterpatter prep|down det|the n|garden ?
+%gra:	1|2|LINK 2|0|ROOT 3|2|OBJ 4|3|JCT 5|6|DET 6|4|POBJ 7|2|PUNCT
+%act:	points
+*MOT:	who walks tiptoe along the wall ?
+%mor:	rel|who v|walk-3S v|+adj|tip+v|toe prep|along det|the n|wall ?
+%gra:	1|2|LINK 2|0|ROOT 3|2|OBJ 4|3|JCT 5|6|DET 6|4|POBJ 7|2|PUNCT
+%act:	points
+*CHI:	kitty .
+%mor:	adj|kit&dn-Y .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	cat .
+%mor:	n|cat .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	cat .
+%mor:	n|cat .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	who jumps down into the alley ?
+%mor:	rel|who v|jump-3S adv|down prep|into det|the n|alley ?
+%gra:	1|2|LINK 2|0|ROOT 3|2|JCT 4|2|JCT 5|6|DET 6|4|POBJ 7|2|PUNCT
+%act:	points
+*CHI:	cat [>] .
+%mor:	n|cat .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	<who goes> [<] +/.
+%mor:	pro:wh|who v|go-3S +/.
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+%act:	points
+*CHI:	cat .
+%mor:	n|cat .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	scratch [//] scritch@o scratch &=laughs against the fence ?
+%mor:	on|scritch n|scratch prep|against det|the n|fence ?
+%gra:	1|0|INCROOT 2|1|OBJ 3|2|NJCT 4|5|DET 5|3|POBJ 6|1|PUNCT
+*CHI:	kitty .
+%mor:	adj|kit&dn-Y .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	who walks tall tail between the bottles ?
+%mor:	rel|who v|walk-3S adj|tall n|tail prep|between det|the n|bottle-PL
+	?
+%gra:	1|2|LINK 2|0|ROOT 3|4|MOD 4|2|JCT 5|2|JCT 6|7|DET 7|5|POBJ 8|2|PUNCT
+%act:	points
+*CHI:	kitty .
+%mor:	adj|kit&dn-Y .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	kitty .
+%mor:	adj|kit&dn-Y .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	kitty .
+%mor:	adj|kit&dn-Y .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	who should watch out (a)round the corner ?
+%mor:	pro:wh|who mod|should v|watch adv|out prep|around det|the n|corner
+	?
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|3|JCT 6|7|DET 7|5|POBJ 8|3|PUNCT
+%act:	points
+*MOT:	cat .
+%mor:	n|cat .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	watch out cat !
+%mor:	v|watch prep|out n|cat !
+%gra:	1|0|ROOT 2|1|JCT 3|2|POBJ 4|1|PUNCT
+%int:	animated
+*MOT:	dog !
+%mor:	v|dog !
+%gra:	1|0|ROOT 2|1|PUNCT
+%int:	same pitch as previous utterance
+*MOT:	uhoh .
+%mor:	co|uhoh .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%int:	warning
+*CHI:	what ?
+%mor:	pro:wh|what ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	cats [/] (.) cats and dogs don't get along in this book .
+%mor:	n|cat-PL coord|and n|dog-PL mod|do~neg|not v|get adv|along prep|in
+	det|this n|book .
+%gra:	1|6|SUBJ 2|6|LINK 3|6|SUBJ 4|6|AUX 5|4|NEG 6|0|ROOT 7|6|JCT 8|6|JCT
+	9|10|DET 10|8|POBJ 11|6|PUNCT
+*MOT:	quick cat quick [!] who runs snip snap around the corner ?
+%mor:	adv|quick n|cat adv|quick rel|who v|run-3S v|snip n|snap
+	prep|around det|the n|corner ?
+%gra:	1|2|JCT 2|0|INCROOT 3|2|JCT 4|5|LINK 5|2|CMOD 6|5|OBJ 7|6|OBJ 8|7|NJCT
+	9|10|DET 10|8|POBJ 11|2|PUNCT
+%act:	points
+*MOT:	the dog !
+%mor:	det|the n|dog !
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*MOT:	quick cat quick [!] who runs snip snap (a)round the corner between the bottles getting closer ?
+%mor:	adv|quick n|cat adv|quick rel|who v|run-3S v|snip n|snap
+	prep|around det|the n|corner prep|between det|the n|bottle-PL
+	part|get-PRESP adj|close-CP ?
+%gra:	1|2|JCT 2|0|INCROOT 3|2|JCT 4|5|LINK 5|2|CMOD 6|5|OBJ 7|6|OBJ 8|7|NJCT
+	9|10|DET 10|8|POBJ 11|10|NJCT 12|13|DET 13|11|POBJ 14|7|XJCT 15|14|JCT
+	16|2|PUNCT
+%act:	turns page
+*MOT:	dog@q .
+%mor:	meta|dog .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	quick cat quick [!] who runs snip snap down the alley getting closer↑ getting closer ?
+%mor:	adv|quick n|cat adv|quick rel|who v|run-3S v|snip n|snap adv|down
+	det|the n|alley part|get-PRESP n|close&dv-AGT n:gerund|get-PRESP
+	adj|close-CP ?
+%gra:	1|2|JCT 2|0|INCROOT 3|2|NJCT 4|5|LINK 5|3|CMOD 6|5|JCT 7|6|OBJ 8|5|JCT
+	9|10|DET 10|5|OBJ 11|12|MOD 12|10|XMOD 13|12|XMOD 14|13|JCT 15|2|PUNCT
+%act:	points
+*CHI:	kitty .
+%mor:	adj|kit&dn-Y .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	no dog [>] .
+%mor:	qn|no n|dog .
+%gra:	1|2|QUANT 2|0|INCROOT 3|2|PUNCT
+*CHI:	dog [<] .
+%mor:	v|dog .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	dog .
+%mor:	v|dog .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	snip snap jump cat !
+%mor:	v|snip n|snap n|jump n|cat !
+%gra:	1|0|ROOT 2|4|MOD 3|4|MOD 4|1|OBJ 5|1|PUNCT
+*CHI:	snip snap jump [>] !
+%mor:	v|snip n|snap n|jump !
+%gra:	1|0|ROOT 2|3|MOD 3|1|OBJ 4|1|PUNCT
+*MOT:	jump [<] dog !
+%mor:	n|jump n|dog !
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*CHI:	jump dog !
+%mor:	n|jump n|dog !
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*MOT:	who falls back ?
+%mor:	rel|who v|fall-3S adv|back ?
+%gra:	1|2|LINK 2|0|ROOT 3|2|JCT 4|2|PUNCT
+%act:	points
+*CHI:	(.) dog back kitty .
+%mor:	n|dog adv|back adj|kit&dn-Y .
+%gra:	1|0|INCROOT 2|3|JCT 3|1|XMOD 4|1|PUNCT
+*MOT:	the dog &=laughs .
+%mor:	det|the n|dog .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*CHI:	dog &=laughs .
+%mor:	v|dog .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	along the wall who walks tiptoe ?
+%mor:	prep|along det|the n|wall rel|who v|walk-3S v|+adj|tip+v|toe ?
+%gra:	1|0|INCROOT 2|3|DET 3|1|POBJ 4|5|LINK 5|1|POBJ 6|5|OBJ 7|1|PUNCT
+*CHI:	tiptoe .
+%mor:	v|+adj|tip+v|toe .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	up the garden who walks pitterpatter@o ?
+%mor:	prep|up det|the n|garden rel|who v|walk-3S on|pitterpatter ?
+%gra:	1|0|INCROOT 2|3|DET 3|1|POBJ 4|5|LINK 5|1|POBJ 6|5|OBJ 7|1|PUNCT
+*CHI:	pitterpatter@o .
+%mor:	on|pitterpatter .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	through the back door who comes back ?
+%mor:	prep|through det|the adj|back n|door rel|who v|come-3S adv|back ?
+%gra:	1|0|INCROOT 2|4|DET 3|4|MOD 4|1|POBJ 5|6|LINK 6|1|POBJ 7|6|JCT
+	8|1|PUNCT
+*CHI:	xxx [>] .
+*MOT:	softly [<] safely (.) the cat .
+%mor:	adv|soft&dadj-LY adv|safe&dadj-LY det|the n|cat .
+%gra:	1|4|JCT 2|4|JCT 3|4|DET 4|0|INCROOT 5|4|PUNCT
+*CHI:	cat .
+%mor:	n|cat .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	cat .
+%mor:	n|cat .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	cat .
+%mor:	n|cat .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	and spider .
+%mor:	coord|and n|spider .
+%gra:	1|0|INCROOT 2|1|COORD 3|1|PUNCT
+*CHI:	and I hate spiders xxx .
+%mor:	conj|and pro:sub|I v|hate n|spider-PL .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*INV1:	you what ?
+%mor:	pro|you pro:wh|what ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*MOT:	<hate spiders> [>] .
+%mor:	n|hate n|spider-PL .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*CHI:	<hate spiders> [<] .
+%mor:	n|hate n|spider-PL .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*INV1:	hate [//] me too .
+%mor:	pro:obj|me post|too .
+%gra:	1|0|INCROOT 2|1|PQ 3|1|PUNCT
+*CHI:	you too Mom ?
+%mor:	pro|you adv|too n:prop|Mom ?
+%gra:	1|2|SUBJ 2|3|JCT 3|0|ROOT 4|3|PUNCT
+*MOT:	well they don't do anything to me .
+%mor:	co|well pro:sub|they mod|do~neg|not v|do pro:indef|anything prep|to
+	pro:obj|me .
+%gra:	1|5|COM 2|5|SUBJ 3|5|AUX 4|3|NEG 5|0|ROOT 6|5|OBJ 7|5|JCT 8|7|POBJ
+	9|5|PUNCT
+*INV1:	&=laughs .
+*CHI:	do [/] do [/] do [/] do [/] do &some +/.
+%mor:	v|do +/.
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV1:	no .
+%mor:	co|no .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	our [/] our cats and dogs get along don't they ?
+%mor:	pro:poss:det|our n|cat-PL coord|and n|dog-PL v|get adv|along
+	mod|do~neg|not pro:sub|they ?
+%gra:	1|2|MOD 2|5|SUBJ 3|5|LINK 4|5|SUBJ 5|0|ROOT 6|9|JCT 7|9|AUX 8|7|NEG
+	9|5|COMP 10|9|PUNCT
+*CHI:	yeah .
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	over at Mimi's .
+%mor:	adv|over prep|at n:prop|Mimi~poss|s .
+%gra:	1|0|INCROOT 2|1|JCT 3|2|POBJ 4|3|POSS 5|1|PUNCT
+*CHI:	me have little kitty outside .
+%mor:	pro:obj|me v|have adj|little n|kitty adv|outside .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|MOD 4|2|OBJ 5|2|JCT 6|2|PUNCT
+*CHI:	&=gasps bluebirds !
+%mor:	n|+adj|blue+n|bird-PL !
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	bluebirds outside yeah .
+%mor:	n|+adj|blue+n|bird-PL prep|outside co|yeah .
+%gra:	1|0|INCROOT 2|1|NJCT 3|2|POBJ 4|1|PUNCT
+*CHI:	me just saw one on [/] on nest .
+%mor:	pro:obj|me adv|just v|saw pro:indef|one prep|on n|nest .
+%gra:	1|3|LINK 2|3|JCT 3|0|ROOT 4|3|OBJ 5|3|JCT 6|5|POBJ 7|3|PUNCT
+*MOT:	you did ?
+%mor:	pro|you v|do&PAST ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*CHI:	yeah !
+%mor:	co|yeah !
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	a blue one ?
+%mor:	det|a n|blue pro:indef|one ?
+%gra:	1|2|DET 2|0|INCROOT 3|2|OBJ 4|2|PUNCT
+*CHI:	yeah [!] (.) bluebird [>] .
+%mor:	co|yeah n|+adj|blue+n|bird .
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+*MOT:	oh [<] .
+%mor:	co|oh .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	say bluebird .
+%mor:	v|say n|+adj|blue+n|bird .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+*MOT:	bluebird .
+%mor:	n|+adj|blue+n|bird .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	me just saw bluebird on that .
+%mor:	pro:obj|me adv|just v|see&PAST n|+adj|blue+n|bird prep|on
+	pro:dem|that .
+%gra:	1|3|LINK 2|3|JCT 3|0|ROOT 4|3|OBJ 5|3|JCT 6|5|POBJ 7|3|PUNCT
+*CHI:	they on xxx .
+%mor:	pro:sub|they adv|on .
+%gra:	1|0|INCROOT 2|1|JCT 3|1|PUNCT
+*MOT:	&=laughs .
+@Comment:	Time is 10: 22
+@Eg:	bookreading
+@End

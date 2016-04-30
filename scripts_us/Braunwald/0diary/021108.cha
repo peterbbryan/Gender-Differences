@@ -1,0 +1,147 @@
+@UTF8
+@PID:	11312/c-00011080-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, MOT Mother, HOU Housekeeper
+@ID:	eng|Braunwald|CHI|02;11.08|female|||Target_Child|||
+@ID:	eng|Braunwald|MOT|||||Mother|||
+@ID:	eng|Braunwald|HOU|||||Housekeeper|||
+@Date:	28-JAN-1974
+*CHI:	I don't want Katie to come in because we let Peanuts in .
+%mor:	pro:sub|I mod|do~neg|not v|want n:prop|Katie inf|to v|come adv|in
+	conj|because pro:sub|we v|let&ZERO n:prop|Peanuts adv|in .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|OBJ 6|7|INF 7|5|XCOMP 8|7|JCT
+	9|11|LINK 10|11|SUBJ 11|7|CJCT 12|11|OBJ 13|11|JCT 14|4|PUNCT
+%sit:	320
+*CHI:	we love our little Katie, don't we ?
+%mor:	pro:sub|we v|love pro:poss:det|our adj|little n:prop|Katie cm|cm
+	mod|do~neg|not pro:sub|we ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|MOD 4|2|OBJ 5|9|SUBJ 6|5|LP 7|9|AUX 8|7|NEG
+	9|4|MOD 10|2|PUNCT
+%sit:	321
+*MOT:	yes .
+%mor:	co|yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%sit:	321
+*MOT:	come get dressed .
+%mor:	v|come v|get part|dress-PASTP .
+%gra:	1|0|ROOT 2|1|COMP 3|2|OBJ 4|1|PUNCT
+%sit:	321
+*CHI:	I can see your poopoo place .
+%mor:	pro:sub|I mod|can v|see pro:poss:det|your n|+on|poo+on|poo n|place
+	.
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|6|MOD 5|6|MOD 6|3|OBJ 7|3|PUNCT
+%sit:	322
+*HOU:	no, you can't .
+%mor:	co|no cm|cm pro|you mod|can~neg|not .
+%gra:	1|4|COM 2|1|LP 3|4|SUBJ 4|0|ROOT 5|4|NEG 6|4|PUNCT
+%sit:	322
+*CHI:	I can go in back of you, then I can see .
+%mor:	pro:sub|I mod|can v|go adv|in adv|back prep|of pro|you cm|cm
+	adv:tem|then pro:sub|I mod|can v|see .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|3|JCT 6|3|JCT 7|6|POBJ 8|7|LP
+	9|12|JCT 10|12|SUBJ 11|12|AUX 12|3|COMP 13|3|PUNCT
+%sit:	322
+*CHI:	they're such healthy .
+%mor:	pro:sub|they~aux|be&PRES qn|such adj|health&dn-Y .
+%gra:	1|4|SUBJ 2|4|AUX 3|4|QUANT 4|0|ROOT 5|4|PUNCT
+%sit:	325
+*MOT:	they are .
+%mor:	pro:sub|they cop|be&PRES .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+%sit:	325
+*CHI:	we love our fish .
+%mor:	pro:sub|we v|love pro:poss:det|our n|fish .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|MOD 4|2|OBJ 5|2|PUNCT
+%sit:	325
+*CHI:	now I have a pet too .
+%mor:	adv|now pro:sub|I v|have det|a n|pet adv|too .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|JCT 7|3|PUNCT
+%sit:	325
+*CHI:	that goldfish one won't work so I don't use it .
+%mor:	det|that n|goldfish det:num|one mod|will~neg|not v|work conj|so
+	pro:sub|I mod|do~neg|not v|use pro|it .
+%gra:	1|2|DET 2|6|SUBJ 3|4|QUANT 4|6|AUX 5|4|NEG 6|0|ROOT 7|11|LINK 8|11|SUBJ
+	9|11|AUX 10|9|NEG 11|6|CJCT 12|11|OBJ 13|6|PUNCT
+%sit:	326
+*MOT:	Michael and Sue are such healthy fish so far .
+%mor:	n:prop|Michael coord|and n:prop|Sue cop|be&PRES qn|such
+	adj|health&dn-Y n|fish adv|so adv|far .
+%gra:	1|0|INCROOT 2|1|CONJ 3|4|SUBJ 4|2|COORD 5|7|QUANT 6|7|MOD 7|4|PRED
+	8|7|NJCT 9|8|JCT 10|1|PUNCT
+%sit:	327
+*CHI:	so far they're not dying .
+%mor:	adv|so adv|far pro:sub|they~cop|be&PRES neg|not part|die-PRESP .
+%gra:	1|4|JCT 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|4|NEG 6|4|PRED 7|4|PUNCT
+%sit:	327
+*CHI:	Daddy doesn't scare my goldfish when he's a Foxy_Loxy ?
+%mor:	n:prop|Daddy mod|do&3S~neg|not v|scare pro:poss:det|my n|goldfish
+	conj|when pro:sub|he~aux|be&3S det|a n:prop|Foxy_Loxy ?
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|6|MOD 6|4|OBJ 7|9|LINK 8|9|SUBJ
+	9|4|CJCT 10|11|DET 11|9|OBJ 12|4|PUNCT
+%sit:	328
+*MOT:	no, he doesn't .
+%mor:	co|no cm|cm pro:sub|he mod|do&3S~neg|not .
+%gra:	1|0|INCROOT 2|1|LP 3|6|SUBJ 4|6|AUX 5|4|NEG 6|1|PUNCT
+%sit:	328
+*CHI:	but he scares Joanna's hamster .
+%mor:	conj|but pro:sub|he v|scare-3S n:prop|Joanna~poss|s n|hamster .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|6|MOD 5|4|POSS 6|3|OBJ 7|3|PUNCT
+%sit:	328
+*MOT:	hamsters are different they're scared of loud noise .
+%mor:	n|hamster-PL cop|be&PRES adj|different pro:sub|they~aux|be&PRES
+	part|scare-PASTP prep|of adj|loud n|noise .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|6|SUBJ 5|6|AUX 6|3|CMOD 7|6|JCT 8|9|MOD
+	9|7|POBJ 10|2|PUNCT
+%sit:	328
+*CHI:	hey, now I don't got [: have] [*] any twos .
+%mor:	co|hey cm|cm adv|now pro:sub|I mod|do~neg|not v|have qn|any
+	det:num|two-PL .
+%gra:	1|7|COM 2|1|LP 3|1|JCT 4|7|SUBJ 5|7|AUX 6|5|NEG 7|0|ROOT 8|9|QUANT
+	9|7|OBJ 10|7|PUNCT
+%sit:	329
+*CHI:	give me the milk .
+%mor:	v|give pro:obj|me det|the n|milk .
+%gra:	1|0|ROOT 2|1|OBJ 3|4|DET 4|1|OBJ 5|1|PUNCT
+%sit:	330
+*MOT:	you wanna put the milk away ?
+%mor:	pro|you v|want~inf|to v|put&ZERO det|the n|milk adv|away ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|INF 4|2|XCOMP 5|6|DET 6|4|OBJ 7|4|JCT 8|2|PUNCT
+%sit:	330
+*CHI:	uhhuh, correct .
+%mor:	co|uhhuh cm|cm adj|correct .
+%gra:	1|3|COM 2|1|LP 3|0|ROOT 4|3|PUNCT
+%sit:	330
+*CHI:	I'm a big helper aren't I ?
+%mor:	pro:sub|I~cop|be&1S det|a adj|big n|help&dv-AGT aux|be&PRES~neg|not
+	pro:sub|I ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|DET 4|5|MOD 5|8|SUBJ 6|8|AUX 7|6|NEG 8|2|PRED
+	9|2|PUNCT
+%sit:	331
+*MOT:	yes, you are .
+%mor:	co|yes cm|cm pro|you cop|be&PRES .
+%gra:	1|4|COM 2|1|LP 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+%sit:	331
+*CHI:	I'm a big helper because I have_to put it in .
+%mor:	pro:sub|I~cop|be&1S det|a adj|big n|help&dv-AGT conj|because
+	pro:sub|I mod:aux|have_to v|put&ZERO pro|it adv|in .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|DET 4|5|MOD 5|2|PRED 6|9|LINK 7|9|SUBJ 8|9|AUX
+	9|2|CJCT 10|9|OBJ 11|9|JCT 12|2|PUNCT
+%sit:	331
+*CHI:	one at a time .
+%mor:	det:num|one prep|at det|a n|time .
+%gra:	1|0|INCROOT 2|1|JCT 3|4|DET 4|2|POBJ 5|1|PUNCT
+%sit:	331
+*CHI:	one at a time .
+%mor:	det:num|one prep|at det|a n|time .
+%gra:	1|0|INCROOT 2|1|JCT 3|4|DET 4|2|POBJ 5|1|PUNCT
+%sit:	331
+*CHI:	I'm doing a good job .
+%mor:	pro:sub|I~aux|be&1S part|do-PRESP det|a adj|good n|job .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|6|DET 5|6|MOD 6|3|OBJ 7|3|PUNCT
+%sit:	331
+*CHI:	I really am .
+%mor:	pro:sub|I adv|real&dadj-LY cop|be&1S .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|3|PUNCT
+%sit:	331
+@End

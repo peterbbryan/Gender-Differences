@@ -1,0 +1,260 @@
+@UTF8
+@PID:	11312/c-00015287-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Kathy Target_Child , MOT Mother , INV Investigator
+@ID:	eng|Bates|CHI|2;4.|female|typical|MC|Target_Child|||
+@ID:	eng|Bates|MOT|||||Mother|||
+@ID:	eng|Bates|INV|||||Investigator|||
+*INV:	are you gonna have a snack ?
+%mor:	cop|be&PRES pro|you part|go-PRESP~inf|to v|have det|a n|snack ?
+%gra:	1|0|ROOT 2|1|OBJ 3|2|XMOD 4|5|INF 5|3|XCOMP 6|7|DET 7|5|OBJ 8|1|PUNCT
+*INV:	uhhuh .
+%mor:	co|uhhuh .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	0 .
+%act:	walks to table and looks at Investigator
+*MOT:	can you get up there ?
+%mor:	mod|can pro|you v|get prep|up pro:dem|there ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|4|POBJ 6|3|PUNCT
+%act:	<bef> making snack . <dur> walks to table , sets snack down . lifts Kathy into chair
+*MOT:	here ya go .
+%mor:	adv|here pro|you v|go .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+%act:	<dur> walks to table , sets snack down . lifts Kathy into chair
+*MOT:	there ya go .
+%mor:	adv|there pro|you v|go .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+%act:	<dur> walks to table , sets snack down . lifts Kathy into chair
+*MOT:	want some milk ?
+%mor:	v|want qn|some n|milk ?
+%gra:	1|0|ROOT 2|3|QUANT 3|1|OBJ 4|1|PUNCT
+%act:	<1w> picks up bib .
+%gpx:	<1w> leans down , looks at Kathy
+*MOT:	yeah ?
+%mor:	co|yeah ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	<1w> walks to kitchen .
+*MOT:	want some milk ?
+%mor:	v|want qn|some n|milk ?
+%gra:	1|0|ROOT 2|3|QUANT 3|1|OBJ 4|1|PUNCT
+%act:	<1w> sets cup down . sits down and looks at Kathy
+*MOT:	is that good cake ?
+%mor:	cop|be&3S pro:dem|that adj|good n|cake ?
+%gra:	1|0|ROOT 2|4|MOD 3|4|MOD 4|1|PRED 5|1|PUNCT
+*MOT:	no ?
+%mor:	co|no ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	you don't like my cake ?
+%mor:	pro|you mod|do~neg|not v|like pro:poss:det|my n|cake ?
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|6|MOD 6|4|OBJ 7|4|PUNCT
+%gpx:	<1w> looks at cake
+*MOT:	(.) are you eating the frosting ?
+%mor:	cop|be&PRES pro|you part|eat-PRESP det|the n|frosting ?
+%gra:	1|0|ROOT 2|1|OBJ 3|2|XMOD 4|5|DET 5|3|OBJ 6|1|PUNCT
+*CHI:	0 .
+%act:	eats
+%gpx:	shakes head . looks at Mother
+*MOT:	Papa coming back tonight ?
+%mor:	n:prop|Papa part|come-PRESP adv|back adv:tem|tonight ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|2|XJCT 5|2|PUNCT
+%gpx:	looks at Kathy
+*MOT:	Papa coming back ?
+%mor:	n:prop|Papa part|come-PRESP adv|back ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|2|PUNCT
+*MOT:	go get Papa at the airport ?
+%mor:	v|go v|get n:prop|Papa prep|at det|the n|airport ?
+%gra:	1|2|SRL 2|0|ROOT 3|2|OBJ 4|3|JCT 5|6|DET 6|4|POBJ 7|2|PUNCT
+*MOT:	no ?
+%mor:	co|no ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	0 .
+%act:	eats
+%gpx:	looks at Mother . shakes head
+*MOT:	are you getting a cold ?
+%mor:	cop|be&PRES pro|you part|get-PRESP det|a n|cold ?
+%gra:	1|0|ROOT 2|1|OBJ 3|2|XMOD 4|5|DET 5|3|OBJ 6|1|PUNCT
+%gpx:	looks at Kathy . leans closer
+*MOT:	huh ?
+%mor:	co|huh ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	you gettin(g) a cold ?
+%mor:	pro|you part|get-PRESP det|a n|cold ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*MOT:	yeah ?
+%mor:	co|yeah ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	0 .
+%gpx:	<aft> nods . looks at Mother
+%act:	eats
+*MOT:	you gonna stuff that all in your mouth ?
+%mor:	pro|you part|go-PRESP~inf|to n|stuff adv|that adv|all prep|in
+	pro:poss:det|your n|mouth ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|INF 4|2|XCOMP 5|4|JCT 6|5|JCT 7|6|JCT 8|9|MOD
+	9|7|POBJ 10|2|PUNCT
+*INV:	&=laughs .
+*MOT:	that good ?
+%mor:	det|that adj|good ?
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*MOT:	huh ?
+%mor:	co|huh ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	no ?
+%mor:	co|no ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	huh ?
+%mor:	co|huh ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	where'd it go ?
+%mor:	rel|where~mod|genmod pro|it v|go ?
+%gra:	1|2|LINK 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+%gpx:	<1w> looks at Kathy's lap
+*CHI:	0 .
+%gpx:	shakes head . drops cookie . looks at lap , picks up piece and eats .
+*MOT:	Papa's coming back .
+%mor:	n:prop|Papa~aux|be&3S part|come-PRESP adv|back .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|3|PUNCT
+*MOT:	where's Eric ?
+%mor:	rel|where~aux|be&3S n:prop|Eric ?
+%gra:	1|3|LINK 2|3|AUX 3|0|ROOT 4|3|PUNCT
+*CHI:	huh .
+%mor:	co|huh .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%gpx:	looks at Mother
+*MOT:	huh ?
+%mor:	co|huh ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	ye(a)h .
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	<aft> wipes hands , hands napkin to Mother
+*MOT:	okay (.) what is this ?
+%mor:	co|okay pro:wh|what aux|be&3S det|this ?
+%gra:	1|4|COM 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|PUNCT
+%gpx:	points to napkin
+*CHI:	napkin .
+%mor:	n|napkin .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	<aft> wipes hands , eats
+%gpx:	points , looks at napkin
+%xpho:	n&bIs
+*MOT:	napkin ?
+%mor:	n|napkin ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%gpx:	looks at Kathy
+*MOT:	fall off ?
+%mor:	n|fall adv|off ?
+%gra:	1|0|INCROOT 2|1|JCT 3|1|PUNCT
+*MOT:	do you want to go to the airport (.) yeah ?
+%mor:	mod|do pro|you v|want inf|to v|go prep|to det|the n|airport co|yeah
+	?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|5|INF 5|3|XCOMP 6|5|JCT 7|8|DET 8|6|POBJ
+	9|5|COM 10|3|PUNCT
+*MOT:	who's gonna be there ?
+%mor:	rel|who~aux|be&3S part|go-PRESP~inf|to aux|be adv|there ?
+%gra:	1|3|LINK 2|3|AUX 3|0|ROOT 4|5|INF 5|3|XCOMP 6|5|JCT 7|3|PUNCT
+*CHI:	0 .
+%gpx:	nods looks at Mother . looks at snack
+*MOT:	oh (.) who showed you that (.) Eric ?
+%mor:	co|oh pro:wh|who v|show-PAST pro|you rel|that n:prop|Eric ?
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|6|SUBJ 5|6|LINK 6|3|OBJ 7|3|PUNCT
+*MOT:	who did then ?
+%mor:	rel|who mod|do&PAST adv:tem|then ?
+%gra:	1|3|LINK 2|3|AUX 3|0|INCROOT 4|3|PUNCT
+*CHI:	0 .
+%gpx:	shakes head . looks at Mother
+*MOT:	is it snowing outside ?
+%mor:	aux|be&3S pro|it part|snow-PRESP adv|outside ?
+%gra:	1|3|AUX 2|3|AUX 3|0|ROOT 4|3|JCT 5|3|PUNCT
+%gpx:	<1w-4w> looks out window .
+*MOT:	did it stop ?
+%mor:	v|do&PAST pro|it v|stop ?
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+%gpx:	<1w-3w> looks out window .
+*MOT:	lots_of snow ?
+%mor:	qn|lots_of n|snow ?
+%gra:	1|2|QUANT 2|0|INCROOT 3|2|PUNCT
+%gpx:	<1w-3w> looks out window .
+*MOT:	is there a_lot_of snow ?
+%mor:	cop|be&3S adv|there qn|a_lot_of n|snow ?
+%gra:	1|0|ROOT 2|4|JCT 3|4|QUANT 4|1|PRED 5|1|PUNCT
+%gpx:	<1w> looks at Kathy
+*MOT:	oh .
+%mor:	co|oh .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	0 .
+%gpx:	nods , looks outside . looks at Mother
+*INV:	&hmm .
+*CHI:	want more .
+%mor:	v|want adv|more .
+%gra:	1|0|ROOT 2|1|JCT 3|1|PUNCT
+%gpx:	looks at Mother . pushes plate toward Mother
+%com:	talked while eating
+%xpho:	w6n mU
+*MOT:	no more .
+%mor:	qn|no pro:indef|more .
+%gra:	1|2|QUANT 2|0|ROOT 3|2|PUNCT
+%gpx:	shakes head
+*MOT:	that's enough .
+%mor:	pro:dem|that~cop|be&3S adv|enough .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|2|PUNCT
+*MOT:	you can have some more later (.) okay ?
+%mor:	pro|you mod|can v|have qn|some pro:indef|more adv|later adj|okay ?
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|QUANT 5|3|OBJ 6|7|JCT 7|5|PRED 8|3|PUNCT
+*MOT:	have some later ?
+%mor:	v|have qn|some adv|later ?
+%gra:	1|0|ROOT 2|3|QUANT 3|1|JCT 4|1|PUNCT
+*MOT:	good .
+%mor:	adj|good .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	0 [=! coughs] .
+%act:	<bef> pushes plate away , drinks , sets cup down . picks up napkin and wipes hands
+*MOT:	oop(s) .
+%mor:	co|oops .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	go ahead get your face .
+%mor:	v|go adv|ahead v|get pro:poss:det|your n|face .
+%gra:	1|0|ROOT 2|3|JCT 3|1|COMP 4|5|MOD 5|3|OBJ 6|1|PUNCT
+%act:	<1w> picks up napkin and wipes face .
+*MOT:	get your face ?
+%mor:	v|get pro:poss:det|your n|face ?
+%gra:	1|0|ROOT 2|3|MOD 3|1|OBJ 4|1|PUNCT
+%act:	<1w> pats Kathy's head as she walks to kitchen
+*MOT:	I'll go get a rag to wipe you up .
+%mor:	pro:sub|I~mod|will v|go v|get det|a n|rag inf|to v|wipe pro|you
+	adv|up .
+%gra:	1|3|SUBJ 2|3|AUX 3|4|SRL 4|0|ROOT 5|6|DET 6|4|OBJ 7|8|INF 8|6|XMOD
+	9|8|OBJ 10|8|JCT 11|4|PUNCT
+*CHI:	Mommy (.) I wipe .
+%mor:	n:prop|Mommy pro:sub|I v|wipe .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+%gpx:	<bef> looks at Mother . <aft> nods
+%act:	<bef> sets napkin down . <dur> holds hands out to Mother
+%xpho:	mami I wai
+*MOT:	you wan(t) (t)a wipe it ?
+%mor:	pro|you v|want inf|to v|wipe pro|it ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|INF 4|2|XCOMP 5|4|OBJ 6|2|PUNCT
+*MOT:	okay .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	did she say +"/.
+%mor:	mod|do&PAST pro:sub|she v|say +"/.
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*INV:	+" Mom wipe it ?
+%mor:	n:prop|Mom v|wipe pro|it ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*MOT:	uhhuh .
+%mor:	co|uhhuh .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	<1w> walks to Kathy .
+%add:	<1w> Investigator
+*MOT:	there ya go .
+%mor:	adv|there pro|you v|go .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+%act:	<1w> hands rag to Kathy
+*MOT:	clean it off good .
+%mor:	v|clean pro|it prep|off adj|good .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|JCT 4|3|POBJ 5|1|PUNCT
+*CHI:	0 .
+%act:	wipes hands
+@End

@@ -1,0 +1,62 @@
+@UTF8
+@PID:	11312/c-00010926-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, MOT Mother, SIS Sister
+@ID:	eng|Braunwald|CHI|02;05.22|female|||Target_Child|||
+@ID:	eng|Braunwald|MOT|||||Mother|||
+@ID:	eng|Braunwald|SIS|||||Sister|||
+@Date:	12-AUG-1973
+*CHI:	Mommy, lookit .
+%mor:	n:prop|Mommy cm|cm co|lookit .
+%gra:	1|0|INCROOT 2|1|LP 3|1|COM 4|1|PUNCT
+%sit:	471
+*CHI:	this going be neat .
+%mor:	det|this part|go-PRESP cop|be adj|neat .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|3|PUNCT
+%sit:	471
+*CHI:	Mom, look .
+%mor:	n:prop|Mom cm|cm v|look .
+%gra:	1|3|SUBJ 2|1|LP 3|0|ROOT 4|3|PUNCT
+%sit:	472
+*CHI:	I can turn it around .
+%mor:	pro:sub|I mod|can v|turn pro|it adv|around .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|3|JCT 6|3|PUNCT
+%sit:	472
+*SIS:	here, would you like to make a high+chair ?
+%mor:	adv|here cm|cm mod|will&COND pro|you v|like inf|to v|make det|a
+	n|+adj|high+n|chair ?
+%gra:	1|3|JCT 2|1|LP 3|5|AUX 4|5|SUBJ 5|0|ROOT 6|7|INF 7|5|XCOMP 8|9|DET
+	9|7|OBJ 10|5|PUNCT
+%sit:	473
+*CHI:	no, I gotta make my thing now (be)cause gonna be neat .
+%mor:	co|no cm|cm pro:sub|I mod:aux|gotta v|make pro:poss:det|my n|thing
+	adv|now conj|because part|go-PRESP~inf|to aux|be adj|neat .
+%gra:	1|5|COM 2|1|LP 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|7|MOD 7|5|OBJ 8|5|JCT
+	9|5|COMP 10|9|XMOD 11|13|INF 12|13|AUX 13|10|XCOMP 14|5|PUNCT
+%sit:	473
+*CHI:	I got neat thing pow@o wow@o .
+%mor:	pro:sub|I v|get&PAST adj|neat n|thing on|pow on|wow .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|MOD 4|2|OBJ 5|4|XMOD 6|5|LINK 7|2|PUNCT
+%sit:	474
+*CHI:	Mom, I'm glad you're awake .
+%mor:	n:prop|Mom cm|cm pro:sub|I~cop|be&1S adj|glad pro|you~cop|be&PRES
+	adj|awake .
+%gra:	1|4|LINK 2|1|LP 3|4|SUBJ 4|0|ROOT 5|4|PRED 6|7|SUBJ 7|4|PRED 8|7|PRED
+	9|4|PUNCT
+%sit:	475
+*MOT:	well, thank you .
+%mor:	co|well cm|cm v|thank pro|you .
+%gra:	1|3|COM 2|1|LP 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+%sit:	475
+*MOT:	come here .
+%mor:	v|come adv|here .
+%gra:	1|0|ROOT 2|1|JCT 3|1|PUNCT
+%sit:	476
+*CHI:	no, I gotta pet that baby (be)cause she's so tiny .
+%mor:	co|no cm|cm pro:sub|I mod:aux|gotta v|pet det|that n|baby
+	conj|because pro:sub|she~aux|be&3S adv|so adj|tiny .
+%gra:	1|5|COM 2|1|LP 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|7|DET 7|5|OBJ 8|10|LINK
+	9|10|SUBJ 10|5|CJCT 11|12|JCT 12|10|PRED 13|5|PUNCT
+%sit:	476
+@End

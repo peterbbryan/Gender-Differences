@@ -1,0 +1,75 @@
+@UTF8
+@PID:	11312/c-00010879-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, MOT Mother
+@ID:	eng|Braunwald|CHI|02;04.03|female|||Target_Child|||
+@ID:	eng|Braunwald|MOT|||||Mother|||
+@Date:	23-JUN-1973
+*CHI:	I think I need more cereal .
+%mor:	pro:sub|I v|think pro:sub|I v|need qn|more n|cereal .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|SUBJ 4|2|COMP 5|6|QUANT 6|4|OBJ 7|2|PUNCT
+%sit:	j6_24_85
+*CHI:	I think I do .
+%mor:	pro:sub|I v|think pro:sub|I v|do .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|SUBJ 4|2|COMP 5|2|PUNCT
+%sit:	j6_24_85
+*MOT:	well, I think you need to eat that up first .
+%mor:	co|well cm|cm pro:sub|I v|think pro|you v|need inf|to v|eat
+	pro:dem|that prep|up n|first .
+%gra:	1|4|COM 2|1|LP 3|4|SUBJ 4|0|ROOT 5|6|SUBJ 6|4|COMP 7|8|INF 8|6|XCOMP
+	9|8|OBJ 10|9|JCT 11|10|POBJ 12|4|PUNCT
+%sit:	j6_24_85
+*MOT:	could you pick up what you dropped ?
+%mor:	mod|could pro|you v|pick prep|up pro:wh|what pro|you v|drop-PAST ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|4|POBJ 6|7|SUBJ 7|3|CJCT 8|3|PUNCT
+%sit:	j6_24_86
+*MOT:	you dropped something .
+%mor:	pro|you v|drop-PAST pro:indef|something .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+%sit:	j6_24_86
+*CHI:	dropped pen .
+%mor:	part|drop-PASTP n|pen .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+%sit:	j6_24_86
+*CHI:	that was your pen .
+%mor:	pro:dem|that cop|be&PAST&13S pro:poss:det|your n|pen .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|MOD 4|2|PRED 5|2|PUNCT
+%sit:	j6_24_86
+*CHI:	wasn't it ?
+%mor:	cop|be&PAST&13S~neg|not pro|it ?
+%gra:	1|0|ROOT 2|1|NEG 3|1|PRED 4|1|PUNCT
+%sit:	j6_24_86
+*CHI:	don't catch a bird .
+%mor:	mod|do~neg|not v|catch det|a n|bird .
+%gra:	1|3|AUX 2|1|NEG 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+%sit:	168
+*CHI:	Corney may not catch a bird .
+%mor:	n:prop|Corney mod|may neg|not v|catch det|a n|bird .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+%sit:	168
+*CHI:	Corney may not catch a bird .
+%mor:	n:prop|Corney mod|may neg|not v|catch det|a n|bird .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+%sit:	168
+*MOT:	no, she may not .
+%mor:	co|no cm|cm pro:sub|she mod|may neg|not .
+%gra:	1|4|COM 2|1|LP 3|4|SUBJ 4|0|ROOT 5|4|NEG 6|4|PUNCT
+%sit:	168
+*CHI:	any bees in playhouse ?
+%mor:	qn|any n|bee-PL prep|in n|+n|play+n|house ?
+%gra:	1|2|QUANT 2|0|INCROOT 3|2|JCT 4|3|POBJ 5|2|PUNCT
+%sit:	169
+*CHI:	can I pull white cat's tail ?
+%mor:	mod|can pro:sub|I v|pull adj|white n|cat~poss|s n|tail ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|7|MOD 5|7|MOD 6|5|POSS 7|3|OBJ 8|3|PUNCT
+%sit:	170
+*MOT:	no .
+%mor:	co|no .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%sit:	170
+*CHI:	he will bite me .
+%mor:	pro:sub|he mod|will v|bite pro:obj|me .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+%sit:	170
+@End

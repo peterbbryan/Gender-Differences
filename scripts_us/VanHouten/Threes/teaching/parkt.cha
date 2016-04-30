@@ -1,0 +1,366 @@
+@UTF8
+@PID:	11312/c-00017660-1
+@Begin
+@Languages:	eng
+@Participants:	INV Alison Investigator , CHI Matthew Target_Child , MOT Paula Mother
+@ID:	eng|VanHouten|CHI|3;4.06|male|typical||Target_Child|||
+@ID:	eng|VanHouten|INV|||||Investigator|||
+@ID:	eng|VanHouten|MOT|||||Mother|||
+@Media:	parkt, audio
+@Comment:	Education of MOT is 3
+@Comment:	Mother's Age Group Older
+@Comment:	McCarthy-Cognitive 124
+@Comment:	McCarthy-Verbal 66
+@Comment:	RITLS 27
+@Situation:	Teaching
+@Comment:	child teaches mother to make a small figure jump up and down 3 times and sit on a minature park bench.
+*INV:	now you tell Mommy how to do it . 50000_52241
+%mor:	adv|now pro|you v|tell n:prop|Mommy adv:wh|how inf|to v|do pro|it .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|7|LINK 6|7|INF 7|4|XMOD 8|7|OBJ
+	9|3|PUNCT
+%cod:	$MLU=8 $NMV=2 $Tmo $Dir
+*INV:	go ahead . 52241_54016
+%mor:	v|go adv|ahead .
+%gra:	1|0|ROOT 2|1|JCT 3|1|PUNCT
+%cod:	$MLU=2 $NMV=1 $Tmo $Dir
+*MOT:	ready ? 54016_54515
+%mor:	adj|ready ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=0 $Tmo $Dir
+*CHI:	xxx . 54515_60763
+%sit:	demonstrates and speaks very softly .
+*MOT:	what [>] ? 60763_61240
+%mor:	pro:wh|what ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%sit:	simultaneous with examiner below .
+%cod:	$MLU=1 $NMV=0 $Tmo $Cla
+*INV:	<and then what> [<] ? 60763_61448
+%mor:	conj|and adv:tem|then pro:wh|what ?
+%gra:	1|3|LINK 2|3|JCT 3|0|ROOT 4|3|PUNCT
+%sit:	simultaneous with mother above .
+%cod:	$MLU=3 $NMV=0 $Tmo $Dir
+*INV:	go ahead . 61448_62938
+%mor:	v|go adv|ahead .
+%gra:	1|0|ROOT 2|1|JCT 3|1|PUNCT
+%cod:	$MLU=2 $NMV=1 $Tmo $Dir
+*INV:	okay go ahead . 62938_64655
+%mor:	co|okay v|go adv|ahead .
+%gra:	1|2|COM 2|0|ROOT 3|2|JCT 4|2|PUNCT
+%cod:	$MLU=3 $NMV=1 $Tmo $Dir
+*INV:	go ahead and do it . 64655_67003
+%mor:	v|go adv|ahead coord|and v|do pro|it .
+%gra:	1|0|ROOT 2|1|JCT 3|1|CONJ 4|3|COORD 5|4|OBJ 6|1|PUNCT
+%cod:	$MLU=5 $NMV=2 $Tmo $Dir
+*CHI:	0 . 67003_70421
+%sit:	demonstrates makes figure jump up and down .
+*INV:	okay . 70421_73576
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=0 $Tmo $Evp
+*INV:	then what ? 73576_74430
+%mor:	adv:tem|then pro:wh|what ?
+%gra:	1|2|JCT 2|0|ROOT 3|2|PUNCT
+%cod:	$MLU=2 $NMV=0 $Tmo $Dir
+*CHI:	sit her on the bench . 74430_76255
+%mor:	v|sit pro:obj|her prep|on det|the n|bench .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|JCT 4|5|DET 5|3|POBJ 6|1|PUNCT
+%sit:	demonstrates
+%cod:	$MLU=5 $NMV=1 $Tmo $Tea
+*INV:	okay let's see if Mommy can do it . 76255_78065
+%mor:	co|okay v|let~pro:obj|us v|see conj|if n:prop|Mommy mod|can v|do
+	pro|it .
+%gra:	1|2|COM 2|0|ROOT 3|2|OBJ 4|2|COMP 5|8|LINK 6|8|SUBJ 7|8|AUX 8|4|CJCT
+	9|8|OBJ 10|2|PUNCT
+%cod:	$MLU=9 $NMV=3 $Tmo $Dir
+*INV:	let's see if Mommy can do it . 78065_81216
+%mor:	v|let~pro:obj|us v|see conj|if n:prop|Mommy mod|can v|do pro|it .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|COMP 4|7|LINK 5|7|SUBJ 6|7|AUX 7|3|CJCT 8|7|OBJ
+	9|1|PUNCT
+%cod:	$MLU=8 $NMV=3 $Tmo $Dir
+*MOT:	supposed to do it three times ? 81216_84670
+%mor:	v|suppose-PAST inf|to v|do pro|it det:num|three n|time-PL ?
+%gra:	1|0|ROOT 2|3|INF 3|1|XCOMP 4|3|OBJ 5|6|QUANT 6|3|OBJ 7|1|PUNCT
+%cod:	$MLU=6 $NMV=2 $Tmo $Rfi
+*CHI:	0 . 84670_85470
+%sit:	nods .
+%cod:	$Tmo $Trq
+*MOT:	one two three sit on the bench . 85470_89790
+%mor:	det:num|one det:num|two det:num|three v|sit prep|on det|the n|bench
+	.
+%gra:	1|2|QUANT 2|4|QUANT 3|4|QUANT 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ
+	8|4|PUNCT
+%sit:	performs task
+%cod:	$MLU=7 $NMV=1 $Tmo $Lim
+*INV:	huh what a good teacher you are ! 89790_93125
+%mor:	co|huh pro:wh|what det|a adj|good n|teach&dv-AGT pro|you
+	cop|be&PRES !
+%gra:	1|7|COM 2|7|LINK 3|5|DET 4|5|MOD 5|7|JCT 6|7|SUBJ 7|0|ROOT 8|7|PUNCT
+%cod:	$MLU=6 $NMV=1 $Clo $Evt
+*INV:	Mommy did it right didn't she . 93125_94676
+%mor:	n:prop|Mommy mod|do&PAST pro|it adv|right mod|do&PAST~neg|not
+	pro:sub|she .
+%gra:	1|3|SUBJ 2|3|AUX 3|7|SUBJ 4|7|JCT 5|7|AUX 6|5|NEG 7|0|INCROOT 8|7|PUNCT
+%cod:	$MLU=7 $NMV=2 $Clo $Rep
+*INV:	what do you say ? 94676_96045
+%mor:	pro:wh|what mod|do pro|you v|say ?
+%gra:	1|4|LINK 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+%cod:	$MLU=4 $NMV=1 $Clo $Dir
+*INV:	what do you say to Mommy when she does it right ? 96045_98818
+%mor:	pro:wh|what mod|do pro|you v|say prep|to n:prop|Mommy conj|when
+	pro:sub|she mod|do&3S pro|it adv|right ?
+%gra:	1|4|LINK 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|5|POBJ 7|10|LINK 8|10|SUBJ
+	9|10|AUX 10|4|CJCT 11|10|JCT 12|4|PUNCT
+%cod:	$MLU=11 $NMV=2 $Clo $Dir
+*CHI:	xxx . 98818_100301
+*INV:	you say +"/. 100301_100895
+%mor:	pro|you v|say +"/.
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+%cod:	$MLU=5 $NMV=1 $Clo $Rep
+*INV:	+" good girl Mom . 100895_102256
+%mor:	adj|good n|girl n:prop|Mom .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|APP 4|2|PUNCT
+@Comment:	child teaches mother to make a figure jump over a large figure , run around a little figure , and sit on the bench.
+*INV:	okay you tell Mommy . 145256_146728
+%mor:	co|okay pro|you v|tell n:prop|Mommy .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+%cod:	$MLU=4 $NMV=1 $Tmo $Dir
+*INV:	you tell Mommy nice and loud so we can hear you . 146728_149875
+%mor:	pro|you v|tell n:prop|Mommy adj|nice coord|and adj|loud conj|so
+	pro:sub|we mod|can v|hear pro|you .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|3|XMOD 5|4|CONJ 6|5|COORD 7|10|LINK
+	8|10|SUBJ 9|10|AUX 10|6|CJCT 11|10|OBJ 12|2|PUNCT
+%cod:	$MLU=11 $NMV=2 $Tmo $Dir
+*INV:	okay [>] . 149875_150810
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%sit:	simultaneous with mother below .
+%cod:	$MLU=1 $NMV=0 $Tmo $Dir
+*MOT:	<go ahead> [<] . 149875_151255
+%mor:	v|go adv|ahead .
+%gra:	1|0|ROOT 2|1|JCT 3|1|PUNCT
+%sit:	simultaneous with examiner above .
+%cod:	$MLU=2 $NMV=1 $Tmo $Dir
+*INV:	<go ahead tell Mommy> [>] . 151255_152996
+%mor:	v|go adv|ahead v|tell n:prop|Mommy .
+%gra:	1|0|ROOT 2|1|JCT 3|1|COMP 4|3|OBJ 5|1|PUNCT
+%sit:	simultaneous with mother below .
+%cod:	$MLU=4 $NMV=1 $Tmo $Dir
+*MOT:	<tell Mommy what you're gonna do> [<] . 151255_153298
+%mor:	v|tell n:prop|Mommy rel|what pro|you~aux|be&PRES
+	part|go-PRESP~inf|to v|do .
+%gra:	1|0|ROOT 2|1|OBJ 3|4|LINK 4|6|SUBJ 5|6|AUX 6|2|COMP 7|8|INF 8|6|XCOMP
+	9|1|PUNCT
+%sit:	simultaneous with examiner above .
+%cod:	$MLU=7 $NMV=2 $Tmo $Dir
+*MOT:	go ahead . 153298_153871
+%mor:	v|go adv|ahead .
+%gra:	1|0|ROOT 2|1|JCT 3|1|PUNCT
+%cod:	$MLU=2 $NMV=1 $Tmo $Dir
+*MOT:	cmon . 153871_155346
+%mor:	co|cmon .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=1 $Tmo $Dir
+*MOT:	show Mom what you can do . 155346_156773
+%mor:	n|show n:prop|Mom pro:wh|what pro|you mod|can v|do .
+%gra:	1|6|SUBJ 2|1|APP 3|6|LINK 4|6|SUBJ 5|6|AUX 6|0|ROOT 7|6|PUNCT
+%cod:	$MLU=6 $NMV=2 $Tmo $Dir
+*MOT:	cmon show me . 156773_159160
+%mor:	co|cmon v|show pro:obj|me .
+%gra:	1|2|COM 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+%cod:	$MLU=3 $NMV=2 $Tmo $Dir
+*MOT:	cmon you gotta teach me . 159160_161703
+%mor:	co|cmon pro|you mod:aux|gotta v|teach pro:obj|me .
+%gra:	1|4|COM 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+%cod:	$MLU=5 $NMV=2 $Tmo $Dir
+*MOT:	Mommy doesn't know how to do that . 161703_163171
+%mor:	n:prop|Mommy mod|do&3S~neg|not v|know adv:wh|how inf|to v|do
+	pro:dem|that .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|OBJ 6|7|INF 7|5|XCOMP 8|7|OBJ
+	9|4|PUNCT
+%cod:	$MLU=8 $NMV=2 $Tmo $Dir
+*CHI:	run around and jump . 163171_166126
+%mor:	v|run adv|around coord|and v|jump .
+%gra:	1|0|ROOT 2|1|JCT 3|1|CONJ 4|3|COORD 5|1|PUNCT
+%cod:	$MLU=4 $NMV=2 $Tmo $Tea
+*MOT:	run around and then jump ? 166126_168480
+%mor:	v|run adv|around coord|and adv:tem|then v|jump ?
+%gra:	1|0|ROOT 2|1|JCT 3|1|CONJ 4|5|JCT 5|3|COORD 6|1|PUNCT
+%cod:	$MLU=5 $NMV=2 $Tmo $Ext
+*MOT:	alright ! 168480_170120
+%mor:	co|alright !
+%gra:	1|0|INCROOT 2|1|PUNCT
+%sit:	praise for child's teaching
+%cod:	$MLU=1 $NMV=0 $Tmo $Evp
+*MOT:	is that what you did ? 170120_171646
+%mor:	cop|be&3S pro:dem|that pro:wh|what pro|you v|do&PAST ?
+%gra:	1|5|LINK 2|5|JCT 3|5|LINK 4|5|SUBJ 5|0|ROOT 6|5|PUNCT
+%cod:	$MLU=5 $NMV=2 $Tmo $Rfi
+*MOT:	you run around and then jump and sit on the bench ? 171646_174621
+%mor:	pro|you v|run adv|around coord|and adv:tem|then v|jump coord|and
+	v|sit prep|on det|the n|bench ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|2|CONJ 5|6|JCT 6|4|COORD 7|6|CONJ 8|7|COORD
+	9|8|JCT 10|11|DET 11|9|POBJ 12|2|PUNCT
+%sit:	performs task .
+%cod:	$MLU=11 $NMV=3 $Tmo $Lim
+*INV:	is that right ? 174621_176148
+%mor:	cop|be&3S rel|that n|right ?
+%gra:	1|0|ROOT 2|3|MOD 3|1|PRED 4|1|PUNCT
+%cod:	$MLU=3 $NMV=1 $Tmo $Rfi
+*CHI:	0 . 176148_177350
+%sit:	nods .
+%cod:	$Tmo $Eva
+*INV:	yeah ! 177350_177905
+%mor:	co|yeah !
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=0 $Clo $Evt
+*INV:	boy she did a good job didn't she . 177905_180291
+%mor:	co|boy pro:sub|she v|do&PAST det|a adj|good n|job
+	mod|do&PAST~neg|not pro:sub|she .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|6|DET 5|6|MOD 6|9|SUBJ 7|9|AUX 8|7|NEG
+	9|3|COMP 10|3|PUNCT
+%cod:	$MLU=9 $NMV=2 $Clo $Rep
+@Comment:	child teaches the mother to string beads: first a round one and then a square one.
+*INV:	okay now you have_to teach Mommy how to do it . 282291_285210
+%mor:	co|okay adv|now pro|you mod:aux|have_to v|teach n:prop|Mommy
+	adv:wh|how inf|to v|do pro|it .
+%gra:	1|5|COM 2|5|JCT 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|OBJ 7|9|LINK 8|9|INF
+	9|6|XMOD 10|9|OBJ 11|5|PUNCT
+%cod:	$MLU=11 $NMV=3 $Tmo $Dir
+*MOT:	are you gonna show me ? 285210_287216
+%mor:	cop|be&PRES pro|you part|go-PRESP~inf|to v|show pro:obj|me ?
+%gra:	1|0|ROOT 2|1|OBJ 3|2|XMOD 4|5|INF 5|3|XCOMP 6|5|OBJ 7|1|PUNCT
+%cod:	$MLU=5 $NMV=1 $Tmo $Dir
+*INV:	teach Mommy how to do it and tell her how . 287216_289245
+%mor:	v|teach n:prop|Mommy adv:wh|how inf|to v|do pro|it coord|and v|tell
+	pro:obj|her adv|how .
+%gra:	1|0|ROOT 2|1|OBJ 3|5|LINK 4|5|INF 5|2|XMOD 6|5|OBJ 7|5|CONJ 8|7|COORD
+	9|8|OBJ 10|8|JCT 11|1|PUNCT
+%cod:	$MLU=10 $NMV=3 $Tmo $Dir
+*MOT:	okay what are you doing ? 289245_290996
+%mor:	co|okay pro:wh|what aux|be&PRES pro|you part|do-PRESP ?
+%gra:	1|5|COM 2|5|SUBJ 3|5|AUX 4|5|SUBJ 5|0|ROOT 6|5|PUNCT
+%cod:	$MLU=5 $NMV=1 $Tmo $Dir
+*CHI:	0 . 290996_291493
+%sit:	demonstrates
+*INV:	<show Mom so Mommy can see> [>] . 291493_296825
+%mor:	v|show n:prop|Mom adv|so n:prop|Mommy mod|can v|see .
+%gra:	1|0|ROOT 2|1|OBJ 3|6|JCT 4|6|SUBJ 5|6|AUX 6|1|COMP 7|1|PUNCT
+%sit:	simultaneous with mother below .
+%cod:	$MLU=6 $NMV=2 $Tmo $C/R
+*MOT:	<what are you doing Matthew> [<] ? 291493_297188
+%mor:	pro:wh|what aux|be&PRES pro|you part|do-PRESP n:prop|Matthew ?
+%gra:	1|4|LINK 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+%sit:	simultaneous with examiner above .
+%cod:	$MLU=5 $NMV=1 $Tmo $Dir
+*MOT:	what are you doing ? 297188_297820
+%mor:	pro:wh|what aux|be&PRES pro|you part|do-PRESP ?
+%gra:	1|4|LINK 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+%cod:	$MLU=4 $NMV=1 $Tmo $Dir
+*MOT:	tell Mom what you're doing . 297820_298850
+%mor:	v|tell n:prop|Mom rel|what pro|you~aux|be&PRES part|do-PRESP .
+%gra:	1|0|ROOT 2|6|JCT 3|4|LINK 4|6|SUBJ 5|6|AUX 6|1|COMP 7|1|PUNCT
+%cod:	$MLU=6 $NMV=2 $Tmo $Dir
+*CHI:	put it in like that . 298850_302213
+%mor:	v|put&ZERO pro|it adv|in prep|like pro:dem|that .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|JCT 4|1|JCT 5|4|POBJ 6|1|PUNCT
+%sit:	demonstrates .
+%cod:	$MLU=5 $NMV=1 $Tmo $Tea
+*MOT:	tell me what you're doing . 302213_315115
+%mor:	v|tell pro:obj|me pro:wh|what pro|you~aux|be&PRES part|do-PRESP .
+%gra:	1|0|ROOT 2|1|OBJ 3|6|LINK 4|6|SUBJ 5|6|AUX 6|1|COMP 7|1|PUNCT
+%cod:	$MLU=6 $NMV=2 $Tmo $C/R
+*MOT:	you're showing me . 315115_319543
+%mor:	pro|you~aux|be&PRES part|show-PRESP pro:obj|me .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+%cod:	$MLU=4 $NMV=1 $Tmo $Rep
+*MOT:	you gotta tell me . 319543_320096
+%mor:	pro|you mod:aux|gotta v|tell pro:obj|me .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+%cod:	$MLU=4 $NMV=1 $Tmo $C/R
+*MOT:	what are you doing ? 320096_325365
+%mor:	pro:wh|what aux|be&PRES pro|you part|do-PRESP ?
+%gra:	1|4|LINK 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+%cod:	$MLU=4 $NMV=1 $Tmo $Rfi
+*INV:	wow look at that . 325365_332085
+%mor:	co|wow v|look prep|at pro:dem|that .
+%gra:	1|2|COM 2|0|ROOT 3|2|JCT 4|3|POBJ 5|2|PUNCT
+%cod:	$MLU=3 $NMV=1 $Tmo $Evp
+*MOT:	you want me to do that now ? 332085_332871
+%mor:	pro|you v|want pro:obj|me inf|to v|do pro:dem|that adv|now ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|5|INF 5|2|XCOMP 6|5|OBJ 7|5|JCT 8|2|PUNCT
+%cod:	$MLU=7 $NMV=2 $Tmo $Dir
+*MOT:	<okay get a round one> [>] . 332871_343175
+%mor:	co|okay v|get det|a adj|round pro:indef|one .
+%gra:	1|2|COM 2|0|ROOT 3|5|DET 4|5|MOD 5|2|OBJ 6|2|PUNCT
+%sit:	simultaneous with child below .
+%cod:	$MLU=5 $NMV=1 $Tmo $Lim
+*CHI:	<what's this one for Ma> [<] ? 332871_343175
+%mor:	adv:wh|what~cop|be&3S det|this pro:indef|one prep|for n:prop|Ma ?
+%gra:	1|2|LINK 2|0|ROOT 3|4|DET 4|2|PRED 5|4|NJCT 6|5|POBJ 7|2|PUNCT
+%sit:	simultaneous with mother above .
+%cod:	$MLU=6 $NMV=1 $Tmo $Rsc
+*MOT:	no leave that one there . 343651_345610
+%mor:	qn|no n|leave rel|that det:num|one adv|there .
+%gra:	1|2|QUANT 2|0|INCROOT 3|5|LINK 4|5|QUANT 5|2|JCT 6|2|PUNCT
+%cod:	$MLU=5 $NMV=1 $Tmo $Rsc
+*CHI:	that one . 345610_346870
+%mor:	det|that pro:indef|one .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+%cod:	$MLU=2 $NMV=0 $Tmo $Tea
+*MOT:	this way . 346870_347288
+%mor:	det|this n|way .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+%cod:	$MLU=2 $NMV=0 $Tmo $Lim
+*MOT:	round one . 347288_348835
+%mor:	adj|round pro:indef|one .
+%gra:	1|0|INCROOT 2|1|OBJ 3|1|PUNCT
+%cod:	$MLU=2 $NMV=0 $Tmo $Lim
+*MOT:	push it through . 348835_350783
+%mor:	v|push pro|it adj|through .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|JCT 4|1|PUNCT
+%cod:	$MLU=3 $NMV=1 $Tmo $Lim
+*MOT:	then we get a square one . 350783_352601
+%mor:	adv:tem|then pro:sub|we v|get det|a adj|square pro:indef|one .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|6|DET 5|6|MOD 6|3|OBJ 7|3|PUNCT
+%cod:	$MLU=6 $NMV=1 $Tmo $Lim
+*MOT:	push it through . 352601_356190
+%mor:	v|push pro|it adj|through .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|JCT 4|1|PUNCT
+%cod:	$MLU=3 $NMV=1 $Tmo $Lim
+*CHI:	0 . 352601_356093
+%sit:	burps loudly .
+*MOT:	oh what do you say ? 356093_357258
+%mor:	co|oh pro:wh|what mod|do pro|you v|say ?
+%gra:	1|5|COM 2|5|SUBJ 3|5|AUX 4|5|SUBJ 5|0|ROOT 6|5|PUNCT
+%cod:	$MLU=4 $NMV=1 $Tmo $Rsc
+*CHI:	excuse me . 357258_359611
+%mor:	v|excuse pro:obj|me .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+%cod:	$MLU=2 $NMV=1 $Tmo $Rsc
+*MOT:	okay and cover your mouth . 359611_360770
+%mor:	co|okay coord|and v|cover pro:poss:det|your n|mouth .
+%gra:	1|0|INCROOT 2|1|CONJ 3|2|COORD 4|5|MOD 5|3|OBJ 6|1|PUNCT
+%cod:	$MLU=5 $NMV=1 $Tmo $Rsc
+*INV:	did she do it ? 360770_362106
+%mor:	v|do&PAST pro:sub|she v|do pro|it ?
+%gra:	1|0|ROOT 2|3|SUBJ 3|1|COMP 4|3|OBJ 5|1|PUNCT
+%cod:	$MLU=4 $NMV=1 $Tmo $Dir
+*MOT:	is that the right way ? 362106_363620
+%mor:	cop|be&3S rel|that det|the adj|right n|way ?
+%gra:	1|0|ROOT 2|5|LINK 3|5|DET 4|5|MOD 5|1|PRED 6|1|PUNCT
+%cod:	$MLU=5 $NMV=1 $Tmo $Rfi
+*INV:	<what a good teacher> [>] ! 363620_366668
+%mor:	pro:wh|what det|a adj|good n|teach&dv-AGT !
+%gra:	1|4|LINK 2|4|DET 3|4|MOD 4|0|INCROOT 5|4|PUNCT
+%sit:	simultaneous with Mother below .
+%cod:	$MLU=4 $NMV=0 $Clo $Evt
+*MOT:	<very good> [<] . 363620_365800
+%mor:	adv|very adj|good .
+%gra:	1|2|JCT 2|0|ROOT 3|2|PUNCT
+%sit:	simultaneous with examner above .
+%cod:	$MLU=2 $NMV=0 $Clo $Evt
+*MOT:	you taught me well . 365800_366633
+%mor:	pro|you v|teach&PAST pro:obj|me adv|well .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|JCT 5|2|PUNCT
+%cod:	$MLU=4 $NMV=1 $Clo $Evt
+@End

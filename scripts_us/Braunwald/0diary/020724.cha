@@ -1,0 +1,30 @@
+@UTF8
+@PID:	11312/c-00010985-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, MOT Mother
+@ID:	eng|Braunwald|CHI|02;07.24|female|||Target_Child|||
+@ID:	eng|Braunwald|MOT|||||Mother|||
+@Date:	14-OCT-1973
+*MOT:	one two three four five six seven eight nine ten eleven twelve
+	thirteen fourteen fifteen .
+%mor:	det:num|one det:num|two det:num|three det:num|four det:num|five
+	det:num|six det:num|seven det:num|eight det:num|nine det:num|ten
+	det:num|eleven det:num|twelve det:num|thirteen det:num|fourteen
+	det:num|fifteen .
+%gra:	1|2|QUANT 2|3|QUANT 3|4|QUANT 4|5|QUANT 5|6|QUANT 6|7|QUANT 7|8|QUANT
+	8|9|QUANT 9|10|QUANT 10|11|QUANT 11|12|QUANT 12|13|QUANT 13|14|QUANT
+	14|15|QUANT 15|0|ROOT 16|15|PUNCT
+%sit:	836
+*CHI:	eleventeen@n, you didn't say the eleventeen@n .
+%mor:	neo|eleventeen cm|cm pro|you mod|do&PAST~neg|not v|say det|the
+	neo|eleventeen .
+%gra:	1|6|LINK 2|1|LP 3|6|SUBJ 4|6|AUX 5|4|NEG 6|0|ROOT 7|8|DET 8|6|OBJ
+	9|6|PUNCT
+%sit:	836
+*MOT:	there's an eleven but no eleventeen@n .
+%mor:	pro:exist|there~cop|be&3S det|a det:num|eleven conj|but co|no
+	neo|eleventeen .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|7|QUANT 5|7|LINK 6|7|COM 7|2|PRED 8|2|PUNCT
+%sit:	836
+@End

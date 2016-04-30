@@ -1,0 +1,384 @@
+@UTF8
+@PID:	11312/c-00020308-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Rosie Target_Child , MOT Mother , FAT Father , DON Donna Child , KEL Kelvin Child , UNK Unidentified , NEI Unidentified , JUL Child , PET Unidentified
+@ID:	eng|Wells|CHI|2;0.13||||Target_Child|||
+@ID:	eng|Wells|MOT|||||Mother|||
+@ID:	eng|Wells|FAT|||||Father|||
+@ID:	eng|Wells|DON|||||Child|||
+@ID:	eng|Wells|KEL|||||Child|||
+@ID:	eng|Wells|UNK|||||Unidentified|||
+@ID:	eng|Wells|NEI|||||Unidentified|||
+@ID:	eng|Wells|JUL|||||Child|||
+@ID:	eng|Wells|PET|||||Unidentified|||
+@Comment:	Nil
+@Location:	Garden
+@Situation:	Children in garden playing with a dolls' pram. M indoors
+*CHI:	yyy bath .
+%mor:	n|bath .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	here .
+%mor:	adv|here .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	he'll bite you .
+%mor:	pro:sub|he~mod|will v|bite pro|you .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+%com:	d had bitten her earlier D saying something to herself in background
+%par:	<aft> coughs
+@Time Start:	9:53
+@Activities:	Free play with another child
+@Comment:	Radio on throughout
+@Comment:	Running
+*CHI:	yes (7.) .
+%mor:	co|yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	baba@c .
+%mor:	chi|baba .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	Daddy .
+%mor:	n:prop|Daddy .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	Daddy (2.) .
+%mor:	n:prop|Daddy .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	Daddy (2.) .
+%mor:	n:prop|Daddy .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	Daddy .
+%mor:	n:prop|Daddy .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%par:	<aft> shouts <bef> noise <aft> laughs
+*DON:	&=laughs .
+@Location:	Back room
+*CHI:	xxx (12.) .
+*CHI:	it bite Ma .
+%mor:	pro|it v|bite n:prop|Ma .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*CHI:	it bite you !
+%mor:	pro|it v|bite pro|you !
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*CHI:	Mummie (3.) .
+%mor:	n:prop|Mummie .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%par:	<aft> crying Playing with something
+*MOT:	at school .
+%mor:	prep|at n|school .
+%gra:	1|0|INCROOT 2|1|POBJ 3|1|PUNCT
+@Location:	Hall
+@Situation:	R had been crying. M is comforting her whilst she is speaking on the telephone
+*FAT:	xxx (4.) .
+*MOT:	it's alright with you too when you've got_to keep all the little
+	ones isn't it (6.) ?
+%mor:	pro|it~cop|be&3S adj|alright prep|with pro|you adv|too rel|when
+	pro|you~aux|have mod:aux|got_to v|keep qn|all art|the adj|little
+	pro:indef|one-PL cop|be&3S~neg|not pro|it ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|JCT 5|6|SUBJ 6|4|POBJ 7|11|LINK
+	8|11|SUBJ 9|11|AUX 10|11|AUX 11|2|CJCT 12|15|QUANT 13|15|DET 14|15|MOD 15|11|OBJ
+	16|18|AUX 17|16|NEG 18|15|OBJ 19|2|PUNCT
+*MOT:	he hasn't had a day off yet .
+%mor:	pro:sub|he aux|have&3S~neg|not v|have&PAST art|a n|day adv|off
+	adv|yet .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|JCT 8|4|JCT
+	9|4|PUNCT
+*MOT:	yes .
+%mor:	co|yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	gave Kelvin a bike .
+%mor:	v|give&PAST n:prop|Kelvin art|a n|bike .
+%gra:	1|0|ROOT 2|1|OBJ 3|4|DET 4|2|OBJ 5|1|PUNCT
+*MOT:	oh he thinks it's lovely .
+%mor:	co|oh pro:sub|he v|think-3S pro|it~aux|be&3S adj|love&dn-LY .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|6|AUX 6|3|JCT 7|3|PUNCT
+*MOT:	yes .
+%mor:	co|yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	he's got_to be busy outside our street you've got_to watch it
+	really .
+%mor:	pro:sub|he~aux|be&3S mod:aux|got_to aux|be adj|busy adj|outside
+	pro:poss:det|our n|street pro|you~aux|have mod:aux|got_to v|watch
+	pro|it adv|real&dadj-LY .
+%gra:	1|3|SUBJ 2|3|AUX 3|8|SUBJ 4|8|AUX 5|8|MOD 6|8|MOD 7|8|MOD 8|12|LINK
+	9|12|SUBJ 10|12|AUX 11|12|AUX 12|0|ROOT 13|12|OBJ 14|12|JCT 15|12|PUNCT
+*MOT:	he's up to mischief (2.) .
+%mor:	pro:sub|he~aux|be&3S adv|up prep|to n|mischief .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|2|JCT 5|4|POBJ 6|2|PUNCT
+*MOT:	oh he went to sleep on the actual bed didn't he (3.) ?
+%mor:	co|oh pro:sub|he v|go&PAST prep|to n|sleep prep|on art|the
+	adj|actual n|bed mod|do&PAST~neg|not pro:sub|he ?
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|4|POBJ 6|5|NJCT 7|9|DET 8|9|MOD
+	9|12|SUBJ 10|12|AUX 11|10|NEG 12|6|POBJ 13|3|PUNCT
+*DON:	Daddy (3.) .
+%mor:	n:prop|Daddy .
+%gra:	1|0|INCROOT 2|1|PUNCT
+@Location:	Back room
+@Situation:	Radio on loudly throughout
+*FAT:	&eh (2.) ?
+*FAT:	what ?
+%mor:	pro:wh|what ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	it is .
+%mor:	pro|it cop|be&3S .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*FAT:	the what ?
+%mor:	art|the pro:wh|what ?
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*FAT:	I could .
+%mor:	pro:sub|I mod|could .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+%par:	<aft> noises
+*PET:	get a job xxx (2.) .
+%mor:	v|get art|a n|job .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+*CHI:	Daddy .
+%mor:	n:prop|Daddy .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*FAT:	<he earns> [<] about forty pounds a week (4.) .
+%mor:	pro:sub|he v|earn-3S prep|about det:num|forty n|pound-PL art|a
+	n|week .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|5|QUANT 5|3|POBJ 6|7|DET 7|5|OBJ 8|2|PUNCT
+*MOT:	xxx .
+*FAT:	come on then .
+%mor:	v|come adv|on adv:tem|then .
+%gra:	1|0|ROOT 2|1|JCT 3|1|INCROOT 4|3|PUNCT
+*UNK:	good boy .
+%mor:	adj|good n|boy .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*CHI:	good boy .
+%mor:	adj|good n|boy .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*DON:	0 [=! noises] .
+*DON:	come on pussy .
+%mor:	v|come prep|on n|pussy .
+%gra:	1|0|ROOT 2|1|JCT 3|2|POBJ 4|1|PUNCT
+*FAT:	how about a puppy dog (2.) ?
+%mor:	adv:wh|how adv|about art|a n|puppy n|dog ?
+%gra:	1|2|LINK 2|0|ROOT 3|5|DET 4|5|MOD 5|2|OBJ 6|2|PUNCT
+*FAT:	xxx .
+*FAT:	xxx (2.) .
+*MOT:	xxx (8.) .
+@Time Start:	11:19
+@Activities:	Talk as the main activity
+@Comment:	bike
+*CHI:	Mummie .
+%mor:	n:prop|Mummie .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%par:	<aft> scream <aft> scream <aft> crying
+*CHI:	Mum biscuit (5.) .
+%mor:	n:prop|Mum n|biscuit .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*DON:	who that (8.) ?
+%mor:	pro:wh|who pro:dem|that ?
+%gra:	1|2|OBJ 2|0|ROOT 3|2|PUNCT
+*CHI:	Mummie (3.) .
+%mor:	n:prop|Mummie .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	yyy Nanny .
+%mor:	n:prop|Nanny .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%com:	r had broken her bottle earlier
+*CHI:	yyy Nanny (3.) .
+%mor:	n:prop|Nanny .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%com:	grandmother talking to M in hall
+*CHI:	yyy Nanny .
+%mor:	n:prop|Nanny .
+%gra:	1|0|INCROOT 2|1|PUNCT
+@Location:	Kitchen
+@Comment:	noises
+@Situation:	M washing up and F talking
+*CHI:	me by you .
+%mor:	pro:obj|me prep|by pro|you .
+%gra:	1|0|INCROOT 2|1|JCT 3|2|POBJ 4|1|PUNCT
+*DON:	xxx (8.) .
+*CHI:	Mummie .
+%mor:	n:prop|Mummie .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	Mummie .
+%mor:	n:prop|Mummie .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	<Mummie > [>] .
+%mor:	n:prop|Mummie .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	xxx .
+*MOT:	or go and play .
+%mor:	coord|or v|go coord|and n|play .
+%gra:	1|2|LINK 2|0|ROOT 3|2|CONJ 4|3|COORD 5|2|PUNCT
+%par:	<2.> crying <aft> noises
+*CHI:	Mummie (3.) .
+%mor:	n:prop|Mummie .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	Mummie .
+%mor:	n:prop|Mummie .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	Mummie .
+%mor:	n:prop|Mummie .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	Mummie .
+%mor:	n:prop|Mummie .
+%gra:	1|0|INCROOT 2|1|PUNCT
+@Time Start:	12:13
+@Activities:	Free play alone
+@Comment:	Moving something may be pram
+*FAT:	Rosie (10.) .
+%mor:	n:prop|Rosie .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%par:	<aft> squeaks
+*CHI:	it bite yyy (2.) yyy (2.) yyy (2.) yyy yyy (12.) .
+%mor:	pro|it v|bite .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+%par:	<5.> noise <6.> noise
+%com:	pulling something
+@Location:	Hall
+*FAT:	Rosie (30.) .
+%mor:	n:prop|Rosie .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%com:	m sweeping stairs Children in the way M and F talking in background Dragging a bucket
+@Location:	Garden
+*CHI:	oh .
+%mor:	co|oh .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%com:	playing with a scooter
+*CHI:	mine .
+%mor:	pro:poss|mine .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	a car (26.) .
+%mor:	art|a n|car .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+@Time Start:	3:17
+@Activities:	Free play alone
+*CHI:	you yyy (6.) .
+%mor:	pro|you .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	ow (10.) .
+%mor:	co|ow .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*DON:	xxx .
+*CHI:	where bike (1.) ?
+%mor:	adv:wh|where n|bike ?
+%gra:	1|2|LINK 2|0|INCROOT 3|2|PUNCT
+*CHI:	whose (2.) ?
+%mor:	rel|whose ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+@Time Start:	3:29
+@Activities:	Free play with another child
+*FAT:	get out .
+%mor:	v|get adv|out .
+%gra:	1|0|ROOT 2|1|JCT 3|1|PUNCT
+*MOT:	will you do me a favor ?
+%mor:	mod|will pro|you v|do pro:obj|me art|a n|favor ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|6|DET 6|3|OBJ 7|3|PUNCT
+*CHI:	oh (2.) .
+%mor:	co|oh .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%par:	<aft> noises
+*DON:	come on (3.) .
+%mor:	v|come adv|on .
+%gra:	1|0|ROOT 2|1|JCT 3|1|PUNCT
+*MOT:	xxx ?
+*FAT:	been very good xxx .
+%mor:	cop|be&PASTP adv|very adj|good .
+%gra:	1|0|ROOT 2|3|JCT 3|1|PRED 4|1|PUNCT
+%par:	<aft> ? to D and R <aft> coughing
+*CHI:	yyy me .
+%mor:	pro:obj|me .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*DON:	out .
+%mor:	adv|out .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%par:	<aft> scream <aft> screams
+@Time Start:	3:53
+@Activities:	Talk as the main activity
+*CHI:	who's that ?
+%mor:	pro:wh|who~cop|be&3S pro:dem|that ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+%com:	running M does not know what R is talking about throughout
+%par:	<6.> noises <aft> noises
+*CHI:	baa (3.) .
+%mor:	co|baa .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	hat [= ? that] Ma .
+%mor:	n|hat n:prop|Ma .
+%gra:	1|0|INCROOT 2|1|APP 3|1|PUNCT
+*CHI:	Mummie .
+%mor:	n:prop|Mummie .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	yyy (1.) Ma .
+%mor:	n:prop|Ma .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%com:	m putting on another record
+@Location:	Back room
+@Situation:	M has just given them all sweets
+*MOT:	oh just eat that for now .
+%mor:	co|oh adv|just v|eat pro:dem|that prep|for adv|now .
+%gra:	1|3|COM 2|3|JCT 3|0|ROOT 4|3|OBJ 5|3|JCT 6|5|POBJ 7|3|PUNCT
+*JUL:	I want another one .
+%mor:	pro:sub|I v|want qn|another pro:indef|one .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|QUANT 4|2|OBJ 5|2|PUNCT
+*DON:	who said .
+%mor:	rel|who v|say&PAST .
+%gra:	1|2|LINK 2|0|ROOT 3|2|PUNCT
+*MOT:	come on .
+%mor:	v|come adv|on .
+%gra:	1|0|ROOT 2|1|JCT 3|1|PUNCT
+%com:	all talking and shouting
+%par:	<aft> shouting D screaming or crying
+%add:	to C
+*MOT:	get up the .
+%mor:	v|get prep|up art|the .
+%gra:	1|0|ROOT 2|1|JCT 3|2|POBJ 4|1|PUNCT
+*MOT:	get that sock for me Rose .
+%mor:	v|get det|that n|sock prep|for pro:obj|me n:prop|Rose .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|3|NJCT 5|4|POBJ 6|3|APP 7|1|PUNCT
+*JUL:	what (16.) ?
+%mor:	pro:wh|what ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	xxx .
+@Time Start:	4:43
+@Activities:	Free play with other children
+*CHI:	Mummie .
+%mor:	n:prop|Mummie .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*KEL:	Mum .
+%mor:	n:prop|Mum .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	no you can't xxx (3.) .
+%mor:	co|no pro|you mod|can~neg|not .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|NEG 5|3|PUNCT
+*MOT:	they've had their money ?
+%mor:	pro:sub|they~aux|have part|have&PASTP pro:poss:det|their n|money ?
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|MOD 5|3|OBJ 6|3|PUNCT
+*FAT:	yes (28.) .
+%mor:	co|yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*DON:	Steven .
+%mor:	n:prop|Steven .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*KEL:	Steven in here xxx (6.) .
+%mor:	n:prop|Steven prep|in pro:dem|here .
+%gra:	1|0|INCROOT 2|1|JCT 3|2|POBJ 4|1|PUNCT
+*JUL:	xxx .
+*JUL:	get this baby to my to my (3.) .
+%mor:	v|get det|this n|baby prep|to pro:poss:det|my prep|to
+	pro:poss:det|my .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|3|NJCT 5|4|POBJ 6|5|JCT 7|6|POBJ 8|1|PUNCT
+*JUL:	leave off (4.) .
+%mor:	n|leave adv|off .
+%gra:	1|0|INCROOT 2|1|JCT 3|1|PUNCT
+@Time Start:	5:11
+@Activities:	Other nonplay
+*NEI:	get off he says .
+%mor:	v|get adv|off pro:sub|he v|say-3S .
+%gra:	1|0|ROOT 2|1|JCT 3|4|SUBJ 4|1|COMP 5|1|PUNCT
+*NEI:	let me alone he says (26.) .
+%mor:	v|let&ZERO pro:obj|me adv|alone pro:sub|he v|say-3S .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|JCT 4|5|SUBJ 5|1|COMP 6|1|PUNCT
+%com:	goes into hall and stairs again
+%par:	<aft> noises
+*MOT:	going to take her microphone off when you go .
+%mor:	part|go-PRESP inf|to v|take pro:poss:det|her n|microphone adv|off
+	conj|when pro|you v|go .
+%gra:	1|0|INCROOT 2|3|INF 3|1|XCOMP 4|5|MOD 5|3|OBJ 6|3|JCT 7|9|LINK 8|9|SUBJ
+	9|3|CJCT 10|1|PUNCT
+%par:	<aft> calls <aft> calls
+@End

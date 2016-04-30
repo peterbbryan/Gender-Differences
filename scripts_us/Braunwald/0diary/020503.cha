@@ -1,0 +1,37 @@
+@UTF8
+@PID:	11312/c-00010907-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, MOT Mother
+@ID:	eng|Braunwald|CHI|02;05.03|female|||Target_Child|||
+@ID:	eng|Braunwald|MOT|||||Mother|||
+@Date:	23-JUL-1973
+*CHI:	I wonder when Susie coming .
+%mor:	pro:sub|I v|wonder conj|when n:prop|Susie part|come-PRESP .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|LINK 4|5|AUX 5|2|CJCT 6|2|PUNCT
+%sit:	373
+*MOT:	Susie's not coming .
+%mor:	n:prop|Susie~poss|s neg|not part|come-PRESP .
+%gra:	1|4|SUBJ 2|1|POSS 3|1|NEG 4|0|ROOT 5|4|PUNCT
+%sit:	373
+*CHI:	or Judie .
+%mor:	coord|or n:prop|Judie .
+%gra:	1|0|INCROOT 2|1|COORD 3|1|PUNCT
+%sit:	373
+*MOT:	Judie's not coming .
+%mor:	n:prop|Judie~poss|s neg|not part|come-PRESP .
+%gra:	1|4|SUBJ 2|1|POSS 3|1|NEG 4|0|ROOT 5|4|PUNCT
+%sit:	373
+*MOT:	a new friend is coming .
+%mor:	det|a adj|new n|friend aux|be&3S part|come-PRESP .
+%gra:	1|3|DET 2|3|MOD 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|PUNCT
+%sit:	373
+*CHI:	who ?
+%mor:	rel|who ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%sit:	373
+*MOT:	Missus_Childress .
+%mor:	n:prop|Missus_Childress .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%sit:	373
+@End

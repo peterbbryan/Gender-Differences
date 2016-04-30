@@ -1,0 +1,31 @@
+@UTF8
+@PID:	11312/c-00017732-1
+@Begin
+@Languages:	eng
+@Participants:	MOT Ann Mother , CHI Peter Target_Child
+@ID:	eng|VanHouten|CHI|2;4.|male|typical||Target_Child|||
+@ID:	eng|VanHouten|MOT|||||Mother|||
+@Comment:	Education of MOT is 1
+@Situation:	Lunch. Child eats lunch in the kitchen while Mother gets her lunch and then goes in the adjoining room to eat and watch soap operas. There is very little interaction. Child is virtually unintelligible.
+@Comment:	Age Group of MOT Adolescent
+*CHI:	0 .
+%sit:	drops food and bends to pick it up .
+*MOT:	what are you doing ?
+%mor:	pro:wh|what aux|be&PRES pro|you part|do-PRESP ?
+%gra:	1|4|LINK 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+%cod:	$MLU=4 $NMV=0 $Rta $Rfi
+*CHI:	xxx .
+%cod:	$Res
+*MOT:	want a spoon ?
+%mor:	v|want det|a n|spoon ?
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+%cod:	$MLU=3 $NMV=1 $Ini $Rfi
+*CHI:	0 .
+%sit:	ignores Mother .
+%cod:	$Nul
+*MOT:	here .
+%mor:	adv|here .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%sit:	gives Child spoon .
+%cod:	$MLU=1 $NMV=0 $Ini $C/R
+@End

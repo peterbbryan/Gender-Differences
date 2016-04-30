@@ -1,0 +1,35 @@
+@UTF8
+@PID:	11312/c-00011162-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, MOT Mother
+@ID:	eng|Braunwald|CHI|03;03.05|female|||Target_Child|||
+@ID:	eng|Braunwald|MOT|||||Mother|||
+@Date:	25-MAY-1974
+*CHI:	I'm a banana eater because I like bananas .
+%mor:	pro:sub|I~cop|be&1S det|a n|banana n|eat&dv-AGT conj|because
+	pro:sub|I v|like n|banana-PL .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|DET 4|5|MOD 5|2|PRED 6|8|LINK 7|8|SUBJ 8|2|CJCT
+	9|8|OBJ 10|2|PUNCT
+%sit:	j7_119
+*CHI:	I told him I was a banana eater .
+%mor:	pro:sub|I v|tell&PAST pro:obj|him pro:sub|I cop|be&PAST&13S det|a
+	n|banana n|eat&dv-AGT .
+%gra:	1|2|SUBJ 2|5|LINK 3|2|OBJ 4|5|SUBJ 5|0|ROOT 6|8|DET 7|8|MOD 8|5|PRED
+	9|5|PUNCT
+%sit:	784
+*MOT:	okay, Lastname, it's time to call it a day .
+%mor:	co|okay cm|cm n:prop|Lastname cm|cm pro|it~aux|be&3S n|time inf|to
+	v|call pro|it det|a n|day .
+%gra:	1|7|COM 2|1|LP 3|7|MOD 4|3|LP 5|7|SUBJ 6|7|AUX 7|0|ROOT 8|9|INF
+	9|7|XCOMP 10|9|OBJ 11|12|DET 12|9|OBJ 13|7|PUNCT
+%sit:	785
+*CHI:	don't call it day .
+%mor:	mod|do~neg|not v|call pro|it n|day .
+%gra:	1|3|AUX 2|1|NEG 3|0|ROOT 4|3|OBJ 5|3|OBJ 6|3|PUNCT
+%sit:	785
+*CHI:	it's night .
+%mor:	pro|it~cop|be&3S n|night .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+%sit:	785
+@End
