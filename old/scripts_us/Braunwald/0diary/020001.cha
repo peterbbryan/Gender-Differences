@@ -1,0 +1,135 @@
+@UTF8
+@PID:	11312/c-00010775-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, MOT Mother, SIS Sister
+@ID:	eng|Braunwald|CHI|02;00.01|female|||Target_Child|||
+@ID:	eng|Braunwald|MOT|||||Mother|||
+@ID:	eng|Braunwald|SIS|||||Sister|||
+@Date:	21-FEB-1973
+*CHI:	I want Nanny .
+%mor:	pro:sub|I v|want n:prop|Nanny .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+%sit:	26
+*MOT:	which nanny do you want ?
+%mor:	rel|which n|nanny v|do pro|you v|want ?
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|SUBJ 5|3|OBJ 6|3|PUNCT
+%sit:	26
+*CHI:	Nanny_Cookie [: Nanny_Mickey] .
+%mor:	n:prop|Nanny_Mickey .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%sit:	26
+*CHI:	I wanna see Nanny_Cookie [: Nanny_Mickey] .
+%mor:	pro:sub|I v|want~inf|to v|see n:prop|Nanny_Mickey .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|INF 4|2|XCOMP 5|4|OBJ 6|2|PUNCT
+%sit:	26
+*CHI:	I wanna see Nanny_Cookie [: Nanny_Mickey] (to)morrow .
+%mor:	pro:sub|I v|want~inf|to v|see n:prop|Nanny_Mickey adv:tem|tomorrow
+	.
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|INF 4|2|XCOMP 5|4|OBJ 6|4|JCT 7|2|PUNCT
+%sit:	26
+*MOT:	you wanna see Nanny_Mickey tomorrow ?
+%mor:	pro|you v|want~inf|to v|see n:prop|Nanny_Mickey adv:tem|tomorrow ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|INF 4|2|XCOMP 5|4|OBJ 6|4|JCT 7|2|PUNCT
+%sit:	26
+*CHI:	uhuh .
+%mor:	co|uhuh .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%sit:	26
+*CHI:	my tummy hurting my again .
+%mor:	pro:poss:det|my n|tummy n:gerund|hurt-PRESP pro:poss:det|my
+	adv|again .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|XMOD 4|5|MOD 5|3|JCT 6|2|PUNCT
+%sit:	27
+*CHI:	my tummy hurting me again .
+%mor:	pro:poss:det|my n|tummy part|hurt-PRESP pro:obj|me adv|again .
+%gra:	1|2|MOD 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|JCT 6|3|PUNCT
+%sit:	27
+*CHI:	this is filthy .
+%mor:	pro:dem|this cop|be&3S adj|filth&dn-Y .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+%sit:	28
+*MOT:	no, it's burnt .
+%mor:	co|no cm|cm pro|it~aux|be&3S v|burn&PAST .
+%gra:	1|5|COM 2|1|LP 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|PUNCT
+%sit:	28
+*CHI:	Sue have_to write it down .
+%mor:	n:prop|Sue mod:aux|have_to v|write pro|it adv|down .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|3|JCT 6|3|PUNCT
+%sit:	29
+*CHI:	you have sore ?
+%mor:	pro|you v|have n|sore ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+%sit:	30
+*MOT:	yes .
+%mor:	co|yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%sit:	30
+*CHI:	Daddy take it out ?
+%mor:	n:prop|Daddy v|take pro|it adv|out ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|JCT 5|2|PUNCT
+%sit:	30
+*MOT:	no, Daddy can't take it out .
+%mor:	co|no cm|cm n:prop|Daddy mod|can~neg|not v|take pro|it adv|out .
+%gra:	1|6|COM 2|1|LP 3|6|SUBJ 4|6|AUX 5|4|NEG 6|0|ROOT 7|6|OBJ 8|6|JCT
+	9|6|PUNCT
+%sit:	30
+*SIS:	well then how does it get better ?
+%mor:	co|well adv:tem|then adv|how mod|do&3S pro|it v|get adj|good&CP ?
+%gra:	1|6|COM 2|6|JCT 3|6|JCT 4|6|AUX 5|6|SUBJ 6|0|ROOT 7|6|JCT 8|6|PUNCT
+%sit:	30
+*MOT:	it has_to heal, and I can't pick it .
+%mor:	pro|it mod:aux|has_to v|heal cm|cm coord|and pro:sub|I
+	mod|can~neg|not v|pick pro|it .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|LP 5|9|LINK 6|9|SUBJ 7|9|AUX 8|7|NEG
+	9|3|COMP 10|9|OBJ 11|3|PUNCT
+%sit:	30
+*CHI:	my nini@c [= nap] Susie couch .
+%mor:	pro:poss:det|my chi|nini n:prop|Susie n|couch .
+%gra:	1|2|MOD 2|0|ROOT 3|4|MOD 4|2|PRED 5|2|PUNCT
+%sit:	31
+*CHI:	I did .
+%mor:	pro:sub|I v|do&PAST .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+%sit:	31
+*CHI:	my coughed .
+%mor:	pro:poss:det|my part|cough-PASTP .
+%gra:	1|2|MOD 2|0|ROOT 3|2|PUNCT
+%sit:	32
+*CHI:	there Donald's hamburgers .
+%mor:	adv|there n:prop|Donald~poss|s n|hamburger-PL .
+%gra:	1|4|JCT 2|4|MOD 3|2|POSS 4|0|INCROOT 5|4|PUNCT
+%sit:	33
+*CHI:	I wanna ring doorbell .
+%mor:	pro:sub|I v|want~inf|to n|ring n|+n|door+n|bell .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|INF 4|5|MOD 5|2|OBJ 6|2|PUNCT
+%sit:	34
+*CHI:	my tummy feel better .
+%mor:	pro:poss:det|my n|tummy v|feel adj|good&CP .
+%gra:	1|2|MOD 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|PUNCT
+%sit:	35
+*CHI:	my tummy stopped .
+%mor:	pro:poss:det|my n|tummy v|stop-PAST .
+%gra:	1|2|MOD 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+%sit:	35
+*CHI:	Daddy take Joanna splinter out .
+%mor:	n:prop|Daddy v|take n:prop|Joanna n|splinter adv|out .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|3|INCROOT 5|4|NJCT 6|4|PUNCT
+%sit:	36
+*CHI:	I careful glass .
+%mor:	pro:sub|I adj|care&dn-FULL n|glass .
+%gra:	1|3|SUBJ 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+%sit:	37
+*CHI:	play Ducky_Daddles .
+%mor:	n|play n:prop|Ducky_Daddles .
+%gra:	1|0|INCROOT 2|1|APP 3|1|PUNCT
+%sit:	38
+*CHI:	my spill my bosom [= clay] .
+%mor:	pro:poss:det|my v|spill pro:poss:det|my n|bosom .
+%gra:	1|2|MOD 2|0|ROOT 3|4|MOD 4|2|OBJ 5|2|PUNCT
+%sit:	39
+*CHI:	you have_to write it down .
+%mor:	pro|you mod:aux|have_to v|write pro|it adv|down .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|3|JCT 6|3|PUNCT
+%sit:	40
+@End

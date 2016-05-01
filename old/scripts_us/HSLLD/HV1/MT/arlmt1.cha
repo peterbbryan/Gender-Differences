@@ -1,0 +1,513 @@
+@UTF8
+@PID:	11312/c-00034939-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child , MOT Mother , SIS Christa Sister , JES Jessie Sister , STE Steve Adult
+@ID:	eng|HSLLD|CHI|3;11.23|male|||Target_Child|||
+@ID:	eng|HSLLD|MOT|||||Mother|12||
+@ID:	eng|HSLLD|SIS|||||Sister|||
+@ID:	eng|HSLLD|JES|||||Sister|||
+@ID:	eng|HSLLD|STE|||||Adult|||
+@Birth of CHI:	27-JUL-1985
+@Comment:	SES of Mot is lower
+@Date:	19-JUL-1989
+@Location:	Boston , MA USA
+@Situation:	Home Visit 1
+@Activities:	Meal time
+*CHI:	good .
+%mor:	adj|good .
+%gra:	1|0|INCROOT 2|1|PUNCT
+@Comment:	Time is 0:04
+*CHI:	chinese food .
+%mor:	adj|chinese n|food .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*SIS:	xxx eating chinese food .
+%mor:	part|eat-PRESP adj|chinese n|food .
+%gra:	1|3|MOD 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+*SIS:	xxx there .
+%mor:	adv|there .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	chinese food &=shouts !
+%mor:	adj|chinese n|food !
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*MOT:	don't yell .
+%mor:	mod|do~neg|not v|yell .
+%gra:	1|3|AUX 2|1|NEG 3|0|ROOT 4|3|PUNCT
+*SIS:	you're eating chinese food [>] .
+%mor:	pro|you~aux|be&PRES part|eat-PRESP adj|chinese n|food .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|MOD 5|3|OBJ 6|3|PUNCT
+*CHI:	<Mommy> [<] can you give me one of those ?
+%mor:	n:prop|Mommy mod|can pro|you v|give pro:obj|me pro:indef|one
+	prep|of pro:dem|those ?
+%gra:	1|4|SUBJ 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|4|OBJ 7|6|NJCT 8|7|POBJ
+	9|4|PUNCT
+%spa:	$CONV:PRQ
+*CHI:	can you give me a plate ?
+%mor:	mod|can pro|you v|give pro:obj|me det|a n|plate ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|6|DET 6|3|OBJ 7|3|PUNCT
+%spa:	$CONV:PRQ
+*MOT:	please ?
+%mor:	co|please ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$CONV:DI
+*CHI:	please .
+%mor:	co|please .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*SIS:	I'm starving .
+%mor:	pro:sub|I~aux|be&1S part|starve-PRESP .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|PUNCT
+*CHI:	&ah the blue one the blue one .
+%mor:	det|the n|blue det:num|one det|the n|blue pro:indef|one .
+%gra:	1|2|DET 2|6|SUBJ 3|5|QUANT 4|5|DET 5|6|MOD 6|0|ROOT 7|6|PUNCT
+*CHI:	oops .
+%mor:	co|oops .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	xxx the blue one .
+%mor:	det|the n|blue pro:indef|one .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*CHI:	can you give me one of those ?
+%mor:	mod|can pro|you v|give pro:obj|me pro:indef|one prep|of
+	pro:dem|those ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|OBJ 6|5|NJCT 7|6|POBJ 8|3|PUNCT
+%spa:	$CONV:PRQ
+*MOT:	in a minute .
+%mor:	prep|in det|a n|minute .
+%gra:	1|0|INCROOT 2|3|DET 3|1|POBJ 4|1|PUNCT
+*CHI:	please can you give me a plate ?
+%mor:	co|please mod|can pro|you v|give pro:obj|me det|a n|plate ?
+%gra:	1|4|COM 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|7|DET 7|4|OBJ 8|4|PUNCT
+%spa:	$CONV:PRQ
+*MOT:	just a minute Arlo .
+%mor:	adv|just det|a n|minute n:prop|Arlo .
+%gra:	1|4|JCT 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+*CHI:	what is in there ?
+%mor:	pro:wh|what cop|be&3S prep|in pro:dem|there ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|3|POBJ 5|2|PUNCT
+*SIS:	xxx that's salad .
+%mor:	pro:dem|that~cop|be&3S n|salad .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*CHI:	I want one of those .
+%mor:	pro:sub|I v|want det:num|one prep|of pro:dem|those .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|3|JCT 5|4|POBJ 6|2|PUNCT
+*CHI:	I don't got a plate .
+%mor:	pro:sub|I mod|do~neg|not v|get&PAST det|a n|plate .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+*CHI:	xxx .
+*SIS:	xxx .
+@Bg:	2
+*CHI:	that's so hungry can I have one of these ?
+%mor:	pro:dem|that~cop|be&3S adv|so adj|hungry mod|can pro:sub|I v|have
+	pro:indef|one prep|of pro:dem|these ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|2|PRED 5|7|AUX 6|7|SUBJ 7|2|CJCT 8|7|OBJ
+	9|8|NJCT 10|9|POBJ 11|2|PUNCT
+%spa:	$CONV:PRQ
+@Eg:	2
+*MOT:	wait a minute Arlo wait .
+%mor:	v|wait det|a n|minute n:prop|Arlo v|wait .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|5|SUBJ 5|3|XMOD 6|1|PUNCT
+*CHI:	xxx .
+*MOT:	just a minute .
+%mor:	adv|just det|a n|minute .
+%gra:	1|3|JCT 2|3|DET 3|0|INCROOT 4|3|PUNCT
+*CHI:	Jessie come and eat .
+%mor:	n:prop|Jessie v|come coord|and v|eat .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|CONJ 4|3|COORD 5|2|PUNCT
+*JES:	xxx .
+%sit:	answers from next room .
+*MOT:	are those all shrimp honey ?
+%mor:	cop|be&PRES det|those qn|all n|shrimp n|honey ?
+%gra:	1|0|ROOT 2|5|DET 3|4|QUANT 4|5|MOD 5|1|PRED 6|1|PUNCT
+*SIS:	Mommy I want one of those big things .
+%mor:	n:prop|Mommy pro:sub|I v|want det:num|one prep|of det|those adj|big
+	n|thing-PL .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|4|JCT 6|8|DET 7|8|MOD 8|5|POBJ
+	9|3|PUNCT
+*MOT:	shh !
+%mor:	co|shh !
+%gra:	1|0|INCROOT 2|1|PUNCT
+*SIS:	xxx .
+*CHI:	<mommy what's those> [>] ?
+%mor:	n|mommy rel|what~aux|be&3S pro:dem|those ?
+%gra:	1|4|SUBJ 2|3|LINK 3|4|AUX 4|0|ROOT 5|4|PUNCT
+%spa:	$REAL:OB
+*SIS:	no <I want one of the big things> [<] .
+%mor:	co|no pro:sub|I v|want det:num|one prep|of det|the adj|big
+	n|thing-PL .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|4|JCT 6|8|DET 7|8|MOD 8|5|POBJ
+	9|3|PUNCT
+*MOT:	shrimp .
+%mor:	n|shrimp .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	yeah I want shrimp .
+%mor:	co|yeah pro:sub|I v|want n|shrimp .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*CHI:	I want those .
+%mor:	pro:sub|I v|want det|those .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*SIS:	mommy +/.
+%mor:	n|mommy +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	I want a shrimp xxx +...
+%mor:	pro:sub|I v|want det|a n|shrimp +...
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*SIS:	&mm .
+*MOT:	&=coughs .
+*SIS:	mommy this is good .
+%mor:	n|mommy pro:dem|this cop|be&3S adj|good .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|3|PUNCT
+*CHI:	I ate this before over at Pepe's .
+%mor:	pro:sub|I v|eat&PAST det|this adv|before adv|over prep|at
+	n:prop|Pepe~poss|s .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|JCT 5|2|JCT 6|2|JCT 7|6|POBJ 8|7|POSS
+	9|2|PUNCT
+*MOT:	what are you eating [>] Arlo ?
+%mor:	pro:wh|what aux|be&PRES pro|you part|eat-PRESP n:prop|Arlo ?
+%gra:	1|4|LINK 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+%spa:	$REAL:OB
+*CHI:	right [<] ?
+%mor:	co|right ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$UNCO
+*CHI:	I don't know .
+%mor:	pro:sub|I mod|do~neg|not v|know .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|PUNCT
+*SIS:	teriyaki that's teriyaki .
+%mor:	n|teriyaki rel|that~aux|be&3S n|teriyaki .
+%gra:	1|0|INCROOT 2|4|LINK 3|4|MOD 4|1|CMOD 5|1|PUNCT
+*CHI:	teriyaki .
+%mor:	n|teriyaki .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	what does Steve give me ?
+%mor:	pro:wh|what mod|do&3S n:prop|Steve v|give pro:obj|me ?
+%gra:	1|4|LINK 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*SIS:	chicken .
+%mor:	n|chicken .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	chicken .
+%mor:	n|chicken .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	is Steve gone ?
+%mor:	cop|be&3S n:prop|Steve part|go&PASTP ?
+%gra:	1|0|ROOT 2|1|PRED 3|2|XMOD 4|1|PUNCT
+*CHI:	(..) what's in there ?
+%mor:	pro:wh|what~cop|be&3S prep|in pro:dem|there ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|3|POBJ 5|2|PUNCT
+*CHI:	Steve know what's in there ?
+%mor:	n:prop|Steve v|know rel|what~aux|be&3S prep|in pro:dem|there ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|LINK 4|2|COMP 5|4|JCT 6|5|POBJ 7|4|PUNCT
+*CHI:	yeah .
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*SIS:	that's the rice .
+%mor:	pro:dem|that~cop|be&3S det|the n|rice .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+*CHI:	I want some rice .
+%mor:	pro:sub|I v|want qn|some n|rice .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|QUANT 4|2|OBJ 5|2|PUNCT
+*STE:	xxx the box please .
+%mor:	det|the n|box co|please .
+%gra:	1|2|DET 2|0|INCROOT 3|2|COM 4|2|PUNCT
+*MOT:	you want some rice please .
+%mor:	pro|you v|want qn|some n|rice co|please .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|QUANT 4|2|OBJ 5|2|COM 6|2|PUNCT
+*CHI:	please can I have some rice ?
+%mor:	co|please mod|can pro:sub|I v|have qn|some n|rice ?
+%gra:	1|4|COM 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|6|QUANT 6|4|OBJ 7|4|PUNCT
+*STE:	xxx clean the car .
+%mor:	v|clean det|the n|car .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+*STE:	sit down please .
+%mor:	v|sit adv|down co|please .
+%gra:	1|0|ROOT 2|1|JCT 3|1|COM 4|1|PUNCT
+*CHI:	no (.) I putting with the teriyaki on there &=chuckles .
+%mor:	co|no pro:sub|I part|put-PRESP prep|with det|the n|teriyaki prep|on
+	pro:dem|there .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|6|NJCT 8|7|POBJ
+	9|3|PUNCT
+*SIS:	don't .
+%mor:	mod|do~neg|not .
+%gra:	1|0|INCROOT 2|1|NEG 3|1|PUNCT
+*MOT:	don't that's not mommy's .
+%mor:	mod|do~neg|not pro:dem|that~cop|be&3S neg|not n|mommy~poss|s .
+%gra:	1|3|AUX 2|1|NEG 3|4|SUBJ 4|0|ROOT 5|4|NEG 6|4|PRED 7|6|POSS 8|4|PUNCT
+*CHI:	why you put it on ?
+%mor:	adv:wh|why pro|you v|put&ZERO pro|it adv|on ?
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|JCT 6|3|PUNCT
+*STE:	that's yours Jessie .
+%mor:	pro:dem|that~aux|be&3S pro:poss|yours n:prop|Jessie .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|APP 5|3|PUNCT
+*JES:	thank you .
+%mor:	v|thank pro|you .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+*STE:	xxx for Christa (.) one for Arlo (.) one for Mom (.) one for +...
+%mor:	conj|for n:prop|Christa pro:indef|one prep|for n:prop|Arlo
+	pro:indef|one prep|for n:prop|Mom pro:indef|one prep|for +...
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|MOD 6|4|POBJ 7|3|JCT 8|7|POBJ
+	9|8|OBJ 10|9|JCT 11|3|PUNCT
+*CHI:	Jessie Shamu .
+%mor:	n:prop|Jessie n:prop|Shamu .
+%gra:	1|0|INCROOT 2|1|APP 3|1|PUNCT
+*STE:	Shamu ?
+%mor:	n:prop|Shamu ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	rice !
+%mor:	n|rice !
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	rice !
+%mor:	n|rice !
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	(..) watch out Arlo .
+%mor:	v|watch prep|out n:prop|Arlo .
+%gra:	1|0|ROOT 2|1|JCT 3|2|POBJ 4|1|PUNCT
+*JES:	xxx .
+*CHI:	xxx .
+*MOT:	could you get me the butter please ?
+%mor:	mod|could pro|you v|get pro:obj|me det|the n|butter co|please ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|6|DET 6|3|OBJ 7|6|COM 8|3|PUNCT
+%spa:	$CONV:PRQ
+*CHI:	Mom I don't like this .
+%mor:	n:prop|Mom pro:sub|I mod|do~neg|not v|like pro:dem|this .
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|3|NEG 5|0|ROOT 6|5|OBJ 7|5|PUNCT
+*MOT:	just leave it on your plate .
+%mor:	adj|just n|leave pro|it prep|on pro:poss:det|your n|plate .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|OBJ 4|2|JCT 5|6|MOD 6|4|POBJ 7|2|PUNCT
+*MOT:	xxx .
+*CHI:	can you eat that all Mommy ?
+%mor:	mod|can pro|you v|eat rel|that qn|all n:prop|Mommy ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|6|LINK 5|6|QUANT 6|3|OBJ 7|3|PUNCT
+%spa:	$REAL:AB
+*JES:	it's better than nothing .
+%mor:	pro|it~aux|be&3S adj|good&CP prep|than pro:indef|nothing .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|4|POBJ 6|3|PUNCT
+*CHI:	that [//] all that rice ?
+%mor:	adv|all adv|that n|rice ?
+%gra:	1|3|JCT 2|3|JCT 3|0|INCROOT 4|3|PUNCT
+%spa:	$REAL:AB
+*MOT:	yes .
+%mor:	co|yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	oh [!] Jessie <guess what I> [//] guess what↑ I heard ?
+%mor:	co|oh n:prop|Jessie n|guess pro:wh|what pro:sub|I v|hear&PAST ?
+%gra:	1|3|COM 2|3|MOD 3|6|LINK 4|6|LINK 5|6|SUBJ 6|0|ROOT 7|6|PUNCT
+*MOT:	Crista !
+%mor:	n:prop|Crista !
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	oh .
+%mor:	co|oh .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	was that good Arlo ?
+%mor:	cop|be&PAST&13S pro:dem|that adj|good n:prop|Arlo ?
+%gra:	1|0|ROOT 2|4|MOD 3|4|MOD 4|1|PRED 5|1|PUNCT
+%spa:	$REAL:TOM
+*CHI:	&um yeah .
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*STE:	anybody want sauce [>] ?
+%mor:	pro:indef|anybody v|want n|sauce ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*JES:	<is this mine> [<] dad ?
+%mor:	cop|be&3S det|this n|mine n|dad ?
+%gra:	1|0|ROOT 2|4|DET 3|4|MOD 4|1|PRED 5|1|PUNCT
+*CHI:	mom .
+%mor:	n|mom .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*SIS:	yeah .
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*STE:	whatdya [: what do you] want it on ?
+%mor:	pro:wh|what mod|do pro|you v|want pro|it adv|on ?
+%gra:	1|4|LINK 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|4|JCT 7|4|PUNCT
+*STE:	rice ?
+%mor:	n|rice ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*STE:	how (a)bout you .
+%mor:	adv:wh|how adv|about pro|you .
+%gra:	1|3|LINK 2|3|JCT 3|0|ROOT 4|3|PUNCT
+*STE:	what do you want it on ?
+%mor:	pro:wh|what mod|do pro|you v|want pro|it adv|on ?
+%gra:	1|4|LINK 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|4|JCT 7|4|PUNCT
+*JES:	that's good .
+%mor:	pro:dem|that~cop|be&3S adj|good .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*STE:	what do you want it on ?
+%mor:	pro:wh|what mod|do pro|you v|want pro|it adv|on ?
+%gra:	1|4|LINK 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|4|JCT 7|4|PUNCT
+*CHI:	rice .
+%mor:	n|rice .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*STE:	what do you want it on ?
+%mor:	pro:wh|what mod|do pro|you v|want pro|it adv|on ?
+%gra:	1|4|LINK 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|4|JCT 7|4|PUNCT
+*CHI:	&=laughs .
+*SIS:	what do you want it on ?
+%mor:	pro:wh|what mod|do pro|you v|want pro|it adv|on ?
+%gra:	1|4|LINK 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|4|JCT 7|4|PUNCT
+*STE:	xxx wait a second .
+%mor:	v|wait det|a n|second .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+*JES:	what's that ?
+%mor:	pro:wh|what~cop|be&3S pro:dem|that ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*CHI:	you know what this is ?
+%mor:	pro|you v|know adv|what det|this cop|be&3S ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|5|DET 5|2|INCROOT 6|5|PUNCT
+%spa:	$REAL:TOM
+*MOT:	what is that Arlo ?
+%mor:	pro:wh|what cop|be&3S rel|that n:prop|Arlo ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|LINK 4|2|PRED 5|2|PUNCT
+%spa:	$REAL:OB
+*CHI:	teriyaki .
+%mor:	n|teriyaki .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	what kind of food is this that you're eating tonight ?
+%mor:	pro:wh|what n|kind prep|of n|food cop|be&3S det|this rel|that
+	pro|you~aux|be&PRES part|eat-PRESP adv:tem|tonight ?
+%gra:	1|5|LINK 2|5|SUBJ 3|5|JCT 4|5|SUBJ 5|0|ROOT 6|7|DET 7|10|LINK 8|10|SUBJ
+	9|10|AUX 10|5|CMOD 11|10|OBJ 12|5|PUNCT
+%spa:	$REAL:CL
+*MOT:	huh ?
+%mor:	co|huh ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$CONV:CO
+*CHI:	rice ?
+%mor:	n|rice ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$REAL:OB
+*SIS:	chinese food .
+%mor:	adj|chinese n|food .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*CHI:	chinese food !
+%mor:	adj|chinese n|food !
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*CHI:	chinese food .
+%mor:	adj|chinese n|food .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*CHI:	chinese food .
+%mor:	adj|chinese n|food .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+%com:	at this point (5:40) the tape become untranscribable due to some kind of noise on the tape
+@Comment:	Time is 6:27
+*MOT:	Arlo don't play with the fork .
+%mor:	n:prop|Arlo mod|do~neg|not v|play prep|with det|the n|fork .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ 8|4|PUNCT
+*MOT:	(..) how is that ?
+%mor:	adv:wh|how cop|be&3S pro:dem|that ?
+%gra:	1|2|LINK 2|0|ROOT 3|2|PRED 4|2|PUNCT
+%spa:	$REAL:TOM
+*CHI:	good .
+%mor:	adj|good .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	I like it .
+%mor:	pro:sub|I v|like pro|it .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*CHI:	(..) give me that I like it .
+%mor:	v|give pro:obj|me rel|that pro:sub|I v|like pro|it .
+%gra:	1|0|ROOT 2|1|OBJ 3|5|LINK 4|5|SUBJ 5|1|COMP 6|5|OBJ 7|1|PUNCT
+*SIS:	you like it ?
+%mor:	pro|you v|like pro|it ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*MOT:	(..) you like shrimp Arlo ?
+%mor:	pro|you prep|like n|shrimp n:prop|Arlo ?
+%gra:	1|0|INCROOT 2|1|JCT 3|2|POBJ 4|3|APP 5|1|PUNCT
+%spa:	$REAL:TOM
+*CHI:	I like this too .
+%mor:	pro:sub|I co|like det|this adv|too .
+%gra:	1|0|INCROOT 2|1|COM 3|4|DET 4|1|JCT 5|1|PUNCT
+*MOT:	those are shrimp .
+%mor:	pro:dem|those cop|be&PRES n|shrimp .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*CHI:	I like the shrimp .
+%mor:	pro:sub|I v|like det|the n|shrimp .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*SIS:	that shrimp ?
+%mor:	det|that n|shrimp ?
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*CHI:	no this [!] is shrimp .
+%mor:	co|no pro:dem|this cop|be&3S n|shrimp .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|3|PUNCT
+*SIS:	xxx you can try it .
+%mor:	pro|you mod|can v|try pro|it .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*STE:	did my sister call yet (.) Jessie ?
+%mor:	v|do&PAST pro:poss:det|my n|sister n|call conj|yet n:prop|Jessie ?
+%gra:	1|0|ROOT 2|3|MOD 3|4|MOD 4|1|INCROOT 5|4|INCROOT 6|5|APP 7|5|PUNCT
+*JES:	which one ?
+%mor:	rel|which pro:indef|one ?
+%gra:	1|2|LINK 2|0|ROOT 3|2|PUNCT
+*CHI:	Mommy can I have one more of this ?
+%mor:	n:prop|Mommy mod|can pro:sub|I v|have pro:indef|one qn|more prep|of
+	pro:dem|this ?
+%gra:	1|4|SUBJ 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|4|OBJ 7|6|NJCT 8|7|POBJ
+	9|4|PUNCT
+%spa:	$CONV:PRQ
+*MOT:	eat what's in your plate first okay ?
+%mor:	v|eat pro:wh|what~aux|be&3S prep|in pro:poss:det|your n|plate
+	adv|first adj|okay ?
+%gra:	1|0|ROOT 2|8|SUBJ 3|8|AUX 4|3|JCT 5|6|MOD 6|4|POBJ 7|8|JCT 8|1|JCT
+	9|1|PUNCT
+%spa:	$CONV:DI
+%com:	tape problems again
+*CHI:	xxx .
+*MOT:	you eat what's on your plate first okay ?
+%mor:	pro|you v|eat pro:wh|what~aux|be&3S prep|on pro:poss:det|your
+	n|plate adv|first adj|okay ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|9|SUBJ 4|9|AUX 5|9|JCT 6|7|MOD 7|5|POBJ 8|7|NJCT
+	9|2|JCT 10|2|PUNCT
+%spa:	$CONV:DI
+@Comment:	Time is 9:14
+*CHI:	I hate that .
+%mor:	pro:sub|I v|hate pro:dem|that .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*CHI:	I hate that .
+%mor:	pro:sub|I v|hate pro:dem|that .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*MOT:	Arlo supposed to talk but he's not .
+%mor:	n:prop|Arlo v|suppose-PAST prep|to n|talk conj|but
+	pro:sub|he~aux|be&3S neg|not .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|3|POBJ 5|7|LINK 6|7|SUBJ 7|2|CJCT 8|7|NEG
+	9|2|PUNCT
+*CHI:	not !
+%mor:	neg|not !
+%gra:	1|0|NEG 2|0|PUNCT
+*STE:	Arlo (.) talk .
+%mor:	n:prop|Arlo n|talk .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*CHI:	Mommy I'm eating !
+%mor:	n:prop|Mommy pro:sub|I~aux|be&1S part|eat-PRESP !
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|PUNCT
+*MOT:	that's why you can't talk ?
+%mor:	pro:dem|that~cop|be&3S adv:wh|why pro|you mod|can~neg|not v|talk ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|7|LINK 4|7|SUBJ 5|7|AUX 6|5|NEG 7|2|PRED 8|2|PUNCT
+%spa:	$REAL:EX
+*CHI:	uhhum .
+%mor:	co|uhhum .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	Mom <can you put that> [//] can you put butter on that ?
+%mor:	n:prop|Mom mod|can pro|you v|put&ZERO n|butter prep|on pro:dem|that
+	?
+%gra:	1|4|SUBJ 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|4|JCT 7|6|POBJ 8|4|PUNCT
+%spa:	$CONV:PRQ
+*MOT:	please ?
+%mor:	co|please ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$CONV:DI
+*CHI:	please .
+%mor:	co|please .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*SIS:	Arlo use this xxx like I am .
+%mor:	n:prop|Arlo v|use det|this co|like pro:sub|I cop|be&1S .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|COM 5|6|SUBJ 6|2|COMP 7|2|PUNCT
+*MOT:	Arlo don't drop it on the floor .
+%mor:	n:prop|Arlo mod|do~neg|not v|drop pro|it prep|on det|the n|floor .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|OBJ 6|4|JCT 7|8|DET 8|6|POBJ
+	9|4|PUNCT
+*MOT:	eat what's in your plate first .
+%mor:	v|eat adv:wh|what~cop|be&3S prep|in pro:poss:det|your n|plate
+	n|first .
+%gra:	1|0|ROOT 2|3|LINK 3|1|COMP 4|3|JCT 5|6|MOD 6|7|MOD 7|4|POBJ 8|1|PUNCT
+*CHI:	(.) do you like lemonade ?
+%mor:	mod|do pro|you prep|like n|lemonade ?
+%gra:	1|0|INCROOT 2|1|OBJ 3|2|JCT 4|3|POBJ 5|1|PUNCT
+%spa:	$REAL:TOM
+@Comment:	Time is 10:55 , the rest of the tape is drowned out by a loud humming noise.
+@End

@@ -1,0 +1,801 @@
+@UTF8
+@PID:	11312/c-00016791-1
+@Begin
+@Languages:	eng
+@Participants:	MOT Mother , CHI Target_Child
+@ID:	eng|Morisset|MOT|||||Mother|||
+@ID:	eng|Morisset|CHI|2;6.||||Target_Child|||
+@Warning:	CHAT format needs to be double-checked
+@Date:	10-JUN-1985
+@Time Start:	13:51:00
+@Situation:	Prohibition task
+@Location:	Seattle , WA , USA
+*MOT:	look at this .
+%mor:	v|look prep|at pro:dem|this .
+%gra:	1|0|ROOT 2|1|JCT 3|2|POBJ 4|1|PUNCT
+*MOT:	this is for David .
+%mor:	pro:dem|this cop|be&3S prep|for n:prop|David .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|3|POBJ 5|2|PUNCT
+*CHI:	cookie .
+%mor:	n|cookie .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$c:min
+*MOT:	but this is for later (.) okay ?
+%mor:	conj|but pro:dem|this cop|be&3S prep|for adv|later co|okay ?
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|JCT 6|4|POBJ 7|3|PUNCT
+*MOT:	you can have it later .
+%mor:	pro|you mod|can v|have pro|it adv|later .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|3|JCT 6|3|PUNCT
+*MOT:	(o)kay ?
+%mor:	co|okay ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	later .
+%mor:	adv|later .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	okay (.) you got ta leave it there .
+%mor:	co|okay pro|you v|get&PAST inf|to v|leave pro|it adv|there .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|5|INF 5|3|XCOMP 6|5|OBJ 7|5|JCT 8|3|PUNCT
+*MOT:	David (.) this is for David later .
+%mor:	n:prop|David pro:dem|this cop|be&3S prep|for n:prop|David adv|later
+	.
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|4|POBJ 6|5|JCT 7|3|PUNCT
+%exp:	C reaches for it
+*CHI:	xxx .
+%cod:	$u:unc
+*MOT:	later (.) okay ?
+%mor:	adv|later adj|okay ?
+%gra:	1|2|JCT 2|0|ROOT 3|2|PUNCT
+*MOT:	now right now .
+%mor:	adv|now adv|right adv|now .
+%gra:	1|0|INCROOT 2|1|JCT 3|2|JCT 4|1|PUNCT
+*MOT:	okay ?
+%mor:	co|okay ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	(o)kay .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$r:min
+*MOT:	okay ?
+%mor:	co|okay ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	can I sit here so I can fill this out [= moves C from chair] ?
+%mor:	mod|can pro:sub|I v|sit adv|here conj|so pro:sub|I mod|can v|fill
+	det|this adv|out ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|8|LINK 6|8|SUBJ 7|8|AUX 8|3|CJCT
+	9|10|DET 10|8|JCT 11|3|PUNCT
+*CHI:	yeah .
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$r:min
+*MOT:	whoops [= hit C's foot] !
+%mor:	co|whoops !
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	Mama's got ta fill this paper out now .
+%mor:	n:prop|Mama~aux|be&3S part|get&PASTP inf|to v|fill det|this n|paper
+	adv|out adv|now .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|INF 5|3|XCOMP 6|7|DET 7|5|OBJ 8|7|NJCT
+	9|7|NJCT 10|3|PUNCT
+*CHI:	I want cookie .
+%mor:	pro:sub|I v|want n|cookie .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+%cod:	$c:new
+*MOT:	I said it's for later .
+%mor:	pro:sub|I v|say&PAST pro|it~aux|be&3S conj|for adv|later .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|JCT 5|4|INCROOT 6|5|JCT 7|5|PUNCT
+*MOT:	okay ?
+%mor:	co|okay ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	Sweetheart .
+%mor:	n:prop|Sweetheart .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	I wan(t) (t)a see it .
+%mor:	pro:sub|I v|want inf|to v|see pro|it .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|INF 4|2|XCOMP 5|4|OBJ 6|2|PUNCT
+%cod:	$c:new
+*MOT:	listen to Mama .
+%mor:	v|listen prep|to n:prop|Mama .
+%gra:	1|0|ROOT 2|1|JCT 3|2|POBJ 4|1|PUNCT
+*MOT:	that's for David (.) but David can have it later .
+%mor:	pro:dem|that~aux|be&3S prep|for n:prop|David conj|but n:prop|David
+	mod|can v|have pro|it adv|later .
+%gra:	1|0|INCROOT 2|1|COORD 3|2|JCT 4|3|POBJ 5|8|LINK 6|8|SUBJ 7|8|AUX
+	8|2|CJCT 9|8|OBJ 10|8|JCT 11|1|PUNCT
+*MOT:	David (.) this is for David later (.) okay ?
+%mor:	n:prop|David pro:dem|this cop|be&3S prep|for n:prop|David adv|later
+	adj|okay ?
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|4|POBJ 6|7|JCT 7|5|PRED 8|3|PUNCT
+%exp:	C reaches for cookie
+*MOT:	David .
+%mor:	n:prop|David .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%exp:	C reaches for cookie
+*MOT:	listen to Mama .
+%mor:	v|listen prep|to n:prop|Mama .
+%gra:	1|0|ROOT 2|1|JCT 3|2|POBJ 4|1|PUNCT
+*MOT:	look_it .
+%mor:	co|look_it .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	you see this cookie ?
+%mor:	pro|you v|see det|this n|cookie ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*MOT:	you see that ?
+%mor:	pro|you v|see rel|that ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+%com:	no response from C
+*MOT:	this is for David later .
+%mor:	pro:dem|this cop|be&3S prep|for n:prop|David adv|later .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|3|POBJ 5|4|JCT 6|2|PUNCT
+*MOT:	David can have it in a little while (.) okay ?
+%mor:	n:prop|David mod|can v|have pro|it prep|in det|a adj|little n|while
+	adj|okay ?
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|3|JCT 6|8|DET 7|8|MOD 8|5|POBJ
+	9|3|JCT 10|3|PUNCT
+*MOT:	in a little bit ?
+%mor:	prep|in det|a adj|little n|bit ?
+%gra:	1|0|INCROOT 2|4|DET 3|4|MOD 4|1|POBJ 5|1|PUNCT
+*MOT:	okay ?
+%mor:	co|okay ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	okay ?
+%mor:	co|okay ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%com:	no response from C
+*CHI:	I xxx [= wants to write on M's paper] .
+%mor:	pro:sub|I .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$b:new
+*MOT:	okay (.) Mom [//] why (do)n't you help Mama fill it out ?
+%mor:	co|okay adv:wh|why mod|do~neg|not pro|you v|help n:prop|Mama v|fill
+	pro|it adv|out ?
+%gra:	1|6|COM 2|6|LINK 3|6|AUX 4|3|NEG 5|6|SUBJ 6|0|ROOT 7|8|SUBJ 8|6|COMP
+	9|8|OBJ 10|8|JCT 11|6|PUNCT
+*MOT:	you wan(t) (t)a go down there and play with those blocks ?
+%mor:	pro|you v|want inf|to v|go adv|down adv|there coord|and n|play
+	prep|with det|those n|block-PL ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|INF 4|2|XCOMP 5|4|JCT 6|4|JCT 7|4|CONJ 8|7|COORD
+	9|8|NJCT 10|11|DET 11|9|POBJ 12|2|PUNCT
+*CHI:	xxx [= points shelf] .
+%cod:	$c:min
+*MOT:	what ?
+%mor:	pro:wh|what ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	I want play [?] [= points again] .
+%mor:	pro:sub|I v|want n|play .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+%cod:	$r:new
+*MOT:	what ?
+%mor:	pro:wh|what ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	xxx [= points again] .
+%cod:	$c:rep
+*MOT:	it's just <&na> [//] or tissues .
+%mor:	pro|it~cop|be&3S adv|just coord|or n|tissue-PL .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|2|CONJ 5|4|COORD 6|2|PUNCT
+*MOT:	you don't want those .
+%mor:	pro|you mod|do~neg|not v|want det|those .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*CHI:	Mommy [= goes to shelf and points] .
+%mor:	n:prop|Mommy .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$c:min
+*MOT:	it's just a box (.) babe .
+%mor:	pro|it~cop|be&3S adv|just det|a n|box n|babe .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|6|DET 5|6|MOD 6|2|PRED 7|2|PUNCT
+*MOT:	there's no more blocks up there .
+%mor:	pro:exist|there~cop|be&3S qn|no qn|more n|block-PL prep|up
+	pro:dem|there .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|QUANT 4|5|QUANT 5|2|PRED 6|5|NJCT 7|6|POBJ
+	8|2|PUNCT
+*MOT:	she took (th)em out .
+%mor:	pro:sub|she v|take&PAST pro:obj|them adv|out .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|JCT 5|2|PUNCT
+*MOT:	come put it back right here .
+%mor:	v|come v|put&ZERO pro|it adv|back adv|right adv|here .
+%gra:	1|2|SRL 2|0|ROOT 3|2|OBJ 4|2|JCT 5|2|JCT 6|2|JCT 7|2|PUNCT
+%exp:	<bef> C moves around table to cookie and pushes it across table
+*MOT:	come put it back right on this xxx .
+%mor:	v|come v|put&ZERO pro|it adv|back adv|right prep|on pro:dem|this .
+%gra:	1|2|SRL 2|0|ROOT 3|2|OBJ 4|2|JCT 5|2|JCT 6|2|JCT 7|6|POBJ 8|2|PUNCT
+*MOT:	it's for David later .
+%mor:	pro|it~aux|be&3S prep|for n:prop|David adv|later .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|3|POBJ 5|4|JCT 6|2|PUNCT
+*MOT:	got ta put it back right here .
+%mor:	v|get&PAST inf|to v|put&ZERO pro|it adv|back adv|right adv|here .
+%gra:	1|0|ROOT 2|3|INF 3|1|XCOMP 4|3|OBJ 5|3|JCT 6|3|JCT 7|3|JCT 8|1|PUNCT
+*CHI:	my cookie [= puts it on x@l] .
+%mor:	pro:poss:det|my n|cookie .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*CHI:	xxx (.) xxx .
+*CHI:	I save .
+%mor:	pro:sub|I v|save .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+%cod:	$c:new
+*MOT:	you're gonna save ?
+%mor:	pro|you~aux|be&PRES part|go-PRESP~inf|to v|save ?
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|INF 5|3|XCOMP 6|3|PUNCT
+*CHI:	yeah .
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$r:min
+*MOT:	okay .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	<I want cookie> [?] .
+%mor:	pro:sub|I v|want n|cookie .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+%cod:	$c:new
+*MOT:	I thought you were gonna save that and put it right here .
+%mor:	pro:sub|I v|think&PAST pro|you aux|be&PAST part|go-PRESP~inf|to
+	v|save pro:dem|that coord|and v|put&ZERO pro|it adv|right adv|here .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|5|AUX 5|2|COMP 6|7|INF 7|5|XCOMP 8|7|OBJ
+	9|7|CONJ 10|9|COORD 11|10|OBJ 12|10|JCT 13|12|JCT 14|2|PUNCT
+*MOT:	okay ?
+%mor:	co|okay ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	no .
+%mor:	co|no .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$r:min
+*MOT:	yeah (.) please (.) for Mom ?
+%mor:	co|yeah co|please prep|for n:prop|Mom ?
+%gra:	1|2|COM 2|0|ROOT 3|2|JCT 4|3|POBJ 5|2|PUNCT
+*CHI:	that [?] [= wants cookie] .
+%mor:	pro:dem|that .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$c:min
+*MOT:	I told you you could have it later .
+%mor:	pro:sub|I v|tell&PAST pro|you pro|you mod|could v|have pro|it
+	adv|later .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|6|SUBJ 5|6|AUX 6|2|COMP 7|6|OBJ 8|6|JCT
+	9|2|PUNCT
+*CHI:	want this cookie .
+%mor:	v|want det|this n|cookie .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+%cod:	$c:new
+*MOT:	later .
+%mor:	adv|later .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	want cookie .
+%mor:	v|want n|cookie .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+%cod:	$c:rep
+*MOT:	(o)kay (.) put it right here .
+%mor:	co|okay v|put&ZERO pro|it adv|right adv|here .
+%gra:	1|2|COM 2|0|ROOT 3|2|OBJ 4|2|JCT 5|2|JCT 6|2|PUNCT
+*CHI:	xxx .
+%cod:	$u:unc
+*MOT:	you see that ?
+%mor:	pro|you v|see rel|that ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*MOT:	you see that (.) put that cookie right on there .
+%mor:	pro|you v|see rel|that v|put&ZERO adv|that n|cookie adv|right
+	prep|on pro:dem|there .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|LINK 4|2|COMP 5|4|JCT 6|4|OBJ 7|6|NJCT 8|7|JCT
+	9|8|POBJ 10|2|PUNCT
+*MOT:	<let's> [/] let's put it down there .
+%mor:	v|let~pro:obj|us v|put&ZERO pro|it adv|down adv|there .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|COMP 4|3|OBJ 5|3|JCT 6|3|JCT 7|1|PUNCT
+*CHI:	&a:h (.) <put it right> [?] [= puts cookie back on x@l] .
+%mor:	v|put&ZERO pro|it adv|right .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|JCT 4|1|PUNCT
+%cod:	$c:imt
+*MOT:	<good boy> [>] .
+%mor:	adj|good n|boy .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*CHI:	xxx [<] .
+%cod:	$u:unc
+@New Episode
+@Situation:	Mother-child snack in lab
+*MOT:	(o)kay (.) you can have the cookie now since you put it back .
+%mor:	co|okay pro|you mod|can v|have det|the n|cookie adv|now prep|since
+	pro|you v|put&ZERO pro|it adv|back .
+%gra:	1|4|COM 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|JCT 8|4|JCT
+	9|10|SUBJ 10|8|POBJ 11|4|OBJ 12|4|JCT 13|4|PUNCT
+%tim:	13:54:09; 00:03:09
+*MOT:	okay ?
+%mor:	co|okay ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	wan(t) (t)a sit in Mama's chair ?
+%mor:	v|want inf|to v|sit prep|in n:prop|Mama~poss|s n|chair ?
+%gra:	1|0|ROOT 2|3|INF 3|1|XCOMP 4|3|JCT 5|7|MOD 6|5|POSS 7|4|POBJ 8|1|PUNCT
+*CHI:	yeah .
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$r:min
+*MOT:	what's in here ?
+%mor:	pro:wh|what~cop|be&3S prep|in pro:dem|here ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|3|POBJ 5|2|PUNCT
+*CHI:	&hmm ?
+%cod:	$c:min
+*MOT:	what's in here ?
+%mor:	pro:wh|what~cop|be&3S prep|in pro:dem|here ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|3|POBJ 5|2|PUNCT
+*MOT:	here [= moves C's chair] .
+%mor:	adv|here .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	what's in there ?
+%mor:	pro:wh|what~cop|be&3S prep|in pro:dem|there ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|3|POBJ 5|2|PUNCT
+*MOT:	wow !
+%mor:	co|wow !
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	what is it ?
+%mor:	pro:wh|what aux|be&3S pro|it ?
+%gra:	1|2|OBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+%com:	no response from C
+*MOT:	what's that ?
+%mor:	pro:wh|what~cop|be&3S pro:dem|that ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*MOT:	oh (.) there's a napkin for David's [?] messy cookie .
+%mor:	co|oh pro:exist|there~cop|be&3S det|a n|napkin prep|for
+	n:prop|David~poss|s adj|mess&dn-Y n|cookie .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|PRED 6|5|NJCT 7|10|MOD 8|7|POSS
+	9|10|MOD 10|6|POBJ 11|3|PUNCT
+*MOT:	oh (.) that's Mama's cookie .
+%mor:	co|oh pro:dem|that~cop|be&3S n:prop|Mama~poss|s n|cookie .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|6|MOD 5|4|POSS 6|3|PRED 7|3|PUNCT
+*MOT:	that's Mama's cookie .
+%mor:	pro:dem|that~aux|be&3S n:prop|Mama~poss|s n|cookie .
+%gra:	1|5|SUBJ 2|5|AUX 3|5|MOD 4|3|POSS 5|0|INCROOT 6|5|PUNCT
+%exp:	holds other one up and looks at M
+*CHI:	Mama's cookie ?
+%mor:	n:prop|Mama~poss|s n|cookie ?
+%gra:	1|3|MOD 2|1|POSS 3|0|INCROOT 4|3|PUNCT
+%act:	C begins to eat it
+%cod:	$c:imt
+*MOT:	oh (.) that's Mama's cookie (.) Sweetheart .
+%mor:	co|oh pro:dem|that~cop|be&3S n:prop|Mama~poss|s n|cookie
+	n:prop|Sweetheart .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|6|MOD 5|4|POSS 6|3|PRED 7|6|APP 8|3|PUNCT
+*MOT:	you're gonna take Mama's cookie ?
+%mor:	pro|you~aux|be&PRES part|go-PRESP~inf|to v|take n:prop|Mama~poss|s
+	n|cookie ?
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|INF 5|3|XCOMP 6|8|MOD 7|6|POSS 8|5|OBJ
+	9|3|PUNCT
+*CHI:	yeah .
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$r:min
+*MOT:	that's not a very nice boy .
+%mor:	pro:dem|that~cop|be&3S neg|not det|a adv|very adj|nice n|boy .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|NEG 4|7|DET 5|6|JCT 6|7|MOD 7|2|PRED 8|2|PUNCT
+*MOT:	here (.) you put Mama's cookie down right there .
+%mor:	adv|here pro|you v|put&ZERO n:prop|Mama~poss|s n|cookie adv|down
+	adv|right adv|there .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|4|POSS 6|4|XMOD 7|6|NJCT 8|9|JCT
+	9|6|NJCT 10|3|PUNCT
+*CHI:	xxx .
+%cod:	$u:unc
+*MOT:	okay (.) you put your cookie down right there .
+%mor:	co|okay pro|you v|put&ZERO pro:poss:det|your n|cookie adv|down
+	adv|right adv|there .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|5|MOD 5|3|OBJ 6|3|JCT 7|3|JCT 8|3|JCT
+	9|3|PUNCT
+*MOT:	okay .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	want something to drink ?
+%mor:	v|want pro:indef|something inf|to v|drink ?
+%gra:	1|0|ROOT 2|1|OBJ 3|4|INF 4|2|XCOMP 5|1|PUNCT
+*CHI:	yeah .
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$r:min
+*MOT:	you do ?
+%mor:	pro|you v|do ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*CHI:	oh .
+%mor:	co|oh .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$u:unc
+*MOT:	<wait a minute> [?] Mama didn't pour it yet (.) Sweetheart .
+%mor:	v|wait det|a n|minute n:prop|Mama mod|do&PAST~neg|not v|pour pro|it
+	adv|yet n:prop|Sweetheart .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|7|SUBJ 5|7|AUX 6|5|NEG 7|3|XMOD 8|7|OBJ
+	9|10|JCT 10|7|JCT 11|1|PUNCT
+*MOT:	it wouldn't come out .
+%mor:	pro|it mod|will&COND~neg|not v|come adv|out .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|JCT 6|4|PUNCT
+*MOT:	there ya go .
+%mor:	adv|there pro|you v|go .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*MOT:	here (.) Mama found a chair .
+%mor:	adv|here n:prop|Mama v|find&PAST det|a n|chair .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*MOT:	how (a)bout that ?
+%mor:	adv:wh|how adv|about rel|that ?
+%gra:	1|3|LINK 2|3|JCT 3|0|ROOT 4|3|PUNCT
+*MOT:	what you lookin(g) at ?
+%mor:	pro:wh|what pro|you part|look-PRESP prep|at ?
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|PUNCT
+*CHI:	&hmm ?
+%cod:	$c:min
+*MOT:	what you lookin(g) at ?
+%mor:	pro:wh|what pro|you part|look-PRESP prep|at ?
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|PUNCT
+%com:	no response from C
+*MOT:	David ?
+%mor:	n:prop|David ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	is David in there ?
+%mor:	cop|be&3S n:prop|David prep|in pro:dem|there ?
+%gra:	1|0|ROOT 2|1|PRED 3|2|JCT 4|3|POBJ 5|1|PUNCT
+*CHI:	0 [= shrugs shoulders and grins] .
+*CHI:	Mama xxx (.) xxx [= points door] .
+%mor:	n:prop|Mama .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$b:min
+*MOT:	yeah (.) we'll go out the door later (.) okay ?
+%mor:	co|yeah pro:sub|we~mod|will v|go prep|out det|the n|door adv|later
+	adj|okay ?
+%gra:	1|4|COM 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ 8|9|JCT
+	9|4|JCT 10|4|PUNCT
+*CHI:	go byebye ?
+%mor:	v|go co|byebye ?
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+%cod:	$c:new
+*MOT:	pretty soon .
+%mor:	adv|pretty adv|soon .
+%gra:	1|0|INCROOT 2|1|JCT 3|1|PUNCT
+*CHI:	soon [?] ?
+%mor:	adv|soon ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$c:imt
+*MOT:	<yeah (.) why (do)n't you eat your cookie> [>] .
+%mor:	co|yeah adv:wh|why mod|do~neg|not pro|you v|eat pro:poss:det|your
+	n|cookie .
+%gra:	1|6|COM 2|6|LINK 3|6|AUX 4|3|NEG 5|6|SUBJ 6|0|ROOT 7|8|MOD 8|6|OBJ
+	9|6|PUNCT
+*CHI:	xxx [<] .
+%cod:	$u:unc
+*MOT:	&hmm ?
+*CHI:	xxx ?
+%cod:	$r:min
+*MOT:	we'll see her pretty soon too .
+%mor:	pro:sub|we~mod|will v|see pro:poss:det|her adj|pretty adj|soon
+	post|too .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|MOD 5|3|OBJ 6|5|JCT 7|6|PQ 8|3|PUNCT
+*MOT:	we'll go swimmin(g) with Amber (.) okay ?
+%mor:	pro:sub|we~mod|will v|go part|swim-PRESP prep|with n:prop|Amber
+	adj|okay ?
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|4|JCT 6|5|POBJ 7|6|PRED 8|3|PUNCT
+*CHI:	xxx ?
+%cod:	$u:unc
+*MOT:	uhhuh .
+%mor:	co|uhhuh .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	wan(t) (t)a go swimmin(g) ?
+%mor:	v|want inf|to v|go part|swim-PRESP ?
+%gra:	1|0|ROOT 2|3|INF 3|1|XCOMP 4|3|OBJ 5|1|PUNCT
+*CHI:	yeah .
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$r:min
+*MOT:	do ya ?
+%mor:	mod|do pro|you ?
+%gra:	1|0|INCROOT 2|1|OBJ 3|1|PUNCT
+*CHI:	yeah .
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$r:rep
+*MOT:	okay .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	is that good juice ?
+%mor:	cop|be&3S pro:dem|that adj|good n|juice ?
+%gra:	1|0|ROOT 2|4|MOD 3|4|MOD 4|1|PRED 5|1|PUNCT
+*CHI:	yeah .
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$r:min
+*MOT:	yeah ?
+%mor:	co|yeah ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	Mom xxx [= points cookie] .
+%mor:	n:prop|Mom .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$c:min
+*MOT:	that's David's cookie .
+%mor:	pro:dem|that~aux|be&3S n:prop|David~poss|s n|cookie .
+%gra:	1|5|SUBJ 2|5|AUX 3|5|MOD 4|3|POSS 5|0|INCROOT 6|5|PUNCT
+*CHI:	xxx [= points other cookie] .
+%cod:	$c:min
+*MOT:	mhm .
+%mor:	co|yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	right [?] ?
+%mor:	co|right ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$c:min
+*MOT:	mhm .
+%mor:	co|yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	Mom +...
+%mor:	n:prop|Mom +...
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$b:min
+*CHI:	xxx [= talking to self] .
+%cod:	$u:unc
+*MOT:	is that good ?
+%mor:	cop|be&3S pro:dem|that adj|good ?
+%gra:	1|0|ROOT 2|1|PRED 3|2|XMOD 4|1|PUNCT
+*CHI:	yeah .
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$r:min
+*CHI:	Mom .
+%mor:	n:prop|Mom .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$b:min
+*MOT:	what ?
+%mor:	pro:wh|what ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	Mom [=! laughs] .
+%mor:	n:prop|Mom .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$c:rep
+*MOT:	what ?
+%mor:	pro:wh|what ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	Mom .
+%mor:	n:prop|Mom .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$c:rep
+*MOT:	what ?
+%mor:	pro:wh|what ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	xxx ?
+%cod:	$r:min
+*MOT:	&mm [= oh] (.) she's swimmin(g) .
+%mor:	pro:sub|she~aux|be&3S part|swim-PRESP .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|PUNCT
+*CHI:	swim ?
+%mor:	n|swim ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$c:imt
+*MOT:	mhm .
+%mor:	co|yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	d'you [: do you] wan(t) (t)a go swimmin(g) too ?
+%mor:	mod|do pro|you v|want inf|to v|go n:gerund|swim-PRESP post|too ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|5|INF 5|3|XCOMP 6|5|OBJ 7|6|PQ 8|3|PUNCT
+*CHI:	yeah .
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$r:min
+*MOT:	okay (.) be a good boy today and you get to go swimmin(g) .
+%mor:	co|okay cop|be det|a adj|good n|boy adv:tem|today coord|and pro|you
+	v|get inf|to v|go part|swim-PRESP .
+%gra:	1|2|COM 2|0|ROOT 3|5|DET 4|5|MOD 5|2|PRED 6|5|XMOD 7|9|LINK 8|9|SUBJ
+	9|6|CMOD 10|11|INF 11|9|XCOMP 12|11|OBJ 13|2|PUNCT
+*CHI:	swim .
+%mor:	n|swim .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$c:imt
+*MOT:	mhm .
+%mor:	co|yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	want swim .
+%mor:	v|want n|swim .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+%cod:	$c:min
+*MOT:	yeah (.) you can go swimmin(g) later (.) okay ?
+%mor:	co|yeah pro|you mod|can v|go part|swim-PRESP adv|later adj|okay ?
+%gra:	1|4|COM 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|5|JCT 7|5|JCT 8|4|PUNCT
+*CHI:	I [?] +...
+%mor:	pro:sub|I +...
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$u:unc
+*MOT:	what's that ?
+%mor:	pro:wh|what~cop|be&3S pro:dem|that ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*CHI:	huh ?
+%mor:	co|huh ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$c:min
+*MOT:	what's that ?
+%mor:	pro:wh|what~cop|be&3S pro:dem|that ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*CHI:	no .
+%mor:	co|no .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	bite [?] .
+%mor:	n|bite .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$r:min
+*MOT:	mhm .
+%mor:	co|yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	here's one for your face and your lap .
+%mor:	pro:exist|here~cop|be&3S pro:indef|one prep|for pro:poss:det|your
+	n|face coord|and pro:poss:det|your n|lap .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|JCT 5|6|MOD 6|4|POBJ 7|2|CONJ 8|9|MOD
+	9|7|COORD 10|2|PUNCT
+*MOT:	you're getting crumbs everywhere .
+%mor:	pro|you~aux|be&PRES part|get-PRESP n|crumb-PL adv|everywhere .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|3|JCT 6|3|PUNCT
+*CHI:	Mom .
+%mor:	n:prop|Mom .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$b:min
+*MOT:	what ?
+%mor:	pro:wh|what ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	oh (.) okay (.) go ahead .
+%mor:	co|oh co|okay v|go adv|ahead .
+%gra:	1|3|COM 2|3|COM 3|0|ROOT 4|3|JCT 5|3|PUNCT
+*MOT:	here .
+%mor:	adv|here .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	okay .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	Mom [=! grins] .
+%mor:	n:prop|Mom .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	what ?
+%mor:	pro:wh|what ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$b:min
+*CHI:	Mom .
+%mor:	n:prop|Mom .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$c:rep
+*MOT:	I know (.) you're silly .
+%mor:	pro:sub|I v|know pro|you~cop|be&PRES adj|silly .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|SUBJ 4|2|COMP 5|4|PRED 6|2|PUNCT
+*MOT:	don't do that .
+%mor:	mod|do~neg|not v|do pro:dem|that .
+%gra:	1|3|AUX 2|1|NEG 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+%exp:	<bef> C laughs and sticks tongue out
+*CHI:	huh ?
+%mor:	co|huh ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$c:min
+*MOT:	that's (y)icky .
+%mor:	rel|that~cop|be&3S co|yicky .
+%gra:	1|2|LINK 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*CHI:	oh .
+%mor:	co|oh .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$c:min
+*MOT:	d'you [: do you] eat your cookie ?
+%mor:	mod|do pro|you v|eat pro:poss:det|your n|cookie ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|5|MOD 5|3|OBJ 6|3|PUNCT
+*CHI:	yeah [?] .
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$r:min
+*MOT:	yeah ?
+%mor:	co|yeah ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	<want bite> [?] .
+%mor:	v|want n|bite .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+%cod:	$c:new
+*MOT:	are [//] is your juice all_gone ?
+%mor:	cop|be&3S pro:poss:det|your n|juice adj|all_gone ?
+%gra:	1|0|ROOT 2|3|MOD 3|1|PRED 4|3|XMOD 5|1|PUNCT
+*CHI:	yeah .
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$r:min
+*MOT:	are you sure ?
+%mor:	cop|be&PRES pro|you adj|sure ?
+%gra:	1|0|ROOT 2|3|SUBJ 3|1|PRED 4|1|PUNCT
+*CHI:	yeah .
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$r:min
+*MOT:	you got some left ?
+%mor:	pro|you v|get&PAST qn|some v|leave&PAST ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|QUANT 4|2|OBJ 5|2|PUNCT
+*CHI:	xxx [= looks in glass] .
+*CHI:	yeah .
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$r:min
+*MOT:	you got some ?
+%mor:	pro|you v|get&PAST qn|some ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*CHI:	mhm .
+%mor:	co|yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$r:rep
+*MOT:	(o)kay .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	Mom ?
+%mor:	n:prop|Mom ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$b:min
+*MOT:	&hmm ?
+*CHI:	Mommy ?
+%mor:	n:prop|Mommy ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$c:rep
+*MOT:	what ?
+%mor:	pro:wh|what ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	done [?] .
+%mor:	part|do&PASTP .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$r:min
+*MOT:	(o)kay .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	xxx .
+%cod:	$u:unc
+*MOT:	you ate your cookie !
+%mor:	pro|you v|eat&PAST pro:poss:det|your n|cookie !
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|MOD 4|2|OBJ 5|2|PUNCT
+*MOT:	all_gone .
+%mor:	co|all_gone .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	xxx cookie .
+%mor:	n|cookie .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$u:unc
+*MOT:	what ?
+%mor:	pro:wh|what ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	more [?] cookie .
+%mor:	qn|more n|cookie .
+%gra:	1|2|QUANT 2|0|INCROOT 3|2|PUNCT
+%cod:	$r:min
+*MOT:	you want my cookie ?
+%mor:	pro|you v|want pro:poss:det|my n|cookie ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|MOD 4|2|OBJ 5|2|PUNCT
+*CHI:	yeah .
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$r:min
+*MOT:	okay .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	say please .
+%mor:	co|say co|please .
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+*CHI:	please .
+%mor:	co|please .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$r:imt
+*MOT:	okay .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	you're gonna have cookies in your tummy (.) huh ?
+%mor:	pro|you~aux|be&PRES part|go-PRESP~inf|to v|have n|cookie-PL prep|in
+	pro:poss:det|your n|tummy co|huh ?
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|INF 5|3|XCOMP 6|5|OBJ 7|5|JCT 8|9|MOD
+	9|7|POBJ 10|5|COM 11|3|PUNCT
+%exp:	C eats M's cookie
+*CHI:	yeah .
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$r:min
+*MOT:	yeah .
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	two cookies .
+%mor:	det:num|two n|cookie-PL .
+%gra:	1|2|QUANT 2|0|INCROOT 3|2|PUNCT
+*CHI:	my [?] two cookies .
+%mor:	pro:poss:det|my det:num|two n|cookie-PL .
+%gra:	1|3|MOD 2|3|QUANT 3|0|INCROOT 4|3|PUNCT
+%cod:	$c:imt
+*MOT:	mhm .
+%mor:	co|yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	my [/] my two [=! laughs] .
+%mor:	pro:poss:det|my det:num|two .
+%gra:	1|2|MOD 2|0|ROOT 3|2|PUNCT
+%cod:	$c:rep
+*CHI:	xxx cut .
+%mor:	v|cut&ZERO .
+%gra:	1|0|ROOT 2|1|PUNCT
+%cod:	$b:new
+*MOT:	got cut ?
+%mor:	v|get&PAST v|cut&ZERO ?
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+%tim:	14:01:11; 00:10:11
+@End

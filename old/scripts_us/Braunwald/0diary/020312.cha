@@ -1,0 +1,49 @@
+@UTF8
+@PID:	11312/c-00010866-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, MOT Mother
+@ID:	eng|Braunwald|CHI|02;03.12|female|||Target_Child|||
+@ID:	eng|Braunwald|MOT|||||Mother|||
+@Date:	01-JUN-1973
+*CHI:	I have a high poo .
+%mor:	pro:sub|I v|have det|a n|high co|poo .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|COM 6|2|PUNCT
+%sit:	66
+*MOT:	what's a high poo ?
+%mor:	adv:wh|what~cop|be&3S det|a n|high co|poo ?
+%gra:	1|2|LINK 2|0|ROOT 3|4|DET 4|2|PRED 5|4|COM 6|2|PUNCT
+%sit:	66
+*CHI:	with weewee .
+%mor:	prep|with n|+on|wee+on|wee .
+%gra:	1|0|INCROOT 2|1|POBJ 3|1|PUNCT
+%sit:	66
+*CHI:	maybe Poppy_Walter be here .
+%mor:	adv|maybe n:prop|Poppy_Walter cop|be adv|here .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|PUNCT
+%sit:	67
+*CHI:	maybe Poppy_Walter get me ride him big truck .
+%mor:	adv|maybe n:prop|Poppy_Walter v|get pro:obj|me v|ride pro:obj|him
+	adj|big n|truck .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|COMP 6|8|MOD 7|8|MOD 8|5|OBJ
+	9|3|PUNCT
+%sit:	67
+*CHI:	my tummy hurt .
+%mor:	pro:poss:det|my n|tummy v|hurt&ZERO .
+%gra:	1|2|MOD 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+%sit:	68
+*MOT:	maybe you have_to go poo .
+%mor:	adv|maybe pro|you mod:aux|have_to v|go co|poo .
+%gra:	1|4|JCT 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|COM 6|4|PUNCT
+%sit:	68
+*CHI:	feel like I want go in living+room .
+%mor:	v|feel prep|like pro:sub|I v|want v|go prep|in n|+n|living+n|room .
+%gra:	1|0|ROOT 2|1|JCT 3|4|SUBJ 4|2|POBJ 5|4|OBJ 6|5|JCT 7|6|POBJ 8|1|PUNCT
+%sit:	68
+*MOT:	okay, but don't make poo in your pants .
+%mor:	co|okay cm|cm conj|but mod|do~neg|not v|make v|poo prep|in
+	pro:poss:det|your n:pt|pants .
+%gra:	1|7|COM 2|1|LP 3|6|LINK 4|6|AUX 5|4|NEG 6|7|SUBJ 7|0|ROOT 8|7|JCT
+	9|10|MOD 10|8|POBJ 11|7|PUNCT
+%sit:	68
+@End

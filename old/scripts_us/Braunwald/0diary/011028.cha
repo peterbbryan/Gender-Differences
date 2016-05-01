@@ -1,0 +1,120 @@
+@UTF8
+@PID:	11312/c-00010741-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, MOT Mother, SIS Sister, FAT Father,
+	FRI Family_Friend
+@ID:	eng|Braunwald|CHI|01;10.28|female|||Target_Child|||
+@ID:	eng|Braunwald|MOT|||||Mother|||
+@ID:	eng|Braunwald|SIS|||||Sister|||
+@ID:	eng|Braunwald|FAT|||||Father|||
+@ID:	eng|Braunwald|FRI|||||Family_Friend|||
+@Date:	17-JAN-1973
+*CHI:	are you cooking breakfas(t) Sue ?
+%mor:	cop|be&PRES pro|you part|cook-PRESP n|breakfast n:prop|Sue ?
+%gra:	1|0|ROOT 2|4|MOD 3|4|MOD 4|1|PRED 5|4|APP 6|1|PUNCT
+%sit:	980
+*CHI:	are you cooking breakfas(t) Sue ?
+%mor:	cop|be&PRES pro|you part|cook-PRESP n|breakfast n:prop|Sue ?
+%gra:	1|0|ROOT 2|4|MOD 3|4|MOD 4|1|PRED 5|4|APP 6|1|PUNCT
+%sit:	980
+*MOT:	yes, I am .
+%mor:	co|yes cm|cm pro:sub|I cop|be&1S .
+%gra:	1|4|COM 2|1|LP 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+%sit:	980
+*CHI:	could I get through ?
+%mor:	mod|could pro:sub|I v|get adj|through ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|PUNCT
+%sit:	981
+*SIS:	yes .
+%mor:	co|yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%sit:	981
+*CHI:	no, stupid .
+%mor:	co|no cm|cm adj|stupid .
+%gra:	1|3|COM 2|1|LP 3|0|ROOT 4|3|PUNCT
+%sit:	982
+*CHI:	my not stupid .
+%mor:	pro:poss:det|my neg|not adj|stupid .
+%gra:	1|3|MOD 2|1|NEG 3|0|INCROOT 4|3|PUNCT
+%sit:	982
+*MOT:	no, you're not .
+%mor:	co|no cm|cm pro|you~aux|be&PRES neg|not .
+%gra:	1|4|COM 2|1|LP 3|4|SUBJ 4|0|ROOT 5|4|NEG 6|4|PUNCT
+%sit:	982
+*CHI:	Peanus [: Peanuts] do not come .
+%mor:	n:prop|Peanuts v|do neg|not v|come .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|NEG 4|2|COMP 5|2|PUNCT
+%sit:	983
+*CHI:	do not come in here .
+%mor:	mod|do neg|not v|come prep|in pro:dem|here .
+%gra:	1|3|AUX 2|1|NEG 3|0|ROOT 4|3|JCT 5|4|POBJ 6|3|PUNCT
+%sit:	983
+*CHI:	stay home .
+%mor:	n|stay n|home .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+%sit:	984
+*CHI:	are you stay home ?
+%mor:	cop|be&PRES pro|you v|stay n|home ?
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|PUNCT
+%sit:	984
+*FAT:	no, I'm gonna go to work .
+%mor:	co|no cm|cm pro:sub|I~aux|be&1S part|go-PRESP~inf|to v|go prep|to
+	n|work .
+%gra:	1|5|COM 2|1|LP 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|7|INF 7|5|XCOMP 8|7|JCT
+	9|8|POBJ 10|5|PUNCT
+%sit:	984
+*CHI:	Artie hit me .
+%mor:	n:prop|Artie v|hit&ZERO pro:obj|me .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+%sit:	985
+*MOT:	I know Artie hit you .
+%mor:	pro:sub|I v|know n:prop|Artie v|hit&ZERO pro|you .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|SUBJ 4|2|COMP 5|4|OBJ 6|2|PUNCT
+%sit:	985
+*CHI:	my don't like it .
+%mor:	pro:poss:det|my mod|do~neg|not v|like pro|it .
+%gra:	1|2|MOD 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+%sit:	985
+*MOT:	I know you don't .
+%mor:	pro:sub|I v|know pro|you mod|do~neg|not .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|3|INCROOT 5|4|NEG 6|4|PUNCT
+%sit:	985
+*CHI:	my get scared .
+%mor:	pro:poss:det|my aux|get part|scare-PASTP .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|PUNCT
+%sit:	985
+*CHI:	I can't reach sink .
+%mor:	pro:sub|I mod|can~neg|not v|reach n|sink .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+%sit:	986
+*CHI:	Josh hide .
+%mor:	n:prop|Josh n|hide .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+%sit:	987
+*FRI:	show your Mommy the picture you made .
+%mor:	v|show pro:poss:det|your n:prop|Mommy det|the n|picture pro|you
+	v|make&PAST .
+%gra:	1|0|ROOT 2|3|MOD 3|7|SUBJ 4|5|DET 5|7|JCT 6|7|SUBJ 7|1|COMP 8|1|PUNCT
+%sit:	988
+*CHI:	I can't find them .
+%mor:	pro:sub|I mod|can~neg|not v|find pro:obj|them .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+%sit:	988
+*CHI:	I can't find them .
+%mor:	pro:sub|I mod|can~neg|not v|find pro:obj|them .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+%sit:	988
+*CHI:	put it back here .
+%mor:	v|put&ZERO pro|it adv|back adv|here .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|JCT 4|1|JCT 5|1|PUNCT
+%sit:	989
+*CHI:	I can't .
+%mor:	pro:sub|I mod|can~neg|not .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|NEG 4|2|PUNCT
+%sit:	989
+*CHI:	my do it .
+%mor:	pro:poss:det|my v|do pro|it .
+%gra:	1|2|MOD 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+%sit:	989
+@End

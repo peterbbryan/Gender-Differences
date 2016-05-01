@@ -1,0 +1,59 @@
+@UTF8
+@PID:	11312/c-00010561-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, MOT Mother
+@ID:	eng|Braunwald|CHI|01;04.23|female|||Target_Child|||
+@ID:	eng|Braunwald|MOT|||||Mother|||
+@Date:	13-JUL-1972
+*CHI:	Daddy .
+%mor:	n:prop|Daddy .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%sit:	848
+*MOT:	where is Daddy ?
+%mor:	adv:wh|where cop|be&3S n:prop|Daddy ?
+%gra:	1|2|LINK 2|0|ROOT 3|2|PRED 4|2|PUNCT
+%sit:	848
+*CHI:	byebye carcar [: car] .
+%mor:	co|byebye n|car .
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+%sit:	848
+*CHI:	eye Sue .
+%mor:	n|eye n:prop|Sue .
+%gra:	1|0|INCROOT 2|1|APP 3|1|PUNCT
+%sit:	849
+*CHI:	baby baby suck [: stuck] suck [: stuck] .
+%mor:	n|baby n|baby v|stick&PAST v|stick&PAST .
+%gra:	1|0|INCROOT 2|3|SUBJ 3|1|XMOD 4|3|OBJ 5|1|PUNCT
+%sit:	850
+*CHI:	car go .
+%mor:	n|car v|go .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+%sit:	851
+*MOT:	what did you say ?
+%mor:	pro:wh|what mod|do&PAST pro|you v|say ?
+%gra:	1|4|LINK 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+%sit:	851
+*CHI:	go .
+%mor:	v|go .
+%gra:	1|0|ROOT 2|1|PUNCT
+%sit:	851
+*MOT:	what goes ?
+%mor:	pro:wh|what v|go-3S ?
+%gra:	1|2|LINK 2|0|ROOT 3|2|PUNCT
+%sit:	851
+*CHI:	car go .
+%mor:	n|car v|go .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+%sit:	851
+*CHI:	peepee poddy [: potty] hay [: hair] hay [: hair] poo baby hay [: hair] hay [: hair] .
+%mor:	n|+on|pee+on|pee adj|pot&dn-Y n|hair n|hair n|poo n|baby n|hair
+	n|hair .
+%gra:	1|8|MOD 2|8|MOD 3|8|MOD 4|8|MOD 5|8|MOD 6|8|MOD 7|8|MOD 8|0|INCROOT
+	9|8|PUNCT
+%sit:	852
+*CHI:	shoe Deedee [: Joanna] .
+%mor:	n|shoe n:prop|Joanna .
+%gra:	1|0|INCROOT 2|1|APP 3|1|PUNCT
+%sit:	853
+@End

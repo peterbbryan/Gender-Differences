@@ -120,6 +120,10 @@ def main():
                     not conjugate(stem, tense="past").endswith("ed"):
                         continue
                         
+                        
+                # TOFIX SUSPECT,tire,tireded,ti
+                # same problem with broke
+
                 base = conjugate(stem, tense="infinitive")
                 if is_past_tense_verb(stem, verb):
                     sink_csv.writerow(("PAST", base, verb, verb))
@@ -128,7 +132,7 @@ def main():
                         continue
                     if not in_vocabulary(base):
                         continue
-                    without_ed = re.search("(.*?)ed", i).group(1)
+                    without_ed = re.search("(.*?)ed", verb).group(1)
                     if without_ed.startswith(base):
                         freq_form = conjugate(stem, tense="past")
                     elif is_verb(stem, without_ed):

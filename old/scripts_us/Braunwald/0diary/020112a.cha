@@ -1,0 +1,41 @@
+@UTF8
+@PID:	11312/c-00010810-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, MOT Mother
+@ID:	eng|Braunwald|CHI|02;01.12|female|||Target_Child|||
+@ID:	eng|Braunwald|MOT|||||Mother|||
+@Date:	01-APR-1973
+*CHI:	I'm sad .
+%mor:	pro:sub|I~cop|be&1S adj|sad .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+%sit:	491
+*MOT:	why are you sad ?
+%mor:	adv:wh|why aux|be&PRES pro|you adj|sad ?
+%gra:	1|4|LINK 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+%sit:	491
+*CHI:	I don't go in car .
+%mor:	pro:sub|I mod|do~neg|not v|go prep|in n|car .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|JCT 6|5|POBJ 7|4|PUNCT
+%sit:	491
+*CHI:	in_case my nose running .
+%mor:	conj|in_case pro:poss:det|my n|nose part|run-PRESP .
+%gra:	1|3|LINK 2|3|MOD 3|0|INCROOT 4|3|XMOD 5|3|PUNCT
+%sit:	492
+*MOT:	there's Nanny_Two .
+%mor:	pro:exist|there~cop|be&3S n:prop|Nanny_Two .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+%sit:	493
+*CHI:	I see her .
+%mor:	pro:sub|I v|see pro:obj|her .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+%sit:	493
+*CHI:	will you read Harry ?
+%mor:	mod|will pro|you v|read&ZERO n:prop|Harry ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+%sit:	494
+*CHI:	I'm sleeping .
+%mor:	pro:sub|I~aux|be&1S part|sleep-PRESP .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|PUNCT
+%sit:	495
+@End

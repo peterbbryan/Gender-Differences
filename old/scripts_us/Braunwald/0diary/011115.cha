@@ -1,0 +1,63 @@
+@UTF8
+@PID:	11312/c-00010758-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, MOT Mother, FAT Father
+@ID:	eng|Braunwald|CHI|01;11.15|female|||Target_Child|||
+@ID:	eng|Braunwald|MOT|||||Mother|||
+@ID:	eng|Braunwald|FAT|||||Father|||
+@Date:	04-FEB-1973
+*CHI:	Mommy, you know what ?
+%mor:	n:prop|Mommy cm|cm pro|you v|know pro:wh|what ?
+%gra:	1|4|LINK 2|1|LP 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+%sit:	1201 all the time
+*MOT:	what ?
+%mor:	pro:wh|what ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%sit:	1201 all the time
+*CHI:	that what .
+%mor:	pro:dem|that pro:wh|what .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+%sit:	1201 all the time
+*CHI:	you have coffee .
+%mor:	pro|you v|have n|coffee .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+%sit:	1202
+*CHI:	Jack have coffee .
+%mor:	n:prop|Jack v|have n|coffee .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+%sit:	1202
+*CHI:	where my Pennie go ?
+%mor:	adv:wh|where co|my n:prop|Pennie v|go ?
+%gra:	1|4|LINK 2|4|COM 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+%sit:	1203
+*CHI:	where my Pennie go ?
+%mor:	adv:wh|where co|my n:prop|Pennie v|go ?
+%gra:	1|4|LINK 2|4|COM 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+%sit:	1203
+*FAT:	it sounds like Andi's not home .
+%mor:	pro|it v|sound-3S prep|like n:prop|Andi~poss|s neg|not n|home .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|3|POBJ 5|4|POSS 6|4|NEG 7|4|JCT 8|2|PUNCT
+%sit:	1204
+*CHI:	just us .
+%mor:	adv|just pro:obj|us .
+%gra:	1|2|JCT 2|0|ROOT 3|2|PUNCT
+%sit:	1204
+*CHI:	could I have an ice+cream cone Mommy ?
+%mor:	mod|could pro:sub|I v|have det|a n|+n|ice+n|cream n|cone
+	n:prop|Mommy ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|6|DET 5|6|MOD 6|3|OBJ 7|6|APP 8|3|PUNCT
+%sit:	1205
+*CHI:	what kind could I have ?
+%mor:	pro:wh|what n|kind mod|could pro:sub|I v|have ?
+%gra:	1|2|MOD 2|5|SUBJ 3|5|AUX 4|5|SUBJ 5|0|ROOT 6|5|PUNCT
+%sit:	1205
+*CHI:	chocolate .
+%mor:	n|chocolate .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%sit:	1205
+*CHI:	I go in this .
+%mor:	pro:sub|I v|go prep|in pro:dem|this .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|3|POBJ 5|2|PUNCT
+%sit:	1206
+@End

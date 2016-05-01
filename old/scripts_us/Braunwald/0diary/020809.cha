@@ -1,0 +1,60 @@
+@UTF8
+@PID:	11312/c-00011000-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, MOT Mother, FAT Father, HOU Housekeeper
+@ID:	eng|Braunwald|CHI|02;08.09|female|||Target_Child|||
+@ID:	eng|Braunwald|MOT|||||Mother|||
+@ID:	eng|Braunwald|FAT|||||Father|||
+@ID:	eng|Braunwald|HOU|||||Housekeeper|||
+@Date:	29-OCT-1973
+*MOT:	that's your voice, Joanna .
+%mor:	pro:dem|that~aux|be&3S pro:poss:det|your n|voice cm|cm
+	n:prop|Joanna .
+%gra:	1|4|SUBJ 2|4|AUX 3|4|MOD 4|6|SUBJ 5|4|LP 6|0|ROOT 7|6|PUNCT
+%sit:	927
+*CHI:	which is my voice ?
+%mor:	rel|which cop|be&3S pro:poss:det|my n|voice ?
+%gra:	1|2|LINK 2|0|ROOT 3|4|MOD 4|2|PRED 5|2|PUNCT
+%sit:	927
+*MOT:	well, let's listen, we'll hear .
+%mor:	co|well cm|cm v|let~pro:obj|us v|listen cm|cm pro:sub|we~mod|will
+	v|hear .
+%gra:	1|3|COM 2|1|LP 3|0|ROOT 4|3|OBJ 5|3|COMP 6|5|LP 7|9|SUBJ 8|9|AUX
+	9|5|COMP 10|3|PUNCT
+%sit:	927
+*FAT:	good luck .
+%mor:	adj|good n|luck .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+%sit:	928
+*CHI:	how_come you say good luck to Mom ?
+%mor:	adv:wh|how_come pro|you v|say adj|good n|luck prep|to n:prop|Mom ?
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|MOD 5|3|OBJ 6|5|NJCT 7|6|POBJ 8|3|PUNCT
+%sit:	928
+*FAT:	(be)cause she's gonna be in school all day just like you .
+%mor:	conj|because pro:sub|she~aux|be&3S part|go-PRESP~inf|to aux|be
+	prep|in n|school qn|all n|day adv|just co|like pro|you .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|INF 6|4|XCOMP 7|6|JCT 8|10|MOD
+	9|10|QUANT 10|7|POBJ 11|6|JCT 12|6|COM 13|6|INCROOT 14|13|PUNCT
+%sit:	928
+*CHI:	wanna see how many I got ?
+%mor:	v|want~inf|to co|see adv:wh|how qn|many pro:sub|I v|get&PAST ?
+%gra:	1|0|ROOT 2|3|INF 3|7|COM 4|7|LINK 5|7|QUANT 6|7|SUBJ 7|1|COMP 8|1|PUNCT
+%sit:	929
+*HOU:	let's count (th)em .
+%mor:	v|let~pro:obj|us v|count pro:obj|them .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|COMP 4|3|OBJ 5|1|PUNCT
+%sit:	929
+*CHI:	how many ?
+%mor:	adv:wh|how qn|many ?
+%gra:	1|2|LINK 2|0|ROOT 3|2|PUNCT
+%sit:	929
+*MOT:	wow, that's some bump .
+%mor:	co|wow cm|cm pro:dem|that~aux|be&3S qn|some n|bump .
+%gra:	1|3|COM 2|1|LP 3|6|SUBJ 4|6|AUX 5|6|QUANT 6|0|INCROOT 7|6|PUNCT
+%sit:	930
+*CHI:	quite a big bump .
+%mor:	adv|quite det|a adj|big n|bump .
+%gra:	1|4|JCT 2|4|DET 3|4|MOD 4|0|INCROOT 5|4|PUNCT
+%sit:	930
+@End

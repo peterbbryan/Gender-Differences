@@ -1,0 +1,985 @@
+@UTF8
+@PID:	11312/c-00034844-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child , MOT Mother , INV1 Investigator , INV2 Investigator , SIS Sister
+@ID:	eng|HSLLD|CHI|4;00.00|male|||Target_Child|||
+@ID:	eng|HSLLD|MOT|||||Mother|10 , GED||
+@ID:	eng|HSLLD|INV1|||||Investigator|||
+@ID:	eng|HSLLD|INV2|||||Investigator|||
+@ID:	eng|HSLLD|SIS|||||Sister|||
+@Birth of CHI:	27-JUN-1984
+@Comment:	SES of Mot is lower
+@Date:	27-JUN-1988
+@Location:	Boston , MA , USA
+@Situation:	First home visit; took place in kitchen; CHI and Mot sat side by side in separate chairs while Mot read
+@Activities:	Book Reading 1 The Very Hungry Caterpillar
+@Bg:	bookreading
+*INV1:	www (.) .
+*INV1:	we have this book that all of the mothers read to the kids and you can just read it any way that you would normally +...
+%mor:	pro:sub|we v|have det|this n|book rel|that qn|all prep|of det|the
+	n|mother-PL v|read&ZERO prep|to det|the n|kid-PL coord|and pro|you
+	mod|can adv|just v|read&ZERO pro|it qn|any n|way rel|that pro|you
+	mod|will&COND adv|normal&dadj-LY +...
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|10|LINK 6|10|QUANT 7|10|JCT 8|9|DET
+	9|10|SUBJ 10|4|CMOD 11|10|JCT 12|13|DET 13|11|POBJ 14|18|LINK
+	15|18|SUBJ 16|18|AUX 17|18|JCT 18|10|XJCT 19|18|OBJ 20|21|QUANT 21|18|OBJ
+	22|24|LINK 23|24|SUBJ 24|21|CMOD 25|24|JCT 26|2|PUNCT
+@Comment:	Time is 0:09
+*MOT:	what now ?
+%mor:	pro:wh|what adv|now ?
+%gra:	1|0|INCROOT 2|1|JCT 3|1|PUNCT
+*INV1:	read it .
+%mor:	v|read&ZERO pro|it .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+*INV1:	yep .
+%mor:	co|yep .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	alright .
+%mor:	co|alright .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	look Chi .
+%mor:	v|look n:prop|Chi .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+*MOT:	The Very Hungry Caterpillar .
+%mor:	n:prop|The n:prop|Very n:prop|Hungry n:prop|Caterpillar .
+%gra:	1|0|INCROOT 2|1|APP 3|2|APP 4|3|APP 5|1|PUNCT
+*MOT:	see (.) ?
+%mor:	v|see ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	in the light of the moon a little egg lay on a leaf .
+%mor:	prep|in det|the n|light prep|of det|the n|moon det|a adj|little
+	n|egg adj|lay prep|on det|a n|leaf .
+%gra:	1|0|INCROOT 2|3|DET 3|1|POBJ 4|3|NJCT 5|6|DET 6|4|POBJ 7|9|DET 8|9|MOD
+	9|6|CMOD 10|9|XMOD 11|10|JCT 12|13|DET 13|11|POBJ 14|1|PUNCT
+*MOT:	huh Chi (.) .
+%mor:	co|huh n:prop|Chi .
+%gra:	1|2|COM 2|0|ROOT 3|2|PUNCT
+*CHI:	0 .
+%act:	CHI looks at picture and smiles shyly
+*MOT:	one Sunday morning the warm sun came up and pop [!] out of the egg came a tiny and very hungry caterpillar .
+%mor:	det:num|one n:prop|Sunday n|morning det|the adj|warm n|sun
+	v|come&PAST adv|up coord|and n|pop adv|out prep|of det|the n|egg
+	v|come&PAST det|a adj|tiny coord|and adv|very adj|hungry
+	n|caterpillar .
+%gra:	1|3|QUANT 2|3|MOD 3|7|LINK 4|6|DET 5|6|MOD 6|7|SUBJ 7|0|ROOT 8|7|JCT
+	9|7|CONJ 10|9|COORD 11|12|JCT 12|10|NJCT 13|14|DET 14|15|SUBJ 15|12|POBJ
+	16|17|DET 17|10|XMOD 18|17|CONJ 19|21|JCT 20|21|MOD 21|18|COORD
+	22|7|PUNCT
+*MOT:	where is it Chi (.) ?
+%mor:	adv:wh|where aux|be&3S pro|it n:prop|Chi ?
+%gra:	1|2|LINK 2|0|ROOT 3|2|OBJ 4|3|APP 5|2|PUNCT
+*CHI:	0 .
+%act:	CHI points to caterpillar
+*MOT:	being shy still .
+%mor:	n|being adj|shy n|still .
+%gra:	1|3|MOD 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+*MOT:	zzz [>] .
+%mor:	co|zzz .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%par:	laughs
+*INV1:	zzz [<][>] .
+%mor:	co|zzz .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%par:	laughs
+*INV2:	zzz [<] .
+%mor:	co|zzz .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%par:	laughs
+*MOT:	he usually likes being read to .
+%mor:	pro:sub|he adv|usual&dadj-LY v|like-3S n|being v|read&ZERO prep|to
+	.
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|5|SUBJ 5|3|COMP 6|5|JCT 7|3|PUNCT
+*MOT:	he started to look for some food .
+%mor:	pro:sub|he v|start-PAST inf|to v|look prep|for qn|some n|food .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|INF 4|2|XCOMP 5|4|JCT 6|7|QUANT 7|5|POBJ
+	8|2|PUNCT
+*MOT:	on Monday he ate through the apple .
+%mor:	prep|on n:prop|Monday pro:sub|he v|eat&PAST prep|through det|the
+	n|apple .
+%gra:	1|4|LINK 2|1|POBJ 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ 8|4|PUNCT
+*MOT:	but he was still hungry (.) .
+%mor:	conj|but pro:sub|he cop|be&PAST&13S adv|still adj|hungry .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|JCT 5|3|PRED 6|3|PUNCT
+*MOT:	on Tuesday he ate through two [!] pears .
+%mor:	prep|on n:prop|Tuesday pro:sub|he v|eat&PAST prep|through
+	det:num|two n|pear-PL .
+%gra:	1|4|LINK 2|1|POBJ 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|7|QUANT 7|5|POBJ
+	8|4|PUNCT
+*MOT:	but he was still hungry (.) .
+%mor:	conj|but pro:sub|he cop|be&PAST&13S adv|still adj|hungry .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|JCT 5|3|PRED 6|3|PUNCT
+*MOT:	on Wednesday he ate through three plums but he was still hungry .
+%mor:	prep|on n:prop|Wednesday pro:sub|he v|eat&PAST prep|through
+	det:num|three n|plum-PL conj|but pro:sub|he cop|be&PAST&13S
+	adv|still adj|hungry .
+%gra:	1|4|LINK 2|1|POBJ 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|7|QUANT 7|5|POBJ
+	8|10|LINK 9|10|SUBJ 10|4|CJCT 11|12|JCT 12|10|PRED 13|4|PUNCT
+*MOT:	one two three (.) .
+%mor:	det:num|one det:num|two det:num|three .
+%gra:	1|2|QUANT 2|3|QUANT 3|0|ROOT 4|3|PUNCT
+%par:	whispers
+*MOT:	on Thursday he ate through four strawberries but he was still hungry (.) .
+%mor:	prep|on n:prop|Thursday pro:sub|he v|eat&PAST prep|through
+	det:num|four n|strawberry-PL conj|but pro:sub|he cop|be&PAST&13S
+	adv|still adj|hungry .
+%gra:	1|4|LINK 2|1|POBJ 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|7|QUANT 7|5|POBJ
+	8|10|LINK 9|10|SUBJ 10|4|CJCT 11|12|JCT 12|10|PRED 13|4|PUNCT
+*MOT:	and on Friday he ate through five oranges but he was still [!] hungry (.) !
+%mor:	conj|and prep|on n:prop|Friday pro:sub|he v|eat&PAST prep|through
+	det:num|five n|orange-PL conj|but pro:sub|he cop|be&PAST&13S
+	adv|still adj|hungry !
+%gra:	1|5|LINK 2|5|JCT 3|2|POBJ 4|5|SUBJ 5|0|ROOT 6|5|JCT 7|8|QUANT 8|6|POBJ
+	9|11|LINK 10|11|SUBJ 11|5|CJCT 12|13|JCT 13|11|PRED 14|5|PUNCT
+%act:	aft Mot looks at CHI for his reaction
+*INV1:	zzz .
+%mor:	co|zzz .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%par:	chuckles
+*MOT:	on Saturday he ate through one piece of chocolate cake (.) one ice cream cone one pickle one slice of cheese (.) one slice of salami (.) one lollipop one piece of cherry pie (.) one sausage one cupcake and one [!] slice of watermelon .
+%mor:	prep|on n:prop|Saturday pro:sub|he v|eat&PAST prep|through
+	pro:indef|one n|piece prep|of n|chocolate n|cake pro:indef|one n|ice
+	n|cream n|cone det:num|one n|pickle pro:indef|one n|slice prep|of
+	n|cheese det:num|one n|slice prep|of n|salami det:num|one n|lollipop
+	det:num|one n|piece prep|of n|cherry n|pie det:num|one n|sausage
+	det:num|one n|cupcake coord|and det:num|one n|slice prep|of
+	n|+n|water+n|melon .
+%gra:	1|4|LINK 2|1|POBJ 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|5|POBJ 7|6|OBJ 8|7|NJCT
+	9|8|POBJ 10|9|OBJ 11|10|OBJ 12|14|MOD 13|14|MOD 14|11|CMOD 15|16|QUANT
+	16|14|OBJ 17|16|OBJ 18|17|OBJ 19|18|NJCT 20|19|POBJ 21|22|QUANT 22|20|CMOD
+	23|22|NJCT 24|23|POBJ 25|26|QUANT 26|24|CMOD 27|28|QUANT 28|26|OBJ
+	29|28|NJCT 30|31|MOD 31|29|POBJ 32|33|QUANT 33|35|MOD 34|35|QUANT 35|31|CMOD
+	36|35|CONJ 37|38|QUANT 38|36|COORD 39|38|NJCT 40|39|POBJ 41|4|PUNCT
+%act:	MOT pointed to each food as it was named
+*MOT:	that night he had a stomach ache (.) .
+%mor:	det|that n|night pro:sub|he v|have&PAST det|a n|stomach n|ache .
+%gra:	1|2|DET 2|4|LINK 3|4|SUBJ 4|0|ROOT 5|7|DET 6|7|MOD 7|4|OBJ 8|4|PUNCT
+%int:	each word enunciated separately
+*MOT:	next day was Sunday again .
+%mor:	adv|next n|day cop|be&PAST&13S n:prop|Sunday adv|again .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|4|JCT 6|3|PUNCT
+*MOT:	caterpillar ate through one nice green leaf .
+%mor:	n|caterpillar v|eat&PAST prep|through pro:indef|one adj|nice
+	adj|green n|leaf .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|7|MOD 5|7|MOD 6|7|MOD 7|3|POBJ 8|2|PUNCT
+*MOT:	and after that he felt much better .
+%mor:	conj|and prep|after adv|that pro:sub|he v|feel&PAST adv|much
+	adj|good&CP .
+%gra:	1|5|LINK 2|5|JCT 3|2|POBJ 4|5|SUBJ 5|0|ROOT 6|5|JCT 7|5|JCT 8|5|PUNCT
+*MOT:	that's what he's supposed to eat huh (.) ?
+%mor:	pro:dem|that~cop|be&3S adv|what pro:sub|he~aux|be&3S
+	part|suppose-PASTP inf|to v|eat co|huh ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|6|SUBJ 5|6|AUX 6|2|PRED 7|8|INF 8|6|XCOMP
+	9|8|OBJ 10|2|PUNCT
+*CHI:	0 .
+%act:	CHI looks at mother
+*MOT:	now he wasn't hungry anymore and he wasn't a little caterpillar anymore .
+%mor:	adv|now pro:sub|he cop|be&PAST&13S~neg|not adj|hungry adv|anymore
+	coord|and pro:sub|he cop|be&PAST&13S~neg|not det|a adj|little
+	n|caterpillar adv|anymore .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|3|NEG 5|3|PRED 6|3|JCT 7|9|LINK 8|9|SUBJ
+	9|3|PRED 10|9|NEG 11|13|DET 12|13|MOD 13|9|PRED 14|13|NJCT 15|3|PUNCT
+*MOT:	he was a big fat [!] caterpillar .
+%mor:	pro:sub|he cop|be&PAST&13S det|a adj|big n|fat n|caterpillar .
+%gra:	1|2|SUBJ 2|0|ROOT 3|6|DET 4|5|MOD 5|6|MOD 6|2|PRED 7|2|PUNCT
+*MOT:	he built a small house called a cocoon <arou(nd)> [//] around <him(self)> [//] (him)self .
+%mor:	pro:sub|he v|build&PAST det|a adj|small n|house v|call-PAST det|a
+	n|cocoon prep|around pro:refl|himself .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|DET 4|5|MOD 5|6|SUBJ 6|2|COMP 7|8|DET 8|6|OBJ
+	9|8|NJCT 10|9|POBJ 11|2|PUNCT
+*MOT:	called a cocoon +...
+%mor:	v|call-PAST det|a n|cocoon +...
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+%int:	sotto voce
+*MOT:	zzz [>] .
+%mor:	co|zzz .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%par:	chuckles
+*INV1:	zzz [<] .
+%mor:	co|zzz .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%par:	chuckles
+*MOT:	he stayed inside for more than two weeks .
+%mor:	pro:sub|he v|stay-PAST adv|inside prep|for qn|more prep|than
+	det:num|two n|week-PL .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|2|JCT 5|4|POBJ 6|5|JCT 7|8|QUANT 8|6|POBJ
+	9|2|PUNCT
+*MOT:	then he nibbled a hole in the cocoon (.) pushed his way out and +...
+%mor:	adv:tem|then pro:sub|he v|nibble-PAST det|a n|hole prep|in det|the
+	n|cocoon v|push-PAST pro:poss:det|his n|way adv|out coord|and +...
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|JCT 7|8|DET 8|9|SUBJ
+	9|6|POBJ 10|11|MOD 11|3|OBJ 12|11|NJCT 13|11|COORD 14|3|PUNCT
+%int:	<13> lengthened
+*MOT:	what did he turn into (.) ?
+%mor:	pro:wh|what mod|do&PAST pro:sub|he v|turn prep|into ?
+%gra:	1|4|LINK 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|4|PUNCT
+*CHI:	&hmm .
+*CHI:	that .
+%mor:	pro:dem|that .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%par:	whispers
+*MOT:	zzz .
+%mor:	co|zzz .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%par:	chuckles
+*MOT:	he was a beautiful butterfly !
+%mor:	pro:sub|he cop|be&PAST&13S det|a adj|beautiful n|+n|butter+n|fly !
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|DET 4|5|MOD 5|2|PRED 6|2|PUNCT
+*MOT:	yeah [?] .
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	and that's the end .
+%mor:	conj|and pro:dem|that~cop|be&3S det|the n|end .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|PRED 6|3|PUNCT
+*CHI:	zzz .
+%mor:	co|zzz .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%par:	sighs
+*MOT:	he's not gonna be very <emotional about it> [>] .
+%mor:	pro:sub|he~aux|be&3S neg|not part|go-PRESP~inf|to aux|be adv|very
+	adj|emotional prep|about pro|it .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|8|INF 6|8|AUX 7|8|JCT 8|4|XCOMP
+	9|8|JCT 10|9|POBJ 11|4|PUNCT
+%par:	<8-10> said laughingly
+*INV1:	zzz [<] .
+%mor:	co|zzz .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%par:	laughs
+*INV1:	Chi do you have a book that's your favorite that your mom reads to you sometimes ?
+%mor:	n:prop|Chi v|do pro|you v|have det|a n|book rel|that~aux|be&3S
+	pro:poss:det|your n|favorite rel|that pro:poss:det|your n|mom
+	v|read-3S prep|to pro|you adv|sometimes ?
+%gra:	1|2|SUBJ 2|4|LINK 3|4|SUBJ 4|0|ROOT 5|6|DET 6|4|OBJ 7|10|LINK 8|10|AUX
+	9|10|MOD 10|6|CMOD 11|13|LINK 12|13|MOD 13|14|SUBJ 14|10|CJCT 15|14|JCT
+	16|15|POBJ 17|16|JCT 18|4|PUNCT
+*CHI:	0 .
+%act:	CHI stretches and looks at Mot
+*INV1:	do you have a favorite book ?
+%mor:	mod|do pro|you v|have det|a n|favorite n|book ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|6|DET 5|6|MOD 6|3|OBJ 7|3|PUNCT
+*INV1:	(be)cause if you do could you go get it and then your mom can read it to you for us ?
+%mor:	conj|because conj|if pro|you v|do mod|could pro|you v|go v|get
+	pro|it coord|and adv:tem|then pro:poss:det|your n|mom mod|can
+	v|read&ZERO pro|it prep|to pro|you prep|for pro:obj|us ?
+%gra:	1|4|LINK 2|4|LINK 3|4|SUBJ 4|8|SUBJ 5|8|AUX 6|7|SUBJ 7|8|SRL 8|0|ROOT
+	9|8|OBJ 10|15|LINK 11|15|JCT 12|13|MOD 13|15|SUBJ 14|15|AUX 15|8|CJCT
+	16|15|OBJ 17|15|JCT 18|17|POBJ 19|15|JCT 20|19|POBJ 21|8|PUNCT
+*MOT:	go ahead .
+%mor:	v|go adv|ahead .
+%gra:	1|0|ROOT 2|1|JCT 3|1|PUNCT
+*INV1:	gonna let you choose a book .
+%mor:	part|go-PRESP~inf|to v|let&ZERO pro|you v|choose det|a n|book .
+%gra:	1|0|INCROOT 2|3|INF 3|1|XCOMP 4|3|OBJ 5|3|COMP 6|7|DET 7|5|OBJ
+	8|1|PUNCT
+*INV1:	(o)kay ?
+%mor:	co|okay ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	<go get whichever> [>] one you want .
+%mor:	v|go v|get pro:wh|whichever pro:indef|one pro|you v|want .
+%gra:	1|2|SRL 2|0|ROOT 3|6|OBJ 4|6|JCT 5|6|SUBJ 6|2|COMP 7|2|PUNCT
+*INV1:	xxx [<] .
+*CHI:	xxx [>] .
+%par:	speaks softly
+*MOT:	<even a long one> [<] if you want .
+%mor:	v|even det|a adj|long pro:indef|one conj|if pro|you v|want .
+%gra:	1|0|ROOT 2|4|DET 3|4|MOD 4|1|OBJ 5|7|LINK 6|7|SUBJ 7|4|CJCT 8|1|PUNCT
+*MOT:	zzz (.) .
+%mor:	co|zzz .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%par:	chuckles
+*MOT:	huh ?
+%mor:	co|huh ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	I want you <to get it> [>] .
+%mor:	pro:sub|I v|want pro|you inf|to v|get pro|it .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|5|INF 5|2|XCOMP 6|5|OBJ 7|2|PUNCT
+%par:	speaks softly
+*MOT:	<which one> [<] do you want me to get you (.) ?
+%mor:	rel|which pro:indef|one mod|do pro|you v|want pro:obj|me inf|to
+	v|get pro|you ?
+%gra:	1|2|LINK 2|5|SUBJ 3|5|AUX 4|5|SUBJ 5|0|ROOT 6|5|OBJ 7|8|INF 8|5|XCOMP
+	9|8|OBJ 10|5|PUNCT
+*MOT:	huh ?
+%mor:	co|huh ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	he wants Jonathon's truck xxx house .
+%mor:	pro:sub|he v|want-3S n:prop|Jonathon~poss|s n|truck n|house .
+%gra:	1|2|SUBJ 2|0|ROOT 3|6|MOD 4|3|POSS 5|6|MOD 6|2|OBJ 7|2|PUNCT
+%par:	all speaks softly
+*MOT:	which one ?
+%mor:	rel|which pro:indef|one ?
+%gra:	1|2|LINK 2|0|ROOT 3|2|PUNCT
+*CHI:	0 .
+%act:	CHI crouches under the table
+*MOT:	zzz [>] .
+%mor:	co|zzz .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%par:	laughs
+*INV1:	zzz [<] .
+%mor:	co|zzz .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%par:	laughs
+*INV1:	gonna talk to her under the table ?
+%mor:	part|go-PRESP~inf|to v|talk prep|to pro:obj|her prep|under det|the
+	n|table ?
+%gra:	1|0|INCROOT 2|3|INF 3|1|XCOMP 4|3|JCT 5|4|POBJ 6|3|JCT 7|8|DET 8|6|POBJ
+	9|1|PUNCT
+*MOT:	<<whi(ch)> [//] which one> [>] ?
+%mor:	rel|which pro:indef|one ?
+%gra:	1|2|LINK 2|0|ROOT 3|2|PUNCT
+*INV1:	xxx [<] see you ?
+%mor:	v|see pro|you ?
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+*CHI:	xxx .
+%par:	speaks softly
+*MOT:	let me talk .
+%mor:	v|let&ZERO pro:obj|me v|talk .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|COMP 4|1|PUNCT
+%add:	EXP
+*MOT:	I just wan(t) (t)a +...
+%mor:	pro:sub|I adv|just v|want inf|to +...
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+%add:	EXP
+*MOT:	which book do you want (.) ?
+%mor:	rel|which n|book v|do pro|you v|want ?
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|SUBJ 5|3|OBJ 6|3|PUNCT
+*MOT:	huh ?
+%mor:	co|huh ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	<you got> [>] to tell me hurry up .
+%mor:	pro|you v|get&PAST inf|to v|tell pro:obj|me v|hurry adv|up .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|INF 4|2|XCOMP 5|4|OBJ 6|4|XCOMP 7|6|JCT 8|2|PUNCT
+*CHI:	<I want> [<] [/] I want xxx .
+%mor:	pro:sub|I v|want .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+%par:	speaks softly
+*MOT:	I can't hear you .
+%mor:	pro:sub|I mod|can~neg|not v|hear pro|you .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*CHI:	<Three> [/] <Three> [/] Three Little Pigs .
+%mor:	n:prop|Three n:prop|Little n:prop|Pigs .
+%gra:	1|0|INCROOT 2|1|APP 3|2|APP 4|1|PUNCT
+*MOT:	The Three Pigs ?
+%mor:	n:prop|The n:prop|Three n:prop|Pigs ?
+%gra:	1|0|INCROOT 2|1|APP 3|2|APP 4|1|PUNCT
+%act:	aft Mot leaves to get book
+*INV1:	<that's a good book> [>] .
+%mor:	pro:dem|that~cop|be&3S det|a adj|good n|book .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|DET 4|5|MOD 5|2|PRED 6|2|PUNCT
+*INV2:	oh [<] [>] overlap [<] [>] .
+%mor:	co|oh over#v|lap .
+%gra:	1|2|COM 2|0|ROOT 3|2|PUNCT
+%int:	lengthened
+*INV1:	that's a great story .
+%mor:	pro:dem|that~cop|be&3S det|a adj|great n|story .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|DET 4|5|MOD 5|2|PRED 6|2|PUNCT
+*INV1:	<(i)s that> [>] your favorite story (.) ?
+%mor:	cop|be&3S rel|that pro:poss:det|your adj|favorite n|story ?
+%gra:	1|0|ROOT 2|5|LINK 3|5|MOD 4|5|MOD 5|1|PRED 6|1|PUNCT
+*INV2:	I <love that one> [<] .
+%mor:	pro:sub|I v|love det|that pro:indef|one .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*INV2:	<I love it> [<] .
+%mor:	pro:sub|I v|love pro|it .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*INV1:	yeah ?
+%mor:	co|yeah ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV2:	I haven't heard that in so long (.) .
+%mor:	pro:sub|I aux|have~neg|not part|hear&PASTP adv|that adv|in adv|so
+	adj|long .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|JCT 6|4|JCT 7|8|JCT 8|4|JCT
+	9|4|PUNCT
+*SIS:	that was a five .
+%mor:	pro:dem|that cop|be&PAST&13S det|a det:num|five .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+%sit:	Sis and a friend are playing a game . they can be heard throughout the book reading
+*INV2:	www .
+*INV1:	www (.) .
+*INV1:	did to go to Sierra Nevada ?
+%mor:	v|do&PAST inf|to v|go prep|to n:prop|Sierra n:prop|Nevada ?
+%gra:	1|0|ROOT 2|3|INF 3|1|XCOMP 4|3|JCT 5|4|POBJ 6|5|APP 7|1|PUNCT
+*INV1:	on your sh(irt) ?
+%mor:	prep|on pro:poss:det|your n|shirt ?
+%gra:	1|0|INCROOT 2|3|MOD 3|1|POBJ 4|1|PUNCT
+*INV1:	did you get that shirt there (.) ?
+%mor:	mod|do&PAST pro|you v|get det|that n|shirt adv|there ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|5|NJCT 7|3|PUNCT
+*INV1:	did someone bring that home for you ?
+%mor:	v|do&PAST pro:indef|someone v|bring adv|that n|home prep|for
+	pro|you ?
+%gra:	1|0|ROOT 2|3|SUBJ 3|1|COMP 4|3|JCT 5|3|JCT 6|3|JCT 7|6|POBJ 8|1|PUNCT
+*INV1:	you don't want to talk to me ?
+%mor:	pro|you mod|do~neg|not v|want inf|to v|talk prep|to pro:obj|me ?
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|6|INF 6|4|XCOMP 7|6|JCT 8|7|POBJ
+	9|4|PUNCT
+%par:	mock whining
+*INV1:	zzz [>] .
+%mor:	co|zzz .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%par:	laughs
+*INV2:	zzz [<] (.) .
+%mor:	co|zzz .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%par:	chuckles
+*INV1:	got a little smile .
+%mor:	v|get&PAST det|a adj|little n|smile .
+%gra:	1|0|ROOT 2|4|DET 3|4|MOD 4|1|OBJ 5|1|PUNCT
+%add:	INV2
+*INV2:	yeah (.) .
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV2:	have you been playing all day ?
+%mor:	v|have pro|you aux|be&PASTP part|play-PRESP qn|all n|day ?
+%gra:	1|0|ROOT 2|4|SUBJ 3|4|AUX 4|1|OBJ 5|6|QUANT 6|4|OBJ 7|1|PUNCT
+*INV2:	you're kind of tired out huh ?
+%mor:	pro|you~aux|be&PRES n|kind prep|of v|tire-PAST prep|out co|huh ?
+%gra:	1|3|SUBJ 2|3|AUX 3|0|INCROOT 4|3|NJCT 5|4|POBJ 6|3|JCT 7|6|POBJ
+	8|3|PUNCT
+*INV1:	<just not> [>] used to people coming in and doing this stuff .
+%mor:	adv|just neg|not part|use-PASTP prep|to n|person&PL part|come-PRESP
+	adv|in coord|and part|do-PRESP det|this n|stuff .
+%gra:	1|3|JCT 2|1|NEG 3|0|ROOT 4|3|JCT 5|4|POBJ 6|3|XJCT 7|3|JCT 8|3|CONJ
+	9|8|COORD 10|11|DET 11|9|OBJ 12|3|PUNCT
+*INV2:	xxx [<] .
+*INV2:	I'll bet he has lots_of toys and things (.) .
+%mor:	pro:sub|I~mod|will v|bet&ZERO pro:sub|he v|have&3S qn|lots_of
+	n|toy-PL coord|and n|thing-PL .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|SUBJ 5|3|COMP 6|7|QUANT 7|5|OBJ 8|7|CONJ
+	9|8|COORD 10|3|PUNCT
+*CHI:	0 .
+%act:	CHI stands by his chair and does not respond
+*INV1:	is that yours ?
+%mor:	cop|be&3S pro:dem|that pro:poss|yours ?
+%gra:	1|0|ROOT 2|3|JCT 3|1|PRED 4|1|PUNCT
+%add:	CHI
+*MOT:	I don't know where The Three Pigs is Chi .
+%mor:	pro:sub|I mod|do~neg|not v|know adv:wh|where n:prop|The
+	n:prop|Three n:prop|Pigs cop|be&3S n:prop|Chi .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|9|LINK 6|9|SUBJ 7|9|SUBJ 8|9|SUBJ
+	9|4|COMP 10|9|PRED 11|4|PUNCT
+%par:	<10> said laughingly
+*MOT:	but here's a good book you like you want me to read this one to you ?
+%mor:	conj|but pro:exist|here~cop|be&3S det|a adj|good n|book pro|you
+	v|like pro|you v|want pro:obj|me inf|to v|read&ZERO det|this
+	pro:indef|one prep|to pro|you ?
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|6|DET 5|6|MOD 6|3|PRED 7|8|SUBJ 8|6|XMOD
+	9|10|SUBJ 10|8|COMP 11|10|OBJ 12|13|INF 13|10|XCOMP 14|15|DET 15|13|OBJ
+	16|15|NJCT 17|16|POBJ 18|3|PUNCT
+*INV1:	Little Toy Train ?
+%mor:	n:prop|Little n:prop|Toy n:prop|Train ?
+%gra:	1|0|INCROOT 2|1|APP 3|2|APP 4|1|PUNCT
+*MOT:	Little Toy Train yep .
+%mor:	n:prop|Little n:prop|Toy n:prop|Train co|yep .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|COM 5|3|PUNCT
+*MOT:	want me to read this to him ?
+%mor:	v|want pro:obj|me inf|to v|read&ZERO det|this prep|to pro:obj|him ?
+%gra:	1|0|ROOT 2|1|OBJ 3|4|INF 4|1|XCOMP 5|4|OBJ 6|5|JCT 7|6|POBJ 8|1|PUNCT
+*INV1:	that's fine .
+%mor:	pro:dem|that~cop|be&3S adj|fine .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*MOT:	zzz .
+%mor:	co|zzz .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%par:	laughs
+@Activities:	Book Reading 2 Little Toy Train
+*MOT:	Little Toy Train .
+%mor:	n:prop|Little n:prop|Toy n:prop|Train .
+%gra:	1|0|INCROOT 2|1|APP 3|2|APP 4|1|PUNCT
+*MOT:	Little Toy Train was a freight train .
+%mor:	n:prop|Little n:prop|Toy n:prop|Train cop|be&PAST&13S det|a
+	n|freight n|train .
+%gra:	1|4|SUBJ 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|7|DET 6|7|MOD 7|4|PRED 8|4|PUNCT
+*MOT:	he had a shiny engine (.) three box cars (.) a coal car (.) and a bright red caboose .
+%mor:	pro:sub|he v|have&PAST det|a adj|shine&dn-Y n|engine det:num|three
+	n|box n|car-PL det|a n|coal n|car coord|and det|a adj|bright n|red
+	n|caboose .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|DET 4|5|MOD 5|2|OBJ 6|7|QUANT 7|8|MOD 8|5|XMOD
+	9|11|DET 10|11|MOD 11|8|OBJ 12|11|CONJ 13|16|DET 14|15|MOD 15|16|MOD
+	16|12|COORD 17|2|PUNCT
+*MOT:	whenever he sped around his track in one corner of the play room he called out gaily (.) chugchug@o chugchug@o his bell tinkled merrily as he raced over the familiar route (.) .
+%mor:	adv:wh|whenever pro:sub|he v|speed&PAST prep|around
+	pro:poss:det|his n|track prep|in det:num|one n|corner prep|of
+	det|the n|play n|room pro:sub|he v|call-PAST adv|out adv|gaily
+	on|chugchug on|chugchug pro:poss:det|his n|bell v|tinkle-PAST
+	adv|merry&dadj-LY prep|as pro:sub|he v|race-PAST prep|over det|the
+	adj|familiar n|route .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|MOD 6|4|POBJ 7|3|JCT 8|9|QUANT
+	9|7|POBJ 10|9|NJCT 11|13|DET 12|13|MOD 13|10|POBJ 14|15|SUBJ 15|3|COMP
+	16|15|JCT 17|22|JCT 18|22|SUBJ 19|22|JCT 20|21|MOD 21|22|SUBJ 22|15|COMP
+	23|22|JCT 24|26|JCT 25|26|SUBJ 26|22|CJCT 27|26|JCT 28|30|DET 29|30|MOD
+	30|27|POBJ 31|3|PUNCT
+*MOT:	first [!] there was a tiny village <with its> [/] with its train station and stores its houses and church .
+%mor:	n|first adv|there cop|be&PAST&13S det|a adj|tiny n|village
+	prep|with pro:poss:det|its n|train n|station coord|and v|store-3S
+	pro:poss:det|its n|house-PL coord|and n|church .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|6|DET 5|6|MOD 6|3|PRED 7|6|NJCT 8|9|MOD
+	9|10|MOD 10|7|POBJ 11|6|CONJ 12|11|COORD 13|14|MOD 14|12|OBJ 15|14|CONJ
+	16|15|COORD 17|3|PUNCT
+*MOT:	then there was a high hill that he chugged up ever so slowly (.) but whizzed down lickety@o split@o .
+%mor:	adv:tem|then pro:exist|there cop|be&PAST&13S det|a n|high n|hill
+	rel|that pro:sub|he v|chug-PAST adv|up adv|ever co|so
+	adv|slow&dadj-LY conj|but v|whiz-PAST prep|down on|lickety on|split
+	.
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|6|DET 5|6|MOD 6|3|PRED 7|9|LINK 8|9|SUBJ
+	9|6|CMOD 10|9|JCT 11|9|JCT 12|15|COM 13|15|JCT 14|15|LINK 15|9|COMP
+	16|15|JCT 17|18|MOD 18|16|POBJ 19|3|PUNCT
+*MOT:	next was the long dark mountain tunnel and the trestle bridge (.) which spanned the glassy <blue sky> [//] blue lake .
+%mor:	adv|next aux|be&PAST&13S det|the adj|long adj|dark n|mountain
+	n|tunnel coord|and det|the n|trestle n|bridge rel|which v|span-PAST
+	det|the adj|glass&dn-Y adj|blue n|lake .
+%gra:	1|2|JCT 2|0|ROOT 3|7|DET 4|6|MOD 5|6|MOD 6|7|MOD 7|2|OBJ 8|7|CONJ
+	9|11|DET 10|11|MOD 11|8|COORD 12|13|LINK 13|11|CMOD 14|17|DET 15|17|MOD
+	16|17|MOD 17|13|OBJ 18|2|PUNCT
+*MOT:	and he was back at the village station (.) .
+%mor:	conj|and pro:sub|he aux|be&PAST&13S adv|back prep|at det|the
+	n|village n|station .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|JCT 6|8|DET 7|8|MOD 8|5|POBJ
+	9|3|PUNCT
+*MOT:	one day after many trips around the track Little Toy Train said sadly it's always the same .
+%mor:	det:num|one n|day prep|after qn|many n|trip-PL prep|around det|the
+	n|track n:prop|Little n:prop|Toy n:prop|Train v|say&PAST
+	adv|sad&dadj-LY pro|it~cop|be&3S adv|always det|the adj|same .
+%gra:	1|2|QUANT 2|0|INCROOT 3|2|NJCT 4|5|QUANT 5|3|POBJ 6|5|NJCT 7|8|DET
+	8|6|POBJ 9|12|SUBJ 10|12|JCT 11|12|SUBJ 12|2|XJCT 13|12|JCT 14|15|SUBJ
+	15|12|COMP 16|15|JCT 17|18|DET 18|15|PRED 19|2|PUNCT
+*MOT:	every time I chug up the hill (.) I whiz down it .
+%mor:	qn|every n|time pro:sub|I v|chug prep|up det|the n|hill pro:sub|I
+	v|whiz adv|down pro|it .
+%gra:	1|2|QUANT 2|4|LINK 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ 8|9|SUBJ
+	9|4|COMP 10|9|JCT 11|9|OBJ 12|4|PUNCT
+*MOT:	every time I whiz down the hill I go through the tunnel .
+%mor:	qn|every n|time pro:sub|I v|whiz adv|down det|the n|hill pro:sub|I
+	v|go adj|through det|the n|tunnel .
+%gra:	1|2|QUANT 2|4|LINK 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|7|DET 7|4|OBJ 8|9|SUBJ
+	9|7|XMOD 10|9|JCT 11|12|DET 12|10|OBJ 13|4|PUNCT
+*MOT:	every time I come out of the tunnel I cross the bridge .
+%mor:	qn|every n|time pro:sub|I v|come adv|out prep|of det|the n|tunnel
+	pro:sub|I v|cross det|the n|bridge .
+%gra:	1|2|QUANT 2|4|LINK 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|4|JCT 7|8|DET 8|6|POBJ
+	9|10|SUBJ 10|4|COMP 11|12|DET 12|10|OBJ 13|4|PUNCT
+*MOT:	then I'm here again at the station .
+%mor:	adv:tem|then pro:sub|I~cop|be&1S adv|here adv|again prep|at det|the
+	n|station .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|JCT 6|3|JCT 7|8|DET 8|6|POBJ
+	9|3|PUNCT
+*MOT:	I wish I could do something different (.) just once .
+%mor:	pro:sub|I v|wish pro:sub|I mod|could v|do pro:indef|something
+	adj|different adv|just adv|once .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|SUBJ 4|5|AUX 5|2|COMP 6|5|OBJ 7|5|JCT 8|7|JCT
+	9|7|JCT 10|2|PUNCT
+*MOT:	his wish did not come true (.) at least not then .
+%mor:	pro:poss:det|his n|wish mod|do&PAST neg|not v|come adv|true prep|at
+	n|least neg|not adv:tem|then .
+%gra:	1|2|MOD 2|5|SUBJ 3|5|AUX 4|3|NEG 5|0|ROOT 6|5|JCT 7|5|JCT 8|10|MOD
+	9|8|NEG 10|7|POBJ 11|5|PUNCT
+*MOT:	one night however (.) when everything was quiet Little Toy Train discovered that someone had taken him off the track (.) and had forgotten to put him back .
+%mor:	det:num|one n|night adv|however conj|when pro:indef|everything
+	cop|be&PAST&13S adj|quiet n:prop|Little n:prop|Toy n:prop|Train
+	v|discover-PAST rel|that pro:indef|someone aux|have&PAST
+	part|take&PASTP pro:obj|him prep|off det|the n|track conj|and
+	v|have&PAST part|forget&PASTP inf|to v|put&ZERO pro:obj|him adv|back
+	.
+%gra:	1|2|QUANT 2|6|SUBJ 3|6|JCT 4|6|LINK 5|6|SUBJ 6|0|ROOT 7|6|PRED
+	8|11|SUBJ 9|11|JCT 10|11|SUBJ 11|6|CJCT 12|15|LINK 13|15|SUBJ 14|15|AUX
+	15|11|COMP 16|15|OBJ 17|15|JCT 18|19|DET 19|17|POBJ 20|22|LINK 21|22|AUX
+	22|15|CJCT 23|24|INF 24|22|XCOMP 25|24|OBJ 26|24|JCT 27|6|PUNCT
+*MOT:	moonlight glistened through the windows (.) so he could see his village .
+%mor:	n|moonlight v|glisten-PAST prep|through det|the n|window-PL conj|so
+	pro:sub|he mod|could v|see pro:poss:det|his n|village .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|5|DET 5|3|POBJ 6|9|LINK 7|9|SUBJ 8|9|AUX
+	9|2|CJCT 10|11|MOD 11|9|OBJ 12|2|PUNCT
+*MOT:	but he did not know how to get there .
+%mor:	conj|but pro:sub|he mod|do&PAST neg|not v|know adv:wh|how inf|to
+	v|get adv|there .
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|3|NEG 5|0|ROOT 6|5|OBJ 7|8|INF 8|6|XCOMP
+	9|8|JCT 10|5|PUNCT
+*MOT:	he tried to move .
+%mor:	pro:sub|he v|try-PAST inf|to v|move .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|INF 4|2|XCOMP 5|2|PUNCT
+*MOT:	chugchug@o chugchug@o he said slowly .
+%mor:	on|chugchug on|chugchug pro:sub|he v|say&PAST adv|slow&dadj-LY .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|4|PUNCT
+*MOT:	then he said it faster .
+%mor:	adv:tem|then pro:sub|he v|say&PAST pro|it adj|fast-CP .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|JCT 6|3|PUNCT
+*MOT:	chugchug@o chugchug@o .
+%mor:	on|chugchug on|chugchug .
+%gra:	1|0|INCROOT 2|1|PUNCT 3|1|PUNCT
+*MOT:	Little Toy Train began to move .
+%mor:	n:prop|Little n:prop|Toy n:prop|Train v|begin&PAST prep|to n|move .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|5|POBJ 7|4|PUNCT
+*MOT:	his silvery wheels went round and round .
+%mor:	pro:poss:det|his adj|silver-Y n|wheel-PL v|go&PAST adv|round
+	coord|and adv|round .
+%gra:	1|3|MOD 2|3|MOD 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|4|CONJ 7|6|COORD 8|4|PUNCT
+*MOT:	his headlight blinked on [/] on and off like a firefly .
+%mor:	pro:poss:det|his n|headlight v|blink-PAST adv|on coord|and prep|off
+	prep|like det|a n|+n|fire+n|fly .
+%gra:	1|2|MOD 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|CONJ 6|5|COORD 7|6|POBJ 8|9|DET
+	9|7|POBJ 10|3|PUNCT
+*MOT:	his bell tinkled merrily .
+%mor:	pro:poss:det|his n|bell v|tinkle-PAST adv|merry&dadj-LY .
+%gra:	1|2|MOD 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|PUNCT
+*MOT:	I can move without my track [!] (.) he said happily .
+%mor:	pro:sub|I mod|can v|move prep|without pro:poss:det|my n|track
+	pro:sub|he v|say&PAST adv|happy&dadj-LY .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|6|MOD 6|4|POBJ 7|8|SUBJ 8|3|COMP
+	9|8|JCT 10|3|PUNCT
+*MOT:	how can I do something different ?
+%mor:	adv:wh|how mod|can pro:sub|I v|do pro:indef|something adj|different
+	?
+%gra:	1|4|LINK 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|4|JCT 7|4|PUNCT
+*MOT:	no .
+%mor:	co|no .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	now [!] I can do something different .
+%mor:	adv|now pro:sub|I mod|can v|do pro:indef|something adj|different .
+%gra:	1|4|JCT 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|4|JCT 7|4|PUNCT
+%par:	said laughingly
+*MOT:	chugchug@o chugchug@o he said as he went round the wheel [//] wheels of the tricycle .
+%mor:	on|chugchug on|chugchug pro:sub|he v|say&PAST prep|as pro:sub|he
+	v|go&PAST adv|round det|the n|wheel-PL prep|of det|the n|tricycle .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|7|JCT 6|7|SUBJ 7|4|COMP 8|7|JCT
+	9|10|DET 10|7|OBJ 11|10|NJCT 12|13|DET 13|11|POBJ 14|4|PUNCT
+*MOT:	suddenly his light went off .
+%mor:	adv|sudden&dadj-LY pro:poss:det|his n|light v|go&PAST adv|off .
+%gra:	1|4|JCT 2|3|MOD 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|4|PUNCT
+*MOT:	and he bumped into something soft (.) .
+%mor:	conj|and pro:sub|he v|bump-PAST prep|into pro:indef|something
+	adv|soft .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|4|POBJ 6|5|NJCT 7|3|PUNCT
+*MOT:	ouch !
+%mor:	co|ouch !
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	someone cried .
+%mor:	pro:indef|someone v|cry-PAST .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*MOT:	do look where you are going Little Toy Train .
+%mor:	mod|do co|look rel|where pro|you aux|be&PRES part|go-PRESP
+	n:prop|Little n:prop|Toy n:prop|Train .
+%gra:	1|6|AUX 2|6|COM 3|6|LINK 4|6|SUBJ 5|6|AUX 6|0|ROOT 7|6|OBJ 8|7|APP
+	9|8|APP 10|6|PUNCT
+*MOT:	Little Toy Train's headlight blinked on again .
+%mor:	n:prop|Little n:prop|Toy n:prop|Train~poss|s n|headlight
+	v|blink-PAST adv|on adv|again .
+%gra:	1|6|LINK 2|6|SUBJ 3|6|JCT 4|3|POSS 5|6|SUBJ 6|0|ROOT 7|6|JCT 8|6|JCT
+	9|6|PUNCT
+*MOT:	he saw that he had bumped into Teddy Bear .
+%mor:	pro:sub|he v|see&PAST rel|that pro:sub|he aux|have&PAST
+	part|bump-PASTP prep|into n:prop|Teddy n:prop|Bear .
+%gra:	1|2|SUBJ 2|0|ROOT 3|6|LINK 4|6|SUBJ 5|6|AUX 6|2|COMP 7|6|JCT 8|7|POBJ
+	9|8|APP 10|2|PUNCT
+*MOT:	I'm sorry .
+%mor:	pro:sub|I~cop|be&1S adj|sorry .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*MOT:	I'm so sorry he said .
+%mor:	pro:sub|I~aux|be&1S co|so co|sorry pro:sub|he v|say&PAST .
+%gra:	1|3|SUBJ 2|3|AUX 3|6|COM 4|3|COM 5|6|SUBJ 6|0|ROOT 7|6|PUNCT
+*MOT:	my light doesn't work well when I'm off my track doing something different .
+%mor:	pro:poss:det|my n|light mod|do&3S~neg|not v|work adv|well conj|when
+	pro:sub|I~cop|be&1S prep|off pro:poss:det|my n|track part|do-PRESP
+	pro:indef|something adj|different .
+%gra:	1|2|MOD 2|5|SUBJ 3|5|AUX 4|3|NEG 5|0|ROOT 6|5|JCT 7|9|LINK 8|9|SUBJ
+	9|5|CJCT 10|9|JCT 11|12|MOD 12|10|POBJ 13|9|XJCT 14|13|OBJ 15|14|PRED
+	16|5|PUNCT
+*MOT:	please excuse me .
+%mor:	co|please v|excuse pro:obj|me .
+%gra:	1|2|COM 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*MOT:	that's alright said Teddy Bear .
+%mor:	pro:dem|that~cop|be&3S adj|alright v|say&PAST n:prop|Teddy
+	n:prop|Bear .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PRED 5|4|OBJ 6|5|APP 7|2|PUNCT
+*MOT:	you didn't really hurt me .
+%mor:	pro|you mod|do&PAST~neg|not adv|real&dadj-LY v|hurt&ZERO pro:obj|me
+	.
+%gra:	1|5|SUBJ 2|5|AUX 3|2|NEG 4|5|JCT 5|0|ROOT 6|5|OBJ 7|5|PUNCT
+*MOT:	have fun Little Toy Train .
+%mor:	v|have n|fun n:prop|Little n:prop|Toy n:prop|Train .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|OBJ 4|3|APP 5|4|APP 6|1|PUNCT
+*MOT:	Little Toy Train <&a> [//] chugged along in front of Teddy Bear and the other toys sitting beside him (.) .
+%mor:	n:prop|Little n:prop|Toy n:prop|Train v|chug-PAST adv|along prep|in
+	n|front prep|of n:prop|Teddy n:prop|Bear coord|and det|the qn|other
+	n|toy-PL part|sit-PRESP prep|beside pro:obj|him .
+%gra:	1|4|SUBJ 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|4|JCT 7|6|POBJ 8|7|NJCT
+	9|8|POBJ 10|9|OBJ 11|10|CONJ 12|14|DET 13|14|QUANT 14|11|COORD 15|14|XMOD
+	16|15|JCT 17|16|POBJ 18|4|PUNCT
+*MOT:	Baby Doll Rocking Horse (.) Furry Kitten Cowboy and Plush Dog .
+%mor:	n:prop|Baby n:prop|Doll n:prop|Rocking n:prop|Horse n:prop|Furry
+	n:prop|Kitten n:prop|Cowboy coord|and n:prop|Plush n:prop|Dog .
+%gra:	1|0|INCROOT 2|1|APP 3|2|APP 4|2|APP 5|4|APP 6|5|APP 7|6|APP 8|6|CONJ
+	9|8|COORD 10|9|APP 11|1|PUNCT
+*MOT:	all [//] they all smiled at (.) him@q .
+%mor:	pro:sub|they post|all v|smile-PAST prep|at meta|him .
+%gra:	1|3|SUBJ 2|1|PQ 3|0|ROOT 4|3|JCT 5|4|POBJ 6|3|PUNCT
+*MOT:	Chi are you listening to the story ?
+%mor:	n:prop|Chi aux|be&PRES pro|you part|listen-PRESP prep|to det|the
+	n|story ?
+%gra:	1|4|SUBJ 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ 8|4|PUNCT
+*CHI:	0 .
+%act:	CHI nods , smiles shyly , and nuzzles mother
+*MOT:	zzz .
+%mor:	co|zzz .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%par:	laughs
+*MOT:	you seem to be having <a lot of> [//] lots_of fun (.) Little Toy Train said Cowboy .
+%mor:	pro|you v|seem inf|to aux|be part|have-PRESP qn|lots_of n|fun
+	n:prop|Little n:prop|Toy n:prop|Train v|say&PAST n:prop|Cowboy .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|INF 4|5|AUX 5|2|XCOMP 6|7|QUANT 7|5|OBJ 8|11|SUBJ
+	9|11|JCT 10|11|SUBJ 11|5|ROOT 12|11|OBJ 13|11|PUNCT
+*MOT:	indeed I am he said .
+%mor:	co|indeed pro:sub|I cop|be&1S pro:sub|he v|say&PAST .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|5|SUBJ 5|3|PRED 6|3|PUNCT
+*MOT:	<I'm s(omething)> [//] I'm doing something different .
+%mor:	pro:sub|I~aux|be&1S part|do-PRESP pro:indef|something adj|different
+	.
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|3|JCT 6|3|PUNCT
+*MOT:	how about giving me a ride (.) ?
+%mor:	adv:wh|how adv|about part|give-PRESP pro:obj|me det|a n|ride ?
+%gra:	1|3|LINK 2|3|JCT 3|0|ROOT 4|3|OBJ 5|6|DET 6|3|OBJ 7|3|PUNCT
+*MOT:	asked Cowboy .
+%mor:	part|ask-PASTP n:prop|Cowboy .
+%gra:	1|0|INCROOT 2|1|OBJ 3|1|PUNCT
+*MOT:	I'll sit on top of your caboose and pretend I'm riding a horse .
+%mor:	pro:sub|I~mod|will v|sit prep|on n|top prep|of pro:poss:det|your
+	n|caboose coord|and v|pretend pro:sub|I~aux|be&1S part|ride-PRESP
+	det|a n|horse .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|4|POBJ 6|5|NJCT 7|8|MOD 8|6|POBJ
+	9|3|CONJ 10|9|COORD 11|13|SUBJ 12|13|AUX 13|10|COMP 14|15|DET 15|13|OBJ
+	16|3|PUNCT
+*MOT:	<go a(head)> [//] go right ahead said Little Toy Train .
+%mor:	v|go adv|right adv|ahead v|say&PAST n:prop|Little n:prop|Toy
+	n:prop|Train .
+%gra:	1|0|ROOT 2|1|JCT 3|4|JCT 4|1|COMP 5|4|OBJ 6|5|APP 7|6|APP 8|1|PUNCT
+*MOT:	with Cowboy on his caboose Little Toy Train raced across the floor .
+%mor:	prep|with n:prop|Cowboy prep|on pro:poss:det|his n|caboose
+	n:prop|Little n:prop|Toy n:prop|Train v|race-PAST prep|across
+	det|the n|floor .
+%gra:	1|0|INCROOT 2|1|POBJ 3|2|JCT 4|5|MOD 5|3|POBJ 6|9|SUBJ 7|9|JCT 8|9|SUBJ
+	9|2|XJCT 10|9|JCT 11|12|DET 12|10|POBJ 13|1|PUNCT
+*MOT:	suddenly there was a big [!] round object right in front of him (.) a red rubber ball .
+%mor:	adv|sudden&dadj-LY adv|there cop|be&PAST&13S det|a adj|big
+	adj|round n|object adv|right prep|in n|front prep|of pro:obj|him
+	det|a n|red n|rubber n|ball .
+%gra:	1|2|JCT 2|3|JCT 3|0|ROOT 4|7|DET 5|7|MOD 6|7|MOD 7|3|PRED 8|7|NJCT
+	9|7|NJCT 10|9|POBJ 11|10|NJCT 12|11|POBJ 13|16|DET 14|16|MOD 15|16|MOD
+	16|12|OBJ 17|3|PUNCT
+*MOT:	<he knew w(ould)> [//] he +...
+%mor:	pro:sub|he +...
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	xxx .
+%par:	sotto voce
+*INV1:	zzz .
+%mor:	co|zzz .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%par:	chuckles
+*MOT:	he knew he would never (.) be able to stop in time to avoid an accident .
+%mor:	pro:sub|he v|know&PAST pro:sub|he mod|will&COND adv|never cop|be
+	adj|able inf|to v|stop prep|in n|time inf|to v|avoid det|a
+	n|accident .
+%gra:	1|2|SUBJ 2|0|ROOT 3|6|SUBJ 4|6|AUX 5|6|JCT 6|2|COMP 7|6|PRED 8|9|INF
+	9|7|XCOMP 10|9|JCT 11|10|POBJ 12|13|INF 13|9|XCOMP 14|15|DET 15|13|OBJ
+	16|2|PUNCT
+*MOT:	but when he crashed into the ball a very funny thing happened .
+%mor:	conj|but conj|when pro:sub|he v|crash-PAST prep|into det|the n|ball
+	det|a adv|very adj|fun&dn-Y n|thing v|happen-PAST .
+%gra:	1|4|LINK 2|4|LINK 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|7|DET 7|12|SUBJ 8|9|DET
+	9|12|JCT 10|11|MOD 11|12|SUBJ 12|5|POBJ 13|4|PUNCT
+*MOT:	the ball just rolled away .
+%mor:	det|the n|ball adv|just v|roll-PAST adv|away .
+%gra:	1|2|DET 2|4|SUBJ 3|4|JCT 4|0|ROOT 5|4|JCT 6|4|PUNCT
+*MOT:	it was so funny that Little Toy Train did it again and again .
+%mor:	pro|it cop|be&PAST&13S adv|so adj|fun&dn-Y rel|that n:prop|Little
+	n:prop|Toy n:prop|Train mod|do&PAST pro|it adv|again coord|and
+	adv|again .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|2|PRED 5|6|LINK 6|4|CMOD 7|10|JCT 8|10|SUBJ
+	9|10|AUX 10|6|OBJ 11|10|JCT 12|10|CONJ 13|12|COORD 14|2|PUNCT
+*MOT:	this is more fun than <bronco bu(sting)> [//] bronco busting exclaimed Cowboy .
+%mor:	pro:dem|this cop|be&3S qn|more n|fun prep|than n|bronco
+	n:gerund|bust-PRESP part|exclaim-PASTP n:prop|Cowboy .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|QUANT 4|2|PRED 5|4|NJCT 6|5|POBJ 7|6|XMOD 8|7|JCT
+	9|8|OBJ 10|2|PUNCT
+*MOT:	when Little Toy Train rammed into the ball again Cowboy laughed so hard he fell off the caboose .
+%mor:	conj|when n:prop|Little n:prop|Toy n:prop|Train v|ram-PAST
+	prep|into det|the n|ball adv|again n:prop|Cowboy v|laugh-PAST adv|so
+	adv|hard pro:sub|he v|fall&PAST prep|off det|the n|caboose .
+%gra:	1|2|LINK 2|5|SUBJ 3|5|JCT 4|5|SUBJ 5|0|ROOT 6|5|JCT 7|8|DET 8|6|POBJ
+	9|5|JCT 10|11|SUBJ 11|5|COMP 12|11|JCT 13|11|JCT 14|15|SUBJ 15|5|CJCT
+	16|15|JCT 17|18|DET 18|16|POBJ 19|5|PUNCT
+*MOT:	he decided that he had enough riding so Little Toy Train went on alone .
+%mor:	pro:sub|he v|decide-PAST rel|that pro:sub|he aux|have&PAST
+	adj|enough n:gerund|ride-PRESP adv|so n:prop|Little n:prop|Toy
+	n:prop|Train v|go&PAST adv|on adv|alone .
+%gra:	1|2|SUBJ 2|0|ROOT 3|6|LINK 4|6|SUBJ 5|6|AUX 6|2|COMP 7|12|JCT 8|7|JCT
+	9|12|SUBJ 10|12|JCT 11|12|SUBJ 12|6|COMP 13|12|JCT 14|12|JCT 15|2|PUNCT
+*MOT:	he chugged past some toy soldiers and a drum past a doll house and an airplane .
+%mor:	pro:sub|he v|chug-PAST adj|past qn|some n|toy n|soldier-PL
+	coord|and det|a n|drum adj|past det|a n|doll n|house coord|and det|a
+	n|airplane .
+%gra:	1|2|SUBJ 2|0|ROOT 3|6|MOD 4|5|QUANT 5|6|MOD 6|2|OBJ 7|6|CONJ 8|9|DET
+	9|7|COORD 10|9|XMOD 11|13|DET 12|13|MOD 13|10|OBJ 14|13|CONJ 15|16|DET
+	16|14|COORD 17|2|PUNCT
+*MOT:	he was enjoying himself so much he did not realize his headlight was out again .
+%mor:	pro:sub|he aux|be&PAST&13S part|enjoy-PRESP pro:refl|himself adv|so
+	qn|much pro:sub|he mod|do&PAST neg|not v|realize pro:poss:det|his
+	n|headlight cop|be&PAST&13S adv|out adv|again .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|3|JCT 6|10|QUANT 7|10|SUBJ 8|10|AUX
+	9|8|NEG 10|3|CJCT 11|12|MOD 12|13|SUBJ 13|10|COMP 14|13|JCT 15|14|JCT
+	16|3|PUNCT
+*MOT:	he did not realize it until he discovered he could see nothing at all .
+%mor:	pro:sub|he mod|do&PAST neg|not v|realize pro|it prep|until
+	pro:sub|he v|discover-PAST pro:sub|he mod|could v|see
+	pro:indef|nothing prep|at pro:indef|all .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|OBJ 6|4|JCT 7|8|SUBJ 8|6|POBJ
+	9|11|SUBJ 10|11|AUX 11|4|COMP 12|11|OBJ 13|11|JCT 14|13|POBJ 15|4|PUNCT
+*MOT:	even the moonlight was gone .
+%mor:	v|even det|the n|moonlight aux|be&PAST&13S part|go&PASTP .
+%gra:	1|0|ROOT 2|3|DET 3|5|SUBJ 4|5|AUX 5|1|COMP 6|1|PUNCT
+*MOT:	he had zoomed into a toy tent .
+%mor:	pro:sub|he aux|have&PAST part|zoom-PASTP prep|into det|a n|toy
+	n|tent .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|7|DET 6|7|MOD 7|4|POBJ 8|3|PUNCT
+*MOT:	I'm lost he said .
+%mor:	pro:sub|I~aux|be&1S part|lose&PASTP pro:sub|he v|say&PAST .
+%gra:	1|3|SUBJ 2|3|AUX 3|5|LINK 4|5|SUBJ 5|0|ROOT 6|5|PUNCT
+*MOT:	<he won't> [//] he went round and round trying to find a way out .
+%mor:	pro:sub|he v|go&PAST adv|round coord|and adv|round part|try-PRESP
+	inf|to v|find det|a n|way adv|out .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|2|CONJ 5|6|JCT 6|4|COORD 7|8|INF 8|6|XCOMP
+	9|10|DET 10|8|OBJ 11|8|JCT 12|2|PUNCT
+*MOT:	but without a light it was impossible to see anything .
+%mor:	conj|but prep|without det|a n|light pro|it cop|be&PAST&13S
+	adj|impossible inf|to v|see pro:indef|anything .
+%gra:	1|6|LINK 2|1|JCT 3|4|DET 4|2|POBJ 5|6|SUBJ 6|0|ROOT 7|6|PRED 8|9|INF
+	9|6|XCOMP 10|9|OBJ 11|6|PUNCT
+*MOT:	help [!] !
+%mor:	co|help !
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	help [!] !
+%mor:	co|help !
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	he called .
+%mor:	pro:sub|he v|call-PAST .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*MOT:	something rubbed against him .
+%mor:	pro:indef|something v|rub-PAST prep|against pro:obj|him .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|3|POBJ 5|2|PUNCT
+*MOT:	it frightened him .
+%mor:	pro|it v|frighten-PAST pro:obj|him .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*MOT:	help [!] !
+%mor:	co|help !
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	help [!] !
+%mor:	co|help !
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	he called again .
+%mor:	pro:sub|he v|call-PAST adv|again .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|2|PUNCT
+*MOT:	don't be scared Little Toy Train .
+%mor:	mod|do~neg|not aux|be part|scare-PASTP n:prop|Little n:prop|Toy
+	n:prop|Train .
+%gra:	1|3|AUX 2|1|NEG 3|4|AUX 4|0|ROOT 5|4|OBJ 6|5|APP 7|6|APP 8|4|PUNCT
+*MOT:	I'm Furry Kitten .
+%mor:	pro:sub|I~aux|be&1S n:prop|Furry n:prop|Kitten .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|APP 5|3|PUNCT
+*MOT:	with my green eyes I can see in the dark .
+%mor:	prep|with pro:poss:det|my n|green n|eye-PL pro:sub|I mod|can v|see
+	prep|in det|the n|dark .
+%gra:	1|7|JCT 2|3|MOD 3|4|MOD 4|1|POBJ 5|7|SUBJ 6|7|AUX 7|0|ROOT 8|7|JCT
+	9|10|DET 10|8|POBJ 11|7|PUNCT
+*MOT:	I'll help you .
+%mor:	pro:sub|I~mod|will v|help pro|you .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*MOT:	let me hook my tail in your cow catcher and I'll pull you out (.) .
+%mor:	v|let&ZERO pro:obj|me v|hook pro:poss:det|my n|tail prep|in
+	pro:poss:det|your n|cow n|catch&dv-AGT conj|and pro:sub|I~mod|will
+	v|pull pro|you adv|out .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|COMP 4|5|MOD 5|3|OBJ 6|3|JCT 7|8|MOD 8|9|MOD
+	9|6|POBJ 10|13|LINK 11|13|SUBJ 12|13|AUX 13|3|CJCT 14|13|OBJ 15|13|JCT
+	16|1|PUNCT
+*MOT:	and sure enough Furry Kitten did exactly that .
+%mor:	coord|and v|sure adv|enough n:prop|Furry n:prop|Kitten v|do&PAST
+	ex#adj|act&dn-LY rel|that .
+%gra:	1|2|LINK 2|0|ROOT 3|2|JCT 4|2|JCT 5|6|SUBJ 6|4|ROOT 7|6|OBJ 8|7|INCROOT
+	9|8|PUNCT
+*MOT:	he pulled Little Toy Train back to the very spot where his night's adventure had started .
+%mor:	pro:sub|he v|pull-PAST n:prop|Little n:prop|Toy n:prop|Train
+	adv|back prep|to det|the adv|very n|spot rel|where pro:poss:det|his
+	n|night~poss|s n|adventure aux|have&PAST part|start-PASTP .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|OBJ 5|4|APP 6|5|JCT 7|5|JCT 8|10|DET
+	9|10|JCT 10|7|POBJ 11|17|LINK 12|13|MOD 13|17|JCT 14|13|POSS 15|17|SUBJ
+	16|17|AUX 17|10|CMOD 18|2|PUNCT
+*MOT:	later that day after someone had put him back on his track Little Toy Train again chugged up and down the hill (.) through the tunnel across the bridge and through the village to the station .
+%mor:	adv|later det|that n|day prep|after pro:indef|someone v|have&PAST
+	v|put&ZERO pro:obj|him adv|back prep|on pro:poss:det|his n|track
+	n:prop|Little n:prop|Toy n:prop|Train adv|again part|chug-PASTP
+	adv|up coord|and prep|down det|the n|hill adj|through det|the
+	n|tunnel prep|across det|the n|bridge coord|and prep|through det|the
+	n|village prep|to det|the n|station .
+%gra:	1|7|JCT 2|3|DET 3|7|SUBJ 4|3|NJCT 5|4|POBJ 6|7|AUX 7|0|ROOT 8|7|OBJ
+	9|7|JCT 10|7|JCT 11|12|MOD 12|10|POBJ 13|7|OBJ 14|17|SUBJ 15|17|AUX
+	16|17|JCT 17|13|XMOD 18|17|JCT 19|17|CONJ 20|19|COORD 21|22|DET 22|20|POBJ
+	23|20|POBJ 24|25|DET 25|23|OBJ 26|25|NJCT 27|28|DET 28|26|POBJ 29|23|CONJ
+	30|29|COORD 31|32|DET 32|30|POBJ 33|32|NJCT 34|35|DET 35|33|POBJ
+	36|7|PUNCT
+*MOT:	now his bell tinkled more merrily and its chugchugchugchug@o sounded happier than it ever did before .
+%mor:	adv|now pro:poss:det|his n|bell v|tinkle-PAST adv|more
+	adv|merry&dadj-LY coord|and pro:poss:det|its on|chugchugchugchug
+	part|sound-PASTP adj|happy-CP prep|than pro|it adv|ever v|do&PAST
+	adv|before .
+%gra:	1|4|JCT 2|3|MOD 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|4|JCT 7|4|CONJ 8|9|MOD
+	9|7|COORD 10|9|XMOD 11|10|JCT 12|11|JCT 13|12|POBJ 14|15|JCT 15|11|XJCT
+	16|15|JCT 17|4|PUNCT
+*MOT:	Little Toy Train had had his wish come true .
+%mor:	n:prop|Little n:prop|Toy n:prop|Train aux|have&PAST part|have&PASTP
+	pro:poss:det|his n|wish v|come adv|true .
+%gra:	1|2|SUBJ 2|5|LINK 3|5|SUBJ 4|5|AUX 5|8|LINK 6|7|MOD 7|8|SUBJ 8|0|ROOT
+	9|8|JCT 10|8|PUNCT
+*MOT:	he had done something different (.) .
+%mor:	pro:sub|he aux|have&PAST part|do&PASTP pro:indef|something
+	adj|different .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|3|JCT 6|3|PUNCT
+*MOT:	that's the end .
+%mor:	pro:dem|that~cop|be&3S det|the n|end .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+*INV1:	what a good story .
+%mor:	pro:wh|what det|a adj|good n|story .
+%gra:	1|4|LINK 2|4|DET 3|4|MOD 4|0|INCROOT 5|4|PUNCT
+*INV1:	<you like that one> [>] (.) ?
+%mor:	pro|you prep|like det|that pro:indef|one ?
+%gra:	1|0|INCROOT 2|1|JCT 3|4|DET 4|2|POBJ 5|1|PUNCT
+*INV2:	that <is great> [<] .
+%mor:	rel|that cop|be&3S adj|great .
+%gra:	1|2|LINK 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*INV1:	yeah ?
+%mor:	co|yeah ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV1:	well the next thing is supposed to be him telling me about something but I don't <think that's gonna work right away> [>] .
+%mor:	co|well det|the adj|next n|thing aux|be&3S part|suppose-PASTP
+	inf|to cop|be pro:obj|him part|tell-PRESP pro:obj|me prep|about
+	pro:indef|something conj|but pro:sub|I mod|do~neg|not v|think
+	pro:dem|that~aux|be&3S part|go-PRESP~inf|to n|work adv|right
+	adv|away .
+%gra:	1|6|COM 2|4|DET 3|4|MOD 4|6|SUBJ 5|6|AUX 6|10|SUBJ 7|8|INF 8|10|AUX
+	9|10|AUX 10|0|ROOT 11|10|OBJ 12|10|JCT 13|12|POBJ 14|18|LINK 15|18|SUBJ
+	16|18|AUX 17|16|NEG 18|10|CJCT 19|21|SUBJ 20|21|AUX 21|18|COMP 22|23|INF
+	23|21|XCOMP 24|23|NJCT 25|23|JCT 26|10|PUNCT
+%par:	said laughingly
+*MOT:	<he's not in the mood either he didn't> [<] listen to the book .
+%mor:	pro:sub|he~aux|be&3S neg|not prep|in det|the n|mood conj|either
+	pro:sub|he mod|do&PAST~neg|not v|listen prep|to det|the n|book .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|NEG 4|2|JCT 5|6|DET 6|4|POBJ 7|11|LINK 8|11|SUBJ
+	9|11|AUX 10|9|NEG 11|2|CJCT 12|11|JCT 13|14|DET 14|12|POBJ 15|2|PUNCT
+*MOT:	usually I mean <I'll> [/] I'll be reading a sentence and he asks me a question (.) constantly through the whole book .
+%mor:	adv|usual&dadj-LY pro:sub|I v|mean pro:sub|I~mod|will aux|be
+	part|read-PRESP det|a n|sentence coord|and pro:sub|he v|ask-3S
+	pro:obj|me det|a n|question adv|constant&dadj-LY prep|through
+	det|the n|whole n|book .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|7|SUBJ 5|7|AUX 6|7|AUX 7|3|COMP 8|9|DET
+	9|7|OBJ 10|12|LINK 11|12|SUBJ 12|7|CJCT 13|12|OBJ 14|15|DET 15|12|OBJ
+	16|15|NJCT 17|15|NJCT 18|20|DET 19|20|MOD 20|17|POBJ 21|3|PUNCT
+%par:	<18-22> said laughingly
+@Comment:	Time is 9:50
+@Eg:	bookreading
+@End

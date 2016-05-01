@@ -1,0 +1,22 @@
+@UTF8
+@PID:	11312/c-00010880-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child
+@ID:	eng|Braunwald|CHI|02;04.04|female|||Target_Child|||
+@Date:	24-JUN-1973
+*CHI:	my shoes will get wet .
+%mor:	pro:poss:det|my n|shoe-PL mod|will aux|get part|wet&PASTP .
+%gra:	1|2|MOD 2|5|SUBJ 3|5|AUX 4|5|AUX 5|0|ROOT 6|5|PUNCT
+%sit:	171
+*CHI:	I don't care my shoes get wet .
+%mor:	pro:sub|I mod|do~neg|not v|care pro:poss:det|my n|shoe-PL v|get
+	part|wet&PASTP .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|6|MOD 6|7|SUBJ 7|4|COMP 8|7|JCT
+	9|4|PUNCT
+%sit:	171
+*CHI:	I don't care .
+%mor:	pro:sub|I mod|do~neg|not v|care .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|PUNCT
+%sit:	171
+@End

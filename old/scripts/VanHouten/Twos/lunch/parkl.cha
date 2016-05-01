@@ -1,0 +1,77 @@
+@UTF8
+@PID:	11312/c-00017729-1
+@Begin
+@Languages:	eng
+@Participants:	MOT Paula Mother , CHI Matthew Target_Child
+@ID:	eng|VanHouten|CHI|2;4.|male|typical||Target_Child|||
+@ID:	eng|VanHouten|MOT|||||Mother|||
+@Comment:	Education of MOT is 3
+@Situation:	Lunch. Child sits in high chair at table. Mother works in kitchen , then sits down to eat with Child. Child does not talk.
+@Comment:	Age Group of MOT Older
+*MOT:	is it good ?
+%mor:	aux|be&3S pro|it adj|good ?
+%gra:	1|0|INCROOT 2|1|OBJ 3|2|XMOD 4|1|PUNCT
+%sit:	sits down to eat .
+%cod:	$MLU=3 $NMV=1 $Ini $Rfi
+*MOT:	huh ?
+%mor:	co|huh ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$MLU=0 $NMV=0 $Con $Rfi
+*MOT:	you like that ?
+%mor:	pro|you prep|like pro:dem|that ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|POBJ 4|2|PUNCT
+%cod:	$MLU=3 $NMV=1 $Con $Rfi
+*CHI:	0 .
+%cod:	$Nul
+*MOT:	myumm [: numnum] .
+%mor:	n|+on|num+on|num .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$MLU=0 $NMV=0 $Ini $Rep
+*MOT:	Mommy's having some too .
+%mor:	n:prop|Mommy~aux|be&3S part|have-PRESP pro:indef|some post|too .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|4|PQ 6|3|PUNCT
+%cod:	$MLU=5 $NMV=1 $Con $Rep
+*MOT:	see (.) dunking the bread .
+%mor:	v|see n:gerund|dunk-PRESP det|the n|bread .
+%gra:	1|0|ROOT 2|1|OBJ 3|4|DET 4|2|OBJ 5|1|PUNCT
+%cod:	$MLU=4 $NMV=2 $Ini $Rep
+*MOT:	myumm [: numnum] .
+%mor:	n|+on|num+on|num .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$MLU=0 $NMV=0 $Con $Rep
+*CHI:	0 .
+%sit:	tries to dunk bread .
+*MOT:	wait a sec .
+%mor:	v|wait det|a n|second .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+%cod:	$MLU=3 $NMV=1 $Rta $C/R
+*MOT:	here (.) I'll break the bread for you .
+%mor:	adv|here pro:sub|I~mod|will v|break det|the n|bread prep|for
+	pro|you .
+%gra:	1|4|JCT 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|DET 6|4|OBJ 7|6|NJCT 8|7|POBJ
+	9|4|PUNCT
+%cod:	$MLU=8 $NMV=1 $Con $Rep
+*MOT:	okay ?
+%mor:	co|okay ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=0 $Con $Rep
+*MOT:	that's better .
+%mor:	pro:dem|that~aux|be&3S adj|good&CP .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|PUNCT
+%cod:	$MLU=3 $NMV=1 $Con $Rep
+*CHI:	0 .
+%sit:	eats food .
+*MOT:	good ?
+%mor:	adj|good ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=0 $Rta $Rfi
+*MOT:	chew it .
+%mor:	v|chew pro|it .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+%sit:	makes pronounced chewing motions .
+%cod:	$MLU=2 $NMV=1 $Ini $C/R
+*MOT:	myumm [: numnum] .
+%mor:	n|+on|num+on|num .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$MLU=0 $NMV=0 $Con $Rep
+@End

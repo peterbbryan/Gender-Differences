@@ -1,0 +1,657 @@
+@UTF8
+@PID:	11312/c-00015399-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Gia Target_Child , MOT Mother , LOI Lois Investigator
+@ID:	eng|Bloom70|CHI|2;6.|female|||Target_Child|||
+@ID:	eng|Bloom70|MOT|||||Mother|||
+@ID:	eng|Bloom70|LOI|||||Investigator|||
+@G:	Action
+*CHI:	Uncle Paul a record .
+%mor:	n:prop|Uncle n:prop|Paul det|a n|record .
+%gra:	1|0|INCROOT 2|1|APP 3|4|DET 4|2|OBJ 5|1|PUNCT
+%sit:	Gia runs into living room with musical television that her uncle had brought for her
+*CHI:	you read this book .
+%mor:	pro|you v|read&ZERO det|this n|book .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*CHI:	I read this book .
+%mor:	pro:sub|I v|read&ZERO det|this n|book .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+%sit:	<1w> Gia takes book from toy bag and giving it to Lois <5w> Gia taking another book from bag
+*MOT:	what happened to the book ?
+%mor:	pro:wh|what v|happen-PAST prep|to det|the n|book ?
+%gra:	1|2|LINK 2|0|ROOT 3|2|JCT 4|5|DET 5|3|POBJ 6|2|PUNCT
+*CHI:	a tore it .
+%mor:	det|a v|tear&PAST pro|it .
+%gra:	1|2|DET 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+%sit:	Gia points to piece of scotch tape on book
+*CHI:	I'm open door .
+%mor:	pro:sub|I~cop|be&1S adj|open n|door .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|MOD 4|2|PRED 5|2|PUNCT
+%sit:	Mommy is ready to leave , Gia running to door , opens door
+*CHI:	man a ride this truck .
+%mor:	n|man det|a v|ride det|this n|truck .
+%gra:	1|0|INCROOT 2|3|DET 3|1|CMOD 4|5|DET 5|3|OBJ 6|1|PUNCT
+%sit:	Gia putting man in car
+*CHI:	I make a tunnel .
+%mor:	pro:sub|I v|make det|a n|tunnel .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+%sit:	Gia opens up book which she and Lois use as a tunnel , puts opened book on end
+*CHI:	Lois help Gia ?
+%mor:	n:prop|Lois n|help n:prop|Gia ?
+%gra:	1|2|SUBJ 2|0|INCROOT 3|2|APP 4|2|PUNCT
+%sit:	Gia tries to connect two train cars , can't
+*CHI:	bump my train .
+%mor:	v|bump pro:poss:det|my n|train .
+%gra:	1|0|ROOT 2|3|MOD 3|1|OBJ 4|1|PUNCT
+%sit:	Gia and Lois push train , it buckles and comes apart .
+*CHI:	read a book .
+%mor:	v|read&ZERO det|a n|book .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+*CHI:	a man a read a book ?
+%mor:	det|a n|man det|a v|read&ZERO det|a n|book ?
+%gra:	1|2|DET 2|0|INCROOT 3|4|DET 4|2|CMOD 5|6|DET 6|4|OBJ 7|2|PUNCT
+%sit:	Gia going toward "Animal" book , picking up bendable man on the way
+*CHI:	I ride my bike .
+%mor:	pro:sub|I v|ride pro:poss:det|my n|bike .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|MOD 4|2|OBJ 5|2|PUNCT
+%sit:	Gia running to bedroom , pulls her bike out and gets on it .
+@G:	Action and Place
+*LOI:	shall we sit on the sofa and read my book ?
+%mor:	mod|shall pro:sub|we v|sit prep|on det|the n|sofa coord|and
+	v|read&ZERO pro:poss:det|my n|book ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|3|CONJ 8|7|COORD
+	9|10|MOD 10|8|OBJ 11|3|PUNCT
+*CHI:	orange chair a read a book .
+%mor:	adj|orange n|chair det|a v|read&ZERO det|a n|book .
+%gra:	1|2|MOD 2|0|INCROOT 3|4|DET 4|2|CMOD 5|6|DET 6|4|OBJ 7|2|PUNCT
+%sit:	going to orange chair
+*CHI:	I'm draw clip+board .
+%mor:	pro:sub|I~aux|be&1S v|draw n|+n|clip+n|board .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+%sit:	Lois attaches paper to clipboard and puts it on table , Gia draws
+*CHI:	I want (t)a wear outside .
+%mor:	pro:sub|I v|want inf|to v|wear adv|outside .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|INF 4|2|XCOMP 5|4|JCT 6|2|PUNCT
+%sit:	Gia has tried on new jacket , Mommy starts to unbutton it , Gia pulls away
+*CHI:	I want play a Kevin hall .
+%mor:	pro:sub|I v|want v|play det|a n:prop|Kevin n|hall .
+%gra:	1|2|SUBJ 2|3|SUBJ 3|0|ROOT 4|6|DET 5|6|MOD 6|3|OBJ 7|3|PUNCT
+%sit:	Gia hears children shouting in hall
+*CHI:	I write my pan .
+%mor:	pro:sub|I v|write pro:poss:det|my n|pan .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|MOD 4|2|OBJ 5|2|PUNCT
+%sit:	scribbles on toy pan
+*CHI:	I'm a write belly .
+%mor:	pro:sub|I~cop|be&1S det|a v|write n|belly .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|4|OBJ 6|2|PUNCT
+%sit:	Gia writes on her stomach
+@G:	Attribution
+*CHI:	take dis [: this] orange chair .
+%mor:	v|take det|this n|orange n|chair .
+%gra:	1|0|ROOT 2|4|DET 3|4|MOD 4|1|OBJ 5|1|PUNCT
+%sit:	Lois is sitting on orange chair ready to read book to Gia , Gia pointing to tape recorder
+*CHI:	I make a new bridge .
+%mor:	pro:sub|I v|make det|a adj|new n|bridge .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|DET 4|5|MOD 5|2|OBJ 6|2|PUNCT
+%sit:	Gia reassembles book "bridge"
+*CHI:	a red one .
+%mor:	det|a n|red pro:indef|one .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+%sit:	putting red disk on slide
+*LOI:	see if the green one's [= disk] in the block .
+%mor:	v|see conj|if det|the adj|green pro:indef|one~aux|be&3S adv|in
+	det|the n|block .
+%gra:	1|0|ROOT 2|9|LINK 3|5|DET 4|5|MOD 5|9|SUBJ 6|9|AUX 7|9|JCT 8|9|DET
+	9|1|OBJ 10|1|PUNCT
+*LOI:	Look in the block .
+%mor:	n:prop|Look prep|in det|the n|block .
+%gra:	1|0|INCROOT 2|1|JCT 3|4|DET 4|2|POBJ 5|1|PUNCT
+*CHI:	dis [: this] block .
+%mor:	det|this n|block .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+%sit:	Gia going to mirror block
+*CHI:	I draw red man .
+%mor:	pro:sub|I v|draw adj|red n|man .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|MOD 4|2|OBJ 5|2|PUNCT
+*CHI:	I drew black man .
+%mor:	pro:sub|I v|draw&PAST n|black n|man .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|MOD 4|2|OBJ 5|2|PUNCT
+%sit:	painting with glack paint
+*CHI:	this a blue one .
+%mor:	det|this det|a n|blue pro:indef|one .
+%gra:	1|3|DET 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+%sit:	putting brush in blue paint
+*CHI:	that too big .
+%mor:	det|that adv|too adj|big .
+%gra:	1|2|DET 2|3|JCT 3|0|ROOT 4|3|PUNCT
+%sit:	painting on big piece of paper on wall
+*CHI:	it's nice and clean .
+%mor:	pro|it~cop|be&3S adj|nice coord|and v|clean .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|CONJ 5|4|COORD 6|2|PUNCT
+%sit:	wipes her hands with washcloth , putting cloth back
+*CHI:	there's a little ball .
+%mor:	pro:exist|there~cop|be&3S det|a adj|little n|ball .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|DET 4|5|MOD 5|2|PRED 6|2|PUNCT
+*CHI:	there's a big ball .
+%mor:	pro:exist|there~cop|be&3S det|a adj|big n|ball .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|DET 4|5|MOD 5|2|PRED 6|2|PUNCT
+%sit:	<1w> pointing to small ball in picture <5w> pointing to big ball in picture
+*CHI:	you draw big pencil .
+%mor:	pro|you v|draw adj|big n|pencil .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|MOD 4|2|OBJ 5|2|PUNCT
+*CHI:	I'm draw little pencil .
+%mor:	pro:sub|I~aux|be&1S v|draw adj|little n|pencil .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|MOD 5|3|OBJ 6|3|PUNCT
+%sit:	gives long pencil to Lois , takes Lois's shorter pencil
+@G:	Dative
+*CHI:	bring Jeffrey book .
+%mor:	v|bring n:prop|Jeffrey n|book .
+%gra:	1|0|ROOT 2|3|MOD 3|1|OBJ 4|1|PUNCT
+%sit:	Gia is pretending that she's going to Jeffrey's house
+*CHI:	lamb a cookie .
+%mor:	n|lamb det|a n|cookie .
+%gra:	1|0|INCROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+%sit:	Gia "feeds" lamb
+@G:	Existence
+*LOI:	that's a slide .
+%mor:	pro:dem|that~cop|be&3S det|a n|slide .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+%sit:	takes slide from toy bag
+*CHI:	a man .
+%mor:	det|a n|man .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+%sit:	taking bendable man from bag
+*CHI:	a book .
+%mor:	det|a n|book .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+%sit:	taking "Animals" book from toy bag
+*CHI:	dis [: this] tank car .
+%mor:	det|this n|tank n|car .
+%gra:	1|3|DET 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+%sit:	holds up tank car
+*CHI:	there's a book .
+%mor:	pro:exist|there~cop|be&3S det|a n|book .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+%sit:	pointing to book on record player cabinet
+*LOI:	what's that ?
+%mor:	pro:wh|what~cop|be&3S pro:dem|that ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+%sit:	pointing to Gia's navel
+*CHI:	a belly button .
+%mor:	det|a n|belly n|button .
+%gra:	1|3|DET 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+%sit:	responds
+*CHI:	dis [: this] a jacket .
+%mor:	det|this det|a n|jacket .
+%gra:	1|3|DET 2|3|DET 3|0|INCROOT 4|3|PUNCT
+%sit:	holding up jacket
+*CHI:	this a byebye boy .
+%mor:	det|this det|a co|byebye n|boy .
+%gra:	1|4|DET 2|4|DET 3|4|MOD 4|0|INCROOT 5|4|PUNCT
+%sit:	looking at picture of father waving goodbye to rest of family
+*CHI:	dis [: this] is lamb .
+%mor:	pro:dem|this cop|be&3S n|lamb .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+%sit:	holding lamb up to lois
+*CHI:	dis [: this] a little girl .
+%mor:	det|this det|a adj|little n|girl .
+%gra:	1|4|DET 2|4|DET 3|4|MOD 4|0|INCROOT 5|4|PUNCT
+%sit:	holding up mommy figure
+@G:	Intention
+*CHI:	I want go my toys .
+%mor:	pro:sub|I v|want v|go pro:poss:det|my n|toy-PL .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|5|MOD 5|3|OBJ 6|2|PUNCT
+%sit:	Lois jus arrived , Gia running intto bedroom
+*CHI:	I want see Kevin .
+%mor:	pro:sub|I v|want v|see n:prop|Kevin .
+%gra:	1|2|SUBJ 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+%sit:	Gia hears children in hallway , runs to door and kicks it
+*CHI:	I want take the bridge away .
+%mor:	pro:sub|I v|want v|take det|the n|bridge adv|away .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|5|DET 5|3|OBJ 6|2|JCT 7|2|PUNCT
+%sit:	pointing to book "bridge"
+*CHI:	I'm draw balloon .
+%mor:	pro:sub|I~aux|be&1S v|draw n|balloon .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+%sit:	Gia and Lois are painting , Lois reaches for brush , Gia pulls it back . Gia paints
+*CHI:	I want (t)a push Gia .
+%mor:	pro:sub|I v|want inf|to v|push n:prop|Gia .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|INF 4|2|XCOMP 5|4|OBJ 6|2|PUNCT
+%sit:	Gia is sitting on train , Lois pushes it , stops , Gia tries to move train herself
+*CHI:	I want (t)a read it .
+%mor:	pro:sub|I v|want inf|to v|read&ZERO pro|it .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|INF 4|2|XCOMP 5|4|OBJ 6|2|PUNCT
+%sit:	<aft> then opens it
+*CHI:	I want draw paper .
+%mor:	pro:sub|I v|want v|draw n|paper .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|COMP 4|3|OBJ 5|2|PUNCT
+%sit:	Lois had taken pencil from Gia because she had drawn on the counter
+*CHI:	I want sit a bench .
+%mor:	pro:sub|I v|want v|sit det|a n|bench .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|5|DET 5|3|OBJ 6|2|PUNCT
+%sit:	Lois is sitting on bench , Gia tries to get on
+*CHI:	I want wear it .
+%mor:	pro:sub|I v|want v|wear pro|it .
+%gra:	1|2|SUBJ 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+%sit:	<aft> tries to put it on
+*CHI:	I want go door see my mommy .
+%mor:	pro:sub|I v|want v|go n|door v|see pro:poss:det|my n|mommy .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|5|SUBJ 5|3|COMP 6|7|MOD 7|5|OBJ 8|2|PUNCT
+%sit:	Gia hears a knock at the door , running to door
+@G:	Instrument
+*CHI:	I write the pencil .
+%mor:	pro:sub|I v|write det|the n|pencil .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+%sit:	Gia holding pencil up
+*CHI:	you Lois draw balloon pencil .
+%mor:	pro|you n:prop|Lois v|draw n|balloon n|pencil .
+%gra:	1|3|SUBJ 2|3|SUBJ 3|0|ROOT 4|5|MOD 5|3|OBJ 6|3|PUNCT
+%sit:	Lois takes pencil from Gia , but Gia takes it back
+@G:	Locative
+*CHI:	man go .
+%mor:	n|man v|go .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+%sit:	Gia putting car driver in truck
+*CHI:	Mommy go byebye ?
+%mor:	n:prop|Mommy v|go co|byebye ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|COM 4|2|PUNCT
+%sit:	mommy puts on her coat
+*CHI:	dis [: this] go here .
+%mor:	det|this v|go adv|here .
+%gra:	1|2|DET 2|0|ROOT 3|2|JCT 4|2|PUNCT
+%sit:	Gia trying to fit train cars together
+*CHI:	sit over dere [: there] .
+%mor:	v|sit prep|over pro:dem|there .
+%gra:	1|0|ROOT 2|1|JCT 3|2|POBJ 4|1|PUNCT
+*CHI:	man sit over dere [: there] .
+%mor:	n|man v|sit prep|over pro:dem|there .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|3|POBJ 5|2|PUNCT
+%sit:	Gia sets man on train , while attaching another car to train , man falls and she replaces man on train
+*CHI:	man go on bridge .
+%mor:	n|man v|go prep|on n|bridge .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|3|POBJ 5|2|PUNCT
+%sit:	taking man and car to bridge
+*CHI:	I fell down .
+%mor:	pro:sub|I v|fall&PAST adv|down .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|2|PUNCT
+%sit:	rides her bike , falls
+*CHI:	stand a wow+wow .
+%mor:	v|stand det|a n|+on|wow+on|wow .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+%sit:	stands on large toy dog
+*CHI:	I'm a sit tank car .
+%mor:	pro:sub|I~cop|be&1S det|a v|sit n|tank n|car .
+%gra:	1|2|SUBJ 2|0|ROOT 3|6|DET 4|6|MOD 5|6|MOD 6|2|PRED 7|2|PUNCT
+%sit:	straddles toy train , sitting on it .
+*CHI:	Lois sit a couch read a book ?
+%mor:	n:prop|Lois v|sit det|a n|couch v|read&ZERO det|a n|book ?
+%gra:	1|2|SUBJ 2|5|LINK 3|4|DET 4|5|SUBJ 5|0|ROOT 6|7|DET 7|5|OBJ 8|5|PUNCT
+%sit:	Lois goes over to couch , Gia sits on couch with book
+*CHI:	I want go outside .
+%mor:	pro:sub|I v|want v|go adv|outside .
+%gra:	1|2|SUBJ 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|PUNCT
+%sit:	Gia pointing out window
+@G:	Locative State
+*LOI:	where's the man ?
+%mor:	adv:wh|where~cop|be&3S det|the n|man ?
+%gra:	1|2|LINK 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+%sit:	<bef> Gia pushes car and driver under book tunnel , man falls under tunnel
+*CHI:	man a under tunnel .
+%mor:	n|man det|a prep|under n|tunnel .
+%gra:	1|0|INCROOT 2|5|DET 3|2|JCT 4|3|POBJ 5|1|PUNCT
+%sit:	responding
+*LOI:	where's the car ?
+%mor:	adv:wh|where~cop|be&3S det|the n|car ?
+%gra:	1|2|LINK 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+%sit:	<bef> Gia pushes car under bridge , it falls onto car
+*CHI:	here under bridge .
+%mor:	adv|here prep|under n|bridge .
+%gra:	1|0|INCROOT 2|1|JCT 3|2|POBJ 4|1|PUNCT
+%sit:	pointing to car
+*CHI:	here dump car .
+%mor:	adv|here n|dump n|car .
+%gra:	1|3|JCT 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+%sit:	looks for dump car and finds it
+*CHI:	my cookies .
+%mor:	pro:poss:det|my n|cookie-PL .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*CHI:	my cookie down there .
+%mor:	pro:poss:det|my n|cookie adv|down adv|there .
+%gra:	1|2|MOD 2|0|INCROOT 3|4|JCT 4|2|JCT 5|2|PUNCT
+%sit:	goes to get bottle which is on window ledge next to piece of cookie
+*CHI:	a somebody down there .
+%mor:	det|a pro:indef|somebody adv|down adv|there .
+%gra:	1|2|DET 2|0|ROOT 3|4|JCT 4|2|JCT 5|2|PUNCT
+%sit:	pointing out window
+*CHI:	sofa sit .
+%mor:	n|sofa v|sit .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*CHI:	you sit .
+%mor:	pro|you v|sit .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*CHI:	you a sit couch .
+%mor:	pro|you det|a v|sit n|couch .
+%gra:	1|3|SUBJ 2|3|DET 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+%sit:	Gia and Lois are sitting on couch , Gia drinking here bottle
+*CHI:	down there Doria .
+%mor:	prep|down adv|there n:prop|Doria .
+%gra:	1|0|INCROOT 2|3|JCT 3|1|POBJ 4|1|PUNCT
+%sit:	Gia looking out window at children on play+ground
+*CHI:	here a dolly .
+%mor:	adv|here det|a n|doll-DIM .
+%gra:	1|3|JCT 2|3|DET 3|0|INCROOT 4|3|PUNCT
+%sit:	pointing to doll she put on couch
+*CHI:	paper in there .
+%mor:	n|paper prep|in pro:dem|there .
+%gra:	1|0|INCROOT 2|1|NJCT 3|2|POBJ 4|1|PUNCT
+%sit:	Gia crumpling a plastic+wrapped shirt
+*MOT:	is that heavy ?
+%mor:	cop|be&3S pro:dem|that adj|heavy ?
+%gra:	1|0|ROOT 2|1|PRED 3|2|XMOD 4|1|PUNCT
+*CHI:	yes .
+%mor:	co|yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	is toys in there .
+%mor:	cop|be&3S n|toy-PL prep|in pro:dem|there .
+%gra:	1|0|ROOT 2|1|PRED 3|2|NJCT 4|3|POBJ 5|1|PUNCT
+%sit:	Gia tries to lift toy bag
+@G:	Negation
+*CHI:	all_gone a page .
+%mor:	co|all_gone det|a n|page .
+%gra:	1|3|COM 2|3|DET 3|0|INCROOT 4|3|PUNCT
+%sit:	opens book to last page
+*CHI:	&uh oh missing .
+%mor:	co|oh part|miss-PRESP .
+%gra:	1|2|COM 2|0|ROOT 3|2|PUNCT
+%sit:	pointing to last empty coupling on train
+*LOI:	what's missing ?
+%mor:	rel|what~aux|be&3S part|miss-PRESP ?
+%gra:	1|2|LINK 2|3|AUX 3|0|ROOT 4|3|PUNCT
+*CHI:	missing tank car .
+%mor:	part|miss-PRESP n|tank n|car .
+%gra:	1|3|MOD 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+%sit:	response
+*CHI:	don't break it .
+%mor:	mod|do~neg|not v|break pro|it .
+%gra:	1|3|AUX 2|1|NEG 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+%sit:	trying to wind up mechanical car
+*CHI:	no play matches .
+%mor:	qn|no n|play n|match-PL .
+%gra:	1|2|QUANT 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+%sit:	taking matches from box
+*CHI:	dis [: this] a not wet .
+%mor:	det|this det|a neg|not part|wet&PASTP .
+%gra:	1|4|DET 2|4|DET 3|2|NEG 4|0|ROOT 5|4|PUNCT
+%sit:	runs into bedroom , returning with dry diaper
+*CHI:	can't reach it .
+%mor:	mod|can~neg|not v|reach pro|it .
+%gra:	1|3|AUX 2|1|NEG 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+%sit:	reaching for dish of pretzels , whining
+*CHI:	can't do dit [: this] .
+%mor:	mod|can~neg|not v|do pro:dem|this .
+%gra:	1|3|AUX 2|1|NEG 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+%sit:	tries to put lamb in block , can't
+*LOI:	now can I do it ?
+%mor:	adv|now mod|can pro:sub|I v|do pro|it ?
+%gra:	1|4|JCT 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+%sit:	<bef> Gia puts all figures on form board
+*CHI:	no now I do a dit [: this] .
+%mor:	co|no adv|now pro:sub|I v|do det|a pro:dem|this .
+%gra:	1|4|COM 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+%sit:	Gia taking figures off
+*CHI:	can't do dit [: this] .
+%mor:	mod|can~neg|not v|do pro:dem|this .
+%gra:	1|3|AUX 2|1|NEG 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+%sit:	trying to open bedroom door
+*LOI:	what can't you do ?
+%mor:	pro:wh|what mod|can~neg|not pro|you v|do ?
+%gra:	1|5|LINK 2|5|AUX 3|2|NEG 4|5|SUBJ 5|0|ROOT 6|5|PUNCT
+*CHI:	can't open open door .
+%mor:	mod|can~neg|not v|open adj|open n|door .
+%gra:	1|3|AUX 2|1|NEG 3|0|ROOT 4|5|MOD 5|3|OBJ 6|3|PUNCT
+%sit:	response
+*CHI:	oh oh .
+%mor:	co|oh co|oh .
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+*CHI:	baby missing .
+%mor:	n|baby part|miss-PRESP .
+%gra:	1|0|INCROOT 2|1|XMOD 3|1|PUNCT
+%sit:	pointing to empty space on form board
+@G:	Notice
+*CHI:	o:h look at the rabbit .
+%mor:	co|oh v|look prep|at det|the n|rabbit .
+%gra:	1|2|COM 2|0|ROOT 3|2|JCT 4|5|DET 5|3|POBJ 6|2|PUNCT
+%sit:	pointing to rabbit in a picture
+*CHI:	I hear Kevin !
+%mor:	pro:sub|I v|hear n:prop|Kevin !
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+%sit:	child shouts in the hall outside , Gia listens
+*CHI:	I see my car .
+%mor:	pro:sub|I v|see pro:poss:det|my n|car .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|MOD 4|2|OBJ 5|2|PUNCT
+%sit:	<bef> her painting set falls on floor , Gia bends to retrieve it , sees her toycar and picks it up
+*CHI:	look in there .
+%mor:	v|look prep|in pro:dem|there .
+%gra:	1|0|ROOT 2|1|JCT 3|2|POBJ 4|1|PUNCT
+%sit:	looking into toy bag
+*LOI:	What do you see ?
+%mor:	n:prop|What v|do pro|you v|see ?
+%gra:	1|2|SUBJ 2|4|LINK 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+%sit:	Gia looking out window
+*CHI:	I see Mommy !
+%mor:	pro:sub|I v|see n:prop|Mommy !
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+%sit:	Mommy is walking into building response
+@G:	Location
+*CHI:	under tunnel .
+%mor:	prep|under n|tunnel .
+%gra:	1|0|INCROOT 2|1|POBJ 3|1|PUNCT
+*CHI:	under bridge .
+%mor:	prep|under n|bridge .
+%gra:	1|0|INCROOT 2|1|POBJ 3|1|PUNCT
+%sit:	Gia pushes car into book bridge
+*LOI:	where are the cookies ?
+%mor:	adv:wh|where cop|be&PRES det|the n|cookie-PL ?
+%gra:	1|2|LINK 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+*CHI:	in my kitchen .
+%mor:	prep|in pro:poss:det|my n|kitchen .
+%gra:	1|0|INCROOT 2|3|MOD 3|1|POBJ 4|1|PUNCT
+%sit:	response going into kitchen
+*LOI:	I don't think so .
+%mor:	pro:sub|I mod|do~neg|not v|think co|so .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|COM 6|4|PUNCT
+*LOI:	Where's the engine go ?
+%mor:	n:prop|Where~poss|s det|the n|engine v|go ?
+%gra:	1|5|LINK 2|1|POSS 3|4|DET 4|5|SUBJ 5|0|ROOT 6|5|PUNCT
+%sit:	Gia trying to attach engine to wrong end of train
+*CHI:	down here .
+%mor:	adv|down adv|here .
+%gra:	1|0|INCROOT 2|1|JCT 3|1|PUNCT
+%sit:	taking it to opposite end
+@G:	Possession
+*CHI:	this a mine toy .
+%mor:	det|this det|a n|mine n|toy .
+%gra:	1|4|DET 2|4|DET 3|4|MOD 4|0|INCROOT 5|4|PUNCT
+%sit:	runs into living room carrying musical tv
+*CHI:	dis [: this] a my bike .
+%mor:	det|this det|a pro:poss:det|my n|bike .
+%gra:	1|4|DET 2|4|DET 3|4|MOD 4|0|INCROOT 5|4|PUNCT
+%sit:	sitting on her bike
+*CHI:	dis [: this] a mines .
+%mor:	det|this det|a n|mine-PL .
+%gra:	1|3|DET 2|3|DET 3|0|INCROOT 4|3|PUNCT
+%sit:	pointing to computer printout "Happy Birthday" on wall that her uncle gave her
+*LOI:	would you like to come here and read the book ?
+%mor:	mod|will&COND pro|you v|like inf|to v|come adv|here coord|and
+	v|read&ZERO det|the n|book ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|5|INF 5|3|XCOMP 6|5|JCT 7|5|CONJ 8|7|COORD
+	9|10|DET 10|8|OBJ 11|3|PUNCT
+*CHI:	play my toys .
+%mor:	v|play pro:poss:det|my n|toy-PL .
+%gra:	1|0|ROOT 2|3|MOD 3|1|OBJ 4|1|PUNCT
+*CHI:	play Lois toys .
+%mor:	n|play n:prop|Lois v|toy-3S .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+%sit:	starts toward Lois
+*CHI:	I'm get my bottle .
+%mor:	pro:sub|I~aux|be&1S v|get pro:poss:det|my n|bottle .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|MOD 5|3|OBJ 6|3|PUNCT
+%sit:	Gia climbing off couch , gets bottle
+*LOI:	whose hat is that ?
+%mor:	rel|whose n|hat cop|be&3S pro:dem|that ?
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|3|PUNCT
+%sit:	Lois points to miniature straw hat of Gia's
+*CHI:	Gia hat .
+%mor:	n:prop|Gia n|hat .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+%sit:	response
+*CHI:	dis [: this] a mine .
+%mor:	det|this det|a pro:poss|mine .
+%gra:	1|3|DET 2|3|DET 3|0|INCROOT 4|3|PUNCT
+*CHI:	dis [: this] a my coat .
+%mor:	det|this det|a pro:poss:det|my n|coat .
+%gra:	1|4|DET 2|4|DET 3|4|MOD 4|0|INCROOT 5|4|PUNCT
+%sit:	Mommy takes Gia's spring coat from box
+*CHI:	bye bye .
+%mor:	co|bye co|bye .
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+*CHI:	I'm a go Jeffery house bring a toys .
+%mor:	pro:sub|I~cop|be&1S det|a v|go n:prop|Jeffery n|house v|bring det|a
+	n|toy-PL .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|7|LINK 6|7|SUBJ 7|4|COMP 8|9|DET
+	9|7|OBJ 10|2|PUNCT
+%sit:	Gia pulling toy bagf toward door
+*CHI:	dis [: this] a yours ?
+%mor:	det|this det|a pro:poss|yours ?
+%gra:	1|3|DET 2|3|DET 3|0|INCROOT 4|3|PUNCT
+%sit:	Gia picks up pencil Lois had left in Gia's house the previous day
+*CHI:	dis [: this] a my chair .
+%mor:	det|this det|a pro:poss:det|my n|chair .
+%gra:	1|4|DET 2|4|DET 3|4|MOD 4|0|INCROOT 5|4|PUNCT
+%sit:	Lois is sitting on Gia's chair
+@G:	Recurrence
+*CHI:	this another clown .
+%mor:	det|this qn|another n|clown .
+%gra:	1|3|DET 2|3|QUANT 3|0|INCROOT 4|3|PUNCT
+%sit:	Gia takes clown from tly bag , taking out second clown
+*CHI:	crash .
+%mor:	adj|crash .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	more crash .
+%mor:	qn|more n|crash .
+%gra:	1|2|QUANT 2|0|INCROOT 3|2|PUNCT
+%sit:	Gia riding her bike over toys
+*CHI:	balloon .
+%mor:	n|balloon .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	(a)nother balloon .
+%mor:	qn|another n|balloon .
+%gra:	1|2|QUANT 2|0|INCROOT 3|2|PUNCT
+%sit:	Lois had drawn balloon , Gia scribbles , pointing to scribble
+*CHI:	I'm draw (a)nother balloon .
+%mor:	pro:sub|I~aux|be&1S v|draw qn|another n|balloon .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|QUANT 5|3|OBJ 6|3|PUNCT
+%sit:	Gia starting to scribble again
+*CHI:	again more more bracelet ?
+%mor:	adv|again adv|more qn|more n|bracelet ?
+%gra:	1|4|JCT 2|4|JCT 3|4|QUANT 4|0|INCROOT 5|4|PUNCT
+%sit:	Lois winds beads around Gia's neck , beads become undone
+*CHI:	more go washing machine more ?
+%mor:	adv|more v|go part|wash-PRESP n|machine pro:indef|more ?
+%gra:	1|2|JCT 2|0|ROOT 3|4|MOD 4|2|OBJ 5|4|OBJ 6|2|PUNCT
+%sit:	Lois bounces Gia on her knees , pretending to be washing machine , stops
+*CHI:	I'm a the slide more .
+%mor:	pro:sub|I~cop|be&1S det|a det|the n|slide adv|more .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|DET 4|5|DET 5|2|PRED 6|5|NJCT 7|2|PUNCT
+%sit:	Lois and Gia had played with the slide earlier , Gia pulling slide from bag
+*CHI:	(a)nother lamb cold .
+%mor:	qn|another n|lamb n|cold .
+%gra:	1|2|QUANT 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+%sit:	Gia puts lamb into block because it's cold . picking up second lamb
+*LOI:	let's do it again .
+%mor:	v|let~pro:obj|us v|do pro|it adv|again .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|COMP 4|3|OBJ 5|3|JCT 6|1|PUNCT
+%sit:	Gia completes form board , Lois about to dump figures out , Gia pulls it back
+*CHI:	I'm do it again .
+%mor:	pro:sub|I~aux|be&1S v|do pro|it adv|again .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|3|JCT 6|3|PUNCT
+%sit:	response
+*CHI:	(a)nother arm .
+%mor:	qn|another n|arm .
+%gra:	1|2|QUANT 2|0|INCROOT 3|2|PUNCT
+%sit:	Gia holds out arm for Lois to pinch it , Lois does , Gia giving Lois other arm
+@G:	State
+*CHI:	I want it .
+%mor:	pro:sub|I v|want pro|it .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+%sit:	reaches into laundry cart for her overalls
+*CHI:	I want paper .
+%mor:	pro:sub|I v|want n|paper .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+%sit:	spills milk on floor
+*CHI:	I need it .
+%mor:	pro:sub|I v|need pro|it .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*CHI:	I want need it .
+%mor:	pro:sub|I v|want v|need pro|it .
+%gra:	1|2|SUBJ 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+%sit:	Gia starts to draw on counter , Lois trying to take pencil from Gia
+*CHI:	Lois have train a like dat [: that] .
+%mor:	n:prop|Lois v|have n|train det|a v|like pro:dem|that .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|5|DET 5|2|COMP 6|5|OBJ 7|2|PUNCT
+%sit:	Gia looking at picture of train in book
+*CHI:	I want my book .
+%mor:	pro:sub|I v|want pro:poss:det|my n|book .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|MOD 4|2|OBJ 5|2|PUNCT
+%sit:	Lois opens book , Gia reaching for it
+*CHI:	I want a raincoat .
+%mor:	pro:sub|I v|want det|a n|+n|rain+n|coat .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+%sit:	Mommy putting jacket on Gia
+*CHI:	lamb hungry ?
+%mor:	n|lamb adj|hungry ?
+%gra:	1|0|INCROOT 2|1|XMOD 3|1|PUNCT
+%sit:	holding lamb
+*CHI:	I want a cookie .
+%mor:	pro:sub|I v|want det|a n|cookie .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+%sit:	Lois is in kitchen , Gia runs into kitchen , gets in her highchair
+*CHI:	I want my doll .
+%mor:	pro:sub|I v|want pro:poss:det|my n|doll .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|MOD 4|2|OBJ 5|2|PUNCT
+%sit:	Gia at crib , doll is inside
+@G:	State
+*CHI:	what's a missing dat [: that] ?
+%mor:	adv:wh|what~cop|be&3S det|a mis#v|sing pro:dem|that ?
+%gra:	1|2|LINK 2|0|ROOT 3|4|DET 4|2|PRED 5|4|OBJ 6|2|PUNCT
+%sit:	pointing to empty coupling on train .
+*CHI:	where man go ?
+%mor:	adv:wh|where n|man v|go ?
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+%sit:	looking around for car driver
+*CHI:	what is the baby doing ?
+%mor:	pro:wh|what cop|be&3S det|the n|baby part|do-PRESP ?
+%gra:	1|2|LINK 2|0|ROOT 3|4|DET 4|2|PRED 5|4|XMOD 6|2|PUNCT
+%sit:	Gia and Lois are reading book , picture of baby sleeping
+*CHI:	where bag go ?
+%mor:	rel|where n|bag v|go ?
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+%sit:	looking around
+*CHI:	where hat go ?
+%mor:	adv:wh|where n|hat v|go ?
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+%sit:	Lois takes hat and hides it , Gia is surprised
+*CHI:	what's in a bag ?
+%mor:	pro:wh|what~cop|be&3S prep|in det|a n|bag ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|5|DET 5|3|POBJ 6|2|PUNCT
+%sit:	mommy returns from shopping with several packages , Gia pulls packages
+*CHI:	where wheel go ?
+%mor:	rel|where n|wheel v|go ?
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+%sit:	looking around
+*CHI:	who write it ?
+%mor:	rel|who v|write pro|it ?
+%gra:	1|2|LINK 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+%sit:	pointing to scribble on book
+@End

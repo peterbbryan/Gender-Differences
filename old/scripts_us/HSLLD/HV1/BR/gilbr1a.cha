@@ -1,0 +1,795 @@
+@UTF8
+@PID:	11312/c-00034798-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child , MOT Mother , BAB Brother , EX1 Investigator , EX2 Investigator
+@ID:	eng|HSLLD|CHI|3;9.24|male|||Target_Child|||
+@ID:	eng|HSLLD|MOT|||||Mother|14||
+@ID:	eng|HSLLD|BAB|||||Brother|||
+@ID:	eng|HSLLD|EX1|||||Investigator|||
+@ID:	eng|HSLLD|EX2|||||Investigator|||
+@Birth of CHI:	08-OCT-1984
+@Comment:	SES of Mot is lower
+@Date:	01-AUG-1988
+@Location:	Boston , MA , USA
+@Situation:	Home Visit 1; took place in living room; Mot seated on couch , Chi standing/sitting next to her; evening of a warm summer day
+@Activities:	Book Reading 1 (The Very Hungry Caterpillar)
+@Bg:	bookreading
+*EX1:	&um (.) we'll finish the rest of this later but I brought a book (.) that [>] if you can look at it with Chi +...
+%mor:	pro:sub|we~mod|will v|finish det|the n|rest prep|of det|this
+	adv|later conj|but pro:sub|I v|bring&PAST det|a n|book det|that
+	conj|if pro|you mod|can v|look prep|at pro|it prep|with n:prop|Chi
+	+...
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|DET 5|3|OBJ 6|5|NJCT 7|8|DET 8|6|POBJ
+	9|11|LINK 10|11|SUBJ 11|3|CJCT 12|13|DET 13|11|OBJ 14|15|DET 15|18|LINK
+	16|18|SUBJ 17|18|AUX 18|13|CJCT 19|18|JCT 20|19|POBJ 21|18|JCT 22|21|POBJ
+	23|3|PUNCT
+@Comment:	Time is 025:38 , caregiver interview
+*CHI:	ouch [<] !
+%mor:	co|ouch !
+%gra:	1|0|INCROOT 2|1|PUNCT
+%par:	shouts
+%exp:	has been bouncing around on couch
+*MOT:	alright .
+%mor:	co|alright .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*EX1:	&um (.) just [/] just look at it like you normally would together for (.) ten (.) fifteen minutes .
+%mor:	adv|just v|look prep|at pro|it v|like pro|you adv|normal&dadj-LY
+	mod|will&COND adv|together prep|for det:num|ten det:num|fifteen
+	n|minute-PL .
+%gra:	1|2|JCT 2|0|ROOT 3|2|JCT 4|5|SUBJ 5|3|POBJ 6|8|SUBJ 7|8|JCT 8|2|XJCT
+	9|8|JCT 10|8|JCT 11|13|QUANT 12|13|QUANT 13|10|POBJ 14|2|PUNCT
+*MOT:	okay .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*EX1:	Chi you wan(t) (t)a look at this book with your mom ?
+%mor:	n:prop|Chi pro|you v|want inf|to v|look prep|at det|this n|book
+	prep|with pro:poss:det|your n|mom ?
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|INF 5|3|XCOMP 6|5|JCT 7|8|DET 8|6|POBJ
+	9|8|NJCT 10|11|MOD 11|9|POBJ 12|3|PUNCT
+*CHI:	yeah .
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%gpx:	standing in adjoining dining room
+*EX1:	please ?
+%mor:	co|please ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	yeah .
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%par:	whispered
+%act:	comes and stands next to Mot
+*MOT:	look at that .
+%mor:	v|look prep|at pro:dem|that .
+%gra:	1|0|ROOT 2|1|JCT 3|2|POBJ 4|1|PUNCT
+*MOT:	do you know what it is ?
+%mor:	mod|do pro|you v|know pro:wh|what pro|it cop|be&3S ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|6|OBJ 5|6|SUBJ 6|3|COMP 7|3|PUNCT
+%gpx:	points at book cover
+*CHI:	uhhuh .
+%mor:	co|uhhuh .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%par:	very softly
+*MOT:	what (.) ?
+%mor:	pro:wh|what ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	what is it ?
+%mor:	pro:wh|what aux|be&3S pro|it ?
+%gra:	1|2|OBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*MOT:	do you know ?
+%mor:	mod|do pro|you v|know ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*CHI:	0 .
+%gpx:	shakes head
+*MOT:	caterpillar .
+%mor:	n|caterpillar .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	the book called The_Very_Hungry_Caterpillar .
+%mor:	det|the n|book v|call-PAST n:prop|The_Very_Hungry_Caterpillar .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+%act:	bef turns page
+*CHI:	0 .
+%act:	turns pages
+*MOT:	you [?] skip one .
+%mor:	pro|you v|skip pro:indef|one .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+%act:	turns one page back
+*MOT:	what's that ?
+%mor:	pro:wh|what~cop|be&3S pro:dem|that ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+%gpx:	points at page
+*CHI:	sun .
+%mor:	n|sun .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	yeah (.) it is .
+%mor:	co|yeah pro|it cop|be&3S .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*MOT:	in the light of the moon a little egg lay (.) on a leaf .
+%mor:	prep|in det|the n|light prep|of det|the n|moon det|a adj|little
+	n|egg adj|lay prep|on det|a n|leaf .
+%gra:	1|0|INCROOT 2|3|DET 3|1|POBJ 4|3|NJCT 5|6|DET 6|4|POBJ 7|9|DET 8|9|MOD
+	9|6|CMOD 10|9|XMOD 11|10|JCT 12|13|DET 13|11|POBJ 14|1|PUNCT
+%act:	bef turns page
+*CHI:	0 .
+%act:	starts inspecting dollar bill given to him by his father
+*MOT:	you're not looking !
+%mor:	pro|you~aux|be&PRES neg|not part|look-PRESP !
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|PUNCT
+*MOT:	come on .
+%mor:	v|come adv|on .
+%gra:	1|0|ROOT 2|1|JCT 3|1|PUNCT
+*MOT:	zzz .
+%mor:	co|zzz .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%par:	laughs
+*CHI:	zzz .
+%mor:	co|zzz .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%par:	laughs
+*MOT:	let me have that [= dollar bill] (.) .
+%mor:	v|let&ZERO pro:obj|me v|have pro:dem|that .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|COMP 4|3|OBJ 5|1|PUNCT
+%act:	aft takes dollar bill away and turns page
+*MOT:	what's that ?
+%mor:	pro:wh|what~cop|be&3S pro:dem|that ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+%gpx:	points at page
+%com:	pause for several seconds follows
+*CHI:	a big [!] sun .
+%mor:	det|a adj|big n|sun .
+%gra:	1|3|DET 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+*MOT:	yes .
+%mor:	co|yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	<&s one Sunday> [/] [>] .
+*CHI:	<it [?] have a [/] > [<] .
+%mor:	pro|it v|have .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*MOT:	huh ?
+%mor:	co|huh ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	eyes and nose and mouth .
+%mor:	v|eye-3S coord|and n|nose coord|and n|mouth .
+%gra:	1|0|ROOT 2|1|CONJ 3|2|COORD 4|3|CONJ 5|4|COORD 6|1|PUNCT
+*MOT:	that's right yeah .
+%mor:	pro:dem|that~cop|be&3S adv|right co|yeah .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|2|COM 5|2|PUNCT
+*MOT:	and this is a little caterpillar ?
+%mor:	conj|and pro:dem|this cop|be&3S det|a adj|little n|caterpillar ?
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|6|DET 5|6|MOD 6|3|PRED 7|3|PUNCT
+%gpx:	points at page
+*CHI:	yeah .
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	yeah and one Sunday morning the warm sun came up (.) and pop out of the egg (.) came a tiny and very hungry caterpillar .
+%mor:	co|yeah coord|and det:num|one n:prop|Sunday n|morning det|the
+	adj|warm n|sun v|come&PAST adv|up coord|and n|pop adv|out prep|of
+	det|the n|egg v|come&PAST det|a adj|tiny coord|and adv|very
+	adj|hungry n|caterpillar .
+%gra:	1|0|INCROOT 2|1|CONJ 3|5|QUANT 4|5|MOD 5|2|COORD 6|8|DET 7|8|MOD
+	8|9|SUBJ 9|5|CMOD 10|9|JCT 11|9|CONJ 12|11|COORD 13|17|JCT 14|13|JCT 15|16|DET
+	16|14|POBJ 17|12|CMOD 18|19|DET 19|17|OBJ 20|19|CONJ 21|23|JCT
+	22|23|MOD 23|20|COORD 24|1|PUNCT
+*CHI:	0 .
+%act:	starts climbing couch
+*MOT:	Chi ?
+%mor:	n:prop|Chi ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	what's the matter with you today ?
+%mor:	adv:wh|what~cop|be&3S det|the n|matter prep|with pro|you
+	adv:tem|today ?
+%gra:	1|2|LINK 2|0|ROOT 3|4|DET 4|2|PRED 5|4|NJCT 6|7|SUBJ 7|5|POBJ 8|2|PUNCT
+*MOT:	you're so hyper .
+%mor:	pro|you~aux|be&PRES adv|so adj|hyper .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|JCT 4|2|PRED 5|2|PUNCT
+*MOT:	zzz .
+%mor:	co|zzz .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%par:	laughs
+*CHI:	zzz (.) .
+%mor:	co|zzz .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%par:	laughs
+*CHI:	zzz .
+%mor:	co|zzz .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%par:	burps
+*MOT:	excuse yourself .
+%mor:	v|excuse pro:refl|yourself .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+*CHI:	(ex)cuse me .
+%mor:	v|excuse pro:obj|me .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+*MOT:	yeah .
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	what ?
+%mor:	pro:wh|what ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	bef turns page
+*MOT:	what's that ?
+%mor:	pro:wh|what~cop|be&3S pro:dem|that ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+%gpx:	points at page
+*CHI:	a apples .
+%mor:	det|a n|apple-PL .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*MOT:	yeah .
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%gpx:	aft points at page
+*CHI:	huh ?
+%mor:	co|huh ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	pear [>] !
+%mor:	n|pear !
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	<xxx [/] > [<] .
+*MOT:	yes .
+%mor:	co|yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	and this <one [?] [/] > [>] .
+%mor:	coord|and pro:dem|this .
+%gra:	1|0|INCROOT 2|1|COORD 3|1|PUNCT
+*CHI:	pear [<] (.) .
+%mor:	n|pear .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	what's this ?
+%mor:	pro:wh|what~cop|be&3S pro:dem|this ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+%gpx:	points at page
+*MOT:	looks like a [?] apple .
+%mor:	v|look-3S prep|like det|a n|apple .
+%gra:	1|0|ROOT 2|1|JCT 3|4|DET 4|2|POBJ 5|1|PUNCT
+*CHI:	apple .
+%mor:	n|apple .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	how [?] about this one ?
+%mor:	adv:wh|how prep|about det|this pro:indef|one ?
+%gra:	1|0|INCROOT 2|1|JCT 3|4|DET 4|2|POBJ 5|1|PUNCT
+*CHI:	strawberry .
+%mor:	n|strawberry .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	yeah .
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	strawberry and [>] strawberry and strawberry .
+%mor:	n|strawberry coord|and n|strawberry coord|and n|strawberry .
+%gra:	1|0|INCROOT 2|1|CONJ 3|2|COORD 4|3|CONJ 5|4|COORD 6|1|PUNCT
+%act:	turns pages
+*MOT:	yeah [<] +...
+%mor:	co|yeah +...
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	one two three four five .
+%mor:	det:num|one det:num|two det:num|three det:num|four det:num|five .
+%gra:	1|2|QUANT 2|3|QUANT 3|4|QUANT 4|5|QUANT 5|0|ROOT 6|5|PUNCT
+%gpx:	points
+*MOT:	no (.) four .
+%mor:	co|no det:num|four .
+%gra:	1|2|COM 2|0|ROOT 3|2|PUNCT
+*MOT:	one two three four [>] strawberries .
+%mor:	det:num|one det:num|two det:num|three det:num|four n|strawberry-PL
+	.
+%gra:	1|2|QUANT 2|3|QUANT 3|5|QUANT 4|5|QUANT 5|0|INCROOT 6|5|PUNCT
+*CHI:	&mm [<] .
+*MOT:	okay look at this small caterpillar is gonna <xxx [/]> [>] .
+%mor:	co|okay v|look prep|at det|this adj|small n|caterpillar aux|be&3S
+	part|go-PRESP~inf|to .
+%gra:	1|2|COM 2|0|ROOT 3|2|JCT 4|6|DET 5|6|MOD 6|8|SUBJ 7|8|AUX 8|3|POBJ
+	9|8|OBJ 10|2|PUNCT
+*CHI:	orange [<] !
+%mor:	adj|orange !
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	orange .
+%mor:	adj|orange .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	xxx [>] .
+*MOT:	<no that's> [<] peaches .
+%mor:	co|no pro:dem|that~cop|be&3S n|peach-PL .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|3|PUNCT
+*MOT:	look .
+%mor:	co|look .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	reads text on page silently
+*CHI:	oh (.) .
+%mor:	co|oh .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	no .
+%mor:	co|no .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	one two three four five !
+%mor:	det:num|one det:num|two det:num|three det:num|four det:num|five !
+%gra:	1|2|QUANT 2|3|QUANT 3|4|QUANT 4|5|QUANT 5|0|ROOT 6|5|PUNCT
+*MOT:	it is [!] orange .
+%mor:	pro|it cop|be&3S adj|orange .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*CHI:	what <is [/] > [>] .
+%mor:	pro:wh|what .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	it [<] looked like peaches yeah !
+%mor:	pro|it v|look-PAST prep|like n|peach-PL co|yeah !
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|3|POBJ 5|2|COM 6|2|PUNCT
+%par:	<1u> laughing
+*CHI:	it look like orange !
+%mor:	pro|it v|look prep|like n|orange !
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|3|POBJ 5|2|PUNCT
+%par:	shouts <4> laughs
+*MOT:	it is .
+%mor:	pro|it cop|be&3S .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*MOT:	yeah .
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	what is ?
+%mor:	pro:wh|what cop|be&3S ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+%act:	turns page
+*CHI:	watermelon !
+%mor:	n|+n|water+n|melon !
+%gra:	1|0|INCROOT 2|1|PUNCT
+%gpx:	points (far right side of page)
+*MOT:	that's right [>] .
+%mor:	pro:dem|that~cop|be&3S adv|right .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|2|PUNCT
+*CHI:	hotdog [<] !
+%mor:	n|+adj|hot+n|dog !
+%gra:	1|0|INCROOT 2|1|PUNCT
+%gpx:	points (middle of right hand page)
+*MOT:	yeah .
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	and a cake .
+%mor:	conj|and det|a n|cake .
+%gra:	1|3|LINK 2|3|DET 3|0|INCROOT 4|3|PUNCT
+%gpx:	points
+%com:	CHI has named three items starting from the right side of the right hand page and progressing to the left
+*MOT:	yeah +...
+%mor:	co|yeah +...
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	think that's a pie .
+%mor:	v|think pro:dem|that~cop|be&3S det|a n|pie .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|PRED 6|3|PUNCT
+%act:	reading text
+%par:	very softly , to herself
+*CHI:	what's this ?
+%mor:	pro:wh|what~cop|be&3S pro:dem|this ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+%gpx:	points
+*MOT:	it's a candy .
+%mor:	pro|it~cop|be&3S det|a n|candy .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+*CHI:	candy .
+%mor:	n|candy .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	uhhuh .
+%mor:	co|uhhuh .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	cake .
+%mor:	n|cake .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%gpx:	points
+*MOT:	no (.) .
+%mor:	co|no .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	that's a sausage .
+%mor:	pro:dem|that~cop|be&3S det|a n|sausage .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+%com:	sausage is surrounded by pie on the left and cupcake on the right
+*CHI:	sausage .
+%mor:	n|sausage .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	yeah salami .
+%mor:	co|yeah n|salami .
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+*CHI:	there's my baby I'm talking about [?] .
+%mor:	pro:exist|there~cop|be&3S pro:poss:det|my n|baby
+	pro:sub|I~aux|be&1S part|talk-PRESP adv|about .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|MOD 4|7|JCT 5|7|SUBJ 6|7|AUX 7|2|PRED 8|7|JCT
+	9|2|PUNCT
+%exp:	his baby brother has just come in
+%par:	<6> whispered (if said)
+*EX1:	well hello .
+%mor:	co|well n|hello .
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+*EX1:	how are you ?
+%mor:	adv:wh|how aux|be&PRES pro|you ?
+%gra:	1|0|INCROOT 2|1|INCROOT 3|2|OBJ 4|2|PUNCT
+*EX1:	xxx .
+%add:	BAB
+*EX2:	zzz .
+%mor:	co|zzz .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%par:	laughs
+*EX2:	<where you come from> [>] ?
+%mor:	rel|where pro|you v|come prep|from ?
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|PUNCT
+*BAB:	zzz [<] .
+%mor:	co|zzz .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%par:	makes baby sound
+*EX2:	zzz .
+%mor:	co|zzz .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%par:	laughs
+*MOT:	hi !
+%mor:	co|hi !
+%gra:	1|0|INCROOT 2|1|PUNCT
+%add:	BAB
+*MOT:	zzz .
+%mor:	co|zzz .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%par:	laughs
+*MOT:	(o)kay sit down .
+%mor:	co|okay v|sit adv|down .
+%gra:	1|2|COM 2|0|ROOT 3|2|JCT 4|2|PUNCT
+%par:	CHI
+*CHI:	<I come> [/] I come (.) in my mother house .
+%mor:	pro:sub|I v|come prep|in pro:poss:det|my n|mother n|house .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|5|MOD 5|6|MOD 6|3|POBJ 7|2|PUNCT
+%com:	short pause follows this statement
+*MOT:	okay +...
+%mor:	co|okay +...
+%gra:	1|0|INCROOT 2|1|PUNCT
+%gpx:	turns her attention back to book
+*CHI:	look (.) !
+%mor:	co|look !
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	watermelon .
+%mor:	n|+n|water+n|melon .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%gpx:	points at page
+*MOT:	that's a cupcake .
+%mor:	pro:dem|that~cop|be&3S det|a n|cupcake .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+*MOT:	this one watermelon [?] .
+%mor:	det|this pro:indef|one n|+n|water+n|melon .
+%gra:	1|3|DET 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+%com:	cupcake is just to the left of watermelon
+*CHI:	cupcake ?
+%mor:	n|cupcake ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	uhhuh .
+%mor:	co|uhhuh .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	look .
+%mor:	co|look .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	bef turns page
+%gpx:	points at page
+*MOT:	yeah +...
+%mor:	co|yeah +...
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	&uh (.) that's a tree !
+%mor:	pro:dem|that~cop|be&3S det|a n|tree !
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+%exp:	points
+*MOT:	this [?] xxx .
+%mor:	pro:dem|this .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	and look .
+%mor:	coord|and v|look .
+%gra:	1|2|LINK 2|0|ROOT 3|2|PUNCT
+*MOT:	the caterpillar over there .
+%mor:	det|the n|caterpillar prep|over pro:dem|there .
+%gra:	1|2|DET 2|0|INCROOT 3|2|NJCT 4|3|POBJ 5|2|PUNCT
+%gpx:	points
+*CHI:	yeah .
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	turns page
+*CHI:	and a big [!] callerpillar@c .
+%mor:	conj|and det|a adj|big chi|callerpillar .
+%gra:	1|4|LINK 2|4|DET 3|4|MOD 4|0|ROOT 5|4|PUNCT
+*MOT:	caterpillar .
+%mor:	n|caterpillar .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	not callerpillar@c .
+%mor:	neg|not chi|callerpillar .
+%gra:	1|2|NEG 2|0|INCROOT 3|2|PUNCT
+*CHI:	yes [?] .
+%mor:	co|yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	turns page
+*MOT:	how about this one ?
+%mor:	adv:wh|how prep|about det|this pro:indef|one ?
+%gra:	1|0|INCROOT 2|1|JCT 3|4|DET 4|2|POBJ 5|1|PUNCT
+%gpx:	points
+*MOT:	what is it ?
+%mor:	pro:wh|what aux|be&3S pro|it ?
+%gra:	1|2|OBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*CHI:	a fly .
+%mor:	det|a n|fly .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*MOT:	a butterfly .
+%mor:	det|a n|+n|butter+n|fly .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*CHI:	a butterfly .
+%mor:	det|a n|+n|butter+n|fly .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*CHI:	look like a butterfly .
+%mor:	v|look prep|like det|a n|+n|butter+n|fly .
+%gra:	1|0|ROOT 2|1|JCT 3|4|DET 4|2|POBJ 5|1|PUNCT
+%com:	<4> pause separates 'butter' and 'fly' and stress is on 'fly' as though 'butter' were an adjective
+*MOT:	it is !
+%mor:	pro|it cop|be&3S !
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*MOT:	it is a butterfly .
+%mor:	pro|it cop|be&3S det|a n|+n|butter+n|fly .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+*CHI:	and it [/] it looks like a fly [!] .
+%mor:	conj|and pro|it v|look-3S prep|like det|a n|fly .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|3|PUNCT
+%com:	short pause follows this comment
+*MOT:	and that's the end !
+%mor:	conj|and pro:dem|that~cop|be&3S det|the n|end !
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|PRED 6|3|PUNCT
+%act:	bef turns page
+*MOT:	colors .
+%mor:	n|color-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	a lot of colors .
+%mor:	det|a n|lot prep|of n|color-PL .
+%gra:	1|2|DET 2|0|INCROOT 3|2|NJCT 4|3|POBJ 5|2|PUNCT
+%exp:	inside back of book is very colorful
+*CHI:	huh ?
+%mor:	co|huh ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	the end .
+%mor:	det|the n|end .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+%com:	short pause follows
+*CHI:	read it again .
+%mor:	v|read&ZERO pro|it adv|again .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|JCT 4|1|PUNCT
+*MOT:	<I read &m> [//] I read half of it .
+%mor:	pro:sub|I v|read&ZERO n|half prep|of pro|it .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|3|NJCT 5|4|POBJ 6|2|PUNCT
+*MOT:	I willn't [?] read the whole thing .
+%mor:	pro:sub|I mod|will~neg|not v|read&ZERO det|the n|whole n|thing .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|7|DET 6|7|MOD 7|4|OBJ 8|4|PUNCT
+*MOT:	zzz .
+%mor:	co|zzz .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%par:	laughs
+*CHI:	read it again [>] !
+%mor:	v|read&ZERO pro|it adv|again !
+%gra:	1|0|ROOT 2|1|OBJ 3|1|JCT 4|1|PUNCT
+*MOT:	okay .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	<now I'm gonna> [<] read the whole thing .
+%mor:	adv|now pro:sub|I~aux|be&1S part|go-PRESP~inf|to v|read&ZERO
+	det|the n|whole n|thing .
+%gra:	1|4|JCT 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|INF 6|4|XCOMP 7|9|DET 8|9|MOD
+	9|6|OBJ 10|4|PUNCT
+*MOT:	alright ?
+%mor:	co|alright ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	can we do it over ?
+%mor:	mod|can pro:sub|we v|do pro|it adv|over ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|JCT 6|3|PUNCT
+%add:	EX1
+*EX1:	oh sure !
+%mor:	co|oh adv|sure !
+%gra:	1|2|COM 2|0|ROOT 3|2|PUNCT
+*MOT:	okay .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	zzz .
+%mor:	co|zzz .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%par:	laughs
+*EX1:	hello .
+%mor:	co|hello .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%add:	BAB
+*CHI:	you said don't read this [!] one .
+%mor:	pro|you v|say&PAST mod|do~neg|not v|read&ZERO det|this
+	pro:indef|one .
+%gra:	1|2|SUBJ 2|5|SUBJ 3|5|AUX 4|3|NEG 5|0|ROOT 6|7|DET 7|5|OBJ 8|5|PUNCT
+%act:	bef turns page back
+%exp:	<6> title page
+*MOT:	yeah it's the very hungry caterpillar .
+%mor:	co|yeah pro|it~cop|be&3S det|the adv|very adj|hungry n|caterpillar
+	.
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|7|DET 5|6|JCT 6|7|MOD 7|3|PRED 8|3|PUNCT
+%act:	turns page
+*MOT:	<it's for> [//] .
+%act:	turns page
+*MOT:	the book is for my sister Christa .
+%mor:	det|the n|book cop|be&3S prep|for pro:poss:det|my n|sister
+	n:prop|Christa .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|MOD 6|4|POBJ 7|6|APP 8|3|PUNCT
+*MOT:	in the light of the moon a little egg lay on a leaf .
+%mor:	prep|in det|the n|light prep|of det|the n|moon det|a adj|little
+	n|egg adj|lay prep|on det|a n|leaf .
+%gra:	1|0|INCROOT 2|3|DET 3|1|POBJ 4|3|NJCT 5|6|DET 6|4|POBJ 7|9|DET 8|9|MOD
+	9|6|CMOD 10|9|XMOD 11|10|JCT 12|13|DET 13|11|POBJ 14|1|PUNCT
+%act:	turns page
+*CHI:	and sun and the [?] little .
+%mor:	conj|and n|sun coord|and det|the adj|little .
+%gra:	1|0|INCROOT 2|1|COORD 3|2|CONJ 4|5|DET 5|3|COORD 6|1|PUNCT
+*MOT:	yeah .
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	one <Sunday morning> [/] [>] .
+%mor:	pro:indef|one .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	caterpillar [<] .
+%mor:	n|caterpillar .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	turns around and climbs up couch
+*MOT:	come on Chi !
+%mor:	v|come prep|on n:prop|Chi !
+%gra:	1|0|ROOT 2|1|JCT 3|2|POBJ 4|1|PUNCT
+*MOT:	come on !
+%mor:	v|come adv|on !
+%gra:	1|0|ROOT 2|1|JCT 3|1|PUNCT
+*MOT:	you [//] .
+*MOT:	if you want me to read it you have_to listen .
+%mor:	conj|if pro|you v|want pro:obj|me inf|to v|read&ZERO pro|it pro|you
+	mod:aux|have_to v|listen .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|6|INF 6|3|XCOMP 7|6|OBJ 8|10|SUBJ
+	9|10|AUX 10|6|CJCT 11|3|PUNCT
+*MOT:	you have_to look and listen what I'm saying .
+%mor:	pro|you mod:aux|have_to v|look coord|and v|listen pro:wh|what
+	pro:sub|I~aux|be&1S part|say-PRESP .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|CONJ 5|4|COORD 6|9|LINK 7|9|SUBJ 8|9|AUX
+	9|5|COMP 10|3|PUNCT
+*MOT:	okay ?
+%mor:	co|okay ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	0 .
+%act:	sits back down
+*MOT:	are you looking ?
+%mor:	cop|be&PRES pro|you part|look-PRESP ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*CHI:	xxx look .
+%mor:	co|look .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	yes .
+%mor:	co|yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	okay .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	0 .
+%act:	stands up on couch
+*MOT:	no sit down and look (.) what I'm doing .
+%mor:	co|no v|sit adv|down coord|and v|look pro:wh|what
+	pro:sub|I~aux|be&1S part|do-PRESP .
+%gra:	1|2|COM 2|0|ROOT 3|2|JCT 4|2|CONJ 5|4|COORD 6|9|LINK 7|9|SUBJ 8|9|AUX
+	9|5|COMP 10|2|PUNCT
+*CHI:	0 .
+%act:	sits back down
+*MOT:	okay one Sunday morning (.) the warm sun came up and pop (.) out of the egg (.) came a tiny and very hungry caterpillar .
+%mor:	co|okay pro:indef|one n:prop|Sunday n|morning det|the adj|warm
+	n|sun v|come&PAST adv|up coord|and n|pop adv|out prep|of det|the
+	n|egg v|come&PAST det|a adj|tiny coord|and adv|very adj|hungry
+	n|caterpillar .
+%gra:	1|8|COM 2|8|SUBJ 3|4|MOD 4|8|JCT 5|7|DET 6|7|MOD 7|8|SUBJ 8|0|ROOT
+	9|8|JCT 10|8|CONJ 11|10|COORD 12|16|JCT 13|12|JCT 14|15|DET 15|13|POBJ
+	16|11|CMOD 17|18|DET 18|16|OBJ 19|18|CONJ 20|22|JCT 21|22|MOD 22|19|COORD
+	23|8|PUNCT
+*CHI:	0 .
+%act:	turns several pages
+*MOT:	you said you want me to read it for you .
+%mor:	pro|you v|say&PAST pro|you v|want pro:obj|me inf|to v|read&ZERO
+	pro|it prep|for pro|you .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|COMP 5|4|OBJ 6|7|INF 7|4|XCOMP 8|7|OBJ
+	9|7|JCT 10|9|POBJ 11|2|PUNCT
+*MOT:	you're going so fast .
+%mor:	pro|you~aux|be&PRES part|go-PRESP adv|so adj|fast .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|JCT 5|3|JCT 6|3|PUNCT
+*MOT:	you're choosing [?] the pages (.) .
+%mor:	pro|you~aux|be&PRES part|choose-PRESP det|the n|page-PL .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*MOT:	can't read it if you do that .
+%mor:	mod|can~neg|not v|read&ZERO pro|it conj|if pro|you v|do
+	pro:dem|that .
+%gra:	1|3|AUX 2|1|NEG 3|0|ROOT 4|3|OBJ 5|7|LINK 6|7|SUBJ 7|3|CJCT 8|7|OBJ
+	9|3|PUNCT
+*MOT:	xxx .
+*CHI:	and look_it !
+%mor:	coord|and co|look_it !
+%gra:	1|0|INCROOT 2|1|COORD 3|1|PUNCT
+%gpx:	points at page
+*MOT:	yeah +...
+%mor:	co|yeah +...
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	that's pears .
+%mor:	pro:dem|that~aux|be&3S n|pear-PL .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|INCROOT 4|3|PUNCT
+*CHI:	pear .
+%mor:	n|pear .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	pear .
+%mor:	n|pear .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	bef turns (partial) page
+*MOT:	uhhuh .
+%mor:	co|uhhuh .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	orange .
+%mor:	adj|orange .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	bef turns pages
+*MOT:	yeah +...
+%mor:	co|yeah +...
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	&um (.) <watermelon [/] > [>] .
+%act:	bef turns page
+*MOT:	<what's that> [<] ?
+%mor:	pro:wh|what~cop|be&3S pro:dem|that ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+%gpx:	points
+*CHI:	&um (.) huh ?
+%mor:	co|huh ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	that's chocolate cake .
+%mor:	pro:dem|that~cop|be&3S n|chocolate n|cake .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|MOD 4|2|PRED 5|2|PUNCT
+*CHI:	<chocola(te)> [//] chocolate cake .
+%mor:	n|chocolate n|cake .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+%par:	tentatively
+*MOT:	you learn so fast Chi .
+%mor:	pro|you v|learn adv|so adj|fast n:prop|Chi .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|2|JCT 5|4|OBJ 6|2|PUNCT
+%com:	short pause
+*CHI:	and there [?] +...
+%mor:	coord|and adv|there +...
+%gra:	1|0|INCROOT 2|1|COORD 3|1|PUNCT
+*CHI:	look !
+%mor:	co|look !
+%gra:	1|0|INCROOT 2|1|PUNCT
+%par:	shouts
+%act:	<bef , aft> keeps turning pages
+%exp:	has reached last page
+*MOT:	that's it .
+%mor:	pro:dem|that~cop|be&3S pro|it .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*MOT:	that's the end .
+%mor:	pro:dem|that~cop|be&3S det|the n|end .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+*MOT:	no more (.) .
+%mor:	qn|no pro:indef|more .
+%gra:	1|2|QUANT 2|0|ROOT 3|2|PUNCT
+*MOT:	okay ?
+%mor:	co|okay ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*EX1:	<thank you> [>] .
+%mor:	v|thank pro|you .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+*CHI:	<sure (.) read it again> [<] !
+%mor:	adj|sure v|read&ZERO pro|it adv|again !
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|JCT 5|2|PUNCT
+*MOT:	okay [<] .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	no .
+%mor:	co|no .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	zzz [>] .
+%mor:	co|zzz .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%par:	laughs
+*EX1:	zzz [<] .
+%mor:	co|zzz .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%par:	laughs
+*CHI:	do another book !
+%mor:	v|do qn|another n|book !
+%gra:	1|0|ROOT 2|3|QUANT 3|1|OBJ 4|1|PUNCT
+%par:	shouts
+*EX1:	we'll bring another book back with us .
+%mor:	pro:sub|we~mod|will v|bring qn|another n|book adv|back prep|with
+	pro:obj|us .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|QUANT 5|3|OBJ 6|3|JCT 7|3|JCT 8|7|POBJ
+	9|3|PUNCT
+*EX2:	next time we'll bring another book .
+%mor:	adj|next n|time pro:sub|we~mod|will v|bring qn|another n|book .
+%gra:	1|2|MOD 2|5|LINK 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|7|QUANT 7|5|OBJ 8|5|PUNCT
+@Comment:	Time is 031:54
+@Eg:	bookreading
+@End

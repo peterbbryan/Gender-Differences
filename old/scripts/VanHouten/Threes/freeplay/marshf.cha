@@ -1,0 +1,990 @@
+@UTF8
+@PID:	11312/c-00017653-1
+@Begin
+@Languages:	eng
+@Participants:	INV Alison Investigator , CHI Anthony Target_Child
+@ID:	eng|VanHouten|CHI|3;3.21|male|typical||Target_Child|||
+@ID:	eng|VanHouten|INV|||||Investigator|||
+@Media:	marshf, audio
+@Comment:	Education of MOT is 2
+@Comment:	Mother's Age Group Older
+@Comment:	McCarthy-Cognitive 106
+@Comment:	McCarthy-Verbal 64
+@Comment:	RITLS 31
+@Situation:	Freeplay
+@Bg:	mother_freeplay
+*INV:	can you open that bin ? 8000_9771
+%mor:	mod|can pro|you v|open det|that n|bin ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+%cod:	$MLU=5 $NMV=1 $Ini $C/R
+*INV:	can you open this ? 9771_12036
+%mor:	mod|can pro|you v|open pro:dem|this ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+%cod:	$MLU=4 $NMV=1 $Con $C/R
+*CHI:	don't close that door . 12036_14188
+%mor:	mod|do~neg|not v|close det|that n|door .
+%gra:	1|3|AUX 2|1|NEG 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+%cod:	$MLU=5 $NMV=1 $Ini $Des
+*INV:	okay . 14188_14745
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=0 $Rde $Acc
+*CHI:	that's why I'll be ascared [: scared] [*] . 14745_17933
+%mor:	pro:dem|that~aux|be&3S adv:wh|why pro:sub|I~mod|will aux|be
+	part|scare-PASTP .
+%gra:	1|3|SUBJ 2|3|AUX 3|7|LINK 4|7|SUBJ 5|7|AUX 6|7|AUX 7|0|ROOT 8|7|PUNCT
+%cod:	$MLU=7 $NMV=2 $Res $Rep
+*INV:	oh you get scared when the door is closed ? 17933_19671
+%mor:	co|oh pro|you v|get part|scare-PASTP conj|when det|the n|door
+	aux|be&3S part|close-PASTP ?
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|9|LINK 6|7|DET 7|9|SUBJ 8|9|AUX
+	9|4|CJCT 10|3|PUNCT
+%cod:	$MLU=8 $NMV=2 $Rre $Exp
+*CHI:	yeah . 19671_20145
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=0 $Res $Rep
+*INV:	okay . 20145_21140
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=0 $Rre $Rsc
+*INV:	well look +/. 21140_21998
+%mor:	co|well co|look +/.
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+*CHI:	these guys are expensive . 21998_23790
+%mor:	det|these n|guy-PL cop|be&PRES adj|expensive .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|3|PUNCT
+%cod:	$MLU=4 $NMV=1 $Ini $Rep
+*INV:	they're what ? 23790_25408
+%mor:	pro:sub|they~aux|be&PRES pro:wh|what ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+%cod:	$MLU=3 $NMV=1 $Rre $Cla
+*CHI:	they're expensive . 25408_26678
+%mor:	pro:sub|they~cop|be&PRES adj|expensive .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+%cod:	$MLU=3 $NMV=1 $Res $Rep
+*INV:	what are +... 26678_27535
+%mor:	adv|what aux|be&PRES +...
+%gra:	1|2|JCT 2|0|ROOT 3|2|PUNCT
+*INV:	they're what kind of people ? 27535_28788
+%mor:	pro:sub|they~aux|be&PRES pro:wh|what n|kind prep|of n|person&PL ?
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|4|NJCT 6|5|POBJ 7|3|PUNCT
+%cod:	$MLU=6 $NMV=1 $Rre $Cla
+*CHI:	those peoples are expensive . 28788_32735
+%mor:	det|those n|person&PL-PL cop|be&PRES adj|expensive .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|3|PUNCT
+%cod:	$MLU=4 $NMV=1 $Res $Rep
+*INV:	they're expensive ? 32735_33908
+%mor:	pro:sub|they~cop|be&PRES adj|expensive ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+%cod:	$MLU=3 $NMV=1 $Rre $Exp
+*CHI:	yeah . 33908_34491
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=0 $Res $Rep
+*INV:	oh . 34491_35423
+%mor:	co|oh .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$MLU=0 $NMV=0 $Rre $Rsc
+*CHI:	and this is his father . 35423_37395
+%mor:	conj|and pro:dem|this cop|be&3S pro:poss:det|his n|father .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|MOD 5|3|PRED 6|3|PUNCT
+%cod:	$MLU=5 $NMV=1 $Ini $Rep
+*CHI:	and this is +... 37395_38570
+%mor:	conj|and pro:dem|this cop|be&3S +...
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*CHI:	where's his mother ? 38570_39293
+%mor:	rel|where~aux|be&3S pro:poss:det|his n|mother ?
+%gra:	1|4|LINK 2|4|AUX 3|4|MOD 4|0|INCROOT 5|4|PUNCT
+%cod:	$MLU=4 $NMV=1 $Con $Rfi
+*INV:	where is his mother ? 39293_40466
+%mor:	adv:wh|where aux|be&3S pro:poss:det|his n|mother ?
+%gra:	1|4|LINK 2|4|AUX 3|4|MOD 4|0|INCROOT 5|4|PUNCT
+%cod:	$MLU=4 $NMV=1 $Rri $Rfi
+*CHI:	yeah . 40466_41080
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%sit:	meaning "yeah that's what I want to know ."
+%cod:	$MLU=1 $NMV=0 $Res $Rfi
+*CHI:	this is his mother . 41080_44666
+%mor:	pro:dem|this cop|be&3S pro:poss:det|his n|mother .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|MOD 4|2|PRED 5|2|PUNCT
+%cod:	$MLU=4 $NMV=1 $Con $Rep
+*INV:	yeah . 44666_45543
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=0 $Rre $C/A
+*INV:	what kind of place is this Anthony ? 45543_47318
+%mor:	pro:wh|what n|kind prep|of n|place cop|be&3S det|this
+	n:prop|Anthony ?
+%gra:	1|5|LINK 2|5|SUBJ 3|5|JCT 4|5|SUBJ 5|0|ROOT 6|7|DET 7|5|PRED 8|5|PUNCT
+%cod:	$MLU=7 $NMV=1 $Ini $Rfi
+*CHI:	Rockypoint . 47318_48691
+%mor:	n:prop|Rockypoint .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=0 $Res $Rep
+*INV:	this is Rockypoint park . 48691_50250
+%mor:	pro:dem|this cop|be&3S n:prop|Rockypoint n|park .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|MOD 4|2|PRED 5|2|PUNCT
+%cod:	$MLU=4 $NMV=1 $Rre $C/A
+*INV:	what's this called ? 50250_51740
+%mor:	adv:wh|what~cop|be&3S det|this part|call-PASTP ?
+%gra:	1|2|LINK 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+%cod:	$MLU=4 $NMV=1 $Ini $Rfi
+*CHI:	<this is> [/] <that is> [/] <that's> [/] that's +... 51740_58891
+%mor:	pro:dem|that~aux|be&3S +...
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+%cod:	$Res $Rep
+*INV:	what's that called ? 58891_63011
+%mor:	rel|what~aux|be&3S rel|that v|call-PAST ?
+%gra:	1|2|LINK 2|4|AUX 3|4|LINK 4|0|ROOT 5|4|PUNCT
+%cod:	$MLU=4 $NMV=1 $Rre $Rfi
+*CHI:	it's called +... 63011_65488
+%mor:	pro|it~aux|be&3S part|call-PASTP +...
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|PUNCT
+%cod:	$Res $Rep
+*INV:	a merry+go+round . 65488_67136
+%mor:	det|a n|+adj|merry+v|go+adj|round .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+%cod:	$MLU=2 $NMV=0 $Rre $Tea
+*CHI:	a merry+go+round . 67136_69466
+%mor:	det|a n|+adj|merry+v|go+adj|round .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+%cod:	$MLU=2 $NMV=0 $Res $Lim
+*INV:	and what's this called ? 69466_70085
+%mor:	conj|and rel|what~aux|be&3S det|this part|call-PASTP ?
+%gra:	1|5|LINK 2|3|LINK 3|5|AUX 4|5|DET 5|0|ROOT 6|5|PUNCT
+%cod:	$MLU=5 $NMV=1 $Ini $Rfi
+*CHI:	a slide so somebody can climb on it . 70085_74268
+%mor:	det|a n|slide adv|so pro:indef|somebody mod|can v|climb prep|on
+	pro|it .
+%gra:	1|2|DET 2|6|SUBJ 3|6|JCT 4|6|SUBJ 5|6|AUX 6|0|ROOT 7|6|JCT 8|7|POBJ
+	9|6|PUNCT
+%cod:	$MLU=8 $NMV=1 $Res $Rep
+*CHI:	watch . 74268_74731
+%mor:	n|watch .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=1 $Con $Joi
+*INV:	yeah . 74731_75225
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=0 $Rre $C/A
+*CHI:	t@o t@o t@o t@o . 75225_78236
+%mor:	on|t on|t on|t on|t .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+%sit:	sounds as he makes figure climb up slide .
+%cod:	$MLU=0 $NMV=0 $Con $Rsc
+*INV:	what does that little boy say when he goes down the slide ? 78236_81938
+%mor:	pro:wh|what mod|do&3S pro:dem|that adj|little n|boy v|say conj|when
+	pro:sub|he v|go-3S adv|down det|the n|slide ?
+%gra:	1|3|LINK 2|3|AUX 3|6|LINK 4|5|MOD 5|6|SUBJ 6|0|ROOT 7|9|LINK 8|9|SUBJ
+	9|6|CJCT 10|9|JCT 11|12|DET 12|9|OBJ 13|6|PUNCT
+%cod:	$MLU=12 $NMV=2 $Rta $Rfi
+*CHI:	he says +"/. 81938_82913
+%mor:	pro:sub|he v|say-3S +"/.
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+%sit:	plays different roles using different voices
+%cod:	$MLU=10 $NMV=3 $Res $Col
+*CHI:	+" please man I want to go down slide . 82913_85781
+%mor:	co|please n|man pro:sub|I v|want inf|to v|go adv|down n|slide .
+%gra:	1|2|COM 2|0|INCROOT 3|4|SUBJ 4|2|CMOD 5|6|INF 6|4|XCOMP 7|8|JCT 8|6|OBJ
+	9|2|PUNCT
+*CHI:	here . 85781_86400
+%mor:	adv|here .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=0 $Con $Col
+*CHI:	go down . 86400_87341
+%mor:	v|go adv|down .
+%gra:	1|0|ROOT 2|1|JCT 3|1|PUNCT
+%cod:	$MLU=2 $NMV=1 $Con $Col
+*CHI:	then he goes down . 87341_90461
+%mor:	adv:tem|then pro:sub|he v|go-3S adv|down .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|PUNCT
+%cod:	$MLU=4 $NMV=1 $Con $Rep
+*INV:	that's right . 90461_91518
+%mor:	pro:dem|that~cop|be&3S adv|right .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|2|PUNCT
+%cod:	$MLU=3 $NMV=1 $Rre $C/A
+*CHI:	xxx . 91518_94168
+*CHI:	I gotta put that wheel on . 94168_97453
+%mor:	pro:sub|I mod:aux|gotta v|put&ZERO pro:dem|that v|wheel adv|on .
+%gra:	1|3|SUBJ 2|3|AUX 3|5|LINK 4|5|SUBJ 5|0|ROOT 6|5|JCT 7|5|PUNCT
+%cod:	$MLU=6 $NMV=1 $Ini $Rep
+*CHI:	that's why cause that go boys on it . 97453_100143
+%mor:	pro:dem|that~cop|be&3S adv:wh|why n|cause rel|that v|go n|boy-PL
+	prep|on pro|it .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|3|OBJ 5|6|LINK 6|4|CMOD 7|6|OBJ 8|7|NJCT
+	9|8|POBJ 10|2|PUNCT
+%cod:	$MLU=9 $NMV=2 $Con $Rep
+*INV:	to put little boys on it ? 100143_101478
+%mor:	inf|to v|put&ZERO adj|little n|boy-PL prep|on pro|it ?
+%gra:	1|2|INF 2|0|ROOT 3|4|MOD 4|2|OBJ 5|2|JCT 6|5|POBJ 7|2|PUNCT
+%cod:	$MLU=6 $NMV=1 $Rre $Exp
+*CHI:	yeah . 101478_102315
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=0 $Res $Rep
+*CHI:	gotta put some more right there and you put the other boy there . 102315_107991
+%mor:	mod:aux|gotta v|put&ZERO qn|some pro:indef|more adv|right adv|there
+	coord|and pro|you v|put&ZERO det|the qn|other n|boy adv|there .
+%gra:	1|2|AUX 2|0|ROOT 3|4|QUANT 4|2|OBJ 5|2|JCT 6|2|JCT 7|9|LINK 8|9|SUBJ
+	9|2|COMP 10|12|DET 11|12|QUANT 12|9|OBJ 13|9|JCT 14|2|PUNCT
+%cod:	$MLU=13 $NMV=2 $Ini $Joi
+*INV:	put this +... 107991_108670
+%mor:	v|put&ZERO pro:dem|this +...
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+*INV:	how about if this little girl goes on ? 108670_110408
+%mor:	adv:wh|how adv|about conj|if det|this adj|little n|girl v|go-3S
+	adv|on ?
+%gra:	1|2|LINK 2|0|ROOT 3|7|LINK 4|6|DET 5|6|MOD 6|7|SUBJ 7|2|CJCT 8|7|JCT
+	9|2|PUNCT
+%cod:	$MLU=8 $NMV=1 $Con $Rfi
+*CHI:	yeah that little girl goes on . 110408_112833
+%mor:	co|yeah pro:dem|that adj|little n|girl v|go-3S adv|on .
+%gra:	1|5|COM 2|5|JCT 3|4|MOD 4|5|SUBJ 5|0|ROOT 6|5|JCT 7|5|PUNCT
+%cod:	$MLU=6 $NMV=1 $Res $Rep
+*CHI:	this girl goes on . 112833_117818
+%mor:	det|this n|girl v|go-3S adv|on .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|PUNCT
+%cod:	$MLU=4 $NMV=1 $Con $Rep
+*INV:	okay . 117818_119186
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=0 $Rre $Acc
+*INV:	you know what when you go to the park ? 119186_121696
+%mor:	pro|you v|know pro:wh|what conj|when pro|you v|go prep|to det|the
+	n|park ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|6|LINK 5|6|SUBJ 6|3|CJCT 7|6|JCT 8|9|DET
+	9|7|POBJ 10|2|PUNCT
+%cod:	$MLU=9 $NMV=2 $Ini $Rfi
+*CHI:	yeah . 121696_122278
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=0 $Res $Rep
+*INV:	what rides do you like to play on ? 122278_124565
+%mor:	pro:wh|what n|ride-PL v|do pro|you v|like prep|to n|play adv|on ?
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|COM 6|5|JCT 7|6|POBJ 8|7|NJCT
+	9|3|PUNCT
+%cod:	$MLU=8 $NMV=2 $Rre $Rfi
+*CHI:	I don't like parks Rockypoint . 124565_128613
+%mor:	pro:sub|I mod|do~neg|not co|like v|park-3S n:prop|Rockypoint .
+%gra:	1|5|SUBJ 2|5|AUX 3|2|NEG 4|2|COM 5|0|ROOT 6|5|OBJ 7|5|PUNCT
+%cod:	$MLU=6 $NMV=1 $Res $Epr
+*CHI:	that's why every time I go there I will hear fireworks . 128613_133553
+%mor:	pro:dem|that~cop|be&3S adv:wh|why qn|every n|time pro:sub|I v|go
+	adv|there pro:sub|I mod|will v|hear n|firework-PL .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|LINK 4|5|QUANT 5|2|PRED 6|7|SUBJ 7|5|XMOD 8|7|JCT
+	9|11|SUBJ 10|11|AUX 11|7|COMP 12|11|OBJ 13|2|PUNCT
+%cod:	$MLU=12 $NMV=3 $Con $Rep
+*INV:	you hear fireworks ? 133553_134385
+%mor:	pro|you v|hear n|firework-PL ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+%cod:	$MLU=3 $NMV=1 $Rre $Exp
+*CHI:	yeah that's why I don't like to go Rockypoint . 134385_136935
+%mor:	co|yeah pro:dem|that~cop|be&3S adv:wh|why pro:sub|I mod|do~neg|not
+	v|like inf|to v|go n:prop|Rockypoint .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|8|LINK 5|8|SUBJ 6|8|AUX 7|6|NEG 8|3|PRED
+	9|10|INF 10|8|XCOMP 11|10|OBJ 12|3|PUNCT
+%cod:	$MLU=11 $NMV=3 $Res $Rep
+*INV:	cause you don't like fireworks ? 136935_138150
+%mor:	v|cause pro|you mod|do~neg|not v|like n|firework-PL ?
+%gra:	1|0|ROOT 2|5|SUBJ 3|5|AUX 4|3|NEG 5|1|COMP 6|5|OBJ 7|1|PUNCT
+%cod:	$MLU=6 $NMV=1 $Rre $Exp
+*CHI:	no . 138150_139086
+%mor:	co|no .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=0 $Res $Epr
+*INV:	why not ? 139086_139768
+%mor:	adv:wh|why neg|not ?
+%gra:	1|0|INCROOT 2|1|NEG 3|1|PUNCT
+%cod:	$MLU=2 $NMV=0 $Rex $Rfi
+*CHI:	because I don't like them . 139768_141935
+%mor:	conj|because pro:sub|I mod|do~neg|not v|like pro:obj|them .
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|3|NEG 5|0|ROOT 6|5|OBJ 7|5|PUNCT
+%cod:	$MLU=6 $NMV=1 $Res $Rep
+*INV:	cause they're too loud ? 141935_142891
+%mor:	n|cause pro:sub|they~aux|be&PRES adv|too adj|loud ?
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|5|JCT 5|0|ROOT 6|5|PUNCT
+%cod:	$MLU=5 $NMV=1 $Rre $Rfi
+*CHI:	yeah . 142891_144205
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=0 $Res $Rep
+*INV:	do you think they're pretty ? 144205_145148
+%mor:	mod|do pro|you v|think pro:sub|they~aux|be&PRES adv|pretty ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|6|SUBJ 5|6|AUX 6|3|JCT 7|3|PUNCT
+%cod:	$MLU=6 $NMV=2 $Rre $Rfi
+*CHI:	no . 145148_146495
+%mor:	co|no .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=0 $Res $Rep
+*INV:	no ? 146495_147393
+%mor:	co|no ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=0 $Rre $Exp
+*INV:	you don't like fireworks at all ? 147393_148548
+%mor:	pro|you mod|do~neg|not v|like n|firework-PL prep|at pro:indef|all ?
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|OBJ 6|4|JCT 7|6|POBJ 8|4|PUNCT
+%cod:	$MLU=7 $NMV=1 $Con $Rfi
+*CHI:	you please put this guy on ? 148548_150920
+%mor:	pro|you co|please v|put&ZERO det|this n|guy adv|on ?
+%gra:	1|3|SUBJ 2|3|COM 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|JCT 7|3|PUNCT
+%cod:	$MLU=6 $NMV=1 $Ini $Des
+*INV:	sure I'll put him on . 150920_152075
+%mor:	adj|sure pro:sub|I~mod|will v|put&ZERO pro:obj|him adv|on .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|4|JCT 7|4|PUNCT
+%cod:	$MLU=6 $NMV=1 $Rde $Acc
+*INV:	well who's this person over here Anthony ? 152075_154728
+%mor:	co|well rel|who~aux|be&3S det|this n|person prep|over pro:dem|here
+	n:prop|Anthony ?
+%gra:	1|5|COM 2|5|LINK 3|5|AUX 4|5|DET 5|0|INCROOT 6|5|NJCT 7|6|POBJ 8|7|APP
+	9|5|PUNCT
+%cod:	$MLU=7 $NMV=1 $Ini $Rfi
+*CHI:	that's his father . 154728_155880
+%mor:	pro:dem|that~aux|be&3S pro:poss:det|his n|father .
+%gra:	1|4|SUBJ 2|4|AUX 3|4|MOD 4|0|INCROOT 5|4|PUNCT
+%cod:	$MLU=4 $NMV=1 $Res $Rep
+*CHI:	he sit on the ground . 155880_157311
+%mor:	pro:sub|he v|sit prep|on det|the n|ground .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|5|DET 5|3|POBJ 6|2|PUNCT
+%cod:	$MLU=5 $NMV=1 $Con $Rep
+*INV:	that's the father . 157311_159326
+%mor:	pro:dem|that~cop|be&3S det|the n|father .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+%cod:	$MLU=4 $NMV=1 $Rre $C/A
+*INV:	and what's that little girl doing over there by herself ? 159326_162380
+%mor:	conj|and rel|what~aux|be&3S adv|that adj|little n|girl
+	part|do-PRESP prep|over pro:dem|there prep|by pro:refl|herself ?
+%gra:	1|0|INCROOT 2|6|LINK 3|6|AUX 4|6|JCT 5|6|MOD 6|1|COORD 7|6|XMOD 8|7|JCT
+	9|8|POBJ 10|7|JCT 11|10|POBJ 12|1|PUNCT
+%cod:	$MLU=11 $NMV=1 $Ini $Rfi
+*CHI:	she wants to lay down . 162380_164725
+%mor:	pro:sub|she v|want-3S inf|to v|lay adv|down .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|INF 4|2|XCOMP 5|4|JCT 6|2|PUNCT
+%cod:	$MLU=5 $NMV=2 $Res $Rep
+*CHI:	that's why she's tired . 164725_166403
+%mor:	pro:dem|that~cop|be&3S adv:wh|why pro:sub|she~aux|be&3S
+	part|tire-PASTP .
+%gra:	1|2|SUBJ 2|0|ROOT 3|6|LINK 4|6|SUBJ 5|6|AUX 6|2|PRED 7|2|PUNCT
+%cod:	$MLU=6 $NMV=2 $Con $Rep
+*INV:	oh she's tired . 166403_167593
+%mor:	co|oh pro:sub|she~aux|be&3S part|tire-PASTP .
+%gra:	1|4|COM 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|PUNCT
+%cod:	$MLU=3 $NMV=1 $Rre $C/A
+*CHI:	that's why she wants to lay on the ground . 167593_170343
+%mor:	pro:dem|that~cop|be&3S adv:wh|why pro:sub|she v|want-3S inf|to
+	v|lay prep|on det|the n|ground .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|LINK 4|5|SUBJ 5|2|PRED 6|7|INF 7|5|XCOMP 8|7|JCT
+	9|10|DET 10|8|POBJ 11|2|PUNCT
+%cod:	$MLU=10 $NMV=3 $Res $Rep
+*INV:	oh . 170343_171483
+%mor:	co|oh .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$MLU=0 $NMV=0 $Rre $Rsc
+*CHI:	and this guy <is laying> [//] sits on the bench by hisself
+	[: himself] [*] . 171483_176556
+%mor:	conj|and det|this n|guy v|sit-3S prep|on det|the n|bench prep|by
+	pro:refl|himself .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ 8|4|JCT
+	9|8|POBJ 10|4|PUNCT
+%cod:	$MLU=9 $NMV=1 $Ini $Rep
+*CHI:	and this her [//] his [//] this is his baby's wheel . 176556_181955
+%mor:	conj|and det|this pro:dem|this cop|be&3S pro:poss:det|his
+	n|baby~poss|s n|wheel .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|6|MOD 6|8|MOD 7|6|POSS 8|4|PRED
+	9|4|PUNCT
+%cod:	$MLU=6 $NMV=1 $Con $Rep
+*INV:	what do you call that ? 181955_183310
+%mor:	pro:wh|what mod|do pro|you v|call pro:dem|that ?
+%gra:	1|4|SUBJ 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+%cod:	$MLU=5 $NMV=1 $Rre $Rfi
+*CHI:	a car . 183310_185823
+%mor:	det|a n|car .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+%cod:	$MLU=2 $NMV=0 $Res $Rep
+*INV:	a carriage . 185823_186736
+%mor:	det|a n|carriage .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+%cod:	$MLU=2 $NMV=0 $Rre $Tea
+*CHI:	a carriage . 186736_187991
+%mor:	det|a n|carriage .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+%cod:	$MLU=2 $NMV=0 $Res $Lim
+*INV:	look . 187991_188866
+%mor:	co|look .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=1 $Rle $C/R
+*INV:	the mommy can push the carriage . 188866_190381
+%mor:	det|the n|mommy mod|can v|push det|the n|carriage .
+%gra:	1|2|DET 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+%cod:	$MLU=6 $NMV=1 $Con $Tea
+*INV:	see ? 190381_193335
+%mor:	v|see ?
+%gra:	1|0|ROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=1 $Con $Tea
+*INV:	look at that . 193335_195385
+%mor:	v|look prep|at pro:dem|that .
+%gra:	1|0|ROOT 2|1|JCT 3|2|POBJ 4|1|PUNCT
+%cod:	$MLU=3 $NMV=1 $Con $C/R
+*CHI:	<that's not his &m> [//] that's not Mommy . 195385_199863
+%mor:	pro:dem|that~cop|be&3S neg|not n:prop|Mommy .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|NEG 4|2|PRED 5|2|PUNCT
+%cod:	$MLU=5 $NMV=1 $Con $Rep
+*CHI:	that's the daddy . 199863_200580
+%mor:	pro:dem|that~cop|be&3S det|the n|daddy .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+%cod:	$MLU=4 $NMV=1 $Con $Rep
+*INV:	oh that's the daddy . 200580_201476
+%mor:	co|oh pro:dem|that~cop|be&3S det|the n|daddy .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|PRED 6|3|PUNCT
+%cod:	$MLU=4 $NMV=1 $Rre $C/A
+*INV:	where does this hat go ? 201476_202798
+%mor:	adv:wh|where v|do&3S det|this n|hat v|go ?
+%gra:	1|2|LINK 2|5|LINK 3|4|DET 4|5|SUBJ 5|0|ROOT 6|5|PUNCT
+%cod:	$MLU=5 $NMV=1 $Ini $Rfi
+*CHI:	on top of his head . 202798_206356
+%mor:	prep|on n|top prep|of pro:poss:det|his n|head .
+%gra:	1|0|INCROOT 2|1|POBJ 3|2|NJCT 4|5|MOD 5|3|POBJ 6|1|PUNCT
+%cod:	$MLU=5 $NMV=0 $Res $Rep
+*INV:	oh . 206356_206935
+%mor:	co|oh .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$MLU=0 $NMV=0 $Rre $Rsc
+*INV:	and who's that over there ? 206935_208826
+%mor:	conj|and pro:wh|who~cop|be&3S pro:dem|that prep|over pro:dem|there
+	?
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|4|JCT 6|5|POBJ 7|3|PUNCT
+%cod:	$MLU=6 $NMV=1 $Ini $Rfi
+*CHI:	this is the girl to that guy . 208826_215181
+%mor:	pro:dem|this cop|be&3S det|the n|girl prep|to det|that n|guy .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|4|NJCT 6|7|DET 7|5|POBJ 8|2|PUNCT
+%cod:	$MLU=7 $NMV=1 $Res $Rep
+*CHI:	and this is the boy . 215181_216695
+%mor:	conj|and pro:dem|this cop|be&3S det|the n|boy .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|PRED 6|3|PUNCT
+%cod:	$MLU=5 $NMV=1 $Con $Rep
+*INV:	that's a boy ? 216695_217871
+%mor:	pro:dem|that~cop|be&3S det|a n|boy ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+%cod:	$MLU=4 $NMV=1 $Rre $Rfi
+*CHI:	yeah . 217871_218886
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=0 $Res $Rep
+*CHI:	and this is the guy to go on the slide . 218886_222193
+%mor:	conj|and pro:dem|this cop|be&3S det|the n|guy inf|to v|go prep|on
+	det|the n|slide .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|PRED 6|7|INF 7|5|XMOD 8|7|JCT
+	9|10|DET 10|8|POBJ 11|3|PUNCT
+%cod:	$MLU=10 $NMV=2 $Con $Rep
+*INV:	woo: ! 222193_226336
+%mor:	v|woo !
+%gra:	1|0|ROOT 2|1|PUNCT
+%sit:	as figure goes down slide .
+%cod:	$MLU=0 $NMV=0 $Rre $Rep
+*INV:	and the daddy says +"/. 226336_227851
+%mor:	conj|and det|the n|daddy v|say-3S +"/.
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+%cod:	$MLU=6 $NMV=2 $Con $Col
+*INV:	+" be careful . 227851_228866
+%mor:	cop|be co|careful .
+%gra:	1|0|ROOT 2|1|PRED 3|1|PUNCT
+*INV:	don't get hurt on that slide . 228866_230638
+%mor:	mod|do~neg|not v|get v|hurt&ZERO prep|on det|that n|slide .
+%gra:	1|3|AUX 2|1|NEG 3|0|ROOT 4|3|COMP 5|4|JCT 6|7|DET 7|5|POBJ 8|3|PUNCT
+%cod:	$MLU=7 $NMV=1 $Con $Col
+*CHI:	and this man is waiting for the guy . 230638_237476
+%mor:	conj|and det|this n|man aux|be&3S part|wait-PRESP prep|for det|the
+	n|guy .
+%gra:	1|5|LINK 2|3|DET 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|JCT 7|8|DET 8|6|POBJ
+	9|5|PUNCT
+%cod:	$MLU=8 $NMV=1 $Res $Col
+*CHI:	xxx . 237476_240360
+%sit:	speaks for the character .
+%cod:	$Con $Col
+*INV:	this little girl says +"/. 240360_241216
+%mor:	det|this adj|little n|girl v|say-3S +"/.
+%gra:	1|3|DET 2|3|MOD 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+%cod:	$MLU=9 $NMV=3 $Rco $Col
+*INV:	+" I want to get off . 241216_242196
+%mor:	pro:sub|I v|want inf|to v|get adv|off .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|INF 4|2|XCOMP 5|4|JCT 6|2|PUNCT
+*INV:	I want to go on the slide . 242196_243373
+%mor:	pro:sub|I v|want inf|to v|go prep|on det|the n|slide .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|INF 4|2|XCOMP 5|4|JCT 6|7|DET 7|5|POBJ 8|2|PUNCT
+%cod:	$MLU=7 $NMV=2 $Con $Col
+*INV:	can I go on the slide Daddy ? 243373_245006
+%mor:	mod|can pro:sub|I v|go prep|on det|the n|slide n:prop|Daddy ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|6|APP 8|3|PUNCT
+%cod:	$MLU=7 $NMV=1 $Con $Col
+*CHI:	yeah . 245006_245916
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=0 $Res $Col
+*INV:	okay here I go . 245916_249030
+%mor:	co|okay adv|here pro:sub|I v|go .
+%gra:	1|4|COM 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+%cod:	$MLU=4 $NMV=1 $Rco $Col
+*INV:	should I go down like this ? 249030_251096
+%mor:	mod|should pro:sub|I v|go adv|down prep|like pro:dem|this ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|JCT 6|5|POBJ 7|3|PUNCT
+%cod:	$MLU=6 $NMV=1 $Con $Col
+*CHI:	yeah . 251096_251593
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=0 $Res $Col
+*INV:	just like this ? 251593_252948
+%mor:	adv|just prep|like pro:dem|this ?
+%gra:	1|0|JCT 2|1|JCT 3|2|POBJ 4|1|PUNCT
+%cod:	$MLU=3 $NMV=0 $Rco $Col
+*CHI:	no . 251593_252728
+%mor:	co|no .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=0 $Res $Col
+*CHI:	no . 252728_253283
+%mor:	co|no .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=0 $Con $Col
+*INV:	what should I do ? 253283_254080
+%mor:	pro:wh|what mod|should pro:sub|I v|do ?
+%gra:	1|4|LINK 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+%cod:	$MLU=4 $NMV=1 $Rco $Col
+*CHI:	sit down and do it . 254080_255711
+%mor:	v|sit adv|down coord|and v|do pro|it .
+%gra:	1|0|ROOT 2|1|JCT 3|1|CONJ 4|3|COORD 5|4|OBJ 6|1|PUNCT
+%cod:	$MLU=5 $NMV=2 $Res $Col
+*INV:	okay . 255711_256708
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=0 $Rco $Col
+*INV:	should I stick my hand up ? 256708_259019
+%mor:	mod|should pro:sub|I v|stick pro:poss:det|my n|hand adv|up ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|5|MOD 5|3|OBJ 6|3|JCT 7|3|PUNCT
+%cod:	$MLU=6 $NMV=1 $Con $Col
+*CHI:	no . 259019_259736
+%mor:	co|no .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=0 $Res $Col
+*INV:	what should I do ? 259736_260713
+%mor:	pro:wh|what mod|should pro:sub|I v|do ?
+%gra:	1|4|LINK 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+%cod:	$MLU=4 $NMV=1 $Res $Col
+*CHI:	put them down . 260713_262923
+%mor:	v|put&ZERO pro:obj|them adv|down .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|JCT 4|1|PUNCT
+%cod:	$MLU=3 $NMV=1 $Res $Col
+*INV:	okay . 262923_263920
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=0 $Rco $Col
+*INV:	w(h)ee: that was fun . 263920_267703
+%mor:	co|whee pro:dem|that cop|be&PAST&13S adj|fun .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|3|PUNCT
+%cod:	$MLU=3 $NMV=1 $Con $Col
+*CHI:	now I want to go on the merry+go+round . 267703_273400
+%mor:	adv|now pro:sub|I v|want inf|to v|go prep|on det|the
+	n|+adj|merry+v|go+adj|round .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|5|INF 5|3|XCOMP 6|5|JCT 7|8|DET 8|6|POBJ
+	9|3|PUNCT
+%cod:	$MLU=8 $NMV=2 $Res $Col
+*INV:	okay . 273400_274796
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=0 $Rco $Col
+*INV:	here I go . 274796_275433
+%mor:	adv|here pro:sub|I v|go .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+%cod:	$MLU=3 $NMV=1 $Con $Col
+*CHI:	I want to sit on here with my brother . 275433_282165
+%mor:	pro:sub|I v|want inf|to v|sit adv|on adv|here prep|with
+	pro:poss:det|my n|brother .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|INF 4|2|XCOMP 5|4|JCT 6|4|JCT 7|4|JCT 8|9|MOD
+	9|7|POBJ 10|2|PUNCT
+%cod:	$MLU=9 $NMV=2 $Res $Col
+*INV:	with your brother ? 282165_283740
+%mor:	prep|with pro:poss:det|your n|brother ?
+%gra:	1|0|INCROOT 2|3|MOD 3|1|POBJ 4|1|PUNCT
+%cod:	$MLU=3 $NMV=0 $Rco $Exp
+*INV:	what's that little girl's name ? 283740_286210
+%mor:	adv:wh|what~cop|be&3S det|that adj|little n|girl~poss|s n|name ?
+%gra:	1|2|LINK 2|0|ROOT 3|5|DET 4|5|MOD 5|7|MOD 6|5|POSS 7|2|PRED 8|2|PUNCT
+%cod:	$MLU=6 $NMV=1 $Ini $Rfi
+*CHI:	that's not a girl . 286210_289236
+%mor:	pro:dem|that~cop|be&3S neg|not det|a n|girl .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|NEG 4|5|DET 5|2|PRED 6|2|PUNCT
+%cod:	$MLU=5 $NMV=1 $Res $Rep
+*CHI:	that's his brother . 289236_290231
+%mor:	pro:dem|that~aux|be&3S pro:poss:det|his n|brother .
+%gra:	1|4|SUBJ 2|4|AUX 3|4|MOD 4|0|INCROOT 5|4|PUNCT
+%cod:	$MLU=4 $NMV=1 $Con $Rep
+*INV:	oh that one's a boy too ? 290231_291668
+%mor:	co|oh pro:dem|that pro:indef|one~aux|be&3S det|a n|boy post|too ?
+%gra:	1|2|COM 2|0|ROOT 3|2|OBJ 4|6|AUX 5|6|DET 6|3|CMOD 7|6|PQ 8|2|PUNCT
+%cod:	$MLU=6 $NMV=1 $Rre $Rfi
+*CHI:	yeah . 291668_292563
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=0 $Res $Rep
+*INV:	they're both boys . 292563_293515
+%mor:	pro:sub|they~aux|be&PRES qn|both n|boy-PL .
+%gra:	1|4|SUBJ 2|4|AUX 3|4|QUANT 4|0|INCROOT 5|4|PUNCT
+%cod:	$MLU=4 $NMV=1 $Rre $C/A
+*INV:	they +... 293515_293733
+%mor:	pro:sub|they +...
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	look . 293733_293933
+%mor:	co|look .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=1 $Con $C/R
+*INV:	they have little girl's dresses on . 293933_295485
+%mor:	pro:sub|they v|have adj|little n|girl~poss|s n|dress-PL prep|on .
+%gra:	1|2|SUBJ 2|0|ROOT 3|6|MOD 4|6|MOD 5|4|POSS 6|2|OBJ 7|2|JCT 8|2|PUNCT
+%cod:	$MLU=6 $NMV=1 $Con $Rep
+*INV:	whoop . 295485_296406
+%mor:	co|whoop .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$MLU=0 $NMV=0 $Ini $Rsc
+*INV:	what happened to that little boy ? 296406_298533
+%mor:	pro:wh|what v|happen-PAST prep|to det|that adj|little n|boy ?
+%gra:	1|2|LINK 2|0|ROOT 3|2|JCT 4|6|DET 5|6|MOD 6|3|POBJ 7|2|PUNCT
+%cod:	$MLU=6 $NMV=1 $Con $Rfi
+*CHI:	put him back on . 298533_301740
+%mor:	v|put&ZERO pro:obj|him adv|back adv|on .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|JCT 4|1|JCT 5|1|PUNCT
+%cod:	$MLU=4 $NMV=1 $Res $Des
+*INV:	what happened to him ? 301740_302596
+%mor:	pro:wh|what v|happen-PAST prep|to pro:obj|him ?
+%gra:	1|2|LINK 2|0|ROOT 3|2|JCT 4|3|POBJ 5|2|PUNCT
+%cod:	$MLU=4 $NMV=1 $Rde $Rfi
+*CHI:	now I want to go on the slide . 302596_305646
+%mor:	adv|now pro:sub|I v|want inf|to v|go prep|on det|the n|slide .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|5|INF 5|3|XCOMP 6|5|JCT 7|8|DET 8|6|POBJ
+	9|3|PUNCT
+%cod:	$MLU=8 $NMV=2 $Ini $Col
+*INV:	oh . 305646_306481
+%mor:	co|oh .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$MLU=0 $NMV=0 $Rco $Rsc
+*CHI:	here I go . 306481_307280
+%mor:	adv|here pro:sub|I v|go .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+%cod:	$MLU=3 $NMV=1 $Res $Col
+*INV:	wow . 307280_309668
+%mor:	co|wow .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$MLU=0 $NMV=0 $Rco $Col
+*CHI:	now I want to go on the merry+go+round . 309668_313200
+%mor:	adv|now pro:sub|I v|want inf|to v|go prep|on det|the
+	n|+adj|merry+v|go+adj|round .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|5|INF 5|3|XCOMP 6|5|JCT 7|8|DET 8|6|POBJ
+	9|3|PUNCT
+%cod:	$MLU=8 $NMV=2 $Ini $Col
+*INV:	what does the daddy say ? 313200_314930
+%mor:	pro:wh|what v|do&3S det|the n|daddy v|say ?
+%gra:	1|2|LINK 2|5|LINK 3|4|DET 4|5|SUBJ 5|0|ROOT 6|5|PUNCT
+%cod:	$MLU=5 $NMV=1 $Rco $Col
+*INV:	take it easy . 314930_316165
+%mor:	v|take pro|it adj|ease&dn-Y .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|JCT 4|1|PUNCT
+%cod:	$MLU=3 $NMV=1 $Con $Col
+*INV:	slow down . 316165_316901
+%mor:	adv|slow adv|down .
+%gra:	1|0|INCROOT 2|1|JCT 3|1|PUNCT
+%cod:	$MLU=2 $NMV=1 $Con $Col
+*INV:	don't get hurt . 316901_317876
+%mor:	mod|do~neg|not v|get v|hurt&ZERO .
+%gra:	1|4|AUX 2|1|NEG 3|4|SRL 4|0|ROOT 5|4|PUNCT
+%cod:	$MLU=4 $NMV=1 $Con $Col
+*CHI:	take it easy . 317876_319331
+%mor:	v|take pro|it adj|ease&dn-Y .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|JCT 4|1|PUNCT
+%cod:	$MLU=3 $NMV=1 $Res $Col
+*CHI:	don't get hurt . 319331_322858
+%mor:	mod|do~neg|not v|get v|hurt&ZERO .
+%gra:	1|4|AUX 2|1|NEG 3|4|SRL 4|0|ROOT 5|4|PUNCT
+%cod:	$MLU=4 $NMV=1 $Con $Col
+*INV:	that's right . 322858_324716
+%mor:	pro:dem|that~cop|be&3S adv|right .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|2|PUNCT
+%cod:	$MLU=3 $NMV=1 $Rco $C/A
+*CHI:	do you put it this way ? 324716_329690
+%mor:	mod|do pro|you v|put&ZERO pro|it det|this n|way ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|6|DET 6|3|OBJ 7|3|PUNCT
+%cod:	$MLU=6 $NMV=1 $Ini $Rfi
+*INV:	which way does he go ? 329690_331286
+%mor:	rel|which n|way v|do&3S pro:sub|he v|go ?
+%gra:	1|3|LINK 2|3|SUBJ 3|5|LINK 4|5|SUBJ 5|0|ROOT 6|5|PUNCT
+%cod:	$MLU=5 $NMV=1 $Rri $Rfi
+*CHI:	this way . 331286_332303
+%mor:	det|this n|way .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+%cod:	$MLU=2 $NMV=0 $Res $Rep
+*INV:	that's right . 332303_333278
+%mor:	pro:dem|that~cop|be&3S adv|right .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|2|PUNCT
+%cod:	$MLU=3 $NMV=1 $Rre $C/A
+*CHI:	so put him that way . 333278_335295
+%mor:	adv|so v|put&ZERO pro:obj|him det|that n|way .
+%gra:	1|2|JCT 2|0|ROOT 3|2|OBJ 4|5|DET 5|2|OBJ 6|2|PUNCT
+%cod:	$MLU=5 $NMV=1 $Res $Des
+*INV:	you want me to put him on ? 335295_336326
+%mor:	pro|you v|want pro:obj|me inf|to v|put&ZERO pro:obj|him adv|on ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|5|INF 5|2|XCOMP 6|5|OBJ 7|5|JCT 8|2|PUNCT
+%cod:	$MLU=7 $NMV=2 $Rde $Exp
+*INV:	watch his hands . 336326_337900
+%mor:	v|watch pro:poss:det|his n|hand-PL .
+%gra:	1|0|ROOT 2|3|MOD 3|1|OBJ 4|1|PUNCT
+%cod:	$MLU=3 $NMV=1 $Ini $C/R
+*INV:	look at his hands Anthony . 337900_339015
+%mor:	v|look prep|at pro:poss:det|his v|hand-3S n:prop|Anthony .
+%gra:	1|0|ROOT 2|1|JCT 3|4|MOD 4|2|POBJ 5|4|OBJ 6|1|PUNCT
+%cod:	$MLU=5 $NMV=1 $Con $C/R
+*INV:	see . 339015_339375
+%mor:	v|see .
+%gra:	1|0|ROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=1 $Con $Tea
+*INV:	he has little things to hold on . 339375_340828
+%mor:	pro:sub|he aux|have&3S adj|little n|thing-PL prep|to n|hold adv|on
+	.
+%gra:	1|3|SUBJ 2|3|AUX 3|4|MOD 4|0|INCROOT 5|4|JCT 6|5|POBJ 7|6|NJCT
+	8|4|PUNCT
+%cod:	$MLU=7 $NMV=2 $Con $Tea
+*CHI:	and this is his little brother . 340828_343756
+%mor:	conj|and pro:dem|this cop|be&3S pro:poss:det|his adj|little
+	n|brother .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|6|MOD 5|6|MOD 6|3|PRED 7|3|PUNCT
+%cod:	$MLU=6 $NMV=1 $Ini $Rep
+*INV:	yeah . 343756_344931
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=0 $Rre $C/A
+*INV:	what's the brother's name ? 344931_345728
+%mor:	adv:wh|what~cop|be&3S det|the n|brother~poss|s n|name ?
+%gra:	1|2|LINK 2|0|ROOT 3|4|DET 4|6|MOD 5|4|POSS 6|2|PRED 7|2|PUNCT
+%cod:	$MLU=5 $NMV=1 $Ini $Rfi
+*CHI:	Steve . 345728_347561
+%mor:	n:prop|Steve .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=0 $Res $Rep
+*INV:	Stevie . 347561_348225
+%mor:	n:prop|Stevie .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=0 $Rre $Rsc
+*INV:	wow . 348225_352326
+%mor:	co|wow .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=0 $Con $Rsc
+*CHI:	now them want to get off . 352326_354851
+%mor:	adv|now pro:obj|them v|want inf|to v|get adv|off .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|5|INF 5|3|XCOMP 6|5|JCT 7|3|PUNCT
+%cod:	$MLU=6 $NMV=2 $Ini $Rep
+*INV:	which one wants to get off ? 354851_356066
+%mor:	rel|which pro:indef|one v|want-3S inf|to v|get adv|off ?
+%gra:	1|2|LINK 2|3|SUBJ 3|0|ROOT 4|5|INF 5|3|XCOMP 6|5|JCT 7|3|PUNCT
+%cod:	$MLU=6 $NMV=2 $Rre $Rfi
+*CHI:	all these guys . 356066_357646
+%mor:	qn|all det|these n|guy-PL .
+%gra:	1|3|QUANT 2|3|DET 3|0|INCROOT 4|3|PUNCT
+%cod:	$MLU=3 $NMV=0 $Res $Rep
+*INV:	why do they want to get off ? 357646_358715
+%mor:	adv:wh|why mod|do pro:sub|they v|want inf|to v|get adv|off ?
+%gra:	1|4|LINK 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|6|INF 6|4|XCOMP 7|6|JCT 8|4|PUNCT
+%cod:	$MLU=7 $NMV=2 $Rre $Rfi
+*CHI:	because they want to all go on the slide . 358715_362685
+%mor:	conj|because pro:sub|they v|want inf|to adv|all v|go prep|on
+	det|the n|slide .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|6|INF 5|6|JCT 6|3|XCOMP 7|6|JCT 8|9|DET
+	9|7|POBJ 10|3|PUNCT
+%cod:	$MLU=9 $NMV=2 $Res $Rep
+*INV:	they want to go on the slide ? 362685_365588
+%mor:	pro:sub|they v|want inf|to v|go prep|on det|the n|slide ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|INF 4|2|XCOMP 5|4|JCT 6|7|DET 7|5|POBJ 8|2|PUNCT
+%cod:	$MLU=7 $NMV=2 $Rre $Exp
+*CHI:	yeah . 365588_366186
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=0 $Res $Rep
+*INV:	all of them ? 365588_366343
+%mor:	qn|all prep|of pro:obj|them ?
+%gra:	1|0|INCROOT 2|1|JCT 3|2|POBJ 4|1|PUNCT
+%cod:	$MLU=3 $NMV=0 $Rre $Exp
+*CHI:	yeah . 366343_366825
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=0 $Res $Rep
+*INV:	what will they have_to do ? 366825_367440
+%mor:	pro:wh|what mod|will pro:sub|they mod:aux|have_to v|do ?
+%gra:	1|5|LINK 2|5|AUX 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|PUNCT
+%cod:	$MLU=6 $NMV=2 $Rre $Rfi
+*INV:	they have_to +... 367440_368515
+%mor:	pro:sub|they mod:aux|have_to +...
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+%cod:	$Con $Rfi
+*CHI:	0 . 368515_368883
+%cod:	$Nul
+*INV:	line up ? 368883_369541
+%mor:	n|line adv|up ?
+%gra:	1|0|INCROOT 2|1|JCT 3|1|PUNCT
+%cod:	$MLU=2 $NMV=1 $Ini $Rfi
+*CHI:	yeah . 369541_370718
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=0 $Res $Rep
+*CHI:	he wants to go on the merry+go+round . 370718_374341
+%mor:	pro:sub|he v|want-3S inf|to v|go prep|on det|the
+	n|+adj|merry+v|go+adj|round .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|INF 4|2|XCOMP 5|4|JCT 6|7|DET 7|5|POBJ 8|2|PUNCT
+%cod:	$MLU=7 $NMV=2 $Ini $Rep
+*CHI:	and his little brother wants to go on the merry+go+round . 374341_379221
+%mor:	conj|and pro:poss:det|his adj|little n|brother v|want-3S inf|to
+	v|go prep|on det|the n|+adj|merry+v|go+adj|round .
+%gra:	1|5|LINK 2|4|MOD 3|4|MOD 4|5|SUBJ 5|0|ROOT 6|7|INF 7|5|XCOMP 8|7|JCT
+	9|10|DET 10|8|POBJ 11|5|PUNCT
+%cod:	$MLU=10 $NMV=2 $Con $Rep
+*INV:	okay . 379221_380038
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=0 $Rre $Acc
+*INV:	so we can take this guy off ? 380038_381931
+%mor:	conj|so pro:sub|we mod|can v|take det|this n|guy adv|off ?
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|JCT 8|4|PUNCT
+%cod:	$MLU=7 $NMV=1 $Con $Rfi
+*CHI:	he's gotta walk . 381931_386373
+%mor:	pro:sub|he~aux|be&3S mod:aux|gotta v|walk .
+%gra:	1|4|SUBJ 2|4|AUX 3|4|AUX 4|0|ROOT 5|4|PUNCT
+%cod:	$MLU=4 $NMV=1 $Res $Rep
+*INV:	he has_to walk down the slide ? 386373_388011
+%mor:	pro:sub|he mod:aux|has_to v|walk adv|down det|the n|slide ?
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|6|DET 6|3|OBJ 7|3|PUNCT
+%cod:	$MLU=7 $NMV=2 $Rre $Exp
+*INV:	cause she wants to go on here . 388011_394081
+%mor:	n|cause pro:sub|she v|want-3S inf|to v|go prep|on pro:dem|here .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|INF 5|3|XCOMP 6|5|JCT 7|6|POBJ 8|3|PUNCT
+%cod:	$MLU=7 $NMV=2 $Ini $Rep
+*INV:	and these other three want to come off don't they cause they're
+	tired of the slide . 394081_397488
+%mor:	conj|and pro:dem|these qn|other det:num|three v|want inf|to v|come
+	adv|off mod|do~neg|not pro:sub|they n|cause pro:sub|they~aux|be&PRES
+	part|tire-PASTP prep|of det|the n|slide .
+%gra:	1|0|INCROOT 2|1|COORD 3|4|QUANT 4|5|QUANT 5|2|COMP 6|7|INF 7|5|XCOMP
+	8|7|JCT 9|12|AUX 10|9|NEG 11|12|SUBJ 12|7|OBJ 13|15|SUBJ 14|15|AUX
+	15|12|CMOD 16|15|JCT 17|18|DET 18|16|POBJ 19|1|PUNCT
+%cod:	$MLU=18 $NMV=4 $Con $Rep
+*CHI:	yeah . 397488_398405
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=0 $Res $Rep
+*CHI:	no them are not tired of the slide . 398405_401810
+%mor:	co|no pro:obj|them aux|be&PRES neg|not part|tire-PASTP prep|of
+	det|the n|slide .
+%gra:	1|2|COM 2|5|SUBJ 3|5|AUX 4|3|NEG 5|0|ROOT 6|5|JCT 7|8|DET 8|6|POBJ
+	9|5|PUNCT
+%cod:	$MLU=8 $NMV=1 $Con $Rep
+*INV:	oh they're not ? 401810_402350
+%mor:	co|oh pro:sub|they~cop|be&PRES neg|not ?
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|NEG 5|3|PUNCT
+%cod:	$MLU=3 $NMV=1 $Rre $Exp
+*CHI:	no . 402350_402966
+%mor:	co|no .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=0 $Res $Rep
+*INV:	okay . 402350_402966
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=0 $Rre $Acc
+*INV:	what about +... 402966_406153
+%mor:	pro:wh|what adv|about +...
+%gra:	1|0|INCROOT 2|1|JCT 3|1|PUNCT
+*INV:	what's the dad doing ? 406153_407473
+%mor:	adv:wh|what~cop|be&3S det|the n|dad part|do-PRESP ?
+%gra:	1|2|LINK 2|0|ROOT 3|4|DET 4|2|PRED 5|4|XMOD 6|2|PUNCT
+%cod:	$MLU=5 $NMV=1 $Ini $Rfi
+*CHI:	he's almost done with them . 407473_411533
+%mor:	pro:sub|he~aux|be&3S adv|almost part|do&PASTP prep|with
+	pro:obj|them .
+%gra:	1|4|SUBJ 2|4|AUX 3|4|JCT 4|0|ROOT 5|4|JCT 6|5|POBJ 7|4|PUNCT
+%cod:	$MLU=6 $NMV=1 $Res $Rep
+*CHI:	Daddy's +... 411533_413225
+%mor:	n:prop|Daddy~poss|s +...
+%gra:	1|0|INCROOT 2|1|POSS 3|1|PUNCT
+*CHI:	that's +... 413225_415920
+%mor:	pro:dem|that~aux|be&3S +...
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*CHI:	<he'll push> [//] I'll push that carriage . 415920_421856
+%mor:	pro:sub|I~mod|will v|push det|that n|carriage .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+%cod:	$MLU=5 $NMV=1 $Con $Rep
+*INV:	you'll push the carriage ? 421856_422851
+%mor:	pro|you~mod|will v|push det|the n|carriage ?
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+%cod:	$MLU=5 $NMV=1 $Rre $Exp
+*CHI:	yes . 422851_423463
+%mor:	co|yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=0 $Res $Rep
+*INV:	is that what the dad's saying ? 423463_424605
+%mor:	cop|be&3S pro:dem|that pro:wh|what det|the n|dad~aux|be&3S
+	part|say-PRESP ?
+%gra:	1|0|ROOT 2|1|PRED 3|7|LINK 4|5|DET 5|7|SUBJ 6|7|AUX 7|2|COMP 8|1|PUNCT
+%cod:	$MLU=7 $NMV=2 $Rre $Rfi
+*CHI:	I wanna go on the merry +... 424605_428583
+%mor:	pro:sub|I v|want~inf|to v|go prep|on det|the adj|merry +...
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|INF 4|2|XCOMP 5|4|JCT 6|7|DET 7|5|POBJ 8|2|PUNCT
+*CHI:	xxx . 428583_430038
+*CHI:	I want to go on the slide . 430038_432611
+%mor:	pro:sub|I v|want inf|to v|go prep|on det|the n|slide .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|INF 4|2|XCOMP 5|4|JCT 6|7|DET 7|5|POBJ 8|2|PUNCT
+%cod:	$MLU=7 $NMV=2 $Res $Col
+*CHI:	I forgot to go on slide . 432611_434061
+%mor:	pro:sub|I v|forget&PAST inf|to v|go prep|on n|slide .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|INF 4|2|XCOMP 5|4|JCT 6|5|POBJ 7|2|PUNCT
+%cod:	$MLU=6 $NMV=2 $Con $Col
+*INV:	well be careful . 434061_435341
+%mor:	co|well aux|be co|careful .
+%gra:	1|3|COM 2|3|AUX 3|0|INCROOT 4|3|PUNCT
+%cod:	$MLU=2 $NMV=1 $Rco $Col
+*CHI:	be careful . 435341_437765
+%mor:	cop|be co|careful .
+%gra:	1|0|ROOT 2|1|PRED 3|1|PUNCT
+%cod:	$MLU=2 $NMV=1 $Res $Col
+*INV:	and Dad says +"/. 437765_440196
+%mor:	conj|and n:prop|Dad v|say-3S +"/.
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+%cod:	$MLU=10 $NMV=2 $Rco $Col
+*INV:	+" then we're gonna hafta go home . 440196_441631
+%mor:	adv:tem|then pro:sub|we~aux|be&PRES part|go-PRESP~inf|to
+	mod:aux|hafta v|go n|home .
+%gra:	1|4|JCT 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|7|INF 6|7|AUX 7|4|XCOMP 8|7|JCT
+	9|4|PUNCT
+*INV:	it's gonna be time to go home . 441631_443005
+%mor:	pro|it~aux|be&3S part|go-PRESP~inf|to aux|be n|time inf|to v|go
+	n|home .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|6|INF 5|6|AUX 6|3|XCOMP 7|8|INF 8|6|XCOMP
+	9|8|JCT 10|3|PUNCT
+%cod:	$MLU=8 $NMV=2 $Con $Col
+*CHI:	no I don't wanna go home . 443005_446690
+%mor:	co|no pro:sub|I mod|do~neg|not v|want~inf|to v|go n|home .
+%gra:	1|5|COM 2|5|SUBJ 3|5|AUX 4|3|NEG 5|0|ROOT 6|7|INF 7|5|XCOMP 8|7|JCT
+	9|5|PUNCT
+%cod:	$MLU=7 $NMV=1 $Res $Col
+*CHI:	you forgot xxx . 446690_457048
+%mor:	pro|you v|forget&PAST .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*CHI:	you come back to Rockypoint ? 457048_460938
+%mor:	pro|you v|come adv|back prep|to n:prop|Rockypoint ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|2|JCT 5|4|POBJ 6|2|PUNCT
+%cod:	$MLU=5 $NMV=1 $Con $Col
+*CHI:	yeah . 460938_462166
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=0 $Con $Col
+*INV:	you can come back some other day ? 462166_463403
+%mor:	pro|you mod|can v|come adv|back qn|some qn|other n|day ?
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|7|QUANT 6|7|QUANT 7|3|OBJ 8|3|PUNCT
+%cod:	$MLU=7 $NMV=1 $Rco $Exp
+*CHI:	yeah . 463403_463905
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=0 $Res $Rep
+@Eg:	mother_freeplay
+@End

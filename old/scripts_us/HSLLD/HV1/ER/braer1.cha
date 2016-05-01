@@ -1,0 +1,150 @@
+@UTF8
+@PID:	11312/c-00034862-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child , MOT Mother , INV Anne Investigator
+@ID:	eng|HSLLD|CHI|3;7.20|male|||Target_Child|||
+@ID:	eng|HSLLD|MOT|||||Mother|12||
+@ID:	eng|HSLLD|INV|||||Investigator|||
+@Birth of CHI:	22-NOV-1984
+@Comment:	SES of Mot is lower
+@Date:	21-MAY-1988
+@Location:	Boston , MA , USA
+@Situation:	Home Visit 1; took place in kitchen; Chi on Mot's lap
+@Activities:	Elicited report
+*MOT:	wan (t)a tell her about the fish store because you already told her a story about the fish store .
+%mor:	adj|wan inf|to v|tell pro:obj|her prep|about det|the n|fish n|store
+	conj|because pro|you adv|already v|tell&PAST pro:obj|her det|a
+	n|story prep|about det|the n|fish n|store .
+%gra:	1|0|INCROOT 2|3|INF 3|1|XCOMP 4|3|OBJ 5|3|JCT 6|8|DET 7|8|MOD 8|5|POBJ
+	9|12|LINK 10|12|SUBJ 11|12|JCT 12|3|CJCT 13|12|OBJ 14|15|DET 15|12|OBJ
+	16|15|NJCT 17|19|DET 18|19|MOD 19|16|POBJ 20|1|PUNCT
+*INV:	yeah tell me about the fish store remember [///] you were telling me [///] you told me some stuff [///] I remember hearing about [/] .
+%mor:	co|yeah v|tell pro:obj|me prep|about det|the n|fish n|store pro|you
+	aux|be&PAST part|tell-PRESP pro|you v|tell&PAST pro:obj|me
+	pro:indef|some pro:sub|I v|remember n:gerund|hear-PRESP .
+%gra:	1|2|COM 2|0|ROOT 3|2|OBJ 4|2|JCT 5|7|DET 6|7|MOD 7|12|SUBJ 8|10|SUBJ
+	9|10|AUX 10|12|AUX 11|12|SUBJ 12|4|POBJ 13|12|OBJ 14|12|OBJ 15|16|SUBJ
+	16|14|CMOD 17|16|OBJ 18|2|PUNCT
+*MOT:	what do you get at the fish store ?
+%mor:	pro:wh|what mod|do pro|you v|get prep|at det|the n|fish n|store ?
+%gra:	1|4|LINK 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|8|DET 7|8|MOD 8|5|POBJ
+	9|4|PUNCT
+*CHI:	licorice .
+%mor:	n|licorice .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	what ?
+%mor:	pro:wh|what ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	<lico(rice)> [//] <lic(orice)> [//] <&licra> [//] I like red licorice .
+%mor:	pro:sub|I v|like n|red n|licorice .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|MOD 4|2|OBJ 5|2|PUNCT
+*INV:	I <love red> [>] licorice too !
+%mor:	pro:sub|I v|love adj|red n|licorice post|too !
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|MOD 4|2|OBJ 5|4|PQ 6|2|PUNCT
+*MOT:	<what kind> [<] ?
+%mor:	pro:wh|what n|kind ?
+%gra:	1|2|OBJ 2|0|INCROOT 3|2|PUNCT
+*CHI:	<I like &uh> [//] <do I> [//] I like two favorite licorice .
+%mor:	pro:sub|I v|like det:num|two n|favorite n|licorice .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|QUANT 4|5|MOD 5|2|OBJ 6|2|PUNCT
+*MOT:	what [>] ?
+%mor:	pro:wh|what ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	xxx [<] I like red licorice orange licorice .
+%mor:	pro:sub|I v|like n|red n|licorice n|orange n|licorice .
+%gra:	1|2|SUBJ 2|0|ROOT 3|6|MOD 4|6|MOD 5|6|MOD 6|2|OBJ 7|2|PUNCT
+*MOT:	what color is Mama's favorite licorice ?
+%mor:	pro:wh|what n|color cop|be&3S n:prop|Mama~poss|s n|favorite
+	n|licorice ?
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|7|MOD 5|4|POSS 6|7|MOD 7|3|PRED 8|3|PUNCT
+*CHI:	black .
+%mor:	adj|black .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	black licorice .
+%mor:	adj|black n|licorice .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*CHI:	and my favorites are red orange .
+%mor:	conj|and pro:poss:det|my n|favorite-PL cop|be&PRES n|red n|orange .
+%gra:	1|4|LINK 2|3|MOD 3|4|SUBJ 4|0|ROOT 5|6|MOD 6|4|PRED 7|4|PUNCT
+*INV:	they make orange licorice ?
+%mor:	pro:sub|they v|make adj|orange n|licorice ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|MOD 4|2|OBJ 5|2|PUNCT
+*CHI:	when I grow up I can make red [//] <or(ange)> [/] <or(ange)> [//] orange licorice and red orange licorice !
+%mor:	conj|when pro:sub|I v|grow adv|up pro:sub|I mod|can v|make
+	adj|orange n|licorice coord|and adj|red n|orange n|licorice !
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|7|SUBJ 6|7|AUX 7|3|COMP 8|9|MOD
+	9|7|OBJ 10|9|CONJ 11|13|MOD 12|13|MOD 13|10|COORD 14|3|PUNCT
+*INV:	yeah ?
+%mor:	co|yeah ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	and it tastes good all mixed up like that ?
+%mor:	conj|and pro|it v|taste-3S adj|good adv|all v|mix-PAST prep|up
+	co|like pro:dem|that ?
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|JCT 6|3|CJCT 7|6|JCT 8|9|COM
+	9|7|POBJ 10|3|PUNCT
+%add:	Chi
+*MOT:	what else do we buy at the fish store ?
+%mor:	pro:wh|what post|else mod|do pro:sub|we v|buy prep|at det|the
+	n|fish n|store ?
+%gra:	1|5|LINK 2|1|PQ 3|5|AUX 4|5|SUBJ 5|0|ROOT 6|5|JCT 7|9|DET 8|9|MOD
+	9|6|POBJ 10|5|PUNCT
+*CHI:	candy bar or candy and zzz and (.) ice cream bars and ice cream and [/] .
+%mor:	n|candy n|bar coord|or n|candy coord|and co|zzz coord|and n|ice
+	n|cream n|bar-PL coord|and n|ice n|cream .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|CONJ 4|3|COORD 5|4|CONJ 6|5|COORD 7|6|CONJ
+	8|10|MOD 9|10|MOD 10|7|COORD 11|10|CONJ 12|13|MOD 13|11|COORD 14|2|PUNCT
+%int:	<5> lengthened
+%par:	<6> lip noises
+*MOT:	can you tell Anne why you call it the fish store and nobody else does [>] ?
+%mor:	mod|can pro|you v|tell n:prop|Anne adv:wh|why pro|you v|call pro|it
+	det|the n|fish n|store coord|and pro:indef|nobody post|else v|do&3S
+	?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|7|LINK 6|7|SUBJ 7|4|COORD 8|7|OBJ
+	9|11|DET 10|11|MOD 11|7|OBJ 12|11|CONJ 13|12|COORD 14|13|PQ 15|13|PQ
+	16|3|PUNCT
+%int:	<6 , 13> stressed
+*INV:	zzz [<] .
+%mor:	co|zzz .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%par:	laughs
+*CHI:	&um I don't know .
+%mor:	pro:sub|I mod|do~neg|not v|know .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|PUNCT
+%act:	Chi starts playing with cars
+*INV:	it's not really a fish store ?
+%mor:	pro|it~cop|be&3S neg|not adv|real&dadj-LY det|a n|fish n|store ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|NEG 4|7|JCT 5|7|DET 6|7|MOD 7|2|PRED 8|2|PUNCT
+%add:	Chi
+*MOT:	<why do> [/] why do you call it the fish store ?
+%mor:	adv:wh|why mod|do pro|you v|call pro|it det|the n|fish n|store ?
+%gra:	1|4|LINK 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|8|DET 7|8|MOD 8|4|OBJ
+	9|4|PUNCT
+*MOT:	what do you get at that store ?
+%mor:	pro:wh|what mod|do pro|you v|get prep|at det|that n|store ?
+%gra:	1|4|LINK 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ 8|4|PUNCT
+*CHI:	&um I want to go the fish store today .
+%mor:	pro:sub|I v|want inf|to v|go det|the n|fish n|store adv:tem|today .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|INF 4|2|XCOMP 5|7|DET 6|7|MOD 7|4|OBJ 8|4|JCT
+	9|8|PUNCT
+*INV:	zzz .
+%mor:	co|zzz .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%par:	laughs
+*MOT:	we'll go today .
+%mor:	pro:sub|we~mod|will v|go adv:tem|today .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*CHI:	the fish store ?
+%mor:	det|the n|fish n|store ?
+%gra:	1|3|DET 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+*MOT:	yep we'll go to the fish <store today> [>] .
+%mor:	co|yep pro:sub|we~mod|will v|go prep|to det|the n|fish n|store
+	adv:tem|today .
+%gra:	1|4|COM 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|8|DET 7|8|MOD 8|5|POBJ
+	9|4|XJCT 10|4|PUNCT
+*CHI:	yay [<] !
+%mor:	co|yay !
+%gra:	1|0|INCROOT 2|1|PUNCT
+%int:	lengthened
+%act:	Chi runs to get jacket
+@End

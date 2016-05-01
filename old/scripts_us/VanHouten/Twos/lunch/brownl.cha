@@ -1,0 +1,79 @@
+@UTF8
+@PID:	11312/c-00017683-1
+@Begin
+@Languages:	eng
+@Participants:	MOT Bonnie Mother , CHI Brooke Target_Child
+@ID:	eng|VanHouten|CHI|2;4.|female|typical||Target_Child|||
+@ID:	eng|VanHouten|MOT|||||Mother|||
+@Comment:	Education of MOT is 2
+@Situation:	Lunch. Child sits in highchair eating Lunch. Mother sits at table. Not much interaction. Child very soft spoken , occasionally hard to understand.
+@Comment:	Age Group of MOT Older
+*MOT:	what do you want to drink (.) milk or orange juice ?
+%mor:	pro:wh|what mod|do pro|you v|want prep|to n|drink n|milk coord|or
+	adj|orange n|juice ?
+%gra:	1|4|LINK 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|7|MOD 7|5|POBJ 8|4|CONJ
+	9|10|MOD 10|8|COORD 11|4|PUNCT
+%cod:	$MLU=10 $NMV=2 $Ini $Rfi
+*CHI:	milk orange juice ?
+%mor:	v|milk adj|orange n|juice ?
+%gra:	1|0|ROOT 2|3|MOD 3|1|OBJ 4|1|PUNCT
+%cod:	$MLU=3 $NMV=0 $Res $Rsc
+*MOT:	what do you want ?
+%mor:	pro:wh|what mod|do pro|you v|want ?
+%gra:	1|4|LINK 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+%cod:	$MLU=4 $NMV=1 $Res $Rfi
+*MOT:	which one ?
+%mor:	rel|which pro:indef|one ?
+%gra:	1|2|LINK 2|0|ROOT 3|2|PUNCT
+%cod:	$MLU=2 $NMV=0 $Con $Rfi
+*CHI:	milk orange juice .
+%mor:	v|milk adj|orange n|juice .
+%gra:	1|0|ROOT 2|3|MOD 3|1|OBJ 4|1|PUNCT
+%cod:	$MLU=3 $NMV=0 $Res $Rsc
+*MOT:	want milk ?
+%mor:	v|want n|milk ?
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+%cod:	$MLU=2 $NMV=1 $Res $Rfi
+*CHI:	yeah .
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=0 $Res $Des
+*MOT:	okay .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%sit:	pours milk then sits to eat sandwich
+%cod:	$MLU=1 $NMV=0 $Rde $Acc
+*MOT:	is it good ?
+%mor:	aux|be&3S pro|it adj|good ?
+%gra:	1|0|INCROOT 2|1|OBJ 3|2|XMOD 4|1|PUNCT
+%cod:	$MLU=3 $NMV=1 $Ini $Rfi
+*MOT:	hm ?
+%mor:	co|hm ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$MLU=0 $NMV=0 $Con $Rfi
+*CHI:	yes .
+%mor:	co|yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=0 $Res $Rep
+*MOT:	yes .
+%mor:	co|yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=0 $Rre $Rsc
+*CHI:	where's the cheese xxx .
+%mor:	adv:wh|where~cop|be&3S det|the n|cheese .
+%gra:	1|2|LINK 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+%cod:	$Ini $Rfi
+*MOT:	you asked to put cheese xxx .
+%mor:	pro|you v|ask-PAST inf|to v|put&ZERO n|cheese .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|INF 4|2|XCOMP 5|4|OBJ 6|2|PUNCT
+%cod:	$Rri $Rep
+*MOT:	now eat it all up (.) okay .
+%mor:	adv|now v|eat pro|it adv|all adv|up adj|okay .
+%gra:	1|2|JCT 2|0|ROOT 3|2|OBJ 4|2|JCT 5|6|JCT 6|2|JCT 7|2|PUNCT
+%cod:	$MLU=6 $NMV=1 $Ini $C/R
+*MOT:	eat your crusts (.) too .
+%mor:	v|eat pro:poss:det|your n|crust-PL post|too .
+%gra:	1|0|ROOT 2|3|MOD 3|1|OBJ 4|3|PQ 5|1|PUNCT
+%sit:	pause after previous utterance
+%cod:	$MLU=4 $NMV=1 $Ini $C/R
+@End

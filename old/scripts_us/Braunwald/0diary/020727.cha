@@ -1,0 +1,32 @@
+@UTF8
+@PID:	11312/c-00010988-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, MOT Mother, HOU Housekeeper
+@ID:	eng|Braunwald|CHI|02;07.27|female|||Target_Child|||
+@ID:	eng|Braunwald|MOT|||||Mother|||
+@ID:	eng|Braunwald|HOU|||||Housekeeper|||
+@Date:	17-OCT-1973
+*CHI:	how_come Deedee's [: Joanna's] mom didn't go on the bus with her ?
+%mor:	adv:wh|how_come n:prop|Joanna~poss|s n|mom mod|do&PAST~neg|not v|go
+	prep|on det|the n|bus prep|with pro:obj|her ?
+%gra:	1|7|LINK 2|7|SUBJ 3|2|POSS 4|7|SUBJ 5|7|AUX 6|5|NEG 7|0|ROOT 8|7|JCT
+	9|10|DET 10|8|POBJ 11|7|JCT 12|11|POBJ 13|7|PUNCT
+%sit:	851
+*MOT:	(be)cause Deedee's [: Joanna's] old enough to go alone on the bus .
+%mor:	conj|because n:prop|Joanna~poss|s adj|old adv|enough inf|to v|go
+	adv|alone prep|on det|the n|bus .
+%gra:	1|0|INCROOT 2|1|COORD 3|2|POSS 4|2|XMOD 5|4|JCT 6|7|INF 7|4|XCOMP
+	8|7|JCT 9|7|JCT 10|11|DET 11|9|POBJ 12|1|PUNCT
+%sit:	851
+*CHI:	Missus_Jordan, which way you going uphill or down ?
+%mor:	n:prop|Missus_Jordan cm|cm rel|which n|way pro|you part|go-PRESP
+	adj|uphill coord|or adv|down ?
+%gra:	1|0|INCROOT 2|1|LP 3|6|LINK 4|6|JCT 5|6|SUBJ 6|1|CJCT 7|6|OBJ 8|7|CONJ
+	9|8|COORD 10|1|PUNCT
+%sit:	852
+*HOU:	down .
+%mor:	adv|down .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%sit:	852
+@End

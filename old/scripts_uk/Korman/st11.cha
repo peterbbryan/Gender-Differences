@@ -1,0 +1,761 @@
+@UTF8
+@PID:	11312/c-00019264-1
+@Begin
+@Languages:	eng
+@Participants:	ATT Attentional Mother , TUR Turn-Construction Mother
+@ID:	eng|Korman|ATT|||||Mother|||
+@ID:	eng|Korman|TUR|||||Mother|||
+*TUR:	what is it ?
+%mor:	pro:wh|what aux|be&3S pro|it ?
+%gra:	1|2|OBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+%spa:	$WH
+%tim:	9 1:6
+*TUR:	what is it ?
+%mor:	pro:wh|what aux|be&3S pro|it ?
+%gra:	1|2|OBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+%spa:	$WH $C
+%tim:	9 8:0
+*ATT:	hey .
+%mor:	co|hey .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$PH
+%tim:	7 0:5
+*ATT:	hey hey hey hey .
+%mor:	co|hey co|hey co|hey co|hey .
+%gra:	1|2|COM 2|0|ROOT 3|2|COM 4|2|COM 5|2|PUNCT
+%spa:	$SO $PH
+%tim:	1:2 0:5
+@Comment:	Pause is to extending shushing sounds; break is 8.6
+*ATT:	what ?
+%mor:	pro:wh|what ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$WH $BC
+%tim:	7 0:8
+*TUR:	what is it what you trying to tell me ?
+%mor:	pro:wh|what aux|be&3S pro|it pro:wh|what pro|you part|try-PRESP
+	inf|to v|tell pro:obj|me ?
+%gra:	1|2|LINK 2|0|ROOT 3|2|OBJ 4|6|OBJ 5|6|SUBJ 6|2|CJCT 7|8|INF 8|6|XCOMP
+	9|8|OBJ 10|2|PUNCT
+%spa:	$WH
+%tim:	1:9 1:9
+*TUR:	want to play with this ?
+%mor:	v|want inf|to v|play prep|with pro:dem|this ?
+%gra:	1|0|ROOT 2|3|INF 3|1|XCOMP 4|3|JCT 5|4|POBJ 6|1|PUNCT
+%spa:	$Y-N $T
+%tim:	1:2 0:4
+*TUR:	isn't that nice ?
+%mor:	cop|be&3S~neg|not pro:dem|that adj|nice ?
+%gra:	1|0|ROOT 2|1|NEG 3|4|JCT 4|1|PRED 5|1|PUNCT
+%spa:	$Y-N $T
+%tim:	1:2 0:7
+*ATT:	hey ?
+%mor:	co|hey ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$PH
+%tim:	6 0:7
+*TUR:	how nice .
+%mor:	adv:wh|how adj|nice .
+%gra:	1|2|LINK 2|0|ROOT 3|2|PUNCT
+%spa:	$ST $T
+%tim:	1:0 0:8
+*TUR:	want to hold it ?
+%mor:	v|want inf|to v|hold pro|it ?
+%gra:	1|0|ROOT 2|3|INF 3|1|XCOMP 4|3|OBJ 5|1|PUNCT
+%spa:	$Y-N $T
+%tim:	1:0 1:0
+*ATT:	hey ?
+%mor:	co|hey ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$RI $EX
+%tim:	5 2:2
+*ATT:	oh: ?
+%mor:	co|oh ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$SO $BC
+%tim:	6 0:3
+*TUR:	no you don't want it .
+%mor:	co|no pro|you mod|do~neg|not v|want pro|it .
+%gra:	1|3|COM 2|3|SUBJ 3|5|AUX 4|3|NEG 5|0|ROOT 6|5|OBJ 7|5|PUNCT
+%spa:	$ST
+%tim:	1:3 8:9
+@Comment:	Pause is to mumbles; break is 7.6
+*TUR:	aren't we going to have some smiles from you ?
+%mor:	aux|be&PRES~neg|not pro:sub|we part|go-PRESP inf|to v|have qn|some
+	n|smile-PL prep|from pro|you ?
+%gra:	1|4|LINK 2|1|NEG 3|4|SUBJ 4|0|ROOT 5|6|INF 6|4|XCOMP 7|8|QUANT 8|6|OBJ
+	9|6|JCT 10|9|POBJ 11|4|PUNCT
+%spa:	$Y-N
+%tim:	2:6 0:4
+*TUR:	aren't we going to have some smiles then ?
+%mor:	aux|be&PRES~neg|not pro:sub|we part|go-PRESP inf|to v|have qn|some
+	n|smile-PL adv:tem|then ?
+%gra:	1|4|LINK 2|1|NEG 3|4|SUBJ 4|0|ROOT 5|6|INF 6|4|XCOMP 7|8|QUANT 8|6|OBJ
+	9|6|JCT 10|9|PUNCT
+%spa:	$Y-N $C
+%tim:	2:3 0:8
+*ATT:	oh ?
+%mor:	co|oh ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$SO $BC
+%tim:	5 0:3
+*TUR:	aren't we having any smiles today ?
+%mor:	aux|be&PRES~neg|not pro:sub|we part|have-PRESP qn|any n|smile-PL
+	adv:tem|today ?
+%gra:	1|7|LINK 2|1|NEG 3|7|SUBJ 4|7|MOD 5|6|QUANT 6|7|MOD 7|0|ROOT 8|7|PUNCT
+%spa:	$Y-N
+%tim:	2:1 2:2
+*TUR:	you were smiling at Julie weren't you ?
+%mor:	pro|you aux|be&PAST part|smile-PRESP prep|at n:prop|Julie
+	cop|be&PAST~neg|not pro|you ?
+%gra:	1|3|SUBJ 2|3|AUX 3|6|LINK 4|6|JCT 5|6|SUBJ 6|0|ROOT 7|6|NEG 8|6|PRED
+	9|6|PUNCT
+%spa:	$STQ
+%tim:	2:1 1:7
+*ATT:	you were .
+%mor:	pro|you cop|be&PAST .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+%spa:	$PC
+%tim:	9 1:3
+*TUR:	you were doing some big smiles for Julie .
+%mor:	pro|you aux|be&PAST part|do-PRESP qn|some adj|big n|smile-PL
+	prep|for n:prop|Julie .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|6|QUANT 5|6|MOD 6|3|OBJ 7|3|JCT 8|7|POBJ
+	9|3|PUNCT
+%spa:	$ST
+%tim:	2:7 7:2
+@Comment:	Pause is to my interruption , then tape stop for nappie change; no separate score
+*TUR:	who's that then what's Myron going to do ?
+%mor:	pro:wh|who~cop|be&3S pro:dem|that adv:tem|then
+	pro:wh|what~aux|be&3S n:prop|Myron part|go-PRESP inf|to v|do ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|8|JCT 5|8|SUBJ 6|8|AUX 7|8|AUX 8|2|PRED
+	9|10|INF 10|8|XCOMP 11|2|PUNCT
+%spa:	$WH
+%tim:	1:9 0:7
+*ATT:	hey ?
+%mor:	co|hey ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$RI $TQ
+%tim:	5 0:3
+*TUR:	what's he going to do ?
+%mor:	pro:wh|what~aux|be&3S pro:sub|he part|go-PRESP inf|to v|do ?
+%gra:	1|4|LINK 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|6|INF 6|4|XCOMP 7|4|PUNCT
+%spa:	$WH $T
+%tim:	1:0 1:2
+*TUR:	what we going to play with ?
+%mor:	pro:wh|what pro:sub|we part|go-PRESP prep|to n|play prep|with ?
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|4|POBJ 6|3|JCT 7|3|PUNCT
+%spa:	$WH $T
+%tim:	1:2 1:4
+*ATT:	&hmm ?
+%spa:	$SO $RI $TQ
+%tim:	6 8:9
+*TUR:	are you staring at what Myron's doing ?
+%mor:	cop|be&PRES pro|you part|stare-PRESP prep|at pro:wh|what
+	n:prop|Myron~aux|be&3S part|do-PRESP ?
+%gra:	1|0|ROOT 2|1|OBJ 3|2|XMOD 4|3|JCT 5|8|LINK 6|8|SUBJ 7|8|AUX 8|4|POBJ
+	9|1|PUNCT
+%spa:	$Y-N
+%tim:	1:8 0:5
+*ATT:	are you ?
+%mor:	cop|be&PRES pro|you ?
+%gra:	1|0|ROOT 2|1|PRED 3|1|PUNCT
+%spa:	$TQ $T
+%tim:	6 0:6
+*TUR:	it's a camera .
+%mor:	pro|it~cop|be&3S art|a n|camera .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|MOD 4|2|PRED 5|2|PUNCT
+%spa:	$ST
+%tim:	1:1 1:7
+*ATT:	it is .
+%mor:	pro|it cop|be&3S .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+%spa:	$PC $T
+%tim:	6 0:8
+*TUR:	it makes films .
+%mor:	pro|it v|make-3S n|film-PL .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+%spa:	$ST
+%tim:	1:2 3:0
+*TUR:	we going to have a big smile ?
+%mor:	pro:sub|we part|go-PRESP inf|to v|have art|a adj|big n|smile ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|INF 4|2|XCOMP 5|7|MOD 6|7|MOD 7|4|OBJ 8|2|PUNCT
+%spa:	$Y-N
+%tim:	1:3 1:1
+*ATT:	hey ?
+%mor:	co|hey ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$RI $TQ
+%tim:	6 1:9
+*TUR:	you've lost interest in it have you ?
+%mor:	pro|you~aux|have v|lose&PAST n|interest prep|in pro|it v|have
+	pro|you ?
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|3|JCT 6|7|SUBJ 7|5|POBJ 8|3|OBJ
+	9|3|PUNCT
+%spa:	$STQ
+%tim:	1:8 0:5
+*TUR:	what about this ?
+%mor:	pro:wh|what prep|about pro:dem|this ?
+%gra:	1|0|INCROOT 2|1|JCT 3|2|POBJ 4|1|PUNCT
+%spa:	$WH
+%tim:	9 1:3
+@Comment:	Rattle is continuous from no. 35; no separate score
+*TUR:	you like that ?
+%mor:	pro|you v|like pro:dem|that ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+%spa:	$RI $Y-N
+%tim:	8 0:8
+*TUR:	that's like your rattle isn't it ?
+%mor:	pro:dem|that~cop|be&3S prep|like pro:poss:det|your n|rattle
+	cop|be&3S~neg|not pro|it ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|5|MOD 5|8|SUBJ 6|8|AUX 7|6|NEG 8|3|POBJ
+	9|2|PUNCT
+%spa:	$STQ
+%tim:	1:7 1:2
+*TUR:	hey want to hold it ?
+%mor:	co|hey v|want inf|to v|hold pro|it ?
+%gra:	1|2|COM 2|0|ROOT 3|4|INF 4|2|XCOMP 5|4|OBJ 6|2|PUNCT
+%spa:	$Y-N
+%tim:	1:3 9:5
+*ATT:	hold it .
+%mor:	v|hold pro|it .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+%spa:	$EX
+%tim:	6 7:8
+*TUR:	yeah that's it that's good .
+%mor:	co|yeah pro:dem|that~cop|be&3S pro|it pro:dem|that~cop|be&3S
+	adj|good .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|6|JCT 5|6|SUBJ 6|3|PRED 7|6|PRED 8|3|PUNCT
+%spa:	$ST
+%tim:	1:9 1:2
+*ATT:	yes .
+%mor:	co|yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$BC
+%tim:	8 1:8
+*TUR:	that's good isn't it ?
+%mor:	pro:dem|that~cop|be&3S adj|good cop|be&3S~neg|not pro|it ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PRED 5|4|NEG 6|4|PRED 7|2|PUNCT
+%spa:	$STQ $T
+%tim:	1:4 2:5
+*TUR:	you like that noise it makes ?
+%mor:	pro|you v|like det|that n|noise pro|it v|make-3S ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|6|OBJ 5|6|SUBJ 6|2|COMP 7|2|PUNCT
+%spa:	$Y-N $T
+%tim:	1:7 2:2
+*ATT:	&hmm ?
+%spa:	$SO $RI $TQ
+%tim:	8 0:6
+@Comment:	Pause is to rattle , then long series of shakes; break is 10.8
+*TUR:	move your hand that's it .
+%mor:	v|move pro:poss:det|your n|hand pro:dem|that~aux|be&3S pro|it .
+%gra:	1|0|ROOT 2|3|MOD 3|1|OBJ 4|3|INCROOT 5|4|INCROOT 6|5|OBJ 7|5|PUNCT
+%spa:	$CO
+%tim:	1:2 1:1
+@Comment:	Pause is to rattle; break is 8.1
+*ATT:	alright .
+%mor:	co|alright .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$BC
+%tim:	7 0:3
+@Comment:	Pause is to rattle; break is 2.6
+*TUR:	want to hold it with two hands ?
+%mor:	v|want inf|to v|hold pro|it prep|with det:num|two n|hand-PL ?
+%gra:	1|0|ROOT 2|3|INF 3|1|XCOMP 4|3|OBJ 5|3|JCT 6|7|QUANT 7|5|POBJ 8|1|PUNCT
+%spa:	$Y-N
+%tim:	1:5 9:9
+@Comment:	Pause is to rattle , then mother mumble , then rattle sounds; break is 11.5
+*TUR:	that's nice that isn't it ?
+%mor:	pro:dem|that~cop|be&3S adj|nice rel|that cop|be&3S~neg|not pro|it ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|5|LINK 5|2|CJCT 6|5|NEG 7|5|PRED 8|2|PUNCT
+%spa:	$STQ
+%tim:	1:5 0:3
+*ATT:	hey ?
+%mor:	co|hey ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$RI $TQ
+%tim:	5 0:3
+@Comment:	Pause is to rattle; break is 14.6
+*TUR:	you are being serious aren't you hey ?
+%mor:	pro|you cop|be&PRES part|be-PRESP adj|serious aux|be&PRES~neg|not
+	pro|you co|hey ?
+%gra:	1|2|SUBJ 2|3|AUX 3|7|LINK 4|7|SUBJ 5|7|AUX 6|5|NEG 7|0|ROOT 8|7|COM
+	9|7|PUNCT
+%spa:	$STQ
+%tim:	2:3 1:1
+@Comment:	Pause is to rattle; break is 3.6
+*TUR:	oh you've lost interest in it have you ?
+%mor:	co|oh pro|you~aux|have v|lose&PAST n|interest prep|in pro|it v|have
+	pro|you ?
+%gra:	1|4|COM 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|4|JCT 7|8|SUBJ 8|6|POBJ
+	9|4|OBJ 10|4|PUNCT
+%spa:	$STQ $T
+%tim:	1:9 1:3
+*TUR:	looking back at the camera again ?
+%mor:	part|look-PRESP adv|back prep|at art|the n|camera adv|again ?
+%gra:	1|0|INCROOT 2|1|JCT 3|1|JCT 4|3|POBJ 5|4|OBJ 6|5|NJCT 7|1|PUNCT
+%spa:	$Y-N $T
+%tim:	1:8 1:0
+*TUR:	what is it ?
+%mor:	pro:wh|what aux|be&3S pro|it ?
+%gra:	1|2|OBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+%spa:	$WH
+%tim:	8 1:1
+*TUR:	you fascinated by it ?
+%mor:	pro|you v|fascinate-PAST prep|by pro|it ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|3|POBJ 5|2|PUNCT
+%spa:	$Y-N
+%tim:	1:5 3:2
+@Comment:	Pause is to interruption by me; break is 45.9
+*TUR:	going to have a camera like that when you grow up ?
+%mor:	part|go-PRESP inf|to v|have art|a n|camera prep|like pro:dem|that
+	conj|when pro|you v|grow adv|up ?
+%gra:	1|0|INCROOT 2|3|INF 3|1|XCOMP 4|3|OBJ 5|4|OBJ 6|5|NJCT 7|6|POBJ
+	8|10|LINK 9|10|SUBJ 10|5|CJCT 11|10|JCT 12|1|PUNCT
+%spa:	$Y-N $T
+%tim:	2:2 0:7
+*ATT:	are you ?
+%mor:	cop|be&PRES pro|you ?
+%gra:	1|0|ROOT 2|1|PRED 3|1|PUNCT
+%spa:	$TQ
+%tim:	6 11:5
+*TUR:	looking round what else can I what's over there ?
+%mor:	part|look-PRESP adv|round pro:wh|what post|else mod|can pro:sub|I
+	pro:wh|what~cop|be&3S prep|over pro:dem|there ?
+%gra:	1|8|LINK 2|1|JCT 3|8|SUBJ 4|3|PQ 5|8|AUX 6|8|SUBJ 7|8|SUBJ 8|0|ROOT
+	9|8|JCT 10|9|POBJ 11|8|PUNCT
+%spa:	$WH $T
+%tim:	2:4 0:6
+*TUR:	you going to have a look what's over there ?
+%mor:	pro|you part|go-PRESP inf|to v|have art|a co|look
+	pro:wh|what~cop|be&3S prep|over pro:dem|there ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|INF 4|2|XCOMP 5|4|OBJ 6|8|COM 7|8|SUBJ 8|5|XMOD
+	9|8|JCT 10|9|POBJ 11|2|PUNCT
+%spa:	$Y-N
+%tim:	1:6 3:0
+*TUR:	look at this do you like this this is a little monkey ?
+%mor:	v|look prep|at det|this v|do pro|you v|like pro:dem|this
+	pro:dem|this cop|be&3S art|a adj|little n|monkey ?
+%gra:	1|0|ROOT 2|1|JCT 3|4|DET 4|2|POBJ 5|6|SUBJ 6|1|COMP 7|6|OBJ 8|9|SUBJ
+	9|7|COORD 10|12|MOD 11|12|MOD 12|9|PRED 13|1|PUNCT
+%spa:	$Y-N
+%tim:	2:3 2:4
+*ATT:	&hmm ?
+%spa:	$SO $RI $TQ
+%tim:	5 3:2
+@Comment:	Pause is to mother asides , then interruption; break is 43.5
+*TUR:	do you like this ?
+%mor:	mod|do pro|you v|like pro:dem|this ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+%spa:	$Y-N
+%tim:	8 1:1
+*TUR:	like this little monkey ?
+%mor:	prep|like det|this adj|little n|monkey ?
+%gra:	1|0|INCROOT 2|4|DET 3|4|MOD 4|1|POBJ 5|1|PUNCT
+%spa:	$RI $Y-N
+%tim:	1:1 2:6
+*ATT:	alright .
+%mor:	co|alright .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$BC
+%tim:	7 4:7
+*ATT:	oh ?
+%mor:	co|oh ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$BC
+%tim:	7 1:9
+*TUR:	what is it ?
+%mor:	pro:wh|what aux|be&3S pro|it ?
+%gra:	1|2|OBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+%spa:	$WH
+%tim:	9 3:4
+*TUR:	are you hungry now are you ?
+%mor:	cop|be&PRES pro|you adj|hungry adv|now cop|be&PRES pro|you ?
+%gra:	1|5|LINK 2|5|SUBJ 3|5|SUBJ 4|5|JCT 5|0|ROOT 6|5|PRED 7|5|PUNCT
+%spa:	$Y-N
+%tim:	1:8 1:0
+*TUR:	I wish you'd have your lunch at the proper time .
+%mor:	pro:sub|I v|wish pro|you~mod|genmod v|have pro:poss:det|your
+	n|lunch prep|at art|the adj|proper n|time .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|SUBJ 4|5|AUX 5|2|COMP 6|7|MOD 7|5|OBJ 8|5|JCT
+	9|11|MOD 10|11|MOD 11|8|POBJ 12|2|PUNCT
+%spa:	$ST
+%tim:	2:4 3:8
+*TUR:	I tell you what .
+%mor:	pro:sub|I v|tell pro|you pro:wh|what .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|XCOMP 5|2|PUNCT
+%spa:	$ST
+%tim:	9 2:5
+@Comment:	Pause it to rattle; break is 3.6
+*TUR:	want to go a bit on that ?
+%mor:	v|want inf|to v|go art|a v|bite&PAST prep|on pro:dem|that ?
+%gra:	1|0|ROOT 2|3|INF 3|1|XCOMP 4|5|SUBJ 5|3|OBJ 6|5|JCT 7|6|POBJ 8|1|PUNCT
+%spa:	$Y-N
+%tim:	1:1 9:8
+*TUR:	it's not food is it ?
+%mor:	pro|it~cop|be&3S neg|not n|food aux|be&3S pro|it ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|NEG 4|6|SUBJ 5|6|AUX 6|2|PRED 7|2|PUNCT
+%spa:	$STQ
+%tim:	1:4 0:9
+*TUR:	doesn't it taste nice ?
+%mor:	mod|do&3S~neg|not pro|it v|taste adj|nice ?
+%gra:	1|4|LINK 2|1|NEG 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|4|PUNCT
+%spa:	$Y-N
+%tim:	1:2 0:4
+*ATT:	no ?
+%mor:	co|no ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$RI $BC
+%tim:	5 1:6
+*ATT:	no ?
+%mor:	co|no ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$RI $BC $C
+%tim:	5 4:3
+*TUR:	well let's see if you can find your &thu [//] can you find your
+	thumb ?
+%mor:	co|well v|let~pro:obj|us v|see conj|if pro|you mod|can v|find
+	pro:poss:det|your mod|can pro|you v|find pro:poss:det|your n|thumb ?
+%gra:	1|2|COM 2|0|ROOT 3|2|OBJ 4|2|OBJ 5|8|LINK 6|8|SUBJ 7|8|AUX 8|4|CJCT
+	9|10|MOD 10|12|AUX 11|12|SUBJ 12|8|COMP 13|14|MOD 14|12|OBJ 15|2|PUNCT
+%spa:	$Y-N
+%tim:	2:9 1:6
+*ATT:	o:h yes .
+%mor:	co|oh co|yes .
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+%spa:	$SO $BC
+%tim:	1:1 0:8
+*TUR:	but can we keep it in ?
+%mor:	conj|but mod|can pro:sub|we v|keep pro|it adv|in ?
+%gra:	1|4|LINK 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|4|JCT 7|4|PUNCT
+%spa:	$Y-N
+%tim:	1:3 3:2
+*ATT:	&hmm .
+%spa:	$SO $PC
+%tim:	6 3:0
+*TUR:	does that thumb taste nicer ?
+%mor:	mod|do&3S pro:dem|that n|thumb n|taste adj|nice-CP ?
+%gra:	1|4|AUX 2|4|MOD 3|4|MOD 4|0|ROOT 5|4|PRED 6|4|PUNCT
+%spa:	$Y-N
+%tim:	1:6 7:3
+@Comment:	Pause is to continuous shushing sound; break is 4.2
+*TUR:	we haven't had a smile out_of you yet .
+%mor:	pro:sub|we aux|have~neg|not v|have&PAST art|a n|smile prep|out_of
+	pro|you adv|yet .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|OBJ 6|5|OBJ 7|6|NJCT 8|7|POBJ
+	9|8|JCT 10|4|PUNCT
+%spa:	$ST
+%tim:	2:8 0:3
+*ATT:	he:y !
+%mor:	co|hey !
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$SO $PH
+%tim:	1:5 0:6
+*ATT:	he:y !
+%mor:	co|hey !
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$SO $PH $C
+%tim:	1:0 0:8
+*ATT:	yes .
+%mor:	co|yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$BC $T
+%tim:	9 1:3
+*ATT:	shh ?
+%mor:	co|shh ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$SO $PH $T
+%tim:	7 1:4
+*TUR:	where's this little boy who's full of smiles ?
+%mor:	adv:wh|where~cop|be&3S det|this adj|little n|boy rel|who~aux|be&3S
+	adj|full prep|of n|smile-PL ?
+%gra:	1|2|LINK 2|0|ROOT 3|5|DET 4|5|MOD 5|2|PRED 6|7|LINK 7|5|CMOD 8|7|JCT
+	9|8|JCT 10|9|POBJ 11|7|PUNCT
+%spa:	$WH
+%tim:	2:6 4:4
+*TUR:	where is he ?
+%mor:	adv:wh|where cop|be&3S pro:sub|he ?
+%gra:	1|2|LINK 2|0|ROOT 3|2|PRED 4|2|PUNCT
+%spa:	$WH
+%tim:	8 10:1
+*TUR:	are you hungry ?
+%mor:	cop|be&PRES pro|you adj|hungry ?
+%gra:	1|0|ROOT 2|3|SUBJ 3|1|PRED 4|1|PUNCT
+%spa:	$Y-N
+%tim:	1:1 1:1
+*ATT:	are you ?
+%mor:	cop|be&PRES pro|you ?
+%gra:	1|0|ROOT 2|1|PRED 3|1|PUNCT
+%spa:	$TQ $C
+%tim:	8 0:6
+@Comment:	Pause is to mother mumbles , then sounds and kisses; break is 8.7
+*TUR:	what can we see over there ?
+%mor:	pro:wh|what mod|can pro:sub|we v|see prep|over pro:dem|there ?
+%gra:	1|4|LINK 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|5|POBJ 7|4|PUNCT
+%spa:	$WH
+%tim:	1:4 0:9
+*TUR:	is that your rabbit ?
+%mor:	cop|be&3S pro:dem|that pro:poss:det|your n|rabbit ?
+%gra:	1|0|ROOT 2|1|PRED 3|4|MOD 4|2|OBJ 5|1|PUNCT
+%spa:	$Y-N
+%tim:	1:1 1:5
+@Comment:	Pause is to mother mumbles; break is 2.5
+*ATT:	yes .
+%mor:	co|yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$BC
+%tim:	6 4:8
+*ATT:	what ?
+%mor:	pro:wh|what ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$WH $BC
+%tim:	7 2:1
+@Comment:	Pause is to mother whispering , then shushing and rattle sounds; break is 15.6
+*ATT:	o:h ?
+%mor:	co|oh ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$SO $BC
+%tim:	5 1:5
+*TUR:	you want you want to hold him again ?
+%mor:	pro|you v|want pro|you v|want inf|to v|hold pro:obj|him adv|again ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|COMP 5|6|INF 6|4|XCOMP 7|6|OBJ 8|6|JCT
+	9|2|PUNCT
+%spa:	$Y-N
+%tim:	1:5 1:1
+*ATT:	hey ?
+%mor:	co|hey ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$RI $TQ
+%tim:	4 0:8
+*ATT:	what ?
+%mor:	pro:wh|what ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$WH $BC
+%tim:	6 1:3
+*TUR:	you hold him again ?
+%mor:	pro|you v|hold pro:obj|him adv|again ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|JCT 5|2|PUNCT
+%spa:	$RI $Y-N
+%tim:	1:1 4:4
+@Comment:	Pause is to my interruption; break is 14.1
+*TUR:	what's disturbing you young man ?
+%mor:	pro:wh|what~aux|be&3S part|disturb-PRESP pro|you adj|young n|man ?
+%gra:	1|3|LINK 2|3|AUX 3|0|ROOT 4|6|MOD 5|6|MOD 6|3|OBJ 7|3|PUNCT
+%spa:	$WH
+%tim:	1:5 2:8
+*ATT:	o:h ?
+%mor:	co|oh ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$SO $PH
+%tim:	8 0:8
+*TUR:	got tummy ache ?
+%mor:	v|get&PAST n|tummy n|ache ?
+%gra:	1|0|ROOT 2|3|MOD 3|1|OBJ 4|1|PUNCT
+%spa:	$Y-N
+%tim:	7 0:3
+*TUR:	are you hungry ?
+%mor:	cop|be&PRES pro|you adj|hungry ?
+%gra:	1|0|ROOT 2|3|SUBJ 3|1|PRED 4|1|PUNCT
+%spa:	$Y-N
+%tim:	9 4:9
+*TUR:	o:h you are pulling some faces .
+%mor:	co|oh pro|you aux|be&PRES part|pull-PRESP qn|some n|face-PL .
+%gra:	1|4|COM 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|QUANT 6|4|OBJ 7|4|PUNCT
+%spa:	$SO $ST
+%tim:	2:1 0:5
+*TUR:	o:h you do show me up .
+%mor:	co|oh pro|you v|do v|show pro:obj|me adv|up .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|4|OBJ 6|4|JCT 7|3|PUNCT
+%spa:	$SO $ST
+%tim:	1:7 0:3
+*ATT:	o:h don't ya ?
+%mor:	co|oh mod|do~neg|not pro|you ?
+%gra:	1|4|COM 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|PUNCT
+%spa:	$SO $TQ
+%tim:	1:1 1:5
+*ATT:	&hmm ?
+%spa:	$SO $RI $TQ
+%tim:	6 1:4
+@Comment:	Pause it to one line interruption by me; break is 3.3
+*TUR:	you looking at Myron ?
+%mor:	pro|you part|look-PRESP prep|at n:prop|Myron ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|3|POBJ 5|2|PUNCT
+%spa:	$Y-N
+%tim:	1:1 0:3
+*ATT:	hey ?
+%mor:	co|hey ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$RI $TQ
+%tim:	3 4:6
+@Comment:	Pause is to rattle; break is 5.2
+*TUR:	you're wondering what he's doing aren't you ?
+%mor:	pro|you~aux|be&PRES part|wonder-PRESP pro:wh|what
+	pro:sub|he~aux|be&3S part|do-PRESP aux|be&PRES~neg|not pro|you ?
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|7|LINK 5|7|SUBJ 6|7|AUX 7|3|COMP 8|10|AUX
+	9|8|NEG 10|7|OBJ 11|3|PUNCT
+%spa:	$STQ
+%tim:	1:7 1:1
+*TUR:	you're wondering why he's sitting over there ?
+%mor:	pro|you~aux|be&PRES n:gerund|wonder-PRESP adv:wh|why
+	pro:sub|he~aux|be&3S part|sit-PRESP prep|over pro:dem|there ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|7|LINK 5|7|SUBJ 6|7|AUX 7|3|CJCT 8|7|JCT
+	9|8|POBJ 10|2|PUNCT
+%spa:	$Y-N
+%tim:	1:8 0:3
+*TUR:	that's it move that round your fingers that's a good boy .
+%mor:	pro:dem|that~cop|be&3S pro|it v|move det|that n|round
+	pro:poss:det|your n|finger-PL pro:dem|that~cop|be&3S art|a adj|good
+	n|boy .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|SUBJ 4|2|PRED 5|6|DET 6|4|OBJ 7|8|MOD 8|6|XMOD
+	9|10|SUBJ 10|8|CMOD 11|13|MOD 12|13|MOD 13|10|PRED 14|2|PUNCT
+%spa:	$CO
+%tim:	2:8 0:9
+*ATT:	that's it .
+%mor:	pro:dem|that~cop|be&3S pro|it .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+%spa:	$BC
+%tim:	7 1:1
+*TUR:	if you move it with your fingers it makes a nice noise .
+%mor:	conj|if pro|you v|move pro|it prep|with pro:poss:det|your
+	n|finger-PL pro|it v|make-3S art|a adj|nice n|noise .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|JCT 6|7|MOD 7|5|POBJ 8|9|SUBJ
+	9|3|COMP 10|12|MOD 11|12|MOD 12|9|OBJ 13|3|PUNCT
+%spa:	$ST
+%tim:	2:5 1:3
+@Comment:	Pause is to rattle; break is 10.0
+*TUR:	you are aren't ya ?
+%mor:	pro|you cop|be&PRES aux|be&PRES~neg|not pro|you ?
+%gra:	1|2|SUBJ 2|5|SUBJ 3|5|AUX 4|3|NEG 5|0|ROOT 6|5|PUNCT
+%spa:	$STQ
+%tim:	1:0 1:4
+@Comment:	Pause is to rattle , then mother asides; break is 6.6
+*ATT:	don't you ?
+%mor:	mod|do~neg|not pro|you ?
+%gra:	1|3|AUX 2|1|NEG 3|0|ROOT 4|3|PUNCT
+%spa:	$TQ
+%tim:	5 2:3
+*TUR:	you're a tv addict already aren't you ?
+%mor:	pro|you~aux|be&PRES art|a n|tv n|addict adv|already
+	aux|be&PRES~neg|not pro|you ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|5|MOD 5|3|OBJ 6|9|JCT 7|9|AUX 8|7|NEG
+	9|5|OBJ 10|2|PUNCT
+%spa:	$STQ
+%tim:	1:9 8:0
+@Comment:	Pause is to my interruption; break is 25.1
+*TUR:	what chou [: you] looking at you still looking at Myron ?
+%mor:	pro:wh|what pro|you part|look-PRESP prep|at pro|you adv|still
+	part|look-PRESP prep|at n:prop|Myron ?
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|7|SUBJ 6|7|JCT 7|4|POBJ 8|3|JCT
+	9|8|POBJ 10|3|PUNCT
+%spa:	$Y-N
+%tim:	1:8 0:5
+*ATT:	hey ?
+%mor:	co|hey ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$RI $TQ
+%tim:	3 0:4
+*ATT:	are you ?
+%mor:	cop|be&PRES pro|you ?
+%gra:	1|0|ROOT 2|1|PRED 3|1|PUNCT
+%spa:	$TQ
+%tim:	6 2:5
+*ATT:	o:h ?
+%mor:	co|oh ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$SO $BC
+%tim:	8 0:6
+*ATT:	o:h ?
+%mor:	co|oh ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$SO $BC $C
+%tim:	9 5:3
+*TUR:	&hmm what's he doing ?
+%mor:	pro:wh|what~aux|be&3S pro:sub|he part|do-PRESP ?
+%gra:	1|4|LINK 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+%spa:	$SO $WH
+%tim:	1:2 2:3
+*TUR:	what's this here ?
+%mor:	pro:wh|what~cop|be&3S pro:dem|this adv|here ?
+%gra:	1|2|LINK 2|0|ROOT 3|2|PRED 4|3|JCT 5|2|PUNCT
+%spa:	$WH
+%tim:	9 1:1
+*TUR:	&hmm what's this ?
+%mor:	pro:wh|what~cop|be&3S pro:dem|this ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+%spa:	$SO $WH $C
+%tim:	8 11:8
+*ATT:	&hmm ?
+%spa:	$RI $TQ
+%tim:	5 0:8
+*ATT:	hang on ?
+%mor:	v|hang adv|on ?
+%gra:	1|0|ROOT 2|1|JCT 3|1|PUNCT
+%spa:	$PH
+%tim:	6 2:6
+*TUR:	aren't ya interested in this little rattle ?
+%mor:	aux|be&PRES~neg|not pro|you v|interest-PAST prep|in det|this
+	adj|little n|rattle ?
+%gra:	1|4|LINK 2|1|NEG 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|8|DET 7|8|MOD 8|5|POBJ
+	9|4|PUNCT
+%spa:	$Y-N
+%tim:	1:9 0:6
+*ATT:	no ?
+%mor:	co|no ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$RI $TQ
+%tim:	6 1:6
+*TUR:	it's a nice one .
+%mor:	pro|it~cop|be&3S art|a adj|nice pro:indef|one .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|MOD 4|5|MOD 5|2|PRED 6|2|PUNCT
+%spa:	$ST
+%tim:	1:1 2:5
+*TUR:	one that you can hold .
+%mor:	pro:indef|one rel|that pro|you mod|can v|hold .
+%gra:	1|0|INCROOT 2|5|LINK 3|5|SUBJ 4|5|AUX 5|1|COMP 6|1|PUNCT
+%spa:	$ST
+%tim:	1:3 6:3
+@Comment:	Pause is to Mother , then immitation electric razor sounds; break is 19.5
+*TUR:	that what daddy does ?
+%mor:	pro:dem|that pro:wh|what n|daddy mod|do&3S ?
+%gra:	1|4|LINK 2|4|LINK 3|4|MOD 4|0|ROOT 5|4|PUNCT
+%spa:	$RI $Y-N
+%tim:	1:1 1:0
+*TUR:	in the morning ?
+%mor:	prep|in art|the n|morning ?
+%gra:	1|0|INCROOT 2|3|MOD 3|1|POBJ 4|1|PUNCT
+%spa:	$RI $Y-N
+%tim:	9 10:3
+@Comment:	Pause is to rattle; break is 2.9
+*ATT:	what's that ?
+%mor:	pro:wh|what~cop|be&3S pro:dem|that ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+%spa:	$WH $EX
+%tim:	8 4:5
+@Comment:	Pause is to one line by me; break is 1.3
+*TUR:	are you going to sleep ?
+%mor:	cop|be&PRES pro|you part|go-PRESP inf|to v|sleep ?
+%gra:	1|0|ROOT 2|1|OBJ 3|2|XMOD 4|5|INF 5|3|XCOMP 6|1|PUNCT
+%spa:	$Y-N
+%tim:	1:5 0:9
+*ATT:	oh dear .
+%mor:	co|oh co|dear .
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+%spa:	$BC
+%tim:	6 1:9
+*ATT:	oh dear .
+%mor:	co|oh co|dear .
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+%spa:	$BC $C
+%tim:	6 0:5
+@Comment:	Pause is to rattle; break is 1.4
+*ATT:	that's it .
+%mor:	pro:dem|that~cop|be&3S pro|it .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+%spa:	$BC
+%tim:	8 0:3
+*TUR:	you shake your rattle .
+%mor:	pro|you v|shake pro:poss:det|your n|rattle .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|MOD 4|2|OBJ 5|2|PUNCT
+%spa:	$CO $F $I
+%tim:	2:0 7:8
+@Comment:	Pause is to my interruption. End here as baby falls asleep , Total running time is approximately 15 minutes
+@End

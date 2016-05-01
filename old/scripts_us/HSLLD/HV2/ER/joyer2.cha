@@ -1,0 +1,152 @@
+@UTF8
+@PID:	11312/c-00035185-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child , MOT Mother , INV Investigator
+@ID:	eng|HSLLD|CHI|4;10.01|female|||Target_Child|||
+@ID:	eng|HSLLD|MOT|||||Mother|12||
+@ID:	eng|HSLLD|INV|||||Investigator|||
+@Comment:	SES of Mot is lower
+@Date:	14-MAY-1990
+@Location:	Boston , MA USA
+@Situation:	Home Visit 2
+@Activities:	Elicited report
+@Transcriber:	Eliza Whitbeck , Brenda Kurland Dernis
+*MOT:	0do you want to tell me about when you got your ears pierced ?
+%mor:	0aux|do pro|you v|want inf|to v|tell pro:obj|me adv|about conj|when
+	pro|you v|get&PAST pro:poss:det|your n|ear-PL v|pierce-PAST ?
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|INF 5|3|XCOMP 6|5|OBJ 7|5|JCT 8|10|LINK
+	9|10|SUBJ 10|5|CJCT 11|12|MOD 12|13|SUBJ 13|10|OBJ 14|3|PUNCT
+@Comment:	Time is 16:45
+*MOT:	okay .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	what was that like ?
+%mor:	pro:wh|what cop|be&PAST&13S rel|that v|like ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|LINK 4|2|PRED 5|2|PUNCT
+*CHI:	oh .
+%mor:	co|oh .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	it hurted me so much .
+%mor:	pro|it v|hurt-PAST pro:obj|me adv|so qn|much .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|5|JCT 5|2|JCT 6|2|PUNCT
+*MOT:	it hurted you so much ?
+%mor:	pro|it v|hurt-PAST pro|you adv|so qn|much ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|5|JCT 5|2|JCT 6|2|PUNCT
+*MOT:	well what did they have you do ?
+%mor:	co|well pro:wh|what mod|do&PAST pro:sub|they v|have pro|you v|do ?
+%gra:	1|5|COM 2|5|LINK 3|5|AUX 4|5|SUBJ 5|0|ROOT 6|7|SUBJ 7|5|OBJ 8|5|PUNCT
+*CHI:	xxx .
+*MOT:	while I was busy (.) paying for it .
+%mor:	conj|while pro:sub|I cop|be&PAST&13S adj|busy part|pay-PRESP
+	prep|for pro|it .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|3|PRED 6|5|JCT 7|6|POBJ 8|3|PUNCT
+*MOT:	+^ so I didn't get to hear what she was saying .
+%mor:	co|so pro:sub|I mod|do&PAST~neg|not v|get inf|to v|hear pro:wh|what
+	pro:sub|she aux|be&PAST&13S part|say-PRESP .
+%gra:	1|5|COM 2|5|SUBJ 3|5|AUX 4|3|NEG 5|0|ROOT 6|7|INF 7|5|XCOMP 8|11|LINK
+	9|11|SUBJ 10|11|AUX 11|7|COMP 12|5|PUNCT
+*MOT:	can you tell me about it ?
+%mor:	mod|can pro|you v|tell pro:obj|me prep|about pro|it ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|JCT 6|5|POBJ 7|3|PUNCT
+*MOT:	like what she told you to do .
+%mor:	v|like pro:wh|what pro:sub|she v|tell&PAST pro|you inf|to v|do .
+%gra:	1|0|ROOT 2|4|LINK 3|4|SUBJ 4|1|COMP 5|4|OBJ 6|7|INF 7|5|XCOMP 8|1|PUNCT
+*MOT:	wasn't there an animal on her chair ?
+%mor:	cop|be&PAST&13S~neg|not adv|there det|a n|animal prep|on
+	pro:poss:det|her n|chair ?
+%gra:	1|0|ROOT 2|1|NEG 3|5|JCT 4|5|DET 5|1|PRED 6|5|NJCT 7|8|MOD 8|6|POBJ
+	9|1|PUNCT
+*CHI:	yep .
+%mor:	co|yep .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	she told me to &um (.) stay there and xxx go in your nose .
+%mor:	pro:sub|she v|tell&PAST pro:obj|me prep|to n|stay adv|there
+	coord|and v|go prep|in pro:poss:det|your n|nose .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|JCT 5|4|POBJ 6|5|NJCT 7|2|CONJ 8|7|COORD
+	9|8|JCT 10|11|MOD 11|9|POBJ 12|2|PUNCT
+*MOT:	so it wouldn't go in your nose ?
+%mor:	co|so pro|it mod|will&COND~neg|not v|go prep|in pro:poss:det|your
+	n|nose ?
+%gra:	1|5|COM 2|5|SUBJ 3|5|AUX 4|3|NEG 5|0|ROOT 6|5|JCT 7|8|MOD 8|6|POBJ
+	9|5|PUNCT
+*MOT:	what wouldn't go in your nose ?
+%mor:	pro:wh|what mod|will&COND~neg|not v|go prep|in pro:poss:det|your
+	n|nose ?
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|JCT 6|7|MOD 7|5|POBJ 8|4|PUNCT
+*CHI:	the ear+ring !
+%mor:	det|the n|+n|ear+n|ring !
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*INV:	<that's funny> [>] .
+%mor:	pro:dem|that~cop|be&3S adj|fun&dn-Y .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+%par:	laughing
+*MOT:	<so did you stay still> [<] ?
+%mor:	adv|so mod|do&PAST pro|you v|stay adv|still ?
+%gra:	1|4|JCT 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|4|PUNCT
+*MOT:	you did stay still ?
+%mor:	pro|you v|do&PAST n|stay adv|still ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|JCT 5|2|PUNCT
+*CHI:	mhm .
+%mor:	co|yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	oh yeah .
+%mor:	co|oh co|yeah .
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+*MOT:	she got it in your ear !
+%mor:	pro:sub|she v|get&PAST pro|it prep|in pro:poss:det|your n|ear !
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|JCT 5|6|MOD 6|4|POBJ 7|2|PUNCT
+*MOT:	what else did they tell you ?
+%mor:	pro:wh|what post|else mod|do&PAST pro:sub|they v|tell pro|you ?
+%gra:	1|5|LINK 2|1|PQ 3|5|AUX 4|5|SUBJ 5|0|ROOT 6|5|OBJ 7|5|PUNCT
+*CHI:	nothing .
+%mor:	pro:indef|nothing .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%int:	shyly
+*MOT:	you're supposed to tell me a big long story here .
+%mor:	pro|you~aux|be&PRES part|suppose-PASTP inf|to v|tell pro:obj|me
+	det|a adj|big adj|long n|story adv|here .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|INF 5|3|XCOMP 6|5|OBJ 7|10|DET 8|10|MOD
+	9|10|MOD 10|5|OBJ 11|10|NJCT 12|3|PUNCT
+*CHI:	there's nothin(g) else .
+%mor:	pro:exist|there~cop|be&3S pro:indef|nothing post|else .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|3|PQ 5|2|PUNCT
+*MOT:	well what happened after you got your ears pierced ?
+%mor:	co|well pro:wh|what v|happen-PAST prep|after pro|you v|get&PAST
+	pro:poss:det|your n|ear-PL v|pierce-PAST ?
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|SUBJ 6|4|POBJ 7|8|MOD 8|9|SUBJ
+	9|3|COMP 10|3|PUNCT
+*CHI:	we went for ice cream !
+%mor:	pro:sub|we v|go&PAST prep|for n|ice n|cream !
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|5|MOD 5|3|POBJ 6|2|PUNCT
+*MOT:	we did .
+%mor:	pro:sub|we v|do&PAST .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*MOT:	+^ what kind did you [!] get ?
+%mor:	pro:wh|what n|kind mod|do&PAST pro|you v|get ?
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|5|SUBJ 5|0|ROOT 6|5|PUNCT
+*CHI:	&um mint with the chocolate jimmies on it .
+%mor:	n|mint prep|with det|the n|chocolate v|jimmy-3S prep|on pro|it .
+%gra:	1|0|INCROOT 2|5|LINK 3|4|DET 4|5|SUBJ 5|1|CJCT 6|5|JCT 7|6|POBJ
+	8|1|PUNCT
+*MOT:	&mm .
+*MOT:	nice [?] .
+%mor:	adj|nice .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	&um we went to xxx +...
+%mor:	pro:sub|we v|go&PAST prep|to +...
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|2|PUNCT
+*MOT:	to grammy's@d .
+%mor:	inf|to dia|grammy's .
+%gra:	1|2|INF 2|0|ROOT 3|2|PUNCT
+*MOT:	then what ?
+%mor:	adv:tem|then pro:wh|what ?
+%gra:	1|2|JCT 2|0|ROOT 3|2|PUNCT
+*CHI:	&um (.) went home .
+%mor:	v|go&PAST adv|home .
+%gra:	1|0|ROOT 2|1|JCT 3|1|PUNCT
+*INV:	okay .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+@Comment:	Time is 18:16
+@End

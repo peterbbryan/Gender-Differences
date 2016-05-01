@@ -1,0 +1,236 @@
+@UTF8
+@PID:	11312/c-00010976-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, MOT Mother, SIS Sister
+@ID:	eng|Braunwald|CHI|02;07.15|female|||Target_Child|||
+@ID:	eng|Braunwald|MOT|||||Mother|||
+@ID:	eng|Braunwald|SIS|||||Sister|||
+@Date:	05-OCT-1973
+*MOT:	wear something warm .
+%mor:	v|wear pro:indef|something adj|warm .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|JCT 4|1|PUNCT
+%sit:	780
+*CHI:	my sweater dress is warm .
+%mor:	pro:poss:det|my n|sweater n|dress cop|be&3S adj|warm .
+%gra:	1|2|MOD 2|4|SUBJ 3|4|SUBJ 4|0|ROOT 5|4|PRED 6|4|PUNCT
+%sit:	780
+*CHI:	my pantsuit is awful warm .
+%mor:	pro:poss:det|my n|pantsuit cop|be&3S adj|awful adj|warm .
+%gra:	1|2|MOD 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|3|PRED 6|3|PUNCT
+%sit:	780
+*MOT:	wear whatever you want as long as it is warm .
+%mor:	v|wear pro:wh|whatever pro|you v|want prep|as adj|long prep|as
+	pro|it cop|be&3S adj|warm .
+%gra:	1|0|ROOT 2|4|OBJ 3|4|SUBJ 4|1|COMP 5|4|JCT 6|5|POBJ 7|6|JCT 8|9|SUBJ
+	9|7|POBJ 10|6|JCT 11|1|PUNCT
+%sit:	780
+*SIS:	that's my book .
+%mor:	pro:dem|that~aux|be&3S pro:poss:det|my n|book .
+%gra:	1|4|SUBJ 2|4|AUX 3|4|MOD 4|0|INCROOT 5|4|PUNCT
+%sit:	781
+*CHI:	can I take it to school ?
+%mor:	mod|can pro:sub|I v|take pro|it prep|to n|school ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|JCT 6|5|POBJ 7|3|PUNCT
+%sit:	781
+*SIS:	yeah, but don't lose it .
+%mor:	co|yeah cm|cm conj|but mod|do~neg|not v|lose pro|it .
+%gra:	1|6|COM 2|1|LP 3|6|SUBJ 4|6|AUX 5|4|NEG 6|0|ROOT 7|6|OBJ 8|6|PUNCT
+%sit:	781
+*CHI:	you will be sad if I lose it .
+%mor:	pro|you mod|will cop|be adj|sad conj|if pro:sub|I v|lose pro|it .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|PRED 5|7|LINK 6|7|SUBJ 7|3|CJCT 8|7|OBJ
+	9|3|PUNCT
+%sit:	781
+*CHI:	Sue, little bit my mail tore .
+%mor:	n:prop|Sue cm|cm adj|little n|bit pro:poss:det|my n|mail
+	v|tear&PAST .
+%gra:	1|4|MOD 2|1|LP 3|4|MOD 4|7|LINK 5|6|MOD 6|7|SUBJ 7|0|ROOT 8|7|PUNCT
+%sit:	782
+*CHI:	Sue, little bit my mail tore .
+%mor:	n:prop|Sue cm|cm adj|little n|bit pro:poss:det|my n|mail
+	v|tear&PAST .
+%gra:	1|4|MOD 2|1|LP 3|4|MOD 4|7|LINK 5|6|MOD 6|7|SUBJ 7|0|ROOT 8|7|PUNCT
+%sit:	782
+*CHI:	I did it by accident .
+%mor:	pro:sub|I mod|do&PAST pro|it prep|by n|accident .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|3|JCT 5|4|POBJ 6|2|PUNCT
+%sit:	782
+*CHI:	it's wet .
+%mor:	pro|it~aux|be&3S part|wet&PASTP .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|PUNCT
+%sit:	783
+*CHI:	how_come it's wet ?
+%mor:	adv:wh|how_come pro|it~aux|be&3S part|wet&PASTP ?
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|PUNCT
+%sit:	783
+*MOT:	John &ah +...
+%mor:	n:prop|John +...
+%gra:	1|0|INCROOT 2|1|PUNCT
+%sit:	783
+*CHI:	hosed it .
+%mor:	part|hose-PASTP pro|it .
+%gra:	1|0|INCROOT 2|1|OBJ 3|1|PUNCT
+%sit:	783
+*CHI:	John hosed it .
+%mor:	n:prop|John part|hose-PASTP pro|it .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+%sit:	783
+*MOT:	yeah .
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%sit:	783
+*CHI:	may I come in ?
+%mor:	mod|may pro:sub|I v|come adv|in ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|PUNCT
+%sit:	784
+*CHI:	may I with wet socks ?
+%mor:	mod|may pro:sub|I prep|with adj|wet n|sock-PL ?
+%gra:	1|0|INCROOT 2|1|INCROOT 3|2|JCT 4|5|MOD 5|3|POBJ 6|2|PUNCT
+%sit:	784
+*MOT:	oh, that's pretty wet .
+%mor:	co|oh cm|cm pro:dem|that~cop|be&3S adv|pretty part|wet&PASTP .
+%gra:	1|6|COM 2|1|LP 3|6|SUBJ 4|6|AUX 5|6|JCT 6|0|ROOT 7|6|PUNCT
+%sit:	784
+*CHI:	hey, the fireplace got rusty .
+%mor:	co|hey cm|cm det|the n|+n|fire+n|place v|get&PAST adj|rust&dn-Y .
+%gra:	1|5|COM 2|1|LP 3|4|DET 4|5|SUBJ 5|0|ROOT 6|5|JCT 7|5|PUNCT
+%sit:	785
+*CHI:	see see .
+%mor:	co|see co|see .
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+%sit:	785
+*MOT:	no, that's not rusty, the log burnt .
+%mor:	co|no cm|cm pro:dem|that~cop|be&3S neg|not adj|rust&dn-Y cm|cm
+	det|the n|log v|burn&PAST .
+%gra:	1|4|COM 2|1|LP 3|4|SUBJ 4|0|ROOT 5|4|NEG 6|4|PRED 7|4|LP 8|9|DET
+	9|10|SUBJ 10|4|PRED 11|4|PUNCT
+%sit:	785
+*CHI:	we can make kitty+cat food of these .
+%mor:	pro:sub|we mod|can v|make n|+n|kitty+n|cat n|food prep|of
+	pro:dem|these .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|4|XMOD 6|5|NJCT 7|6|POBJ 8|3|PUNCT
+%sit:	786
+*MOT:	no, we can't, but you can pretend .
+%mor:	co|no cm|cm pro:sub|we mod|can~neg|not cm|cm conj|but pro|you
+	mod|can v|pretend .
+%gra:	1|4|COM 2|1|LP 3|4|SUBJ 4|0|ROOT 5|4|NEG 6|4|LP 7|10|LINK 8|10|SUBJ
+	9|10|AUX 10|4|CJCT 11|4|PUNCT
+%sit:	786
+*CHI:	let me put (th)em in the (re)frigerator for next week .
+%mor:	v|let&ZERO pro:obj|me v|put&ZERO pro:obj|them prep|in det|the
+	n|refrigerator prep|for adj|next n|week .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|COMP 4|3|OBJ 5|3|JCT 6|7|DET 7|5|POBJ 8|3|JCT
+	9|10|MOD 10|8|POBJ 11|1|PUNCT
+%sit:	786
+*CHI:	lookit we can have it for cold cereal .
+%mor:	co|lookit pro:sub|we mod|can v|have pro|it prep|for n|cold n|cereal
+	.
+%gra:	1|4|COM 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|4|JCT 7|8|MOD 8|6|POBJ
+	9|4|PUNCT
+%sit:	787
+*MOT:	no, honey .
+%mor:	co|no cm|cm n|honey .
+%gra:	1|3|COM 2|1|LP 3|0|INCROOT 4|3|PUNCT
+%sit:	787
+*MOT:	it's bark for the ground .
+%mor:	pro|it~cop|be&3S n|bark prep|for det|the n|ground .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|JCT 5|6|DET 6|4|POBJ 7|2|PUNCT
+%sit:	787
+*MOT:	it's really not to eat .
+%mor:	pro|it~cop|be&3S adv|real&dadj-LY neg|not inf|to v|eat .
+%gra:	1|2|SUBJ 2|0|ROOT 3|6|JCT 4|3|NEG 5|6|INF 6|2|PRED 7|2|PUNCT
+%sit:	787
+*MOT:	Laura, maybe you should do one at a time .
+%mor:	n:prop|Laura cm|cm adv|maybe pro|you mod|should v|do pro:indef|one
+	prep|at det|a n|time .
+%gra:	1|6|SUBJ 2|1|LP 3|6|JCT 4|6|SUBJ 5|6|AUX 6|0|ROOT 7|6|OBJ 8|6|JCT
+	9|10|DET 10|8|POBJ 11|6|PUNCT
+%sit:	788
+*CHI:	I can do two, see ?
+%mor:	pro:sub|I mod|can v|do det:num|two cm|cm v|see ?
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|6|QUANT 5|4|LP 6|3|OBJ 7|3|PUNCT
+%sit:	788
+*CHI:	I'll stop on my way .
+%mor:	pro:sub|I~mod|will v|stop prep|on pro:poss:det|my n|way .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|6|MOD 6|4|POBJ 7|3|PUNCT
+%sit:	788
+*CHI:	pretty soon bathroom .
+%mor:	adv|pretty adv|soon n|+n|bath+n|room .
+%gra:	1|3|JCT 2|3|JCT 3|0|INCROOT 4|3|PUNCT
+%sit:	788
+*CHI:	see ?
+%mor:	v|see ?
+%gra:	1|0|ROOT 2|1|PUNCT
+%sit:	788
+*CHI:	Ma, I used all up my milk .
+%mor:	n:prop|Ma cm|cm pro:sub|I v|use-PAST adv|all prep|up
+	pro:poss:det|my n|milk .
+%gra:	1|4|LINK 2|1|LP 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|4|JCT 7|8|MOD 8|6|POBJ
+	9|4|PUNCT
+%sit:	789
+*CHI:	first I gotta go bathroom .
+%mor:	adv|first pro:sub|I mod:aux|gotta v|go n|+n|bath+n|room .
+%gra:	1|4|JCT 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+%sit:	790
+*CHI:	then I will be all set .
+%mor:	adv:tem|then pro:sub|I mod|will cop|be adv|all n|set .
+%gra:	1|4|JCT 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|JCT 6|4|PRED 7|4|PUNCT
+%sit:	790
+*MOT:	okay .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%sit:	790
+*CHI:	it's okay (be)cause I don't wanna drink it and I'm not thirsty .
+%mor:	pro|it~cop|be&3S adj|okay conj|because pro:sub|I mod|do~neg|not
+	v|want~inf|to v|drink pro|it conj|and pro:sub|I~cop|be&1S neg|not
+	adj|thirst&dn-Y .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|8|LINK 5|8|SUBJ 6|8|AUX 7|6|NEG 8|2|CJCT
+	9|10|INF 10|8|XCOMP 11|10|OBJ 12|14|LINK 13|14|SUBJ 14|10|CJCT 15|14|NEG
+	16|14|PRED 17|2|PUNCT
+%sit:	791
+*CHI:	which one to open a door ?
+%mor:	rel|which pro:indef|one inf|to v|open det|a n|door ?
+%gra:	1|2|LINK 2|0|ROOT 3|4|INF 4|2|XCOMP 5|6|DET 6|4|OBJ 7|2|PUNCT
+%sit:	792
+*CHI:	which one to open he's [: his] [*] car door ?
+%mor:	rel|which pro:indef|one inf|to v|open pro:poss:det|his n|car n|door
+	?
+%gra:	1|2|LINK 2|0|ROOT 3|4|INF 4|2|XCOMP 5|7|MOD 6|7|MOD 7|4|OBJ 8|2|PUNCT
+%sit:	792
+*CHI:	show me .
+%mor:	v|show pro:obj|me .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+%sit:	792
+*CHI:	Mommy, which one to open the trunk, which one ?
+%mor:	n:prop|Mommy cm|cm rel|which pro:indef|one inf|to v|open det|the
+	n|trunk cm|cm rel|which pro:indef|one ?
+%gra:	1|0|INCROOT 2|1|LP 3|4|LINK 4|1|CMOD 5|6|INF 6|4|XCOMP 7|8|DET 8|6|OBJ
+	9|8|LP 10|11|LINK 11|8|CMOD 12|1|PUNCT
+*CHI:	show me .
+%mor:	v|show pro:obj|me .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+%sit:	793
+*CHI:	Grandma, I got a message for you .
+%mor:	n:prop|Grandma cm|cm pro:sub|I v|get&PAST det|a n|message prep|for
+	pro|you .
+%gra:	1|4|LINK 2|1|LP 3|4|SUBJ 4|0|ROOT 5|6|DET 6|4|OBJ 7|6|NJCT 8|7|POBJ
+	9|4|PUNCT
+%sit:	794
+*MOT:	okay, thank_you, I'll write it down .
+%mor:	co|okay cm|cm n|thank_you cm|cm pro:sub|I~mod|will v|write pro|it
+	adv|down .
+%gra:	1|3|COM 2|1|LP 3|7|LINK 4|3|LP 5|7|SUBJ 6|7|AUX 7|0|ROOT 8|7|OBJ
+	9|7|JCT 10|7|PUNCT
+%sit:	794
+*MOT:	what's it say ?
+%mor:	rel|what~aux|be&3S pro|it v|say ?
+%gra:	1|2|LINK 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+%sit:	794
+*CHI:	dear Grandma, thank you for the Santa_Barbara .
+%mor:	adj|dear n:prop|Grandma cm|cm v|thank pro|you prep|for det|the
+	n:prop|Santa_Barbara .
+%gra:	1|4|LINK 2|4|SUBJ 3|2|LP 4|0|ROOT 5|4|OBJ 6|4|JCT 7|8|DET 8|6|POBJ
+	9|4|PUNCT
+%sit:	794
+@End

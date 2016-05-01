@@ -1,0 +1,77 @@
+@UTF8
+@PID:	11312/c-00010590-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, MOT Mother
+@ID:	eng|Braunwald|CHI|01;05.27|female|||Target_Child|||
+@ID:	eng|Braunwald|MOT|||||Mother|||
+@Date:	16-AUG-1972
+*CHI:	Gluck poo .
+%mor:	n:prop|Gluck co|poo .
+%gra:	1|0|INCROOT 2|1|COM 3|1|PUNCT
+%sit:	1431
+*CHI:	Baura [: Laura] .
+%mor:	n:prop|Laura .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%sit:	1431
+*CHI:	pour pour .
+%mor:	v|pour v|pour .
+%gra:	1|2|SRL 2|0|ROOT 3|2|PUNCT
+%sit:	1432
+*CHI:	bike Baura [: Laura] .
+%mor:	n|bike n:prop|Laura .
+%gra:	1|0|INCROOT 2|1|APP 3|1|PUNCT
+%sit:	1433
+*CHI:	out Baura [: Laura] .
+%mor:	prep|out n:prop|Laura .
+%gra:	1|0|INCROOT 2|1|POBJ 3|1|PUNCT
+%sit:	1434
+*CHI:	pit pit .
+%mor:	n|pit n|pit .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+%sit:	1435
+*CHI:	Mommy .
+%mor:	n:prop|Mommy .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%sit:	1436
+*MOT:	what ?
+%mor:	pro:wh|what ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%sit:	1436
+*CHI:	Laura Laura .
+%mor:	n:prop|Laura n:prop|Laura .
+%gra:	1|0|INCROOT 2|1|APP 3|1|PUNCT
+%sit:	1436
+*CHI:	me bea(d)s .
+%mor:	pro:obj|me n|bead-PL .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+%sit:	1437
+*CHI:	poopoo .
+%mor:	n|+on|poo+on|poo .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%sit:	1438
+*MOT:	who made poopoo ?
+%mor:	rel|who v|make&PAST n|+on|poo+on|poo ?
+%gra:	1|2|LINK 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+%sit:	1438
+*CHI:	Laura .
+%mor:	n:prop|Laura .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%sit:	1438
+*CHI:	byer@c [= banana] Sean bite .
+%mor:	chi|byer n:prop|Sean n|bite .
+%gra:	1|0|INCROOT 2|3|MOD 3|1|PRED 4|1|PUNCT
+%sit:	1440
+*CHI:	Sue towel .
+%mor:	n:prop|Sue n|towel .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+%sit:	1441
+*CHI:	car Mommy .
+%mor:	n|car n:prop|Mommy .
+%gra:	1|0|INCROOT 2|1|APP 3|1|PUNCT
+%sit:	1442
+*CHI:	pull pull .
+%mor:	v|pull v|pull .
+%gra:	1|2|SRL 2|0|ROOT 3|2|PUNCT
+%sit:	1443
+@End

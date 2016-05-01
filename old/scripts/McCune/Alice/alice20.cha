@@ -1,0 +1,2226 @@
+@UTF8
+@PID:	11312/c-00016732-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, MOT Mother
+@ID:	eng|McCune|CHI|1;8.||||Target_Child|||
+@ID:	eng|McCune|MOT|||||Mother|||
+@Birth of CHI:	07-JUL-1979
+@Date:	10-MAR-1981
+@Media:	alice20, video
+@New Episode
+*CHI:	0 . 0_2450
+%act:	takes popbeads, discards
+@New Episode
+*CHI:	0 . 2450_4285
+%act:	takes purse, discards
+@New Episode
+*CHI:	Oscar [x 2] . 4285_6475
+%mor:	n:prop|Oscar .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	takes puppet
+*MOT:	Oscar . 6475_7423
+%mor:	n:prop|Oscar .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	yeah . 7423_7948
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	find, Grover . 7948_11261
+%mor:	v|find cm|cm n:prop|Grover .
+%gra:	1|0|ROOT 2|1|LP 3|1|OBJ 4|1|PUNCT
+%act:	moves blanket
+*CHI:	find, Grover . 11261_13631
+%mor:	v|find cm|cm n:prop|Grover .
+%gra:	1|0|ROOT 2|1|LP 3|1|OBJ 4|1|PUNCT
+%act:	reaches into bucket
+*MOT:	find Grover . 13631_14248
+%mor:	v|find n:prop|Grover .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+*MOT:	can you find him ? 14248_14966
+%mor:	mod|can pro|you v|find pro:obj|him ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*CHI:	0 . 14966_16615
+%act:	takes Grover from bucket
+*MOT:	up . 14966_16198
+%mor:	adv|up .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	took, Oscar . 16198_19931
+%mor:	v|take&PAST cm|cm n:prop|Oscar .
+%gra:	1|0|ROOT 2|1|LP 3|1|OBJ 4|1|PUNCT
+%act:	holds puppets together
+*CHI:	hello, Oscar . 19931_24166
+%mor:	co|hello cm|cm n:prop|Oscar .
+%gra:	1|3|COM 2|1|LP 3|0|ROOT 4|3|PUNCT
+%act:	holds puppets apart
+*CHI:	those, say, that . 24166_27488
+%mor:	det|those cm|cm v|say cm|cm rel|that .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|LP 5|3|JCT 6|3|PUNCT
+%act:	looks at m
+*CHI:	no . 27488_33913
+%mor:	co|no .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	puts puppets in bucket
+@New Episode
+*CHI:	&un . 33913_37466
+*CHI:	elephant, find . 37466_40060
+%mor:	n|elephant cm|cm v|find .
+%gra:	1|3|SUBJ 2|1|LP 3|0|ROOT 4|3|PUNCT
+*CHI:	0 . 40060_44206
+%act:	takes elephant from bucket
+*CHI:	mommy . 44206_48271
+%mor:	n|mommy .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	requests help from m
+*MOT:	do you remember how to do this ? 48271_51210
+%mor:	mod|do pro|you v|remember adv:wh|how inf|to v|do pro:dem|this ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|6|INF 6|4|XCOMP 7|6|OBJ 8|3|PUNCT
+%act:	holds elephant towards c
+*CHI:	elephant . 51210_57890
+%mor:	n|elephant .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	opens elephant
+*CHI:	0 . 57890_62098
+%act:	closes elephant, looks at m
+*CHI:	0 . 62098_69351
+%act:	opens elephant
+*MOT:	come over here . 69351_70881
+%mor:	v|come prep|over pro:dem|here .
+%gra:	1|0|ROOT 2|1|JCT 3|2|POBJ 4|1|PUNCT
+*MOT:	do you want to come over here ? 70881_72836
+%mor:	mod|do pro|you v|want inf|to v|come prep|over pro:dem|here ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|5|INF 5|3|XCOMP 6|5|JCT 7|6|POBJ 8|3|PUNCT
+*CHI:	0 . 72836_75811
+%act:	squeaks elephant
+*MOT:	what did he say ? 75811_76618
+%mor:	pro:wh|what mod|do&PAST pro:sub|he v|say ?
+%gra:	1|4|LINK 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+*CHI:	what, say ? 76618_84383
+%mor:	pro:wh|what cm|cm v|say ?
+%gra:	1|3|LINK 2|1|LP 3|0|ROOT 4|3|PUNCT
+%act:	squeaks elephant
+*MOT:	I don't know . 84383_85231
+%mor:	pro:sub|I mod|do~neg|not v|know .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|PUNCT
+%act:	takes elephant
+*MOT:	I never heard an elephant say that before . 85231_87511
+%mor:	pro:sub|I adv|never v|hear&PAST det|a n|elephant v|say rel|that
+	adv|before .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|5|DET 5|6|SUBJ 6|3|COMP 7|6|OBJ 8|7|JCT
+	9|7|PUNCT
+*MOT:	push him down again . 87511_88880
+%mor:	v|push pro:obj|him adv|down adv|again .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|JCT 4|1|JCT 5|1|PUNCT
+%act:	holds elephant for c
+*CHI:	0 . 88880_90701
+%act:	pushes button
+*MOT:	that's how you open it . 90701_91463
+%mor:	pro:dem|that~cop|be&3S adv:wh|how pro|you v|open pro|it .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|LINK 4|5|SUBJ 5|2|PRED 6|5|OBJ 7|2|PUNCT
+*MOT:	push this . 91463_92033
+%mor:	v|push pro:dem|this .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+*MOT:	push it down and it will shut . 92033_93168
+%mor:	v|push pro|it adv|down coord|and pro|it mod|will v|shut&ZERO .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|JCT 4|7|LINK 5|7|SUBJ 6|7|AUX 7|1|COMP 8|1|PUNCT
+*CHI:	0 . 93168_94685
+%act:	closes elephant
+*CHI:	no [x 2] . 94685_98335
+%mor:	co|no .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	opens elephant
+*CHI:	0 . 98335_101753
+%act:	laughs
+*MOT:	0 . 98335_101753
+%act:	laughs
+*CHI:	0 . 101753_102393
+%act:	pushes button
+*MOT:	no . 102393_103273
+%mor:	co|no .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	it doesn't come up until you shut it up . 103273_107355
+%mor:	pro|it mod|do&3S~neg|not v|come adv|up prep|until pro|you
+	v|shut&ZERO pro|it adv|up .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|JCT 6|4|JCT 7|8|SUBJ 8|6|POBJ
+	9|4|OBJ 10|9|JCT 11|4|PUNCT
+*CHI:	what, elephant, say ? 107355_111438
+%mor:	pro:wh|what cm|cm n|elephant cm|cm v|say ?
+%gra:	1|5|LINK 2|1|LP 3|5|MOD 4|3|LP 5|0|ROOT 6|5|PUNCT
+%act:	opens elephant
+*MOT:	he's saying squeak . 111438_112691
+%mor:	pro:sub|he~aux|be&3S part|say-PRESP n|squeak .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*CHI:	squeak . 112691_115206
+%mor:	n|squeak .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	closes elephant
+*CHI:	0 . 115206_119290
+%act:	opens elephant, laughs
+*MOT:	0 . 115206_119290
+%act:	laughs
+*CHI:	0 . 119290_130000
+%act:	closes elephant
+*CHI:	0 . 130000_133173
+%act:	opens elephant
+*CHI:	0 . 133173_135636
+%act:	drops elephant on floor, laughs
+*MOT:	0 . 133173_135636
+%act:	laughs
+*CHI:	xxx . 135636_139338
+%act:	sits down, picks up elephant
+*MOT:	do you like that . 139338_141293
+%mor:	mod|do pro|you prep|like pro:dem|that .
+%gra:	1|0|INCROOT 2|1|OBJ 3|2|JCT 4|3|POBJ 5|1|PUNCT
+*CHI:	do [x 3] . 141293_144881
+%mor:	v|do .
+%gra:	1|0|ROOT 2|1|PUNCT
+%act:	closes elephant
+*CHI:	lets, see, that . 144881_151650
+%mor:	v|let-3S cm|cm v|see cm|cm rel|that .
+%gra:	1|0|ROOT 2|1|LP 3|1|ROOT 4|3|LP 5|3|INCROOT 6|5|PUNCT
+%act:	opens elephant
+*MOT:	let me see this . 151650_153960
+%mor:	v|let&ZERO pro:obj|me co|see det|this .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|INCROOT 4|5|DET 5|3|PUNCT
+*MOT:	can I +//? 153960_154561
+%mor:	mod|can pro:sub|I +//?
+%gra:	1|2|AUX 2|0|ROOT 3|2|PUNCT
+*MOT:	let me see this elephant . 154561_157520
+%mor:	v|let&ZERO pro:obj|me v|see det|this n|elephant .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|COMP 4|5|DET 5|3|OBJ 6|1|PUNCT
+%act:	moves c toward camera
+*MOT:	close it up and then you could make him jump out again . 157520_161578
+%mor:	v|close pro|it adv|up coord|and adv:tem|then pro|you mod|could
+	v|make pro:obj|him v|jump adv|out adv|again .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|JCT 4|1|CONJ 5|8|JCT 6|8|SUBJ 7|8|AUX 8|4|COORD
+	9|8|OBJ 10|8|COMP 11|10|JCT 12|10|JCT 13|1|PUNCT
+*CHI:	0 . 161578_171333
+%act:	closes elephant, looks at m
+*MOT:	can you open it up ? 171333_172548
+%mor:	mod|can pro|you v|open pro|it adv|up ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|JCT 6|3|PUNCT
+*CHI:	0 . 172548_179553
+%act:	opens elephant
+*CHI:	0 . 179553_185361
+%act:	closes elephant, looks at m
+*MOT:	very good . 185361_187055
+%mor:	adv|very adj|good .
+%gra:	1|2|JCT 2|0|ROOT 3|2|PUNCT
+*CHI:	0 . 187055_190665
+%act:	opens elephant
+*CHI:	down . 190665_196695
+%mor:	adv|down .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	closes elephant, looks at m
+*MOT:	make him sit down . 196695_198083
+%mor:	v|make pro:obj|him v|sit adv|down .
+%gra:	1|0|ROOT 2|3|SUBJ 3|1|COMP 4|3|JCT 5|1|PUNCT
+*CHI:	do [x 1] . 198083_227553
+%mor:	v|do .
+%gra:	1|0|ROOT 2|1|PUNCT
+%act:	opens elephant
+*CHI:	go, down . 227553_232090
+%mor:	v|go cm|cm adv|down .
+%gra:	1|0|ROOT 2|1|LP 3|1|JCT 4|1|PUNCT
+%act:	closes elephant
+*MOT:	do you want to see anything else to play with ? 232090_234090
+%mor:	mod|do pro|you v|want inf|to v|see pro:indef|anything post|else
+	prep|to n|play prep|with ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|5|INF 5|3|XCOMP 6|5|OBJ 7|6|PQ 8|5|JCT
+	9|8|POBJ 10|5|JCT 11|3|PUNCT
+%act:	moves truck
+*CHI:	0 . 234090_234965
+%act:	opens elephant
+*MOT:	or do you want to play with him ? 234965_236250
+%mor:	coord|or v|do pro|you v|want inf|to v|play prep|with pro:obj|him ?
+%gra:	1|0|INCROOT 2|1|COORD 3|4|SUBJ 4|2|COMP 5|6|INF 6|4|XCOMP 7|6|JCT
+	8|7|POBJ 9|1|PUNCT
+*CHI:	0 . 236250_240630
+%act:	plays with elephant
+*MOT:	do you really like that elephant or do you wanna play with
+	something else ? 240630_246330
+%mor:	mod|do pro|you adv|real&dadj-LY prep|like det|that n|elephant
+	coord|or v|do pro|you v|want~inf|to n|play prep|with
+	pro:indef|something post|else ?
+%gra:	1|2|AUX 2|0|ROOT 3|2|JCT 4|2|JCT 5|6|DET 6|4|POBJ 7|2|CONJ 8|7|COORD
+	9|10|SUBJ 10|8|COMP 11|12|INF 12|10|XCOMP 13|12|NJCT 14|13|POBJ 15|14|PQ
+	16|2|PUNCT
+*CHI:	very, nice, elephant . 246330_257016
+%mor:	adv|very cm|cm adj|nice cm|cm n|elephant .
+%gra:	1|3|JCT 2|1|LP 3|5|MOD 4|3|LP 5|0|INCROOT 6|5|PUNCT
+%act:	squeaks elephant
+*MOT:	very nice elephant . 257016_258056
+%mor:	adv|very adj|nice n|elephant .
+%gra:	1|3|JCT 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+*MOT:	yeah . 258056_258740
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	why don't you look at some other toys then ? 258740_260899
+%mor:	adv:wh|why mod|do~neg|not pro|you v|look prep|at qn|some qn|other
+	n|toy-PL adv:tem|then ?
+%gra:	1|5|LINK 2|5|AUX 3|2|NEG 4|5|SUBJ 5|0|ROOT 6|5|JCT 7|9|QUANT 8|9|QUANT
+	9|6|POBJ 10|9|INCROOT 11|10|PUNCT
+*MOT:	we can play with him later . 260899_262143
+%mor:	pro:sub|we mod|can v|play prep|with pro:obj|him adv|later .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|4|POBJ 6|3|JCT 7|3|PUNCT
+*CHI:	0 . 262143_264315
+%act:	squeaks elephant
+*MOT:	watch your hand . 264315_265476
+%mor:	v|watch pro:poss:det|your n|hand .
+%gra:	1|0|ROOT 2|3|MOD 3|1|OBJ 4|1|PUNCT
+*MOT:	you're shoving it down the top of your hand . 265476_267325
+%mor:	pro|you~aux|be&PRES part|shove-PRESP pro|it adv|down det|the n|top
+	prep|of pro:poss:det|your n|hand .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|3|JCT 6|7|DET 7|3|OBJ 8|7|NJCT
+	9|10|MOD 10|8|POBJ 11|3|PUNCT
+*CHI:	0 . 267325_275485
+%act:	closes elephant, discards
+@New Episode
+*CHI:	play, with, something, else . 275485_277843
+%mor:	n|play cm|cm prep|with cm|cm pro:indef|something cm|cm post|else .
+%gra:	1|0|INCROOT 2|1|LP 3|1|JCT 4|3|LP 5|3|POBJ 6|5|LP 7|5|PQ 8|1|PUNCT
+%act:	gets up
+*MOT:	yeah . 277843_278218
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	play with something else . 278218_279070
+%mor:	n|play prep|with pro:indef|something post|else .
+%gra:	1|0|INCROOT 2|1|NJCT 3|2|POBJ 4|3|PQ 5|1|PUNCT
+*MOT:	see what else is here . 279070_280135
+%mor:	v|see pro:wh|what post|else aux|be&3S adv|here .
+%gra:	1|0|ROOT 2|1|OBJ 3|2|PQ 4|2|INCROOT 5|4|JCT 6|4|PUNCT
+*CHI:	baby, doll . 280135_283795
+%mor:	n|baby cm|cm n|doll .
+%gra:	1|3|MOD 2|1|LP 3|0|INCROOT 4|3|PUNCT
+%act:	takes baby doll, pulls on blanket
+*CHI:	take, clothes, off . 283795_286953
+%mor:	v|take cm|cm n:pt|clothes cm|cm adv|off .
+%gra:	1|0|ROOT 2|1|LP 3|1|COMP 4|3|LP 5|3|JCT 6|1|PUNCT
+*CHI:	take . 286953_288750
+%mor:	v|take .
+%gra:	1|0|ROOT 2|1|PUNCT
+%act:	discards blanket
+*CHI:	how, many, toes, baby ? 288750_292950
+%mor:	adv:wh|how cm|cm qn|many cm|cm n|toe-PL cm|cm n|baby ?
+%gra:	1|5|LINK 2|1|LP 3|5|QUANT 4|3|LP 5|7|MOD 6|5|LP 7|0|INCROOT 8|7|PUNCT
+%act:	takes doll
+*CHI:	how, many ? 292950_295135
+%mor:	adv:wh|how cm|cm qn|many ?
+%gra:	1|3|LINK 2|1|LP 3|0|ROOT 4|3|PUNCT
+%act:	holds doll
+*CHI:	take, clothes off, baby . 295135_299325
+%mor:	v|take cm|cm n:pt|clothes adv|off cm|cm n|baby .
+%gra:	1|0|ROOT 2|1|LP 3|1|COMP 4|6|JCT 5|4|LP 6|3|OBJ 7|1|PUNCT
+*CHI:	take, coat, off . 299325_308446
+%mor:	v|take cm|cm n|coat cm|cm adv|off .
+%gra:	1|0|ROOT 2|1|LP 3|1|OBJ 4|3|LP 5|3|NJCT 6|1|PUNCT
+%act:	pulls on hat strings
+*CHI:	take, hat, off . 308446_310601
+%mor:	v|take cm|cm n|hat cm|cm adv|off .
+%gra:	1|0|ROOT 2|1|LP 3|1|OBJ 4|3|LP 5|3|NJCT 6|1|PUNCT
+*CHI:	pull, off, hat . 310601_317156
+%mor:	v|pull cm|cm adv|off cm|cm n|hat .
+%gra:	1|0|ROOT 2|1|LP 3|5|JCT 4|3|LP 5|1|COMP 6|1|PUNCT
+%act:	pulls on hat
+*CHI:	&un coat, off . 317156_320545
+%mor:	n|coat cm|cm adv|off .
+%gra:	1|0|INCROOT 2|1|LP 3|1|JCT 4|1|PUNCT
+%act:	pulls on coat
+*CHI:	take, coat, off . 320545_326253
+%mor:	v|take cm|cm n|coat cm|cm adv|off .
+%gra:	1|0|ROOT 2|1|LP 3|1|OBJ 4|3|LP 5|3|NJCT 6|1|PUNCT
+%act:	pulls on coat
+*MOT:	you take it off . 326253_327450
+%mor:	pro|you v|take pro|it adv|off .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|JCT 5|2|PUNCT
+*MOT:	you take it off if you want . 327450_328681
+%mor:	pro|you v|take pro|it adv|off conj|if pro|you v|want .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|JCT 5|7|LINK 6|7|SUBJ 7|2|CJCT 8|2|PUNCT
+*CHI:	grr . 328681_331010
+%mor:	co|grr .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	pull
+*CHI:	mommy . 331010_333110
+%mor:	n|mommy .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	gives doll to m
+*CHI:	help, baby, take, coat, off . 333110_337343
+%mor:	v|help cm|cm n|baby cm|cm v|take cm|cm n|coat cm|cm adv|off .
+%gra:	1|0|ROOT 2|1|LP 3|1|OBJ 4|3|LP 5|3|XMOD 6|5|LP 7|5|OBJ 8|7|LP 9|7|NJCT
+	10|1|PUNCT
+*MOT:	let's see . 337343_338591
+%mor:	v|let~pro:obj|us v|see .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|COMP 4|1|PUNCT
+%act:	pulls at jacket
+*MOT:	mommy's not too good at this either . 338591_342710
+%mor:	n|mommy~aux|be&3S neg|not adv|too adj|good prep|at det|this
+	adv|either .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|5|JCT 5|0|ROOT 6|5|JCT 7|8|DET 8|6|POBJ
+	9|5|PUNCT
+%act:	takes jacket off
+*MOT:	okay . 342710_344528
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	0 . 344528_345011
+%act:	gives doll to a
+*CHI:	take, hat, off, too, mommy [x 2] . 345011_353305
+%mor:	v|take cm|cm n|hat cm|cm adv|off cm|cm adv|too cm|cm n|mommy .
+%gra:	1|0|ROOT 2|1|LP 3|9|MOD 4|3|LP 5|9|JCT 6|5|LP 7|9|JCT 8|7|LP 9|1|OBJ
+	10|1|PUNCT
+%act:	pulls on hat
+*CHI:	catch, cold . 353305_355558
+%mor:	v|catch cm|cm n|cold .
+%gra:	1|0|ROOT 2|1|LP 3|1|OBJ 4|1|PUNCT
+*MOT:	she's gonna catch a cold yeah if you take off all these clothes . 355558_359473
+%mor:	pro:sub|she~aux|be&3S part|go-PRESP~inf|to v|catch det|a n|cold
+	co|yeah conj|if pro|you v|take prep|off qn|all det|these
+	n:pt|clothes .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|INF 5|3|XCOMP 6|7|DET 7|5|OBJ 8|3|COM
+	9|11|LINK 10|11|SUBJ 11|3|CJCT 12|11|JCT 13|15|QUANT 14|15|DET 15|12|POBJ
+	16|3|PUNCT
+%act:	takes doll
+@New Episode
+*CHI:	do [x 2] . 359473_365055
+%mor:	v|do .
+%gra:	1|0|ROOT 2|1|PUNCT
+%act:	touches other toys
+*MOT:	do you still want me to take this hat off ? 365055_367026
+%mor:	mod|do pro|you adv|still v|want pro:obj|me inf|to v|take det|this
+	n|hat adv|off ?
+%gra:	1|4|AUX 2|4|SUBJ 3|4|JCT 4|0|ROOT 5|4|OBJ 6|7|INF 7|4|XCOMP 8|9|DET
+	9|7|OBJ 10|7|JCT 11|4|PUNCT
+*CHI:	0 . 367026_371496
+%act:	opens elephant, sighs
+*MOT:	your foot's caught . 371496_374920
+%mor:	pro:poss:det|your n|foot~aux|be&3S part|catch&PASTP .
+%gra:	1|2|MOD 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|PUNCT
+%act:	moves c toward camera
+*MOT:	here we go . 374920_378190
+%mor:	adv|here pro:sub|we v|go .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*CHI:	play &un, toy . 378190_384878
+%mor:	n|play cm|cm n|toy .
+%gra:	1|3|MOD 2|1|LP 3|0|INCROOT 4|3|PUNCT
+%act:	closes elephant
+*CHI:	0 . 384878_387406
+%act:	opens elephant
+*CHI:	0 . 387406_389828
+%act:	squeaks elephant
+@New Episode
+*MOT:	okay . 389828_390461
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	I untied it . 390461_391198
+%mor:	pro:sub|I un#v|tie-PAST pro|it .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+%act:	gives c doll
+*MOT:	now you can take it off if you want . 391198_392616
+%mor:	adv|now pro|you mod|can v|take pro|it adv|off conj|if pro|you
+	v|want .
+%gra:	1|4|JCT 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|4|JCT 7|9|LINK 8|9|SUBJ
+	9|4|CJCT 10|4|PUNCT
+*CHI:	baby, doll, have, hat, on, on . 392616_400880
+%mor:	n|baby cm|cm n|doll cm|cm v|have cm|cm n|hat cm|cm adv|on cm|cm
+	adv|on .
+%gra:	1|0|INCROOT 2|1|LP 3|1|XMOD 4|3|LP 5|3|XMOD 6|5|LP 7|5|OBJ 8|7|LP
+	9|7|NJCT 10|9|LP 11|9|JCT 12|1|PUNCT
+%act:	takes dolls hat off
+*CHI:	leave, underwear, on . 400880_404991
+%mor:	n|leave cm|cm n|underwear cm|cm adv|on .
+%gra:	1|0|INCROOT 2|1|LP 3|1|XMOD 4|3|LP 5|3|JCT 6|1|PUNCT
+*MOT:	yeah . 404991_405493
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	leave the underwear on . 405493_406598
+%mor:	v|leave det|the n|underwear adv|on .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|3|NJCT 5|1|PUNCT
+*CHI:	&un something, good, baby &un . 406598_414066
+%mor:	pro:indef|something cm|cm adj|good cm|cm n|baby .
+%gra:	1|0|INCROOT 2|1|LP 3|5|MOD 4|3|LP 5|1|CJCT 6|1|PUNCT
+%act:	takes toolbox from bucket
+*CHI:	0 . 414066_415228
+%act:	drops doll
+@New Episode
+*CHI:	&un need, help . 415228_417635
+%mor:	v|need cm|cm co|help .
+%gra:	1|0|ROOT 2|1|LP 3|1|COM 4|1|PUNCT
+%act:	takes toolbox
+*CHI:	op, mommy . 417635_421180
+%mor:	co|op cm|cm n|mommy .
+%gra:	1|3|COM 2|1|LP 3|0|INCROOT 4|3|PUNCT
+%act:	gives toolboxto m
+*MOT:	what's in here [x 2] ? 421180_424630
+%mor:	pro:wh|what~cop|be&3S prep|in pro:dem|here ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|3|POBJ 5|2|PUNCT
+%act:	holds toolbox
+*MOT:	do you know ? 424630_426623
+%mor:	mod|do pro|you v|know ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*CHI:	something . 426623_428056
+%mor:	pro:indef|something .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	tries to open toolbox
+*MOT:	something ? 428056_428606
+%mor:	pro:indef|something ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	0 . 428606_430193
+%act:	helps c open toolbox
+*CHI:	0 . 430193_434383
+%act:	takes pliers from toolbox, shows to m
+*CHI:	what's, that ? 434383_435810
+%mor:	rel|what~aux|be&3S cm|cm rel|that ?
+%gra:	1|2|LINK 2|0|ROOT 3|2|LP 4|2|PRED 5|2|PUNCT
+*MOT:	that's a pliers . 435810_437028
+%mor:	pro:dem|that~cop|be&3S det|a n:pt|pliers .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+*CHI:	0 . 437028_439641
+%act:	holds pliers to her face
+*MOT:	not a tweezers . 439641_440540
+%mor:	neg|not det|a n|tweezers .
+%gra:	1|3|NEG 2|3|DET 3|0|INCROOT 4|3|PUNCT
+%act:	laughs
+*MOT:	that's a pliers . 440540_441785
+%mor:	pro:dem|that~cop|be&3S det|a n:pt|pliers .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+*CHI:	0 . 441785_443381
+%act:	holds pliers towards ms face
+*MOT:	0 . 443381_444728
+%act:	pulls away
+*CHI:	hammer . 444728_446895
+%mor:	n|hammer .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	takes hammer fbom toolbox
+*MOT:	yeah . 446895_447356
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	hammer . 447356_447871
+%mor:	n|hammer .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	hammer, floor . 447871_448900
+%mor:	n|hammer cm|cm n|floor .
+%gra:	1|3|MOD 2|1|LP 3|0|INCROOT 4|3|PUNCT
+*MOT:	do you know what this is ? 448900_453571
+%mor:	mod|do pro|you v|know adv|what det|this cop|be&3S ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|DET 6|3|INCROOT 7|6|PUNCT
+%act:	shows c saw
+*CHI:	0 . 453571_454915
+%act:	takes saw
+*MOT:	that's a saw for cutting up wood . 454915_456298
+%mor:	pro:dem|that~cop|be&3S det|a n|saw prep|for n:gerund|cut-PRESP
+	prep|up n|wood .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|4|NJCT 6|5|POBJ 7|6|JCT 8|7|POBJ
+	9|2|PUNCT
+*MOT:	it's sharp see ? 456298_459385
+%mor:	pro|it~cop|be&3S adj|sharp v|see ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PRED 5|2|PUNCT
+%act:	takes saw
+*MOT:	feel that part . 459385_460961
+%mor:	v|feel det|that n|part .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+*MOT:	0 . 460961_461528
+%act:	demonstrates finger on saw
+*CHI:	0 . 461528_462728
+%act:	touches saw
+*MOT:	oh sharp . 462728_463703
+%mor:	co|oh adj|sharp .
+%gra:	1|2|COM 2|0|ROOT 3|2|PUNCT
+%act:	pulls saw away
+*CHI:	hammer . 463703_469716
+%mor:	n|hammer .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	hammers wall
+*MOT:	okay . 469716_471586
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	that's good . 471586_473578
+%mor:	pro:dem|that~cop|be&3S adj|good .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*MOT:	it's all fixed good now . 473578_474738
+%mor:	pro|it~cop|be&3S adv|all part|fix-PASTP adj|good adv|now .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|JCT 4|2|PRED 5|4|JCT 6|5|JCT 7|2|PUNCT
+*CHI:	0 . 474738_476440
+%act:	drops hammer
+@New Episode
+*CHI:	clean, up . 476440_478278
+%mor:	adj|clean cm|cm adv|up .
+%gra:	1|0|INCROOT 2|1|LP 3|1|JCT 4|1|PUNCT
+%act:	looks at toys on floor
+*CHI:	clean, up . 478278_480146
+%mor:	adj|clean cm|cm adv|up .
+%gra:	1|0|INCROOT 2|1|LP 3|1|JCT 4|1|PUNCT
+%act:	picks up mop
+*MOT:	are we cleaning up now ? 480146_481085
+%mor:	cop|be&PRES pro:sub|we part|clean-PRESP adv|up adv|now ?
+%gra:	1|0|ROOT 2|1|PRED 3|2|XMOD 4|3|JCT 5|3|JCT 6|1|PUNCT
+*CHI:	clean, up, now . 481085_484273
+%mor:	adj|clean cm|cm adv|up cm|cm adv|now .
+%gra:	1|0|INCROOT 2|1|LP 3|1|JCT 4|1|LP 5|1|JCT 6|1|PUNCT
+*CHI:	0 . 484273_489520
+%act:	mops floor
+*MOT:	come over this way Aislinn . 489520_490921
+%mor:	v|come prep|over det|this n|way n:prop|Aislinn .
+%gra:	1|0|ROOT 2|1|JCT 3|4|DET 4|2|POBJ 5|4|APP 6|1|PUNCT
+*MOT:	very good . 490921_495631
+%mor:	adv|very adj|good .
+%gra:	1|2|JCT 2|0|ROOT 3|2|PUNCT
+%act:	takes mop from c
+*MOT:	whoops . 495631_497341
+%mor:	co|whoops .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	watch the box . 497341_500790
+%mor:	v|watch det|the n|box .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+@New Episode
+*CHI:	xxx . 500790_507835
+%act:	lifts truck
+*CHI:	put, coat, on . 507835_512846
+%mor:	v|put&ZERO cm|cm n|coat cm|cm adv|on .
+%gra:	1|0|ROOT 2|1|LP 3|1|OBJ 4|3|LP 5|3|JCT 6|1|PUNCT
+%act:	takes pat book from box
+*CHI:	put, coat, on . 512846_517438
+%mor:	v|put&ZERO cm|cm n|coat cm|cm adv|on .
+%gra:	1|0|ROOT 2|1|LP 3|1|OBJ 4|3|LP 5|3|JCT 6|1|PUNCT
+*CHI:	xxx . 517438_519125
+%act:	opens pat book
+*CHI:	peek, a, boo [x 3] . 519125_533833
+%mor:	n|peek cm|cm det|a cm|cm co|boo .
+%gra:	1|0|INCROOT 2|1|LP 3|4|DET 4|1|LP 5|1|COM 6|1|PUNCT
+%act:	lifts flap in book
+*CHI:	peek, a, boo . 533833_535311
+%mor:	n|peek cm|cm det|a cm|cm co|boo .
+%gra:	1|0|INCROOT 2|1|LP 3|4|DET 4|1|LP 5|1|COM 6|1|PUNCT
+*MOT:	peek a boo . 535311_536075
+%mor:	v|peek det|a co|boo .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+*CHI:	peek, a, boo . 536075_540951
+%mor:	n|peek cm|cm det|a cm|cm co|boo .
+%gra:	1|0|INCROOT 2|1|LP 3|4|DET 4|1|LP 5|1|COM 6|1|PUNCT
+%act:	lifts flap in book
+*CHI:	bunny, rabbit . 540951_560063
+%mor:	n|bunny cm|cm n|rabbit .
+%gra:	1|3|MOD 2|1|LP 3|0|INCROOT 4|3|PUNCT
+%act:	turns pages
+*CHI:	can't, find, bunny, rabbit . 560063_569413
+%mor:	mod|can~neg|not cm|cm v|find cm|cm n|bunny cm|cm n|rabbit .
+%gra:	1|4|AUX 2|1|NEG 3|1|LP 4|0|ROOT 5|4|LP 6|8|MOD 7|6|LP 8|4|COMP
+	9|4|PUNCT
+%act:	turns pages
+*MOT:	I think the bunny rabbit's all the way in the beginning . 569413_571281
+%mor:	pro:sub|I v|think det|the n|bunny n|rabbit~poss|s qn|all det|the
+	n|way prep|in det|the n|beginning .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|DET 4|5|MOD 5|2|OBJ 6|5|POSS 7|9|QUANT 8|9|DET
+	9|5|XMOD 10|9|NJCT 11|12|DET 12|10|POBJ 13|2|PUNCT
+*CHI:	0 . 571281_572975
+%act:	turns page
+*MOT:	there he is . 572975_573773
+%mor:	adv|there pro:sub|he cop|be&3S .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*MOT:	there that's him . 573773_575090
+%mor:	adv|there pro:dem|that~aux|be&3S pro:obj|him .
+%gra:	1|2|JCT 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|PUNCT
+*CHI:	that's, him . 575090_577786
+%mor:	pro:dem|that~aux|be&3S cm|cm pro:obj|him .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|LP 4|0|ROOT 5|4|PUNCT
+*CHI:	book, bunny, rabbit . 577786_581653
+%mor:	n|book cm|cm n|bunny cm|cm n|rabbit .
+%gra:	1|5|MOD 2|1|LP 3|5|MOD 4|3|LP 5|0|INCROOT 6|5|PUNCT
+%act:	points to m
+*MOT:	want to feel it ? 581653_582705
+%mor:	v|want inf|to v|feel pro|it ?
+%gra:	1|0|ROOT 2|3|INF 3|1|XCOMP 4|3|OBJ 5|1|PUNCT
+%act:	feels rabbit
+*MOT:	oh feels nice . 582705_584816
+%mor:	co|oh v|feel-3S adj|nice .
+%gra:	1|2|COM 2|0|ROOT 3|2|JCT 4|2|PUNCT
+*CHI:	feels, nice . 584816_586550
+%mor:	n|feel-PL cm|cm adj|nice .
+%gra:	1|0|INCROOT 2|1|LP 3|1|XMOD 4|1|PUNCT
+%act:	feels rabbit
+*CHI:	&un book . 586550_588818
+%mor:	n|book .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	takes book box
+*CHI:	bunny, rabbit, on, cover . 588818_591803
+%mor:	n|bunny cm|cm n|rabbit cm|cm adv|on cm|cm n|cover .
+%gra:	1|7|MOD 2|1|LP 3|7|MOD 4|3|LP 5|7|JCT 6|5|LP 7|0|INCROOT 8|7|PUNCT
+*MOT:	bunny rabbit's on the cover . 591803_593603
+%mor:	n|bunny n|rabbit~cop|be&3S prep|on det|the n|cover .
+%gra:	1|2|MOD 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|3|PUNCT
+*CHI:	not, on, this, cover . 593603_596846
+%mor:	neg|not cm|cm adv|on cm|cm det|this cm|cm n|cover .
+%gra:	1|7|NEG 2|1|LP 3|1|JCT 4|1|LP 5|7|DET 6|5|LP 7|0|INCROOT 8|7|PUNCT
+%act:	points to book box
+*CHI:	on . 596846_597500
+%mor:	adv|on .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	on that kind . 597500_598980
+%mor:	prep|on det|that adj|kind .
+%gra:	1|0|INCROOT 2|3|DET 3|1|POBJ 4|1|PUNCT
+*CHI:	on, this, him . 597500_600113
+%mor:	adv|on cm|cm det|this cm|cm pro:obj|him .
+%gra:	1|5|JCT 2|1|LP 3|5|DET 4|3|LP 5|0|ROOT 6|5|PUNCT
+%act:	points to box
+*MOT:	that's him . 600113_601010
+%mor:	pro:dem|that~aux|be&3S pro:obj|him .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|PUNCT
+*CHI:	0 . 601010_602035
+%act:	discards box
+@New Episode
+*CHI:	take, egg . 602035_604235
+%mor:	v|take cm|cm n|egg .
+%gra:	1|0|ROOT 2|1|LP 3|1|OBJ 4|1|PUNCT
+%act:	takes ball from bucket
+*CHI:	egg . 604235_605363
+%mor:	n|egg .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	0 . 605363_606976
+%act:	mouths egg
+*MOT:	no . 606976_607825
+%mor:	co|no .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	Lorraine's, egg . 607825_610766
+%mor:	n:prop|Lorraine~poss|s cm|cm n|egg .
+%gra:	1|4|MOD 2|1|POSS 3|1|LP 4|0|INCROOT 5|4|PUNCT
+%act:	holds egg toward Lorraine
+*MOT:	that's Lorraine's egg yeah . 610766_611495
+%mor:	pro:dem|that~aux|be&3S n:prop|Lorraine~poss|s n|egg co|yeah .
+%gra:	1|5|SUBJ 2|5|AUX 3|5|MOD 4|3|POSS 5|0|INCROOT 6|5|COM 7|5|PUNCT
+*MOT:	leave it in there for now . 611495_612843
+%mor:	v|leave pro|it adv|in adv|there prep|for adv|now .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|JCT 4|1|JCT 5|1|JCT 6|5|POBJ 7|1|PUNCT
+*CHI:	0 . 612843_614165
+%act:	puts ball into bucket
+@New Episode
+*CHI:	don't, have, shoe, on . 614165_618603
+%mor:	mod|do~neg|not cm|cm v|have cm|cm n|shoe cm|cm adv|on .
+%gra:	1|4|AUX 2|1|NEG 3|1|LP 4|0|ROOT 5|4|LP 6|4|OBJ 7|6|LP 8|6|JCT 9|4|PUNCT
+%act:	takes girl doll
+*CHI:	0 . 618603_620221
+%act:	discards girl doll
+*CHI:	a, cup . 620221_621978
+%mor:	det|a cm|cm n|cup .
+%gra:	1|3|DET 2|1|LP 3|0|INCROOT 4|3|PUNCT
+%act:	takes monkey
+*CHI:	0 . 621978_624013
+%act:	discards monkey
+*CHI:	baby, doll . 624013_625385
+%mor:	n|baby cm|cm n|doll .
+%gra:	1|3|MOD 2|1|LP 3|0|INCROOT 4|3|PUNCT
+*CHI:	clean, up . 625385_631365
+%mor:	adj|clean cm|cm adv|up .
+%gra:	1|0|INCROOT 2|1|LP 3|1|JCT 4|1|PUNCT
+%act:	wipes floor with sponge
+*CHI:	0 . 631365_632776
+%act:	discards sponge
+@New Episode
+*CHI:	say, hello, daddy . 632776_636410
+%mor:	co|say cm|cm n|hello cm|cm n|daddy .
+%gra:	1|3|COM 2|1|LP 3|5|MOD 4|3|LP 5|0|INCROOT 6|5|PUNCT
+%act:	takes telephone from bucket
+*CHI:	say, hello, daddy . 636410_640758
+%mor:	co|say cm|cm n|hello cm|cm n|daddy .
+%gra:	1|3|COM 2|1|LP 3|5|MOD 4|3|LP 5|0|INCROOT 6|5|PUNCT
+%act:	puts receiver to ear
+*CHI:	telephone . 640758_643816
+%mor:	n|telephone .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	where's the other half ? 643816_644703
+%mor:	adv:wh|where~cop|be&3S det|the qn|other n|half ?
+%gra:	1|2|LINK 2|0|ROOT 3|5|DET 4|5|QUANT 5|2|PRED 6|2|PUNCT
+%act:	helps c pull telephone from bucket
+*MOT:	is it stuck ? 644703_645448
+%mor:	aux|be&3S pro|it v|stick&PAST ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*MOT:	there it is . 645448_648915
+%mor:	adv|there pro|it cop|be&3S .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+%act:	puts telephone in front of c
+*MOT:	okay . 648915_649996
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	its, two, o'clock . 649996_654420
+%mor:	pro:poss:det|its cm|cm det:num|two cm|cm n|o'clock .
+%gra:	1|3|MOD 2|1|LP 3|5|QUANT 4|3|LP 5|0|INCROOT 6|5|PUNCT
+%act:	dials phone
+*MOT:	that's two o'clock . 654420_655810
+%mor:	pro:dem|that~aux|be&3S det:num|two n|o'clock .
+%gra:	1|4|SUBJ 2|4|AUX 3|4|QUANT 4|0|INCROOT 5|4|PUNCT
+%act:	rearrangesc
+*MOT:	is it time to call up daddy ? 655810_657245
+%mor:	aux|be&3S pro|it v|time prep|to n|call prep|up n|daddy ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|4|POBJ 6|5|NJCT 7|6|POBJ 8|3|PUNCT
+*CHI:	daddy, here . 657245_661370
+%mor:	n|daddy cm|cm adv|here .
+%gra:	1|0|INCROOT 2|1|LP 3|1|JCT 4|1|PUNCT
+%act:	puts receiver to ear
+*CHI:	daddy, here . 661370_664265
+%mor:	n|daddy cm|cm adv|here .
+%gra:	1|0|INCROOT 2|1|LP 3|1|JCT 4|1|PUNCT
+%act:	touches dial
+*CHI:	daddy, Bonnie, here . 664265_669060
+%mor:	n|daddy cm|cm n:prop|Bonnie cm|cm adv|here .
+%gra:	1|0|INCROOT 2|1|LP 3|1|XMOD 4|3|LP 5|3|JCT 6|1|PUNCT
+*MOT:	daddy and Bonnie are here now ? 669060_672001
+%mor:	n|daddy coord|and n:prop|Bonnie cop|be&PRES adv|here adv|now ?
+%gra:	1|0|INCROOT 2|1|CONJ 3|4|SUBJ 4|2|COORD 5|4|JCT 6|4|JCT 7|1|PUNCT
+*MOT:	call up daddy . 672001_673790
+%mor:	n|call prep|up n|daddy .
+%gra:	1|0|INCROOT 2|1|NJCT 3|2|POBJ 4|1|PUNCT
+*MOT:	what should you tell him ? 673790_674786
+%mor:	pro:wh|what mod|should pro|you v|tell pro:obj|him ?
+%gra:	1|4|LINK 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*CHI:	daddy . 674786_677040
+%mor:	n|daddy .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	holds phone on shoulder
+*CHI:	0 . 677040_677041
+%act:	drops phone
+@New Episode
+*CHI:	that, block . 677041_681378
+%mor:	det|that cm|cm n|block .
+%gra:	1|3|DET 2|1|LP 3|0|INCROOT 4|3|PUNCT
+%act:	takes dbottle
+*CHI:	that, block . 681378_685786
+%mor:	det|that cm|cm n|block .
+%gra:	1|3|DET 2|1|LP 3|0|INCROOT 4|3|PUNCT
+%act:	pulls at top, looks at m
+*MOT:	can you open it ? 685786_686465
+%mor:	mod|can pro|you v|open pro|it ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*CHI:	xxx . 686465_690946
+%act:	shows m, shakes dbottle
+*CHI:	my, open, that . 690946_700480
+%mor:	pro:poss:det|my cm|cm adj|open cm|cm rel|that .
+%gra:	1|3|MOD 2|1|LP 3|0|ROOT 4|3|LP 5|3|PUNCT 6|3|PUNCT
+%act:	inverts closed bottle
+*CHI:	0 . 700480_702530
+%act:	discards dbottle
+@New Episode
+*CHI:	Bonnie, Joannie, here [x 2] . 702530_707721
+%mor:	n:prop|Bonnie cm|cm n:prop|Joannie cm|cm adv|here .
+%gra:	1|0|INCROOT 2|1|LP 3|1|XJCT 4|3|LP 5|3|JCT 6|1|PUNCT
+%act:	takes telephone receiver to ear
+*MOT:	Bonnie and Joannie are here now . 707721_709900
+%mor:	n:prop|Bonnie coord|and n:prop|Joannie cop|be&PRES adv|here adv|now
+	.
+%gra:	1|4|SUBJ 2|4|LINK 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|4|JCT 7|4|PUNCT
+*MOT:	where were they ? 709900_710805
+%mor:	adv:wh|where aux|be&PAST pro:sub|they ?
+%gra:	1|3|LINK 2|3|AUX 3|0|ROOT 4|3|PUNCT
+%act:	takes book
+@New Episode
+*CHI:	at, Bonnie, and, Joannie's, house . 710805_715606
+%mor:	prep|at cm|cm n:prop|Bonnie cm|cm coord|and cm|cm
+	n:prop|Joannie~poss|s cm|cm n|house .
+%gra:	1|0|INCROOT 2|1|LP 3|1|POBJ 4|3|LP 5|3|CONJ 6|5|LP 7|10|MOD 8|7|POSS
+	9|7|LP 10|5|COORD 11|1|PUNCT
+%act:	takes book from m
+*MOT:	oh . 715606_716463
+%mor:	co|oh .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	0 . 715606_716463
+%act:	opens book
+*MOT:	what are these ? 716463_717091
+%mor:	pro:wh|what aux|be&PRES pro:dem|these ?
+%gra:	1|3|LINK 2|3|AUX 3|0|ROOT 4|3|PUNCT
+*CHI:	xxx . 717091_720400
+%act:	opens book
+*MOT:	what's this ? 720400_722360
+%mor:	pro:wh|what~cop|be&3S pro:dem|this ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+%act:	points to picture in book
+*CHI:	orange, juice . 722360_724523
+%mor:	n|orange cm|cm n|juice .
+%gra:	1|3|MOD 2|1|LP 3|0|INCROOT 4|3|PUNCT
+*CHI:	apple . 724523_730545
+%mor:	n|apple .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	turns page
+*CHI:	0 . 730545_735831
+%act:	tries to turn page, looks to m for help
+*MOT:	what's that ? 735831_739445
+%mor:	pro:wh|what~cop|be&3S pro:dem|that ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+%act:	turns page, points to yarn picture
+*MOT:	do you know what that is ? 739445_740255
+%mor:	mod|do pro|you v|know adv|what adv|that cop|be&3S ?
+%gra:	1|3|AUX 2|3|SUBJ 3|6|SUBJ 4|3|JCT 5|6|JCT 6|0|ROOT 7|6|PUNCT
+*CHI:	wool . 740255_741923
+%mor:	n|wool .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	wool . 741923_742551
+%mor:	n|wool .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	what's this ? 742551_744381
+%mor:	pro:wh|what~cop|be&3S pro:dem|this ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+%act:	points to picture of chair
+*CHI:	rock, chair . 744381_747315
+%mor:	n|rock cm|cm n|chair .
+%gra:	1|3|MOD 2|1|LP 3|0|INCROOT 4|3|PUNCT
+*MOT:	rocking chair . 747315_748226
+%mor:	part|rock-PRESP n|chair .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*CHI:	xxx . 748226_754065
+*MOT:	that's an orange . 754065_755678
+%mor:	pro:dem|that~cop|be&3S det|a n|orange .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+%act:	turns page
+*MOT:	let's see what's over here . 755678_757821
+%mor:	v|let~pro:obj|us v|see rel|what~aux|be&3S prep|over pro:dem|here .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|COMP 4|5|LINK 5|3|COMP 6|5|JCT 7|6|POBJ 8|1|PUNCT
+%act:	turns page
+*MOT:	there's another thing over here . 757821_759060
+%mor:	pro:exist|there~cop|be&3S qn|another n|thing prep|over pro:dem|here
+	.
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|QUANT 4|2|PRED 5|4|NJCT 6|5|POBJ 7|2|PUNCT
+*MOT:	open this page . 759060_760456
+%mor:	v|open det|this n|page .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+*MOT:	let's see what's here . 760456_761111
+%mor:	v|let~pro:obj|us v|see rel|what~aux|be&3S adv|here .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|COMP 4|5|LINK 5|3|COMP 6|5|JCT 7|5|PUNCT
+*MOT:	oh what are those ? 761111_762068
+%mor:	co|oh pro:wh|what aux|be&PRES pro:dem|those ?
+%gra:	1|4|COM 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|PUNCT
+*CHI:	xxx . 762068_763136
+*MOT:	what are they ? 763136_763910
+%mor:	adv|what aux|be&PRES pro:sub|they ?
+%gra:	1|3|JCT 2|3|AUX 3|0|ROOT 4|3|PUNCT
+*CHI:	xxx . 763910_767776
+*MOT:	those are flowers . 767776_768948
+%mor:	pro:dem|those cop|be&PRES n|flower-PL .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*MOT:	aren't they flowers ? 768948_769648
+%mor:	aux|be&PRES~neg|not pro:sub|they v|flower-3S ?
+%gra:	1|4|LINK 2|1|NEG 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+*CHI:	xxx . 769648_773693
+*CHI:	0 . 773693_778065
+%act:	turns page
+*MOT:	what's this ? 778065_780341
+%mor:	pro:wh|what~cop|be&3S pro:dem|this ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*CHI:	scissors . 780341_783268
+%mor:	n|scissors .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	does Aislinn touch scissors ? 783268_784631
+%mor:	mod|do&3S n:prop|Aislinn n|touch n|scissors ?
+%gra:	1|4|AUX 2|4|MOD 3|4|MOD 4|0|INCROOT 5|4|PUNCT
+*CHI:	cut, nails . 784693_787991
+%mor:	v|cut&ZERO cm|cm v|nail-3S .
+%gra:	1|0|ROOT 2|1|LP 3|1|COMP 4|1|PUNCT
+%act:	turns page
+*MOT:	when you cut your nails yeah . 787991_789076
+%mor:	conj|when pro|you v|cut&ZERO pro:poss:det|your n|nail-PL co|yeah .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|MOD 5|3|OBJ 6|3|COM 7|3|PUNCT
+*MOT:	but do you use them for anything else ? 789076_790991
+%mor:	conj|but v|do pro|you v|use pro:obj|them prep|for
+	pro:indef|anything post|else ?
+%gra:	1|2|LINK 2|0|ROOT 3|2|OBJ 4|2|CJCT 5|4|OBJ 6|4|JCT 7|6|POBJ 8|7|PQ
+	9|2|PUNCT
+*CHI:	egg . 790991_793145
+%mor:	n|egg .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	eat, egg . 793145_795781
+%mor:	v|eat cm|cm n|egg .
+%gra:	1|0|ROOT 2|1|LP 3|1|OBJ 4|1|PUNCT
+*CHI:	Cheerios . 795781_797585
+%mor:	n:prop|Cheerios .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	turns page
+*MOT:	egg and Cheerios . 797585_799173
+%mor:	n|egg coord|and n:prop|Cheerios .
+%gra:	1|0|INCROOT 2|1|CONJ 3|2|COORD 4|1|PUNCT
+*MOT:	when did you eat eggs Aislinn ? 799173_805761
+%mor:	conj|when mod|do&PAST pro|you v|eat n|egg-PL n:prop|Aislinn ?
+%gra:	1|4|LINK 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|4|OBJ 7|4|PUNCT
+*CHI:	grr . 805761_815820
+%mor:	co|grr .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	tries to turn page
+*MOT:	the doll's there . 815820_816991
+%mor:	det|the n|doll~aux|be&3S adv|there .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|PUNCT
+%act:	moves doll from book
+*MOT:	there . 816991_817590
+%mor:	adv|there .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	now you can close it . 817590_818645
+%mor:	adv|now pro|you mod|can v|close pro|it .
+%gra:	1|4|JCT 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*CHI:	grr . 818645_825713
+%mor:	co|grr .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	0 . 825713_830710
+%act:	turns book pages
+*CHI:	0 . 830710_834575
+%act:	tries to turn page
+*MOT:	what page are you looking for ? 834575_836753
+%mor:	pro:wh|what n|page cop|be&PRES pro|you part|look-PRESP prep|for ?
+%gra:	1|0|INCROOT 2|1|INCROOT 3|2|ROOT 4|3|PRED 5|4|INCROOT 6|5|JCT 7|5|PUNCT
+*CHI:	look, something, else . 836753_848441
+%mor:	co|look cm|cm pro:indef|something cm|cm post|else .
+%gra:	1|3|COM 2|1|LP 3|0|ROOT 4|3|LP 5|3|PQ 6|3|PUNCT
+%act:	closes
+*MOT:	you look at something else . 848441_849831
+%mor:	pro|you v|look prep|at pro:indef|something post|else .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|3|POBJ 5|4|PQ 6|2|PUNCT
+@New Episode
+*CHI:	eyeglasses . 849831_859191
+%mor:	n|+n|eye+n|glass-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	takes glasses from bucket
+*CHI:	put, on, self . 859191_861778
+%mor:	v|put&ZERO cm|cm adv|on cm|cm n|self .
+%gra:	1|0|ROOT 2|1|LP 3|5|JCT 4|3|LP 5|1|OBJ 6|1|PUNCT
+*CHI:	0 . 861778_864668
+%act:	holds glasses to face
+*MOT:	can you see better ? 864668_867498
+%mor:	mod|can pro|you v|see adj|good&CP ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|PUNCT
+*CHI:	see, better . 867498_870093
+%mor:	co|see cm|cm adj|good&CP .
+%gra:	1|3|COM 2|1|LP 3|0|ROOT 4|3|PUNCT
+%act:	takes glasses off
+*CHI:	tv, set . 870093_873128
+%mor:	n|tv cm|cm v|set&ZERO .
+%gra:	1|3|SUBJ 2|1|LP 3|0|ROOT 4|3|PUNCT
+%act:	wears glasses
+*MOT:	see the tv set better ? 873128_875918
+%mor:	v|see det|the n|tv v|set&ZERO adj|good&CP ?
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|4|PUNCT
+*MOT:	who wears glasses ? 875918_877648
+%mor:	pro:wh|who v|wear-3S n|glass-PL ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*CHI:	Joannie . 877648_879726
+%mor:	n:prop|Joannie .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	takes glasses off
+*MOT:	who else ? 879726_880556
+%mor:	pro:wh|who post|else ?
+%gra:	1|0|INCROOT 2|1|PQ 3|1|PUNCT
+*CHI:	Aunt_Amy . 880556_881898
+%mor:	n:prop|Aunt_Amy .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	no . 881898_882441
+%mor:	co|no .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	do you wear eyeglasses ? 882441_885121
+%mor:	mod|do pro|you v|wear n|+n|eye+n|glass-PL ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*CHI:	that, mine . 885121_887975
+%mor:	det|that cm|cm pro:poss|mine .
+%gra:	1|3|DET 2|1|LP 3|0|ROOT 4|3|PUNCT
+%act:	shakes glasses
+*MOT:	those are yours . 887975_888803
+%mor:	pro:dem|those cop|be&PRES pro:poss|yours .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*MOT:	let me see how they look . 888803_891920
+%mor:	v|let&ZERO pro:obj|me v|see adv:wh|how pro:sub|they v|look .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|COMP 4|6|LINK 5|6|SUBJ 6|3|COMP 7|1|PUNCT
+*MOT:	how do they look on you Aislinn ? 891920_893575
+%mor:	adv:wh|how mod|do pro:sub|they v|look prep|on pro|you
+	n:prop|Aislinn ?
+%gra:	1|4|LINK 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|7|SUBJ 7|5|POBJ 8|4|PUNCT
+*CHI:	0 . 893575_894818
+%act:	folds glasses
+*MOT:	are you gonna put them on for me ? 894818_896280
+%mor:	cop|be&PRES pro|you part|go-PRESP~inf|to v|put&ZERO pro:obj|them
+	adv|on prep|for pro:obj|me ?
+%gra:	1|0|ROOT 2|1|OBJ 3|2|XMOD 4|5|INF 5|3|XCOMP 6|5|OBJ 7|5|JCT 8|5|JCT
+	9|8|POBJ 10|1|PUNCT
+*CHI:	mommy, toys . 896280_903383
+%mor:	n|mommy cm|cm v|toy-3S .
+%gra:	1|3|SUBJ 2|1|LP 3|0|ROOT 4|3|PUNCT
+%act:	holds glasses to her face
+*CHI:	play, toys . 903383_905895
+%mor:	n|play cm|cm v|toy-3S .
+%gra:	1|3|SUBJ 2|1|LP 3|0|ROOT 4|3|PUNCT
+%act:	discards glasses
+@New Episode
+*CHI:	doggy [x 2] . 905895_910020
+%mor:	adj|dog&dn-Y .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	holds dog toward m
+*CHI:	&un doggy . 910020_912105
+%mor:	adj|dog&dn-Y .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	my, doggy &un . 912105_917500
+%mor:	pro:poss:det|my cm|cm n|dog-DIM .
+%gra:	1|3|MOD 2|1|LP 3|0|INCROOT 4|3|PUNCT
+%act:	pats dog
+@New Episode
+*CHI:	something, else &un . 917500_926955
+%mor:	pro:indef|something cm|cm post|else .
+%gra:	1|0|INCROOT 2|1|LP 3|1|PQ 4|1|PUNCT
+%act:	gets up
+*CHI:	baby . 926955_929975
+%mor:	n|baby .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	takes baby from bucket
+*CHI:	put, hat, coat, on . 929975_933175
+%mor:	v|put&ZERO cm|cm n|hat cm|cm n|coat cm|cm adv|on .
+%gra:	1|0|ROOT 2|1|LP 3|1|OBJ 4|3|LP 5|3|XMOD 6|5|LP 7|5|JCT 8|1|PUNCT
+%act:	takes hat
+*CHI:	hat, on, dad . 933175_938146
+%mor:	n|hat cm|cm adv|on cm|cm n|dad .
+%gra:	1|5|MOD 2|1|LP 3|5|JCT 4|3|LP 5|0|INCROOT 6|5|PUNCT
+%act:	holds hat to doll
+*CHI:	put, hat, on . 938146_944256
+%mor:	v|put&ZERO cm|cm n|hat cm|cm adv|on .
+%gra:	1|0|ROOT 2|1|LP 3|1|OBJ 4|3|LP 5|3|JCT 6|1|PUNCT
+*CHI:	sit, in, that [x 2] . 944256_952756
+%mor:	v|sit cm|cm adv|in cm|cm rel|that .
+%gra:	1|0|ROOT 2|1|LP 3|5|JCT 4|3|LP 5|1|COMP 6|1|PUNCT
+%act:	puts doll in truck dumper
+*CHI:	put, coat, on, baby . 952756_957151
+%mor:	v|put&ZERO cm|cm n|coat cm|cm adv|on cm|cm n|baby .
+%gra:	1|0|ROOT 2|1|LP 3|7|MOD 4|3|LP 5|7|JCT 6|5|LP 7|1|OBJ 8|1|PUNCT
+%act:	looks around
+*CHI:	will, you, help, me ? 957151_959588
+%mor:	mod|will cm|cm pro|you cm|cm n|help cm|cm pro:obj|me ?
+%gra:	1|7|AUX 2|1|LP 3|5|SUBJ 4|3|LP 5|7|MOD 6|5|LP 7|0|ROOT 8|7|PUNCT
+%act:	holds coat toward m
+*CHI:	will, you, help, me, now . 959588_963375
+%mor:	mod|will cm|cm pro|you cm|cm n|help cm|cm pro:obj|me cm|cm adv|now
+	.
+%gra:	1|7|AUX 2|1|LP 3|5|SUBJ 4|3|LP 5|7|MOD 6|5|LP 7|0|ROOT 8|7|LP 9|7|JCT
+	10|7|PUNCT
+*CHI:	put, hat, on . 963375_966743
+%mor:	v|put&ZERO cm|cm n|hat cm|cm adv|on .
+%gra:	1|0|ROOT 2|1|LP 3|1|OBJ 4|3|LP 5|3|JCT 6|1|PUNCT
+%act:	points to doll
+*MOT:	put hat on . 966743_967928
+%mor:	v|put&ZERO n|hat adv|on .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|JCT 4|1|PUNCT
+*MOT:	can you put her coat on ? 967928_969228
+%mor:	mod|can pro|you v|put&ZERO pro:poss:det|her n|coat adv|on ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|5|MOD 5|3|OBJ 6|3|JCT 7|3|PUNCT
+*CHI:	no . 969228_970230
+%mor:	co|no .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	sure you could . 970230_971261
+%mor:	adj|sure pro|you mod|could .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|INCROOT 4|3|PUNCT
+*CHI:	no . 971261_972483
+%mor:	co|no .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	when, you, help, me . 972483_973585
+%mor:	conj|when cm|cm pro|you cm|cm n|help cm|cm pro:obj|me .
+%gra:	1|5|LINK 2|1|LP 3|5|SUBJ 4|3|LP 5|7|SUBJ 6|5|LP 7|0|ROOT 8|7|PUNCT
+*CHI:	look, dad, mommy, daddy . 973585_980788
+%mor:	co|look cm|cm n|dad cm|cm n|mommy cm|cm n|daddy .
+%gra:	1|7|COM 2|1|LP 3|7|MOD 4|3|LP 5|7|MOD 6|5|LP 7|0|INCROOT 8|7|PUNCT
+%act:	walks to coffee table, points
+*CHI:	xxx . 980788_984985
+%act:	touches her own doll
+*CHI:	broke, mailman . 984985_990261
+%mor:	v|break&PAST cm|cm n|+n|mail+n|man .
+%gra:	1|0|ROOT 2|1|LP 3|1|OBJ 4|1|PUNCT
+*CHI:	where, daddy, doll ? 990261_994536
+%mor:	adv:wh|where cm|cm n|daddy cm|cm n|doll ?
+%gra:	1|5|LINK 2|1|LP 3|5|MOD 4|3|LP 5|0|INCROOT 6|5|PUNCT
+%act:	looks at m
+*MOT:	why don't you bring them over here ? 994536_995731
+%mor:	adv:wh|why mod|do~neg|not pro|you v|bring pro:obj|them prep|over
+	pro:dem|here ?
+%gra:	1|5|LINK 2|5|AUX 3|2|NEG 4|5|SUBJ 5|0|ROOT 6|5|OBJ 7|5|JCT 8|7|POBJ
+	9|5|PUNCT
+*MOT:	want to come over here with these things ? 995731_997171
+%mor:	v|want inf|to v|come adv|over adv|here prep|with det|these
+	n|thing-PL ?
+%gra:	1|0|ROOT 2|3|INF 3|1|XCOMP 4|3|JCT 5|3|JCT 6|3|JCT 7|8|DET 8|6|POBJ
+	9|1|PUNCT
+*MOT:	we don't have these toys . 997171_998926
+%mor:	pro:sub|we mod|do~neg|not v|have det|these n|toy-PL .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+*MOT:	come over here and play with these . 998926_1000243
+%mor:	v|come adv|over adv|here coord|and n|play prep|with pro:dem|these .
+%gra:	1|0|ROOT 2|1|JCT 3|1|JCT 4|1|CONJ 5|4|COORD 6|5|NJCT 7|6|POBJ 8|1|PUNCT
+*CHI:	have, these, toys, no . 1000243_1004476
+%mor:	aux|have cm|cm det|these cm|cm n|toy-PL cm|cm co|no .
+%gra:	1|0|INCROOT 2|1|LP 3|5|DET 4|3|LP 5|1|OBJ 6|5|LP 7|5|COM 8|1|PUNCT
+*MOT:	no we don't have these toys . 1004476_1005730
+%mor:	co|no pro:sub|we mod|do~neg|not v|have det|these n|toy-PL .
+%gra:	1|5|COM 2|5|SUBJ 3|5|AUX 4|3|NEG 5|0|ROOT 6|7|DET 7|5|OBJ 8|5|PUNCT
+*MOT:	come play with these . 1005730_1006710
+%mor:	v|come n|play prep|with pro:dem|these .
+%gra:	1|0|ROOT 2|1|OBJ 3|2|NJCT 4|3|POBJ 5|1|PUNCT
+*CHI:	these, toys . 1006710_1008300
+%mor:	det|these cm|cm v|toy-3S .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*MOT:	see what's in here . 1008300_1009261
+%mor:	co|see pro:wh|what~cop|be&3S prep|in pro:dem|here .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|4|POBJ 6|3|PUNCT
+*CHI:	in, there . 1009261_1011760
+%mor:	adv|in cm|cm adv|there .
+%gra:	1|3|JCT 2|1|LP 3|0|ROOT 4|3|PUNCT
+%act:	walks toward m
+*MOT:	what are you gonna do with this ? 1011760_1013230
+%mor:	pro:wh|what aux|be&PRES pro|you part|go-PRESP~inf|to v|do prep|with
+	pro:dem|this ?
+%gra:	1|4|LINK 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|6|INF 6|4|XCOMP 7|6|JCT 8|7|POBJ
+	9|4|PUNCT
+%act:	gives c iron
+*CHI:	iron . 1013230_1015241
+%mor:	adj|iron .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	takes iron
+*MOT:	the baby's shirt is all wrinkled . 1015241_1016978
+%mor:	det|the n|baby~poss|s n|shirt aux|be&3S adv|all part|wrinkle-PASTP
+	.
+%gra:	1|2|DET 2|4|SUBJ 3|2|POSS 4|7|SUBJ 5|7|AUX 6|7|JCT 7|0|ROOT 8|7|PUNCT
+*CHI:	baby's, shirt, all, wrinkled . 1016978_1022465
+%mor:	n|baby~poss|s cm|cm n|shirt cm|cm qn|all cm|cm v|wrinkle-PAST .
+%gra:	1|0|INCROOT 2|1|POSS 3|1|LP 4|1|XMOD 5|4|LP 6|8|QUANT 7|6|LP 8|4|CJCT
+	9|1|PUNCT
+%act:	takes shirt
+*MOT:	see if you can fix that for her . 1022465_1024818
+%mor:	v|see conj|if pro|you mod|can v|fix pro:dem|that prep|for
+	pro:obj|her .
+%gra:	1|0|ROOT 2|5|LINK 3|5|SUBJ 4|5|AUX 5|1|CJCT 6|5|OBJ 7|5|JCT 8|7|POBJ
+	9|1|PUNCT
+*CHI:	no . 1024818_1026596
+%mor:	co|no .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	gives m shirt
+*MOT:	aren't you gonna iron it for her like mommy does daddy's shirts ? 1024818_1029206
+%mor:	cop|be&PRES~neg|not pro|you part|go-PRESP~inf|to v|iron pro|it
+	prep|for pro:obj|her prep|like n|mommy mod|do&3S n|daddy~poss|s
+	n|shirt-PL ?
+%gra:	1|0|ROOT 2|1|NEG 3|1|PRED 4|3|XMOD 5|6|INF 6|4|XCOMP 7|6|OBJ 8|6|JCT
+	9|8|POBJ 10|6|JCT 11|15|SUBJ 12|15|AUX 13|15|MOD 14|13|POSS 15|10|POBJ
+	16|1|PUNCT
+%act:	gives shirt back to c
+*MOT:	you do it with the baby's shirt . 1029206_1031260
+%mor:	pro|you v|do pro|it prep|with det|the n|baby~poss|s n|shirt .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|JCT 5|6|DET 6|8|MOD 7|6|POSS 8|4|POBJ
+	9|2|PUNCT
+*CHI:	all, clean, now . 1031260_1043369
+%mor:	post|all cm|cm adj|clean cm|cm adv|now .
+%gra:	1|0|INCROOT 2|1|LP 3|1|XMOD 4|3|LP 5|3|JCT 6|1|PUNCT
+%act:	rubs dolls shirt with iron handle
+*MOT:	bring the shirt over so I can put it on her . 1043369_1045348
+%mor:	v|bring det|the n|shirt adv|over conj|so pro:sub|I mod|can
+	v|put&ZERO pro|it prep|on pro:obj|her .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|JCT 5|8|LINK 6|8|SUBJ 7|8|AUX 8|1|CJCT
+	9|8|OBJ 10|8|JCT 11|10|POBJ 12|1|PUNCT
+*MOT:	okay ? 1045348_1045841
+%mor:	co|okay ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	iron, shirt, daddy . 1045841_1053896
+%mor:	n|iron cm|cm n|shirt cm|cm n|daddy .
+%gra:	1|5|MOD 2|1|LP 3|5|MOD 4|3|LP 5|0|INCROOT 6|5|PUNCT
+%act:	irons couch
+*CHI:	daddy, shirt, all, clean, now [x 1] . 1053896_1061593
+%mor:	n|daddy cm|cm n|shirt cm|cm qn|all cm|cm adj|clean cm|cm adv|now .
+%gra:	1|0|INCROOT 2|1|LP 3|1|XMOD 4|3|LP 5|7|QUANT 6|5|LP 7|3|XMOD 8|7|LP
+	9|7|JCT 10|1|PUNCT
+%act:	puts iron on floor near m
+*CHI:	daddys, shirt, all, clean, now . 1061593_1065906
+%mor:	n|daddy-PL cm|cm n|shirt cm|cm qn|all cm|cm adj|clean cm|cm adv|now
+	.
+%gra:	1|0|INCROOT 2|1|LP 3|1|XMOD 4|3|LP 5|7|QUANT 6|5|LP 7|3|XMOD 8|7|LP
+	9|7|JCT 10|1|PUNCT
+%act:	takes shirt from couch
+*CHI:	oh . 1065906_1067601
+%mor:	co|oh .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	no . 1067601_1069418
+%mor:	co|no .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	0 . 1067601_1069871
+%act:	pushes truck with baby in dumper toward c
+*CHI:	that, shirt . 1069871_1071913
+%mor:	det|that cm|cm n|shirt .
+%gra:	1|3|DET 2|1|LP 3|0|INCROOT 4|3|PUNCT
+%act:	takes shirt to doll
+*CHI:	put, on, that . 1071913_1073565
+%mor:	v|put&ZERO cm|cm adv|on cm|cm rel|that .
+%gra:	1|0|ROOT 2|1|LP 3|1|JCT 4|1|LP 5|1|COMP 6|1|PUNCT
+*CHI:	baby . 1073565_1074701
+%mor:	n|baby .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	coat, hat, off . 1074701_1077266
+%mor:	n|coat cm|cm n|hat cm|cm adv|off .
+%gra:	1|3|MOD 2|1|LP 3|0|INCROOT 4|3|LP 5|3|JCT 6|3|PUNCT
+%act:	drops shirt, picks up hat
+*MOT:	she took her hat off . 1077266_1078143
+%mor:	pro:sub|she v|take&PAST pro:poss:det|her n|hat adv|off .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|MOD 4|2|OBJ 5|2|JCT 6|2|PUNCT
+*MOT:	did she ? 1078143_1078798
+%mor:	v|do&PAST pro:sub|she ?
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+*CHI:	put, coat, on . 1078798_1081211
+%mor:	v|put&ZERO cm|cm n|coat cm|cm adv|on .
+%gra:	1|0|ROOT 2|1|LP 3|1|OBJ 4|3|LP 5|3|JCT 6|1|PUNCT
+%act:	points to coat
+*MOT:	want me to put it on for you ? 1081211_1082801
+%mor:	v|want pro:obj|me inf|to v|put&ZERO pro|it adv|on prep|for pro|you
+	?
+%gra:	1|0|ROOT 2|1|OBJ 3|4|INF 4|1|XCOMP 5|4|OBJ 6|4|JCT 7|4|JCT 8|7|POBJ
+	9|1|PUNCT
+%act:	takes coat, reaches for doll
+*CHI:	0 . 1082801_1084025
+%act:	puts hat on her own head
+*MOT:	0 . 1084025_1085586
+%act:	smiles, puts coat on doll
+*CHI:	get, baby's, hat . 1085586_1087540
+%mor:	v|get cm|cm n|baby~poss|s cm|cm n|hat .
+%gra:	1|0|ROOT 2|1|LP 3|6|MOD 4|3|POSS 5|6|MOD 6|1|COMP 7|1|PUNCT
+*CHI:	0 . 1087540_1088418
+%act:	lifts dumper
+*MOT:	does it fit Aislinn ? 1088418_1090208
+%mor:	mod|do&3S pro|it v|fit&ZERO n:prop|Aislinn ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*CHI:	that, baby's, hat . 1090208_1093630
+%mor:	det|that cm|cm n|baby~poss|s cm|cm n|hat .
+%gra:	1|3|DET 2|1|LP 3|6|SUBJ 4|3|POSS 5|3|LP 6|0|INCROOT 7|6|PUNCT
+*MOT:	is that a birthday party hat ? 1093630_1096503
+%mor:	cop|be&3S rel|that det|a n|+n|birth+n|day n|party n|hat ?
+%gra:	1|0|ROOT 2|6|LINK 3|6|DET 4|6|MOD 5|6|MOD 6|1|PRED 7|1|PUNCT
+*CHI:	no . 1096503_1098005
+%mor:	co|no .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	walks toward m with hat
+*MOT:	no . 1098005_1098993
+%mor:	co|no .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	0 . 1098993_1101750
+%act:	puts doll hat on doll, hat falls
+*MOT:	oops . 1101750_1103346
+%mor:	co|oops .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	0 . 1103346_1104528
+%act:	picks up hat
+*MOT:	do you wanna put it on ? 1104528_1107426
+%mor:	mod|do pro|you v|want~inf|to v|put&ZERO pro|it adv|on ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|5|INF 5|3|XCOMP 6|5|OBJ 7|5|JCT 8|3|PUNCT
+*CHI:	0 . 1107426_1110191
+%act:	puts hat on doll
+*MOT:	that's right . 1110191_1111143
+%mor:	pro:dem|that~cop|be&3S adv|right .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|2|PUNCT
+*MOT:	like that . 1111143_1111803
+%mor:	prep|like pro:dem|that .
+%gra:	1|0|INCROOT 2|1|POBJ 3|1|PUNCT
+*MOT:	should we tie it up ? 1111803_1112683
+%mor:	mod|should pro:sub|we v|tie pro|it adv|up ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|JCT 6|3|PUNCT
+*CHI:	0 . 1112683_1117311
+%act:	reaches in bucket
+*MOT:	what else is in there ? 1112683_1117311
+%mor:	pro:wh|what post|else aux|be&3S prep|in pro:dem|there ?
+%gra:	1|0|INCROOT 2|1|PQ 3|1|XJCT 4|3|JCT 5|4|POBJ 6|1|PUNCT
+*CHI:	bottle, baby . 1117311_1119785
+%mor:	n|bottle cm|cm n|baby .
+%gra:	1|3|MOD 2|1|LP 3|0|INCROOT 4|3|PUNCT
+%act:	takes bottle from bucket
+*CHI:	fill, up . 1119785_1122823
+%mor:	v|fill cm|cm adv|up .
+%gra:	1|0|ROOT 2|1|LP 3|1|JCT 4|1|PUNCT
+%act:	reaches in bucket
+*CHI:	clean, milk . 1122823_1124811
+%mor:	adj|clean cm|cm n|milk .
+%gra:	1|3|MOD 2|1|LP 3|0|INCROOT 4|3|PUNCT
+*CHI:	get, tea . 1124811_1128570
+%mor:	v|get cm|cm n|tea .
+%gra:	1|0|ROOT 2|1|LP 3|1|OBJ 4|1|PUNCT
+%act:	takes plate from bucket
+*CHI:	get &un, tea . 1128570_1132941
+%mor:	v|get cm|cm n|tea .
+%gra:	1|0|ROOT 2|1|LP 3|1|OBJ 4|1|PUNCT
+%act:	takes pot from bucket
+*CHI:	get, coffee, tea . 1132941_1135533
+%mor:	v|get cm|cm n|coffee cm|cm n|tea .
+%gra:	1|0|ROOT 2|1|LP 3|5|MOD 4|3|LP 5|1|COMP 6|1|PUNCT
+%act:	puts pot on plate
+*MOT:	coffee and tea . 1135533_1136446
+%mor:	n|coffee coord|and n|tea .
+%gra:	1|0|INCROOT 2|1|CONJ 3|2|COORD 4|1|PUNCT
+*MOT:	what are you gonna have_to drink ? 1136446_1138061
+%mor:	pro:wh|what aux|be&PRES pro|you part|go-PRESP~inf|to
+	mod:aux|have_to v|drink ?
+%gra:	1|4|LINK 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|7|INF 6|7|AUX 7|4|XCOMP 8|4|PUNCT
+*CHI:	&un pretzel . 1138061_1142428
+%mor:	n|pretzel .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	a pretzel . 1142428_1143570
+%mor:	det|a n|pretzel .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*CHI:	0 . 1143570_1145183
+%act:	shakes bottle to pot
+*MOT:	here's a cup for mommy . 1145183_1146356
+%mor:	pro:exist|here~cop|be&3S det|a n|cup prep|for n|mommy .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|4|NJCT 6|5|POBJ 7|2|PUNCT
+%act:	takes cup, puts on floor
+*MOT:	make me something . 1146356_1147041
+%mor:	v|make pro:obj|me pro:indef|something .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|OBJ 4|1|PUNCT
+*MOT:	okay . 1147041_1147675
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	0 . 1147675_1149818
+%act:	touches cup
+*MOT:	what could I have ? 1149818_1151445
+%mor:	pro:wh|what mod|could pro:sub|I v|have ?
+%gra:	1|4|LINK 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+*CHI:	I, have . 1151445_1153905
+%mor:	pro:sub|I cm|cm v|have .
+%gra:	1|3|SUBJ 2|1|LP 3|0|ROOT 4|3|PUNCT
+*CHI:	0 . 1153905_1154825
+%act:	moves ball
+*CHI:	what . 1154825_1156006
+%mor:	pro:wh|what .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	what ? 1156006_1156751
+%mor:	pro:wh|what ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	what could a mommy have_to eat ? 1156751_1158401
+%mor:	pro:wh|what mod|could det|a n|mommy mod:aux|have_to v|eat ?
+%gra:	1|2|LINK 2|6|AUX 3|4|DET 4|6|SUBJ 5|6|AUX 6|0|ROOT 7|6|PUNCT
+*MOT:	what should I eat ? 1158401_1159165
+%mor:	pro:wh|what mod|should pro:sub|I v|eat ?
+%gra:	1|4|LINK 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+*CHI:	bottle, baby . 1159165_1160758
+%mor:	n|bottle cm|cm n|baby .
+%gra:	1|3|MOD 2|1|LP 3|0|INCROOT 4|3|PUNCT
+%act:	touches nipple
+*MOT:	0 . 1160758_1161980
+%act:	turns baby doll right side up
+*CHI:	here, bottle, baby . 1161980_1164205
+%mor:	adv|here cm|cm n|bottle cm|cm n|baby .
+%gra:	1|5|JCT 2|1|LP 3|5|MOD 4|3|LP 5|0|INCROOT 6|5|PUNCT
+%act:	touches doll
+*CHI:	I, something, bottle, baby, in, there . 1164205_1170601
+%mor:	pro:sub|I cm|cm pro:indef|something cm|cm n|bottle cm|cm n|baby
+	cm|cm adv|in cm|cm adv|there .
+%gra:	1|3|SUBJ 2|1|LP 3|0|ROOT 4|3|LP 5|7|MOD 6|5|LP 7|3|CJCT 8|7|LP 9|11|JCT
+	10|9|LP 11|7|JCT 12|3|PUNCT
+%act:	feeds doll
+*CHI:	don't, drink, that, no . 1170601_1175405
+%mor:	mod|do~neg|not cm|cm n|drink cm|cm rel|that cm|cm co|no .
+%gra:	1|0|INCROOT 2|1|NEG 3|1|LP 4|1|XJCT 5|4|LP 6|4|XMOD 7|6|LP 8|6|COM
+	9|1|PUNCT
+%act:	looks at m
+*MOT:	she's not drinking it . 1175405_1176311
+%mor:	pro:sub|she~aux|be&3S neg|not part|drink-PRESP pro|it .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*MOT:	maybe she's asleep now . 1176311_1177688
+%mor:	adv|maybe pro:sub|she~aux|be&3S adv|asleep adv|now .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|5|JCT 5|3|JCT 6|3|PUNCT
+*CHI:	asleep, now . 1177688_1181705
+%mor:	adv|asleep cm|cm adv|now .
+%gra:	1|0|INCROOT 2|1|LP 3|1|JCT 4|1|PUNCT
+%act:	looks at doll
+*MOT:	she's asleep now . 1181705_1182385
+%mor:	pro:sub|she~aux|be&3S adv|asleep adv|now .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|2|JCT 5|2|PUNCT
+*MOT:	when she wakes up she'll drink it . 1182385_1183985
+%mor:	conj|when pro:sub|she v|wake-3S adv|up pro:sub|she~mod|will v|drink
+	pro|it .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|7|SUBJ 6|7|AUX 7|3|COMP 8|7|OBJ
+	9|3|PUNCT
+*CHI:	0 . 1183985_1187135
+%act:	picks up baby, looks at m
+*MOT:	is she awake now ? 1187135_1188300
+%mor:	cop|be&3S pro:sub|she v|awake adv|now ?
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|PUNCT
+*CHI:	feet . 1188300_1191766
+%mor:	n|foot&PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	touches baby's feet
+*MOT:	yeah . 1191766_1192805
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	look at her little feet . 1192805_1193910
+%mor:	v|look prep|at pro:poss:det|her adj|little n|foot&PL .
+%gra:	1|0|ROOT 2|1|JCT 3|5|MOD 4|5|MOD 5|2|POBJ 6|1|PUNCT
+*CHI:	0 . 1193910_1196508
+%act:	touches dolls hat with bottle
+*MOT:	you putting it on her head . 1196508_1198215
+%mor:	pro|you part|put-PRESP pro|it prep|on pro:poss:det|her n|head .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|JCT 5|6|MOD 6|4|POBJ 7|2|PUNCT
+*CHI:	get, my, bottle . 1198215_1203338
+%mor:	v|get cm|cm pro:poss:det|my cm|cm n|bottle .
+%gra:	1|0|ROOT 2|1|LP 3|5|MOD 4|3|LP 5|1|OBJ 6|1|PUNCT
+%act:	drinks from bottle
+*MOT:	is that your bottle ? 1203338_1204296
+%mor:	cop|be&3S rel|that pro:poss:det|your n|bottle ?
+%gra:	1|0|ROOT 2|4|LINK 3|4|MOD 4|1|PRED 5|1|PUNCT
+*CHI:	get, baby's, bottle . 1204296_1212785
+%mor:	v|get cm|cm n|baby~poss|s cm|cm n|bottle .
+%gra:	1|0|ROOT 2|1|LP 3|6|MOD 4|3|POSS 5|6|MOD 6|1|COMP 7|1|PUNCT
+%act:	feeds doll
+*CHI:	don't, want, that . 1212785_1215196
+%mor:	mod|do~neg|not cm|cm v|want cm|cm rel|that .
+%gra:	1|4|AUX 2|1|NEG 3|1|LP 4|0|ROOT 5|4|LP 6|4|JCT 7|4|PUNCT
+%act:	drops doll
+*MOT:	she doesn't want that . 1215196_1216105
+%mor:	pro:sub|she mod|do&3S~neg|not v|want pro:dem|that .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*CHI:	lay, down . 1216105_1218218
+%mor:	adj|lay cm|cm adv|down .
+%gra:	1|0|INCROOT 2|1|LP 3|1|JCT 4|1|PUNCT
+*CHI:	sleep . 1218218_1219296
+%mor:	v|sleep .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	something sleep now . 1219296_1220991
+%mor:	pro:indef|something n|sleep adv|now .
+%gra:	1|2|SUBJ 2|0|INCROOT 3|2|JCT 4|2|PUNCT
+*CHI:	0 . 1220991_1222598
+%act:	mouths bottle
+*MOT:	maybe she wants you to feed her something . 1222598_1224516
+%mor:	adv|maybe pro:sub|she v|want-3S pro|you inf|to v|feed pro:obj|her
+	pro:indef|something .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|6|INF 6|3|XCOMP 7|6|OBJ 8|6|OBJ
+	9|3|PUNCT
+*MOT:	maybe she wants some soup Aislinn . 1224516_1227555
+%mor:	adv|maybe pro:sub|she v|want-3S qn|some n|soup n:prop|Aislinn .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|5|QUANT 5|3|OBJ 6|5|APP 7|3|PUNCT
+%act:	takes spoon
+*CHI:	0 . 1227555_1229825
+%act:	mouths bottle
+*MOT:	think so ? 1229825_1230711
+%mor:	v|think co|so ?
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+*MOT:	do you think she wants to eat some soup ? 1230711_1232801
+%mor:	mod|do pro|you v|think pro:sub|she v|want-3S inf|to v|eat qn|some
+	n|soup ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|5|SUBJ 5|3|COMP 6|7|INF 7|5|XCOMP 8|9|QUANT
+	9|7|OBJ 10|3|PUNCT
+*CHI:	0 . 1232801_1236440
+%act:	drops bottle, takes spoon
+*CHI:	0 . 1236440_1239843
+%act:	feeds self with spoon from cup
+*CHI:	0 . 1239843_1240681
+%act:	looks at m
+*MOT:	mm . 1240681_1241161
+%mor:	co|mm .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	what is it ? 1241161_1241750
+%mor:	pro:wh|what aux|be&3S pro|it ?
+%gra:	1|2|OBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*CHI:	it's, my, soup . 1241750_1243760
+%mor:	pro|it~aux|be&3S cm|cm pro:poss:det|my cm|cm n|soup .
+%gra:	1|6|SUBJ 2|6|AUX 3|2|LP 4|6|MOD 5|4|LP 6|0|INCROOT 7|6|PUNCT
+*MOT:	it's barley soup . 1243760_1244540
+%mor:	pro|it~cop|be&3S n|barley n|soup .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|MOD 4|2|PRED 5|2|PUNCT
+*CHI:	0 . 1244540_1248343
+%act:	feeds self with spoon
+*CHI:	0 . 1248131_1254488
+%act:	puts bottle in mouth, stands up
+*MOT:	take that out_of your mouth . 1254488_1255985
+%mor:	v|take rel|that prep|out_of pro:poss:det|your n|mouth .
+%gra:	1|0|ROOT 2|1|OBJ 3|2|JCT 4|5|MOD 5|3|POBJ 6|1|PUNCT
+*CHI:	0 . 1255985_1259620
+%act:	stands, chews bottle
+*MOT:	Aislinn you look silly . 1259620_1261560
+%mor:	n:prop|Aislinn pro|you v|look adj|silly .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|PUNCT
+*MOT:	take that out_of your mouth . 1261560_1262873
+%mor:	v|take rel|that prep|out_of pro:poss:det|your n|mouth .
+%gra:	1|0|ROOT 2|1|OBJ 3|2|JCT 4|5|MOD 5|3|POBJ 6|1|PUNCT
+%act:	kisses c
+*MOT:	give me . 1262873_1264588
+%mor:	v|give pro:obj|me .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+*MOT:	that's the baby's . 1264588_1266326
+%mor:	pro:dem|that~cop|be&3S det|the n|baby~poss|s .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|4|POSS 6|2|PUNCT
+*CHI:	0 . 1266326_1270838
+%act:	lays back on chair, chews bottle
+*MOT:	tickle [x 4] . 1270838_1274625
+%mor:	n|tickle .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	tickles c
+*CHI:	tickle [x 2] . 1274625_1276368
+%mor:	n|tickle .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	0 . 1276368_1287296
+%act:	gives m bottle
+@New Episode
+*MOT:	thank you . 1287296_1288071
+%mor:	v|thank pro|you .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+*MOT:	what else we got in here Aislinn ? 1288071_1291686
+%mor:	pro:wh|what post|else pro:sub|we v|get&PAST prep|in pro:dem|here
+	n:prop|Aislinn ?
+%gra:	1|4|LINK 2|1|PQ 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|5|POBJ 7|6|APP 8|4|PUNCT
+%act:	reaches in bucket
+*CHI:	that, in, there . 1291686_1294763
+%mor:	det|that cm|cm adv|in cm|cm adv|there .
+%gra:	1|3|DET 2|1|LP 3|5|JCT 4|3|LP 5|0|ROOT 6|5|PUNCT
+*MOT:	0 . 1294763_1298170
+%act:	gives c comb
+*CHI:	comb . 1298170_1300396
+%mor:	n|comb .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	falls, takes comb
+*CHI:	0 . 1300396_1301370
+%act:	drops comb
+*MOT:	0 . 1301370_1307835
+%act:	setup
+@New Episode
+*CHI:	baby, sit, up . 1307835_1312233
+%mor:	n|baby cm|cm v|sit cm|cm adv|up .
+%gra:	1|0|INCROOT 2|1|LP 3|1|XMOD 4|3|LP 5|3|JCT 6|1|PUNCT
+%act:	looks at baby doll
+*CHI:	have, some, tea . 1312233_1315918
+%mor:	v|have cm|cm qn|some cm|cm n|tea .
+%gra:	1|0|ROOT 2|1|LP 3|5|QUANT 4|3|LP 5|1|OBJ 6|1|PUNCT
+%act:	offers m pot
+*CHI:	no, thanks . 1315918_1317565
+%mor:	co|no cm|cm co|thanks .
+%gra:	1|3|COM 2|1|LP 3|0|INCROOT 4|3|PUNCT
+*MOT:	no thanks . 1317565_1318103
+%mor:	co|no co|thanks .
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+*MOT:	no . 1318103_1318555
+%mor:	co|no .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	I don't want any tea right now . 1318555_1319825
+%mor:	pro:sub|I mod|do~neg|not v|want qn|any n|tea adv|right adv|now .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|6|QUANT 6|4|OBJ 7|4|JCT 8|7|JCT
+	9|4|PUNCT
+*CHI:	baby, want, tea . 1319825_1321590
+%mor:	n|baby cm|cm v|want cm|cm n|tea .
+%gra:	1|0|INCROOT 2|1|LP 3|1|XMOD 4|3|LP 5|3|OBJ 6|1|PUNCT
+*CHI:	take, that, baby . 1321590_1327980
+%mor:	v|take cm|cm rel|that cm|cm n|baby .
+%gra:	1|0|ROOT 2|1|LP 3|5|MOD 4|3|LP 5|1|COMP 6|1|PUNCT
+%act:	feeds doll
+*MOT:	does she like tea ? 1327980_1329161
+%mor:	mod|do&3S pro:sub|she co|like n|tea ?
+%gra:	1|4|AUX 2|4|SUBJ 3|4|COM 4|0|INCROOT 5|4|PUNCT
+*CHI:	yeah . 1329161_1331360
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	fill, up, rim, tea . 1331360_1334606
+%mor:	v|fill cm|cm adv|up cm|cm n|rim cm|cm n|tea .
+%gra:	1|0|ROOT 2|1|LP 3|7|JCT 4|3|LP 5|7|MOD 6|5|LP 7|1|COMP 8|1|PUNCT
+*MOT:	fill up to the rim with brim . 1334606_1336405
+%mor:	v|fill adv|up prep|to det|the n|rim prep|with n|brim .
+%gra:	1|0|ROOT 2|1|JCT 3|1|JCT 4|5|DET 5|3|POBJ 6|5|NJCT 7|6|POBJ 8|1|PUNCT
+*MOT:	yeah . 1336405_1336966
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	brim, tea . 1336966_1338391
+%mor:	n|brim cm|cm n|tea .
+%gra:	1|3|MOD 2|1|LP 3|0|INCROOT 4|3|PUNCT
+%act:	offers m pot
+*MOT:	brim tea . 1338391_1339446
+%mor:	n|brim n|tea .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*CHI:	get, cup . 1339446_1341650
+%mor:	v|get cm|cm n|cup .
+%gra:	1|0|ROOT 2|1|LP 3|1|OBJ 4|1|PUNCT
+*CHI:	get, cup, mommy . 1341650_1344411
+%mor:	v|get cm|cm n|cup cm|cm n|mommy .
+%gra:	1|0|ROOT 2|1|LP 3|5|MOD 4|3|LP 5|1|COMP 6|1|PUNCT
+%act:	searches for cup
+*MOT:	here's the cup . 1344411_1345066
+%mor:	pro:exist|here~cop|be&3S det|the n|cup .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+%act:	points to cup
+*CHI:	here, cup . 1345066_1347360
+%mor:	adv|here cm|cm n|cup .
+%gra:	1|3|JCT 2|1|LP 3|0|INCROOT 4|3|PUNCT
+*CHI:	brim, tea . 1347360_1350805
+%mor:	n|brim cm|cm n|tea .
+%gra:	1|3|MOD 2|1|LP 3|0|INCROOT 4|3|PUNCT
+*CHI:	sure, mommy . 1350805_1354756
+%mor:	adj|sure cm|cm n|mommy .
+%gra:	1|3|MOD 2|1|LP 3|0|INCROOT 4|3|PUNCT
+*CHI:	nice, coffee, mommy . 1354756_1362151
+%mor:	adj|nice cm|cm n|coffee cm|cm n|mommy .
+%gra:	1|5|MOD 2|1|LP 3|5|MOD 4|3|LP 5|0|INCROOT 6|5|PUNCT
+%act:	drinks from cup
+*CHI:	nice, coffee . 1362151_1365235
+%mor:	adj|nice cm|cm n|coffee .
+%gra:	1|3|MOD 2|1|LP 3|0|INCROOT 4|3|PUNCT
+*CHI:	brim, tea, mommy . 1365235_1367558
+%mor:	n|brim cm|cm n|tea cm|cm n|mommy .
+%gra:	1|5|MOD 2|1|LP 3|5|MOD 4|3|LP 5|0|INCROOT 6|5|PUNCT
+*CHI:	outside [x 1] . 1367558_1375413
+%mor:	adv|outside .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	puts pot in truck dumper
+*CHI:	0 . 1375413_1377531
+%act:	attempts to put cover on pot, cover falls into pot
+*CHI:	xxx . 1377531_1381648
+%act:	puts hand in pot
+*CHI:	put, cover, on, mommy . 1381648_1386343
+%mor:	v|put&ZERO cm|cm n|cover cm|cm adv|on cm|cm n|mommy .
+%gra:	1|0|ROOT 2|1|LP 3|7|MOD 4|3|LP 5|7|JCT 6|5|LP 7|1|OBJ 8|1|PUNCT
+%act:	covers pot
+*CHI:	make, long, train . 1386343_1390408
+%mor:	v|make cm|cm adv|long cm|cm n|train .
+%gra:	1|0|ROOT 2|1|LP 3|5|JCT 4|3|LP 5|1|COMP 6|1|PUNCT
+*CHI:	no, thanks, full . 1390408_1395973
+%mor:	co|no cm|cm co|thanks cm|cm adv|full .
+%gra:	1|3|COM 2|1|LP 3|0|ROOT 4|3|LP 5|3|JCT 6|3|PUNCT
+%act:	holds pot toward m, pot cover falls
+*MOT:	no thanks you're full . 1395973_1397156
+%mor:	co|no co|thanks pro|you~cop|be&PRES adj|full .
+%gra:	1|4|COM 2|4|COM 3|4|SUBJ 4|0|ROOT 5|4|PRED 6|4|PUNCT
+*CHI:	no, thanks, full . 1397156_1401266
+%mor:	co|no cm|cm co|thanks cm|cm adv|full .
+%gra:	1|3|COM 2|1|LP 3|0|ROOT 4|3|LP 5|3|JCT 6|3|PUNCT
+*CHI:	put, in, tea &un, mommy . 1401266_1408165
+%mor:	v|put&ZERO cm|cm adv|in cm|cm n|tea cm|cm n|mommy .
+%gra:	1|0|ROOT 2|1|LP 3|7|JCT 4|3|LP 5|7|MOD 6|5|LP 7|1|OBJ 8|1|PUNCT
+%act:	pours tea into dump truck dumper
+*CHI:	0 . 1408165_1410228
+%act:	drinks from cup
+*CHI:	drink, my, tea . 1410228_1413670
+%mor:	n|drink cm|cm pro:poss:det|my cm|cm n|tea .
+%gra:	1|5|MOD 2|1|LP 3|5|MOD 4|3|LP 5|0|INCROOT 6|5|PUNCT
+%act:	puts cup in dumper
+*MOT:	did you drink tea all up ? 1410228_1413480
+%mor:	v|do&PAST pro|you n|drink n|tea adv|all adv|up ?
+%gra:	1|0|ROOT 2|4|SUBJ 3|4|MOD 4|1|OBJ 5|4|NJCT 6|5|JCT 7|1|PUNCT
+*CHI:	thank, you . 1413480_1416588
+%mor:	v|thank cm|cm pro|you .
+%gra:	1|0|ROOT 2|1|LP 3|1|OBJ 4|1|PUNCT
+*CHI:	put, more, in, that . 1416588_1421646
+%mor:	v|put&ZERO cm|cm adv|more cm|cm adv|in cm|cm rel|that .
+%gra:	1|0|ROOT 2|1|LP 3|1|JCT 4|1|LP 5|1|JCT 6|1|LP 7|1|COMP 8|1|PUNCT
+%act:	pours pot into truck dumper
+*CHI:	put, more, milk . 1421646_1425533
+%mor:	v|put&ZERO cm|cm adv|more cm|cm n|milk .
+%gra:	1|0|ROOT 2|1|LP 3|5|JCT 4|3|LP 5|1|OBJ 6|1|PUNCT
+%act:	turns to m
+*MOT:	more milk . 1425533_1426153
+%mor:	qn|more n|milk .
+%gra:	1|2|QUANT 2|0|INCROOT 3|2|PUNCT
+*MOT:	I like tea with a_lot_of milk . 1426153_1428300
+%mor:	pro:sub|I v|like n|tea prep|with qn|a_lot_of n|milk .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|JCT 5|6|QUANT 6|4|POBJ 7|2|PUNCT
+*CHI:	like, tea . 1428300_1434121
+%mor:	co|like cm|cm n|tea .
+%gra:	1|3|COM 2|1|LP 3|0|INCROOT 4|3|PUNCT
+%act:	pours pot into cup
+*CHI:	0 . 1434121_1436166
+%act:	discards pot
+@New Episode
+*CHI:	baby, go, outside . 1436166_1440393
+%mor:	n|baby cm|cm v|go cm|cm adv|outside .
+%gra:	1|0|INCROOT 2|1|LP 3|1|XMOD 4|3|LP 5|3|JCT 6|1|PUNCT
+%act:	takes doll
+*CHI:	eat . 1440393_1442518
+%mor:	v|eat .
+%gra:	1|0|ROOT 2|1|PUNCT
+%act:	takes bottle
+*CHI:	eat, bottle . 1442518_1444491
+%mor:	v|eat cm|cm n|bottle .
+%gra:	1|0|ROOT 2|1|LP 3|1|OBJ 4|1|PUNCT
+*CHI:	0 . 1444491_1455363
+%act:	feeds doll
+*CHI:	what, ed [: eat], that . 1455363_1458865
+%mor:	pro:wh|what cm|cm v|eat cm|cm rel|that .
+%gra:	1|0|INCROOT 2|1|LP 3|1|ROOT 4|3|LP 5|3|INCROOT 6|5|PUNCT
+%act:	feeds doll
+*MOT:	she doesn't want it ? 1458865_1459760
+%mor:	pro:sub|she mod|do&3S~neg|not v|want pro|it ?
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*CHI:	no . 1459760_1461695
+%mor:	co|no .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	maybe later . 1461695_1462680
+%mor:	adv|maybe adv|later .
+%gra:	1|0|INCROOT 2|1|JCT 3|1|PUNCT
+*CHI:	Lorraine . 1462680_1468966
+%mor:	n:prop|Lorraine .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	points to Lorraine
+*CHI:	0 . 1468966_1473531
+%act:	mouths bottle
+*MOT:	don't drink that . 1473531_1474528
+%mor:	mod|do~neg|not v|drink pro:dem|that .
+%gra:	1|3|AUX 2|1|NEG 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*CHI:	Lorraine . 1474528_1480226
+%mor:	n:prop|Lorraine .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	drops bottle, stands, points to Lorraine
+@New Episode
+*MOT:	uhhum . 1480226_1480648
+%mor:	co|uhhum .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	play with the toys though . 1480648_1481816
+%mor:	n|play prep|with det|the n|toy-PL adv|though .
+%gra:	1|0|INCROOT 2|1|JCT 3|4|DET 4|2|POBJ 5|4|NJCT 6|1|PUNCT
+*CHI:	play . 1481816_1483666
+%mor:	n|play .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	hey you wanna do the puzzle ? 1483666_1485045
+%mor:	co|hey pro|you v|want~inf|to v|do det|the n|puzzle ?
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|5|INF 5|3|XCOMP 6|7|DET 7|5|OBJ 8|3|PUNCT
+*MOT:	you wanna do the puzzle with mommy ? 1485045_1486373
+%mor:	pro|you v|want~inf|to v|do det|the n|puzzle prep|with n|mommy ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|INF 4|2|XCOMP 5|6|DET 6|4|OBJ 7|6|NJCT 8|7|POBJ
+	9|2|PUNCT
+*CHI:	xxx . 1486373_1489323
+*MOT:	where's the puzzle [x 2] ? 1486373_1489323
+%mor:	adv:wh|where~cop|be&3S det|the n|puzzle ?
+%gra:	1|2|LINK 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+*MOT:	can you find it ? 1489323_1490036
+%mor:	mod|can pro|you v|find pro|it ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*CHI:	beads . 1490036_1501806
+%mor:	n|bead-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	shows m popbeads
+*MOT:	oh pretty . 1501806_1504370
+%mor:	co|oh adv|pretty .
+%gra:	1|0|INCROOT 2|1|JCT 3|1|PUNCT
+*CHI:	0 . 1504370_1505885
+%act:	wears popbeads
+*CHI:	get, married . 1505885_1508620
+%mor:	v|get cm|cm v|marry-PAST .
+%gra:	1|0|ROOT 2|1|LP 3|1|COMP 4|1|PUNCT
+%act:	smiles, shakes head
+*MOT:	you getting married ? 1508620_1509398
+%mor:	pro|you part|get-PRESP part|marry-PASTP ?
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|PUNCT
+*MOT:	are you ? 1509398_1509906
+%mor:	cop|be&PRES pro|you ?
+%gra:	1|0|ROOT 2|1|PRED 3|1|PUNCT
+*CHI:	get, married . 1509906_1511450
+%mor:	v|get cm|cm v|marry-PAST .
+%gra:	1|0|ROOT 2|1|LP 3|1|COMP 4|1|PUNCT
+%act:	smiles at m
+*MOT:	that's nice . 1511450_1512681
+%mor:	pro:dem|that~cop|be&3S adj|nice .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*CHI:	off . 1512681_1522728
+%mor:	adv|off .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	tries to take beads off, beads break
+*CHI:	take, off . 1522728_1526473
+%mor:	v|take cm|cm adv|off .
+%gra:	1|0|ROOT 2|1|LP 3|1|JCT 4|1|PUNCT
+*CHI:	off . 1526473_1527776
+%mor:	adv|off .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	holds beads
+*CHI:	off . 1527776_1528520
+%mor:	adv|off .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	sets beads on couch
+*MOT:	do you want me to fix it ? 1528520_1530751
+%mor:	mod|do pro|you v|want pro:obj|me inf|to v|fix pro|it ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|6|INF 6|3|XCOMP 7|6|OBJ 8|3|PUNCT
+*CHI:	fix, it, mommy . 1530751_1534636
+%mor:	v|fix cm|cm pro|it cm|cm n|mommy .
+%gra:	1|0|ROOT 2|1|LP 3|5|SUBJ 4|3|LP 5|1|COMP 6|1|PUNCT
+*MOT:	bring it over here and I'll fix it . 1534636_1536005
+%mor:	v|bring pro|it adv|over adv|here conj|and pro:sub|I~mod|will v|fix
+	pro|it .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|JCT 4|1|JCT 5|8|LINK 6|8|SUBJ 7|8|AUX 8|1|CJCT
+	9|8|OBJ 10|1|PUNCT
+*CHI:	come, baby [x 2] . 1536005_1542263
+%mor:	v|come cm|cm n|baby .
+%gra:	1|0|ROOT 2|1|LP 3|1|OBJ 4|1|PUNCT
+%act:	gives beads to m
+*MOT:	there . 1542263_1545923
+%mor:	adv|there .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	fixes beads, gives c beads
+*CHI:	more, beads [x 2] . 1545923_1553881
+%mor:	adv|more cm|cm v|bead-3S .
+%gra:	1|3|JCT 2|1|LP 3|0|ROOT 4|3|PUNCT
+%act:	wears popbeads
+*CHI:	put, on . 1553881_1559773
+%mor:	v|put&ZERO cm|cm adv|on .
+%gra:	1|0|ROOT 2|1|LP 3|1|JCT 4|1|PUNCT
+%act:	manipulates beads
+*CHI:	take, off . 1559773_1563428
+%mor:	v|take cm|cm adv|off .
+%gra:	1|0|ROOT 2|1|LP 3|1|JCT 4|1|PUNCT
+*CHI:	no . 1563428_1565116
+%mor:	co|no .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	baby . 1565116_1569750
+%mor:	n|baby .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	takes beads
+*CHI:	want, that, on, baby . 1569750_1573583
+%mor:	v|want cm|cm rel|that cm|cm adv|on cm|cm n|baby .
+%gra:	1|0|ROOT 2|1|LP 3|7|LINK 4|3|LP 5|7|JCT 6|5|LP 7|1|COMP 8|1|PUNCT
+*CHI:	that, on, baby . 1573583_1579065
+%mor:	det|that cm|cm adv|on cm|cm n|baby .
+%gra:	1|3|DET 2|1|LP 3|5|JCT 4|3|LP 5|0|INCROOT 6|5|PUNCT
+%act:	puts popbeads around baby doll
+*CHI:	that, on, eat . 1579065_1582765
+%mor:	det|that cm|cm adv|on cm|cm v|eat .
+%gra:	1|2|DET 2|5|SUBJ 3|5|JCT 4|3|LP 5|0|ROOT 6|5|PUNCT
+%act:	points to doll wearing beads
+@New Episode
+*MOT:	do you want her to wear that while she's eating ? 1582765_1584880
+%mor:	mod|do pro|you v|want pro:obj|her inf|to v|wear pro:dem|that
+	conj|while pro:sub|she~aux|be&3S part|eat-PRESP ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|6|INF 6|3|XCOMP 7|6|OBJ 8|11|LINK
+	9|11|SUBJ 10|11|AUX 11|6|CJCT 12|3|PUNCT
+*CHI:	this, pocketbook, baby . 1584880_1591181
+%mor:	det|this cm|cm n|+n|pocket+n|book cm|cm n|baby .
+%gra:	1|3|DET 2|1|LP 3|5|SUBJ 4|3|LP 5|0|INCROOT 6|5|PUNCT
+%act:	takes purse
+*CHI:	baby, money, in, there . 1591181_1594836
+%mor:	n|baby cm|cm n|money cm|cm adv|in cm|cm adv|there .
+%gra:	1|0|INCROOT 2|1|LP 3|1|XMOD 4|3|LP 5|7|JCT 6|5|LP 7|3|NJCT 8|1|PUNCT
+%act:	attempts to open purse
+*CHI:	grr . 1594836_1597855
+%mor:	co|grr .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	pulls purse
+*CHI:	mommy . 1597855_1600040
+%mor:	n|mommy .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	offers m purse
+*MOT:	mommy show you how to do this ? 1600040_1601916
+%mor:	n|mommy n|show pro|you adv:wh|how inf|to v|do pro:dem|this ?
+%gra:	1|2|MOD 2|0|INCROOT 3|2|OBJ 4|3|COORD 5|6|INF 6|4|XCOMP 7|6|OBJ
+	8|2|PUNCT
+%act:	takes purse
+*MOT:	come here . 1601916_1602323
+%mor:	v|come adv|here .
+%gra:	1|0|ROOT 2|1|JCT 3|1|PUNCT
+*MOT:	this is special . 1602323_1603003
+%mor:	pro:dem|this cop|be&3S adj|special .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*MOT:	wanna see this ? 1603003_1603641
+%mor:	v|want~inf|to co|see det|this ?
+%gra:	1|0|ROOT 2|3|INF 3|1|XCOMP 4|5|DET 5|3|PUNCT
+*CHI:	see, that, puzzle . 1603641_1607336
+%mor:	co|see cm|cm rel|that cm|cm n|puzzle .
+%gra:	1|5|COM 2|1|LP 3|5|MOD 4|3|LP 5|0|INCROOT 6|5|PUNCT
+%act:	looks at toys
+*MOT:	there . 1607336_1607943
+%mor:	adv|there .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	gives c purse
+*MOT:	now you can open it . 1607943_1609086
+%mor:	adv|now pro|you mod|can v|open pro|it .
+%gra:	1|4|JCT 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*CHI:	open, that . 1609086_1617076
+%mor:	adj|open cm|cm rel|that .
+%gra:	1|3|MOD 2|1|LP 3|0|INCROOT 4|3|PUNCT
+%act:	opens purse
+*CHI:	any, money, in, there . 1617076_1621876
+%mor:	qn|any cm|cm n|money cm|cm adv|in cm|cm adv|there .
+%gra:	1|3|QUANT 2|1|LP 3|0|INCROOT 4|3|LP 5|7|JCT 6|5|LP 7|3|JCT 8|3|PUNCT
+%act:	reaches inside
+*MOT:	there is ? 1621876_1622891
+%mor:	pro:exist|there cop|be&3S ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*CHI:	yeah . 1622891_1624883
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	my, baby . 1624883_1627125
+%mor:	pro:poss:det|my cm|cm n|baby .
+%gra:	1|3|MOD 2|1|LP 3|0|INCROOT 4|3|PUNCT
+*CHI:	that, baby . 1627125_1629170
+%mor:	det|that cm|cm n|baby .
+%gra:	1|3|DET 2|1|LP 3|0|INCROOT 4|3|PUNCT
+*CHI:	0 . 1629170_1630606
+%act:	drops purse
+*CHI:	that, baby . 1630606_1633185
+%mor:	det|that cm|cm n|baby .
+%gra:	1|3|DET 2|1|LP 3|0|INCROOT 4|3|PUNCT
+%act:	points to baby
+*CHI:	buy, all, stuff [x 2] . 1633185_1639155
+%mor:	n|buy cm|cm qn|all cm|cm n|stuff .
+%gra:	1|5|MOD 2|1|LP 3|5|QUANT 4|3|LP 5|0|INCROOT 6|5|PUNCT
+%act:	reaches into purse
+*MOT:	buy what . 1639155_1640381
+%mor:	v|buy pro:wh|what .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+*CHI:	all, stuff . 1640381_1642223
+%mor:	post|all cm|cm n|stuff .
+%gra:	1|0|INCROOT 2|3|MOD 3|1|INCROOT 4|3|PUNCT
+*MOT:	all stuff ? 1642223_1642893
+%mor:	qn|all n|stuff ?
+%gra:	1|2|QUANT 2|0|INCROOT 3|2|PUNCT
+*MOT:	what kind of stuff are you gonna buy ? 1642893_1644300
+%mor:	pro:wh|what n|kind prep|of n|stuff cop|be&PRES pro|you
+	part|go-PRESP~inf|to n|buy ?
+%gra:	1|0|INCROOT 2|1|OBJ 3|2|NJCT 4|3|POBJ 5|4|CMOD 6|5|OBJ 7|6|XMOD 8|9|INF
+	9|7|XCOMP 10|1|PUNCT
+*CHI:	in, Shoprite . 1644300_1646073
+%mor:	adv|in cm|cm n:prop|Shoprite .
+%gra:	1|3|JCT 2|1|LP 3|0|ROOT 4|3|PUNCT
+*MOT:	in Shoprite . 1646073_1646788
+%mor:	prep|in n:prop|Shoprite .
+%gra:	1|0|INCROOT 2|1|POBJ 3|1|PUNCT
+*MOT:	yeah . 1646788_1647313
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	Shoprite . 1647313_1649598
+%mor:	n:prop|Shoprite .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	what should we buy ? 1649598_1650838
+%mor:	pro:wh|what mod|should pro:sub|we v|buy ?
+%gra:	1|4|LINK 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+*CHI:	in, Shoprite . 1650838_1653128
+%mor:	adv|in cm|cm n:prop|Shoprite .
+%gra:	1|3|JCT 2|1|LP 3|0|ROOT 4|3|PUNCT
+%act:	manipulates purse
+*CHI:	buy, something, good . 1653128_1657293
+%mor:	n|buy cm|cm pro:indef|something cm|cm adj|good .
+%gra:	1|0|INCROOT 2|1|LP 3|1|XMOD 4|3|LP 5|3|PRED 6|1|PUNCT
+*MOT:	buy something good like what ? 1657293_1658791
+%mor:	v|buy pro:indef|something adj|good v|like pro:wh|what ?
+%gra:	1|4|LINK 2|1|OBJ 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*CHI:	come, on, baby . 1658791_1663413
+%mor:	v|come cm|cm adv|on cm|cm n|baby .
+%gra:	1|0|ROOT 2|1|LP 3|5|JCT 4|3|LP 5|1|COMP 6|1|PUNCT
+%act:	wears purse
+*CHI:	take, off . 1663413_1666468
+%mor:	v|take cm|cm adv|off .
+%gra:	1|0|ROOT 2|1|LP 3|1|JCT 4|1|PUNCT
+%act:	takes popbeads off baby
+*CHI:	Shoprite, baby . 1666468_1670450
+%mor:	n:prop|Shoprite cm|cm n|baby .
+%gra:	1|3|MOD 2|1|LP 3|0|INCROOT 4|3|PUNCT
+%act:	takes baby
+*CHI:	have, to, clean, up, here . 1670450_1673850
+%mor:	v|have cm|cm prep|to cm|cm adj|clean cm|cm adv|up cm|cm adv|here .
+%gra:	1|0|ROOT 2|1|LP 3|1|JCT 4|3|LP 5|3|POBJ 6|5|LP 7|5|JCT 8|5|LP 9|5|JCT
+	10|1|PUNCT
+%act:	shoulders baby
+*CHI:	0 . 1673850_1676563
+%act:	sponges floor, holds purse and doll
+*CHI:	clean, up, floor, too . 1676563_1683888
+%mor:	adj|clean cm|cm adv|up cm|cm n|floor cm|cm post|too .
+%gra:	1|0|INCROOT 2|1|LP 3|1|JCT 4|1|LP 5|7|MOD 6|5|LP 7|1|PQ 8|1|PUNCT
+%act:	sponges table
+*CHI:	0 . 1683888_1685820
+%act:	discards sponge on couch
+*CHI:	to, Shoprite, baby . 1685820_1689353
+%mor:	inf|to cm|cm n:prop|Shoprite cm|cm n|baby .
+%gra:	1|3|INF 2|1|LP 3|5|SUBJ 4|3|LP 5|0|INCROOT 6|5|PUNCT
+%act:	walks toward camera carrying purse and baby
+*CHI:	not, yet, baby . 1689353_1693555
+%mor:	neg|not cm|cm adv|yet cm|cm n|baby .
+%gra:	1|5|NEG 2|1|LP 3|5|JCT 4|3|LP 5|0|INCROOT 6|5|PUNCT
+%act:	stops, looks at m
+*MOT:	not yet . 1693555_1693985
+%mor:	neg|not adv|yet .
+%gra:	1|0|NEG 2|1|JCT 3|1|PUNCT
+*CHI:	not, yet . 1693985_1697413
+%mor:	neg|not cm|cm adv|yet .
+%gra:	1|0|NEG 2|1|LP 3|1|JCT 4|1|PUNCT
+%act:	walks toward bucket
+*CHI:	not, yet, baby . 1697413_1700868
+%mor:	neg|not cm|cm adv|yet cm|cm n|baby .
+%gra:	1|5|NEG 2|1|LP 3|5|JCT 4|3|LP 5|0|INCROOT 6|5|PUNCT
+%act:	walks over toys
+*CHI:	too . 1700868_1702580
+%mor:	post|too .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	put, in, there . 1702580_1706215
+%mor:	v|put&ZERO cm|cm adv|in cm|cm adv|there .
+%gra:	1|0|ROOT 2|1|LP 3|1|JCT 4|1|LP 5|1|JCT 6|1|PUNCT
+%act:	stands in popbeads ring
+*CHI:	put, in [/] in, there . 1706215_1709183
+%mor:	v|put&ZERO cm|cm adv|in cm|cm adv|there .
+%gra:	1|0|ROOT 2|1|LP 3|1|JCT 4|1|LP 5|1|JCT 6|1|PUNCT
+%act:	lifts ring
+*CHI:	0 . 1709183_1710070
+%act:	drops ring
+*CHI:	0 . 1710070_1716435
+%act:	discards baby doll
+*CHI:	my, pocketbook . 1716435_1719933
+%mor:	pro:poss:det|my cm|cm n|+n|pocket+n|book .
+%gra:	1|3|MOD 2|1|LP 3|0|INCROOT 4|3|PUNCT
+%act:	shows m pocketbook
+*MOT:	is that mommy's ? 1719933_1720688
+%mor:	cop|be&3S pro:dem|that n|mommy~poss|s ?
+%gra:	1|0|ROOT 2|1|PRED 3|2|OBJ 4|3|POSS 5|1|PUNCT
+*CHI:	there, Aislinn's, pocketbook . 1720688_1723711
+%mor:	adv|there cm|cm n:prop|Aislinn~poss|s cm|cm n|+n|pocket+n|book .
+%gra:	1|6|JCT 2|1|LP 3|6|MOD 4|3|POSS 5|3|LP 6|0|INCROOT 7|6|PUNCT
+*MOT:	that's your pocketbook . 1723711_1724688
+%mor:	pro:dem|that~aux|be&3S pro:poss:det|your n|+n|pocket+n|book .
+%gra:	1|4|SUBJ 2|4|AUX 3|4|MOD 4|0|INCROOT 5|4|PUNCT
+*CHI:	want, Shoprite, baby . 1724688_1728741
+%mor:	v|want cm|cm n:prop|Shoprite cm|cm n|baby .
+%gra:	1|0|ROOT 2|1|LP 3|5|MOD 4|3|LP 5|1|COMP 6|1|PUNCT
+%act:	swings purse, says to doll
+*CHI:	baby, doll . 1728741_1730676
+%mor:	n|baby cm|cm n|doll .
+%gra:	1|3|MOD 2|1|LP 3|0|INCROOT 4|3|PUNCT
+*CHI:	go, out, baby, doll . 1730676_1735495
+%mor:	v|go cm|cm prep|out cm|cm n|baby cm|cm n|doll .
+%gra:	1|0|ROOT 2|1|LP 3|1|JCT 4|3|LP 5|7|MOD 6|5|LP 7|3|POBJ 8|1|PUNCT
+*CHI:	have, picnic, tomorrow . 1735495_1739991
+%mor:	v|have cm|cm n|picnic cm|cm adv:tem|tomorrow .
+%gra:	1|0|ROOT 2|1|LP 3|1|INCROOT 4|3|LP 5|3|INCROOT 6|5|PUNCT
+*MOT:	have picnic tomorrow . 1739991_1741200
+%mor:	v|have n|picnic adv:tem|tomorrow .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|INCROOT 4|3|PUNCT
+*MOT:	when are we gonna have a picnic ? 1741200_1743163
+%mor:	conj|when cop|be&PRES pro:sub|we part|go-PRESP~inf|to v|have det|a
+	n|picnic ?
+%gra:	1|2|LINK 2|0|ROOT 3|2|PRED 4|3|XMOD 5|6|INF 6|4|XCOMP 7|8|DET 8|6|OBJ
+	9|2|PUNCT
+*CHI:	have, picnic, baby . 1743163_1746706
+%mor:	v|have cm|cm n|picnic cm|cm n|baby .
+%gra:	1|0|ROOT 2|1|LP 3|5|MOD 4|3|LP 5|1|COMP 6|1|PUNCT
+%act:	hugs doll
+*MOT:	yeah . 1746706_1747776
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	0 . 1747776_1749473
+%act:	swings purse
+*CHI:	&un, baby, tomorrow . 1749473_1757850
+%mor:	cm|cm n|baby cm|cm adv:tem|tomorrow .
+%gra:	1|4|LINK 2|4|MOD 3|2|LP 4|0|ROOT 5|4|PUNCT
+%act:	takes own stuffed animal from couch
+*MOT:	tomorrow . 1757850_1758690
+%mor:	adv:tem|tomorrow .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	tomorrow's, Saturday . 1758690_1762425
+%mor:	adv:tem|tomorrow~aux|be&3S cm|cm n:prop|Saturday .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|LP 4|0|ROOT 5|4|PUNCT
+%act:	has stuffed animal touch baby doll
+*CHI:	tomorrow's, Saturday . 1762425_1764581
+%mor:	adv:tem|tomorrow~aux|be&3S cm|cm n:prop|Saturday .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|LP 4|0|ROOT 5|4|PUNCT
+%act:	drops stuffed animal
+*MOT:	tomorrow's Saturday . 1764581_1765541
+%mor:	adv:tem|tomorrow~aux|be&3S n:prop|Saturday .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|PUNCT
+*CHI:	clean, up, floor . 1765541_1771871
+%mor:	adj|clean cm|cm adv|up cm|cm n|floor .
+%gra:	1|5|MOD 2|1|LP 3|1|JCT 4|1|LP 5|0|INCROOT 6|5|PUNCT
+*CHI:	0 . 1771871_1773898
+%act:	takes mop, carries purse on shoulder
+*CHI:	clean, up, floor . 1773898_1777090
+%mor:	adj|clean cm|cm adv|up cm|cm n|floor .
+%gra:	1|5|MOD 2|1|LP 3|1|JCT 4|1|LP 5|0|INCROOT 6|5|PUNCT
+%act:	mops toys
+*CHI:	clean, up . 1777090_1779480
+%mor:	adj|clean cm|cm adv|up .
+%gra:	1|0|INCROOT 2|1|LP 3|1|JCT 4|1|PUNCT
+%act:	mops floor
+*CHI:	how, many ? 1779480_1781421
+%mor:	adv:wh|how cm|cm qn|many ?
+%gra:	1|3|LINK 2|1|LP 3|0|ROOT 4|3|PUNCT
+*CHI:	floor, here . 1781421_1785338
+%mor:	n|floor cm|cm adv|here .
+%gra:	1|0|INCROOT 2|1|LP 3|1|JCT 4|1|PUNCT
+%act:	drops mop
+*CHI:	0 . 1785338_1787468
+%act:	arranges purse swinging from arm
+*CHI:	0 . 1787468_1790388
+%act:	takes nesting cups, puts them on couch
+*CHI:	0 . 1790388_1792896
+%act:	discards purse
+@New Episode
+*CHI:	that's, something . 1792896_1795285
+%mor:	pro:dem|that~aux|be&3S cm|cm pro:indef|something .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|LP 4|0|ROOT 5|4|PUNCT
+%act:	separates nesting cups
+*CHI:	that's, something, else . 1795285_1799043
+%mor:	pro:dem|that~aux|be&3S cm|cm pro:indef|something cm|cm post|else .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|LP 4|0|ROOT 5|4|LP 6|4|PQ 7|4|PUNCT
+%act:	separates nesting cups
+*CHI:	that's, something . 1799043_1805856
+%mor:	pro:dem|that~aux|be&3S cm|cm pro:indef|something .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|LP 4|0|ROOT 5|4|PUNCT
+%act:	separates all five nesting cups
+*CHI:	that's, something, else . 1805856_1810186
+%mor:	pro:dem|that~aux|be&3S cm|cm pro:indef|something cm|cm post|else .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|LP 4|0|ROOT 5|4|LP 6|4|PQ 7|4|PUNCT
+%act:	walks away
+*CHI:	that's, something, in, pocketbook . 1810186_1815318
+%mor:	pro:dem|that~aux|be&3S cm|cm pro:indef|something cm|cm adv|in cm|cm
+	n|+n|pocket+n|book .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|LP 4|0|ROOT 5|4|LP 6|8|JCT 7|6|LP 8|4|CJCT
+	9|4|PUNCT
+%act:	picks up pocketbook
+*CHI:	these, in, pocketbook . 1815318_1818148
+%mor:	det|these cm|cm adv|in cm|cm n|+n|pocket+n|book .
+%gra:	1|3|DET 2|1|LP 3|5|JCT 4|3|LP 5|0|INCROOT 6|5|PUNCT
+%act:	bangs two cups together
+*CHI:	0 . 1818148_1823110
+%act:	stacks two cups
+*CHI:	0 . 1823110_1826163
+%act:	nests one cup
+*CHI:	0 . 1826163_1831813
+%act:	nests two cups
+*CHI:	0 . 1831813_1841348
+%act:	separates all five cupe
+*CHI:	xxx . 1841348_1846640
+%act:	puts nesting cup on her head, nesting cup falls on floor
+*MOT:	0 . 1846640_1848473
+%act:	hands c nesting cup
+*CHI:	0 . 1848473_1851358
+%act:	holds large nesting cup on head
+*CHI:	0 . 1851358_1854195
+%act:	offers m second nesting cup
+*MOT:	for me ? 1854195_1854893
+%mor:	prep|for pro:obj|me ?
+%gra:	1|0|INCROOT 2|1|POBJ 3|1|PUNCT
+*MOT:	no . 1854893_1855390
+%mor:	co|no .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	I don't wanna wear a hat . 1855390_1856073
+%mor:	pro:sub|I mod|do~neg|not v|want~inf|to v|wear det|a n|hat .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|6|INF 6|4|XCOMP 7|8|DET 8|6|OBJ
+	9|4|PUNCT
+*CHI:	0 . 1856073_1856973
+%act:	looks at m, holds both nesting cups on head
+*MOT:	what kind of hat is that ? 1856973_1858935
+%mor:	pro:wh|what n|kind prep|of n|hat cop|be&3S pro:dem|that ?
+%gra:	1|5|LINK 2|5|SUBJ 3|5|JCT 4|5|SUBJ 5|0|ROOT 6|5|PRED 7|5|PUNCT
+*CHI:	&un hat . 1858935_1864385
+%mor:	n|hat .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	shows m cup, shakes cup
+*CHI:	0 . 1864385_1865755
+%act:	puts cup back on head
+*CHI:	0 . 1865755_1869395
+%act:	drops both nesting cups
+*CHI:	0 . 1869395_1876651
+%act:	takes another cup from couch, offers to m
+*MOT:	for mommy . 1876651_1878198
+%mor:	prep|for n|mommy .
+%gra:	1|0|INCROOT 2|1|POBJ 3|1|PUNCT
+*CHI:	0 . 1878198_1880611
+%act:	gestures with waving arms
+*MOT:	&uh . 1880611_1881103
+*MOT:	I don't want it now . 1881103_1881793
+%mor:	pro:sub|I mod|do~neg|not v|want pro|it adv|now .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|OBJ 6|4|JCT 7|4|PUNCT
+*CHI:	0 . 1881793_1882891
+%act:	puts cup on her head
+*MOT:	you can wear it . 1882891_1883640
+%mor:	pro|you mod|can v|wear pro|it .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*CHI:	0 . 1883640_1886568
+%act:	offers m second cup
+*MOT:	no thanks . 1886568_1887630
+%mor:	co|no co|thanks .
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+*CHI:	0 . 1887630_1892173
+%act:	drops both cups onto couch
+*CHI:	0 . 1892173_1894958
+%act:	offers m last cup
+*MOT:	no thanks . 1894958_1895918
+%mor:	co|no co|thanks .
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+*CHI:	0 . 1895918_1897870
+%act:	puts cup on her own head
+*CHI:	0 . 1897870_1900618
+%act:	drops cup
+@New Episode
+*CHI:	there's, something, in, pocketbook . 1900618_1908131
+%mor:	pro:dem|there~aux|be&3S cm|cm pro:indef|something cm|cm adv|in
+	cm|cm n|+n|pocket+n|book .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|LP 4|0|ROOT 5|4|LP 6|8|JCT 7|6|LP 8|4|CJCT
+	9|4|PUNCT
+%act:	takes purse
+@End

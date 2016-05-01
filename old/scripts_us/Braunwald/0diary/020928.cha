@@ -1,0 +1,62 @@
+@UTF8
+@PID:	11312/c-00011047-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, MOT Mother
+@ID:	eng|Braunwald|CHI|02;09.28|female|||Target_Child|||
+@ID:	eng|Braunwald|MOT|||||Mother|||
+@Date:	18-DEC-1973
+*CHI:	Joanna, we're twins, aren't we ?
+%mor:	n:prop|Joanna cm|cm pro:sub|we~aux|be&PRES n|twin-PL cm|cm
+	aux|be&PRES~neg|not pro:sub|we ?
+%gra:	1|9|LINK 2|1|LP 3|5|SUBJ 4|5|AUX 5|9|SUBJ 6|5|LP 7|9|AUX 8|7|NEG
+	9|0|ROOT 10|9|PUNCT
+%sit:	133
+*CHI:	<my hair> [/] <my hair> [/] my hair hasn't been brushed .
+%mor:	pro:poss:det|my n|hair aux|have&3S~neg|not aux|be&PASTP
+	part|brush-PASTP .
+%gra:	1|2|MOD 2|6|SUBJ 3|6|AUX 4|3|NEG 5|6|AUX 6|0|ROOT 7|6|PUNCT
+%sit:	134
+*CHI:	Mommy, I can talk English with you .
+%mor:	n:prop|Mommy cm|cm pro:sub|I mod|can v|talk n:prop|English
+	prep|with pro|you .
+%gra:	1|5|LINK 2|1|LP 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|OBJ 7|5|JCT 8|7|POBJ
+	9|5|PUNCT
+%sit:	135
+*CHI:	je@f t'aime@f .
+%mor:	fam|je fam|t'aime .
+%gra:	1|0|INCROOT 2|1|PUNCT 3|1|PUNCT
+%sit:	135
+*MOT:	no, that's not English .
+%mor:	co|no cm|cm pro:dem|that~cop|be&3S neg|not n:prop|English .
+%gra:	1|4|COM 2|1|LP 3|4|SUBJ 4|0|ROOT 5|4|NEG 6|4|PRED 7|4|PUNCT
+%sit:	135
+*MOT:	it's French .
+%mor:	pro|it~aux|be&3S n:prop|French .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|PUNCT
+%sit:	135
+*MOT:	it means “I love you” .
+%mor:	pro|it v|mean-3S bq|bq pro:sub|I v|love pro|you eq|eq .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|5|SUBJ 5|2|COMP 6|5|OBJ 7|5|JCT 8|2|PUNCT
+%sit:	135
+*CHI:	je@f t'aime@f .
+%mor:	fam|je fam|t'aime .
+%gra:	1|0|INCROOT 2|1|PUNCT 3|1|PUNCT
+%sit:	135
+*MOT:	je@f t'aime@f .
+%mor:	fam|je fam|t'aime .
+%gra:	1|0|INCROOT 2|1|PUNCT 3|1|PUNCT
+%sit:	135
+*MOT:	terrific, Laura, that's really good .
+%mor:	adj|terrific cm|cm n:prop|Laura cm|cm pro:dem|that~cop|be&3S
+	adv|real&dadj-LY adj|good .
+%gra:	1|6|LINK 2|1|LP 3|6|SUBJ 4|3|LP 5|6|SUBJ 6|0|ROOT 7|8|JCT 8|6|PRED
+	9|6|PUNCT
+%sit:	135
+*CHI:	I have a great idea, let's pretend .
+%mor:	pro:sub|I v|have det|a adj|great n|idea cm|cm v|let~pro:obj|us
+	v|pretend .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|DET 4|5|MOD 5|2|OBJ 6|5|LP 7|5|XMOD 8|7|OBJ
+	9|7|COMP 10|2|PUNCT
+%sit:	137
+@End

@@ -1,0 +1,32 @@
+@UTF8
+@PID:	11312/c-00010925-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, MOT Mother
+@ID:	eng|Braunwald|CHI|02;05.21|female|||Target_Child|||
+@ID:	eng|Braunwald|MOT|||||Mother|||
+@Date:	11-AUG-1973
+*CHI:	I'm glad I have more underwear .
+%mor:	pro:sub|I~cop|be&1S adj|glad pro:sub|I v|have qn|more n|underwear .
+%gra:	1|2|SUBJ 2|5|LINK 3|2|PRED 4|5|SUBJ 5|0|ROOT 6|7|QUANT 7|5|OBJ
+	8|5|PUNCT
+%sit:	469
+*MOT:	so am I .
+%mor:	adv|so cop|be&1S pro:sub|I .
+%gra:	1|2|JCT 2|0|ROOT 3|2|PRED 4|2|PUNCT
+%sit:	469
+*CHI:	I hope I don't choke on carrot .
+%mor:	pro:sub|I v|hope pro:sub|I mod|do~neg|not v|choke prep|on n|carrot
+	.
+%gra:	1|2|SUBJ 2|0|ROOT 3|6|SUBJ 4|6|AUX 5|4|NEG 6|2|COMP 7|6|JCT 8|7|POBJ
+	9|2|PUNCT
+%sit:	470
+*CHI:	I hope I don't .
+%mor:	pro:sub|I v|hope pro:sub|I mod|do~neg|not .
+%gra:	1|2|SUBJ 2|0|ROOT 3|6|SUBJ 4|6|AUX 5|4|NEG 6|2|PUNCT
+%sit:	470
+*MOT:	I hope you don't too .
+%mor:	pro:sub|I v|hope pro|you mod|do~neg|not post|too .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|6|AUX 5|4|NEG 6|2|COMP 7|2|PUNCT
+%sit:	470
+@End

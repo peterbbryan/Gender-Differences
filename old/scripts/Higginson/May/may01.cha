@@ -1,0 +1,2122 @@
+@UTF8
+@PID:	11312/c-00016235-1
+@Begin
+@Languages:	eng
+@Participants:	CHI May Target_Child , MOT Mother , FAT Father , ROY Roy Investigator , LOY Loyal Camera_Operator
+@ID:	eng|Higginson|CHI|0;11.|female|typical||Target_Child|||
+@ID:	eng|Higginson|MOT|||||Mother|||
+@ID:	eng|Higginson|FAT|||||Father|||
+@ID:	eng|Higginson|ROY|||||Investigator|||
+@ID:	eng|Higginson|LOY|||||Camera_Operator|||
+@Situation:	session is being recorded in the living room of May's parents. both her mother and father are present. it is a small room in a university apartment rented by her parents;
+@Room Layout:	on one side of the room is a couch and on the other is a bookcase. in the corner of the room by the bookcase is the toybox. there is no door separating the living area from the kitchen area. CJ Research Assistant also present
+*MOT:	what do you want to do ?
+%mor:	pro:wh|what mod|do pro|you v|want inf|to v|do ?
+%gra:	1|4|LINK 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|6|INF 6|4|XCOMP 7|4|PUNCT
+%sit:	mother and child are sitting on the floor
+*MOT:	you wanna read some books (.) huh ?
+%mor:	pro|you v|want~inf|to v|read&ZERO qn|some n|book-PL co|huh ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|INF 4|2|XCOMP 5|6|QUANT 6|4|OBJ 7|4|COM 8|2|PUNCT
+*MOT:	mother lifts child .
+%mor:	n|mother v|lift-3S n|child .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*MOT:	can you stand up by yourself ?
+%mor:	mod|can pro|you v|stand adv|up prep|by pro:refl|yourself ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|JCT 6|5|POBJ 7|3|PUNCT
+*MOT:	can you stand up by yourself ?
+%mor:	mod|can pro|you v|stand adv|up prep|by pro:refl|yourself ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|JCT 6|5|POBJ 7|3|PUNCT
+*MOT:	you can ?
+%mor:	pro|you mod|can ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*CHI:	xxx .
+*MOT:	you're pretty proud aren't you .
+%mor:	pro|you~cop|be&PRES adj|pretty adj|proud aux|be&PRES~neg|not
+	pro|you .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PRED 5|7|AUX 6|5|NEG 7|4|OBJ 8|2|PUNCT
+*MOT:	you wanna go walk over to C_J ?
+%mor:	pro|you v|want~inf|to v|go n|walk adv|over prep|to n:prop|C_J ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|INF 4|2|XCOMP 5|4|OBJ 6|4|JCT 7|4|JCT 8|7|POBJ
+	9|2|PUNCT
+*MOT:	child walks towards C_J .
+%mor:	n|child v|walk-3S prep|towards n:prop|C_J .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|3|POBJ 5|2|PUNCT
+*MOT:	that's a big girl .
+%mor:	pro:dem|that~cop|be&3S det|a adj|big n|girl .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|DET 4|5|MOD 5|2|PRED 6|2|PUNCT
+*MOT:	yes .
+%mor:	co|yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	you're real pleased .
+%mor:	pro|you~cop|be&PRES adj|real part|please-PASTP .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|MOD 4|2|PRED 5|2|PUNCT
+*MOT:	this is a real long one Dirk .
+%mor:	pro:dem|this cop|be&3S det|a adj|real v|long det:num|one
+	n:prop|Dirk .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|DET 4|5|MOD 5|2|PRED 6|7|QUANT 7|5|OBJ 8|2|PUNCT
+%add:	spoken to father
+*MOT:	this is wonderful .
+%mor:	pro:dem|this cop|be&3S adj|wonder-FULL .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+%par:	May laughs and walks .
+*MOT:	you're pretty excited aren't you ?
+%mor:	pro|you~cop|be&PRES adv|pretty part|excite-PASTP
+	aux|be&PRES~neg|not pro|you ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|2|PRED 5|7|AUX 6|5|NEG 7|4|OBJ 8|2|PUNCT
+%par:	May laughs and then sits heavily
+*MOT:	boom .
+%mor:	n|boom .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	come here sweetie we're gonna read this book .
+%mor:	v|come adv|here co|sweetie pro:sub|we~aux|be&PRES
+	part|go-PRESP~inf|to v|read&ZERO det|this n|book .
+%gra:	1|0|ROOT 2|1|JCT 3|6|COM 4|6|SUBJ 5|6|AUX 6|1|COMP 7|8|INF 8|6|XCOMP
+	9|10|DET 10|8|OBJ 11|1|PUNCT
+%sit:	child crawls to mother and they both sit looking at a book
+*MOT:	here are Paul and Judy .
+%mor:	adv|here cop|be&PRES n:prop|Paul coord|and n:prop|Judy .
+%gra:	1|2|JCT 2|0|ROOT 3|2|PRED 4|3|CONJ 5|4|COORD 6|2|PUNCT
+*MOT:	they can do lots_of things .
+%mor:	pro:sub|they mod|can v|do qn|lots_of n|thing-PL .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|QUANT 5|3|OBJ 6|3|PUNCT
+*MOT:	Judy can pat the bunny .
+%mor:	n:prop|Judy mod|can v|pat det|the n|bunny .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+%act:	child makes a waving motion with her fingers
+*MOT:	no you wave at the end .
+%mor:	co|no pro|you v|wave prep|at det|the n|end .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|3|PUNCT
+*MOT:	Judy can pat the bunny .
+%mor:	n:prop|Judy mod|can v|pat det|the n|bunny .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*MOT:	can you pat the bunny ?
+%mor:	mod|can pro|you v|pat det|the n|bunny ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+%act:	child kisses the page
+*MOT:	don't kiss the bunny .
+%mor:	mod|do~neg|not v|kiss det|the n|bunny .
+%gra:	1|3|AUX 2|1|NEG 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*MOT:	pat the bunny .
+%mor:	v|pat det|the n|bunny .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+*MOT:	Judy can play peekaboo (.) peekaboo .
+%mor:	n:prop|Judy mod|can v|play co|peekaboo co|peekaboo .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|COM 5|3|COM 6|3|PUNCT
+*MOT:	now you smell the flowers .
+%mor:	adv|now pro|you v|smell det|the n|flower-PL .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+%act:	May smells the flowers in the book .
+*MOT:	that's a big girl (.) yes .
+%mor:	pro:dem|that~cop|be&3S det|a adj|big n|girl co|yes .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|DET 4|5|MOD 5|2|PRED 6|5|COM 7|2|PUNCT
+%act:	May waves her hand again .
+*MOT:	not yet (.) byebye comes later .
+%mor:	neg|not adv|yet co|byebye v|come-3S adv|later .
+%gra:	1|2|NEG 2|4|JCT 3|4|COM 4|0|ROOT 5|4|JCT 6|4|PUNCT
+*MOT:	now you look in the mirror .
+%mor:	adv|now pro|you v|look prep|in det|the n|mirror .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|3|PUNCT
+*MOT:	now you feel the scratchy paper .
+%mor:	adv|now pro|you v|feel det|the adj|scratch&dv-Y n|paper .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|6|DET 5|6|MOD 6|3|OBJ 7|3|PUNCT
+*MOT:	its scratchy isn't it .
+%mor:	pro:poss:det|its adj|scratch&dv-Y cop|be&3S~neg|not pro|it .
+%gra:	1|2|MOD 2|3|SUBJ 3|0|ROOT 4|3|NEG 5|3|PRED 6|3|PUNCT
+%act:	May feels the scratchy paper in the book
+*MOT:	now you read Judy's book .
+%mor:	adv|now pro|you v|read&ZERO n:prop|Judy~poss|s n|book .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|6|MOD 5|4|POSS 6|3|OBJ 7|3|PUNCT
+*MOT:	kinda hard to get isn't it .
+%mor:	adv|kinda adj|hard inf|to v|get cop|be&3S~neg|not pro|it .
+%gra:	1|2|JCT 2|0|ROOT 3|4|INF 4|2|XCOMP 5|4|OBJ 6|5|NEG 7|5|PRED 8|2|PUNCT
+%act:	child opens a small book stuck to the page of the book
+*MOT:	there you go .
+%mor:	adv|there pro|you v|go .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*MOT:	its a story about a bunny .
+%mor:	pro:poss:det|its det|a n|story prep|about det|a n|bunny .
+%gra:	1|3|MOD 2|3|DET 3|0|INCROOT 4|3|NJCT 5|6|DET 6|4|POBJ 7|3|PUNCT
+%act:	May looks at book and then at mother
+*CHI:	yyy .
+*CHI:	yyy .
+*MOT:	it's the bunny .
+%mor:	pro|it~cop|be&3S det|the n|bunny .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+*CHI:	&ah .
+%xpho:	a:
+*MOT:	now you put your finger through mummie's ring .
+%mor:	adv|now pro|you v|put&ZERO pro:poss:det|your n|finger prep|through
+	n|mum&dadj-DIM~aux|be&3S n|ring .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|5|MOD 5|3|OBJ 6|3|JCT 7|9|SUBJ 8|9|AUX
+	9|6|POBJ 10|3|PUNCT
+%act:	May puts her finger through a hole in the page
+*MOT:	there you go .
+%mor:	adv|there pro|you v|go .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*MOT:	it feels pretty good (.) doesn't it ?
+%mor:	pro|it v|feel-3S adv|pretty adj|good mod|do&3S~neg|not pro|it ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|2|JCT 5|7|AUX 6|5|NEG 7|4|OBJ 8|2|PUNCT
+*MOT:	okay (.) now Paul and Judy are saying byebye .
+%mor:	co|okay adv|now n:prop|Paul coord|and n:prop|Judy aux|be&PRES
+	part|say-PRESP co|byebye .
+%gra:	1|3|COM 2|3|JCT 3|0|ROOT 4|7|LINK 5|7|SUBJ 6|7|AUX 7|3|COMP 8|7|COM
+	9|3|PUNCT
+*MOT:	there you go .
+%mor:	adv|there pro|you v|go .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*MOT:	they're waving goodbye to you .
+%mor:	pro:sub|they~aux|be&PRES part|wave-PRESP co|goodbye prep|to pro|you
+	.
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|COM 5|3|JCT 6|5|POBJ 7|3|PUNCT
+*MOT:	that's the end of that one .
+%mor:	pro:dem|that~cop|be&3S det|the n|end prep|of det|that pro:indef|one
+	.
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|4|NJCT 6|7|DET 7|5|POBJ 8|2|PUNCT
+*CHI:	&ah .
+%xpho:	a:
+*MOT:	you want to say the animals ?
+%mor:	pro|you v|want inf|to v|say det|the n|animal-PL ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|INF 4|2|XCOMP 5|6|DET 6|4|OBJ 7|2|PUNCT
+*MOT:	May (.) go get your book that says moo .
+%mor:	n:prop|May v|go v|get pro:poss:det|your n|book rel|that v|say-3S
+	on|moo .
+%gra:	1|2|SUBJ 2|3|SRL 3|0|ROOT 4|5|MOD 5|3|OBJ 6|7|LINK 7|5|CMOD 8|7|OBJ
+	9|3|PUNCT
+%act:	mother and child both look towards the toybox in the corner
+*MOT:	go get your moo book .
+%mor:	v|go v|get pro:poss:det|your v|moo n|book .
+%gra:	1|2|SRL 2|0|ROOT 3|4|MOD 4|2|COMP 5|4|OBJ 6|2|PUNCT
+*MOT:	go get your moo book .
+%mor:	v|go v|get pro:poss:det|your v|moo n|book .
+%gra:	1|2|SRL 2|0|ROOT 3|4|MOD 4|2|COMP 5|4|OBJ 6|2|PUNCT
+*CHI:	oo .
+%mor:	co|oo .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	&uh .
+*MOT:	yes (.) go get it .
+%mor:	co|yes v|go v|get pro|it .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+%act:	May crawls in the wrong direction towards CJ
+*MOT:	you think you see it over there (.) huh ?
+%mor:	pro|you v|think pro|you v|see pro|it prep|over pro:dem|there co|huh
+	?
+%gra:	1|2|SUBJ 2|4|LINK 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|4|JCT 7|6|POBJ 8|4|COM
+	9|4|PUNCT
+%act:	May blows a kiss to CJ
+*MOT:	you blowing kisses to C_J and you just met her !
+%mor:	pro|you part|blow-PRESP v|kiss-3S prep|to n:prop|C_J coord|and
+	pro|you adv|just v|meet&PAST pro:obj|her !
+%gra:	1|3|SUBJ 2|3|MOD 3|0|ROOT 4|3|JCT 5|4|POBJ 6|9|LINK 7|9|SUBJ 8|9|JCT
+	9|3|COMP 10|9|OBJ 11|3|PUNCT
+*MOT:	May .
+%mor:	n:prop|May .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%par:	note of mock embarrassment in mother's voice
+*MOT:	May (.) come here .
+%mor:	n:prop|May v|come adv|here .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|2|PUNCT
+*MOT:	go get your moo book .
+%mor:	v|go v|get pro:poss:det|your v|moo n|book .
+%gra:	1|2|SRL 2|0|ROOT 3|4|MOD 4|2|COMP 5|4|OBJ 6|2|PUNCT
+*MOT:	moo [>] .
+%mor:	on|moo .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	oo [<] .
+%mor:	co|oo .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%xpho:	u:
+*CHI:	oo .
+%mor:	co|oo .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%xpho:	u:
+*MOT:	moo .
+%mor:	on|moo .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	pretty funny I know .
+%mor:	adv|pretty adj|fun&dn-Y pro:sub|I v|know .
+%gra:	1|2|JCT 2|4|LINK 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+*MOT:	come here .
+%mor:	v|come adv|here .
+%gra:	1|0|ROOT 2|1|JCT 3|1|PUNCT
+*MOT:	I know your pretty excited .
+%mor:	pro:sub|I v|know pro:poss:det|your adj|pretty part|excite-PASTP .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|MOD 4|5|MOD 5|2|OBJ 6|2|PUNCT
+*MOT:	all these people (.) like a big party .
+%mor:	qn|all det|these n|person&PL prep|like det|a adj|big n|party .
+%gra:	1|3|QUANT 2|3|DET 3|0|INCROOT 4|3|JCT 5|7|DET 6|7|MOD 7|4|POBJ
+	8|3|PUNCT
+%act:	May returns to her mother
+*MOT:	go get the book that says moo .
+%mor:	v|go v|get det|the n|book rel|that v|say-3S on|moo .
+%gra:	1|2|SRL 2|0|ROOT 3|4|DET 4|2|OBJ 5|6|LINK 6|4|CMOD 7|6|OBJ 8|2|PUNCT
+%sit:	mother leans up close to May's ear
+*CHI:	oo .
+%mor:	co|oo .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%xpho:	u:
+*MOT:	mooooooo@o .
+%mor:	on|mooooooo .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%sit:	in May's ear
+*MOT:	do you see it (.) it's over there .
+%mor:	mod|do pro|you v|see pro|it pro|it~cop|be&3S prep|over
+	pro:dem|there .
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|6|SUBJ 6|3|COMP 7|6|JCT 8|7|POBJ
+	9|3|PUNCT
+%gpx:	points the child in the direction of the toybox
+*MOT:	it's over there .
+%mor:	pro|it~aux|be&3S prep|over pro:dem|there .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|3|POBJ 5|2|PUNCT
+*CHI:	baba@o .
+%mor:	on|baba .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%xpho:	bʌbʌ
+*MOT:	and it's got the baba@o in it too (.) okay .
+%mor:	conj|and pro|it~aux|be&3S v|get&PAST det|the on|baba prep|in pro|it
+	adv|too adj|okay .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|DET 6|4|OBJ 7|6|JCT 8|7|POBJ
+	9|10|JCT 10|6|XMOD 11|4|PUNCT
+*CHI:	oo .
+%mor:	co|oo .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%xpho:	u:
+*MOT:	go get it please .
+%mor:	v|go v|get pro|it co|please .
+%gra:	1|2|SRL 2|0|ROOT 3|2|OBJ 4|2|COM 5|2|PUNCT
+%sit:	child looks towards the corner
+*CHI:	oo .
+%mor:	co|oo .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%xpho:	u:
+*MOT:	go get it then please .
+%mor:	v|go v|get pro|it adv:tem|then co|please .
+%gra:	1|2|SRL 2|0|ROOT 3|2|OBJ 4|5|JCT 5|2|COM 6|2|PUNCT
+%par:	child looks towards mother
+*CHI:	baba@o .
+%mor:	on|baba .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%xpho:	bʌbʌ
+*MOT:	I know you're pretty excited about walking .
+%mor:	pro:sub|I v|know pro|you~cop|be&PRES adv|pretty v|excite-PAST
+	adv|about part|walk-PRESP .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|SUBJ 4|2|COMP 5|4|JCT 6|8|AUX 7|8|JCT 8|4|PRED
+	9|2|PUNCT
+%act:	child stands and waves arms and makes excited noises
+*CHI:	xxx .
+*MOT:	you're pretty excited .
+%mor:	pro|you~cop|be&PRES adv|pretty part|excite-PASTP .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|JCT 4|2|PRED 5|2|PUNCT
+*MOT:	you're pretty good .
+%mor:	pro|you~cop|be&PRES adv|pretty adj|good .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|2|PRED 5|2|PUNCT
+%sit:	child looks at the recording equipment
+*MOT:	that's pretty exciting stuff up there too (.) isn't it ?
+%mor:	pro:dem|that~cop|be&3S adv|pretty adj|exciting n|stuff prep|up
+	pro:dem|there adv|too cop|be&3S~neg|not pro|it ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|JCT 4|5|MOD 5|2|PRED 6|9|LINK 7|9|SUBJ 8|9|JCT
+	9|5|CMOD 10|9|NEG 11|9|PRED 12|2|PUNCT
+*MOT:	it's another cassette player .
+%mor:	pro|it~aux|be&3S qn|another n|cassette n|play&dv-AGT .
+%gra:	1|4|SUBJ 2|4|AUX 3|4|QUANT 4|5|MOD 5|0|INCROOT 6|5|PUNCT
+%sit:	mother sits May in front of her and looks straight into her eyes
+*MOT:	May (.) go get your books that say moo .
+%mor:	n:prop|May v|go v|get pro:poss:det|your n|book-PL rel|that v|say
+	on|moo .
+%gra:	1|2|SUBJ 2|3|SRL 3|0|ROOT 4|5|MOD 5|3|OBJ 6|7|LINK 7|5|CMOD 8|7|OBJ
+	9|3|PUNCT
+*MOT:	where's the cows ?
+%mor:	adv:wh|where~cop|be&3S det|the n|cow-PL ?
+%gra:	1|2|LINK 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+*CHI:	yyy .
+%xpho:	ɔ
+*MOT:	where's the cow ?
+%mor:	adv:wh|where~cop|be&3S det|the n|cow ?
+%gra:	1|2|LINK 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+*CHI:	baby .
+%mor:	n|baby .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%xpho:	bebi
+*CHI:	oo .
+%mor:	co|oo .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	May crawls to the toybox and begins to search for the book
+%xpho:	u:
+*MOT:	moo .
+%mor:	on|moo .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	what's that ?
+%mor:	pro:wh|what~cop|be&3S pro:dem|that ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+%par:	mother laughs
+%exp:	<1w> May gets something other than the book , child has pulled a box of shapes that stick together out of the toybox
+*MOT:	you haven't seen that for a long time &cos the chair was over it .
+%mor:	pro|you aux|have~neg|not part|see&PASTP det|that prep|for det|a
+	adj|long n|time det|the n|chair cop|be&PAST&13S prep|over pro|it .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|6|DET 6|4|JCT 7|9|DET 8|9|MOD
+	9|12|SUBJ 10|11|DET 11|12|SUBJ 12|6|POBJ 13|12|JCT 14|13|POBJ 15|4|PUNCT
+*MOT:	right ?
+%mor:	co|right ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	bring it here .
+%mor:	v|bring pro|it adv|here .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|JCT 4|1|PUNCT
+%act:	May examines the box she looks at her mother and then holds up the box
+*MOT:	it's pretty heavy .
+%mor:	pro|it~cop|be&3S adv|pretty adj|heavy .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|2|PRED 5|2|PUNCT
+*MOT:	it's pretty hard to open .
+%mor:	pro|it~cop|be&3S adj|pretty adj|hard inf|to v|open .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PRED 5|6|INF 6|4|XCOMP 7|2|PUNCT
+*CHI:	oo .
+%mor:	co|oo .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%xpho:	u:
+*CHI:	oo .
+%mor:	co|oo .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%par:	mother laughs
+%xpho:	u:
+*MOT:	did you think you saw a cow ?
+%mor:	v|do&PAST pro|you v|think pro|you v|see&PAST det|a n|cow ?
+%gra:	1|0|ROOT 2|3|SUBJ 3|1|COMP 4|5|SUBJ 5|3|OBJ 6|7|DET 7|5|OBJ 8|1|PUNCT
+%act:	mother takes the box
+*MOT:	thank_you .
+%mor:	co|thank_you .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	okay (.) come here .
+%mor:	co|okay v|come adv|here .
+%gra:	1|2|COM 2|0|ROOT 3|2|JCT 4|2|PUNCT
+%act:	May comes to look
+*MOT:	you're serious about playing with this stuff ?
+%mor:	pro|you~cop|be&PRES adj|serious prep|about n:gerund|play-PRESP
+	prep|with det|this n|stuff ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|JCT 5|4|POBJ 6|5|JCT 7|8|DET 8|6|POBJ
+	9|2|PUNCT
+*MOT:	okay (.) May .
+%mor:	co|okay n:prop|May .
+%gra:	1|2|COM 2|0|ROOT 3|2|PUNCT
+%sit:	mother sticks two blocks together , the blocks are covered in spines which make them stick together
+*MOT:	let's see if you can take these apart .
+%mor:	v|let~pro:obj|us v|see conj|if pro|you mod|can v|take det|these
+	adv|apart .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|COMP 4|7|LINK 5|7|SUBJ 6|7|AUX 7|3|CJCT 8|9|DET
+	9|7|JCT 10|1|PUNCT
+%act:	May splits the blocks
+*CHI:	oh .
+%mor:	co|oh .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%xpho:	o
+*MOT:	oh yeh (.) pretty clever .
+%mor:	co|oh co|yeh adv|pretty adj|clever .
+%gra:	1|4|COM 2|4|COM 3|4|JCT 4|0|ROOT 5|4|PUNCT
+%com:	silence
+*MOT:	what's your Papa doing ?
+%mor:	rel|what~aux|be&3S pro:poss:det|your n:prop|Papa part|do-PRESP ?
+%gra:	1|2|LINK 2|0|ROOT 3|4|MOD 4|2|OBJ 5|4|PRED 6|2|PUNCT
+%sit:	child looks towards father who is in the kitchen area
+*MOT:	May (.) there's your Papa .
+%mor:	n:prop|May pro:dem|there~aux|be&3S pro:poss:det|your n:prop|Papa .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|MOD 5|3|OBJ 6|3|PUNCT
+*MOT:	come on in and join us .
+%mor:	v|come prep|on adv|in coord|and v|join pro:obj|us .
+%gra:	1|0|ROOT 2|1|JCT 3|2|POBJ 4|1|CONJ 5|4|COORD 6|5|OBJ 7|1|PUNCT
+%act:	mother looks at the child . May looks at mother and holds out the separated blocks , she hands the blocks to mother
+%add:	spoken to father
+*MOT:	thank_you (.) thank_you .
+%mor:	co|thank_you n|thank_you .
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+%act:	as she receives the blocks mother shows May how to fit the blocks together
+*MOT:	can you put them together again ?
+%mor:	mod|can pro|you v|put&ZERO pro:obj|them adv|together adv|again ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|JCT 6|3|JCT 7|3|PUNCT
+%act:	May attempts to copy mother
+*MOT:	you want to give some of those to your Papa ?
+%mor:	pro|you v|want inf|to v|give qn|some prep|of det|those prep|to
+	pro:poss:det|your n:prop|Papa ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|INF 4|2|XCOMP 5|6|QUANT 6|4|JCT 7|8|DET 8|6|POBJ
+	9|10|MOD 10|8|POBJ 11|2|PUNCT
+%act:	mother hands two blocks stuck together to May
+*CHI:	yyy .
+%xpho:	æ
+*MOT:	uhhuh .
+%mor:	co|uhhuh .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	May (.) take these apart .
+%mor:	n:prop|May v|take det|these adv|apart .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|JCT 5|2|PUNCT
+%act:	May separates the blocks
+*MOT:	boom@o .
+%mor:	on|boom .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%com:	as the blocks separate
+*CHI:	boom@o .
+%mor:	on|boom .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%xpho:	bũm
+*MOT:	boom@o .
+%mor:	on|boom .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	get the animal book .
+%mor:	v|get det|the n|animal n|book .
+%gra:	1|0|ROOT 2|4|DET 3|4|MOD 4|1|OBJ 5|1|PUNCT
+%sit:	May turns to watch her father as he gets the book . mother attracts May's attention and shows her how to stick the blocks together for the second time . mother and May play with the blocks
+%add:	spoken to father
+*MOT:	can you put (th)em together ?
+%mor:	mod|can pro|you v|put&ZERO pro:obj|them adv|together ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|JCT 6|3|PUNCT
+*MOT:	it's going together .
+%mor:	pro|it~aux|be&3S part|go-PRESP adv|together .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|3|PUNCT
+*MOT:	now you pull them apart .
+%mor:	adv|now pro|you v|pull pro:obj|them adv|apart .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|JCT 6|3|PUNCT
+*MOT:	oh yeah .
+%mor:	co|oh co|yeah .
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+*MOT:	we haven't played this game in a long time have we ?
+%mor:	pro:sub|we aux|have~neg|not part|play-PASTP det|this n|game prep|in
+	det|a adj|long n|time aux|have pro:sub|we ?
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|12|SUBJ 5|6|DET 6|4|OBJ 7|4|JCT 8|10|DET
+	9|10|MOD 10|7|POBJ 11|12|AUX 12|0|ROOT 13|12|PUNCT
+*MOT:	can you put (th)em together ?
+%mor:	mod|can pro|you v|put&ZERO pro:obj|them adv|together ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|JCT 6|3|PUNCT
+*MOT:	you put (th)em together .
+%mor:	pro|you v|put&ZERO pro:obj|them adv|together .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|JCT 5|2|PUNCT
+%sit:	May holds out the separated blocks
+*MOT:	you try it .
+%mor:	pro|you v|try pro|it .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*MOT:	you put them together (.) May .
+%mor:	pro|you v|put&ZERO pro:obj|them adv|together n:prop|May .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|JCT 5|2|OBJ 6|2|PUNCT
+*MOT:	May (.) look put (th)em together .
+%mor:	n:prop|May v|look v|put&ZERO pro:obj|them adv|together .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|3|JCT 6|3|PUNCT
+*MOT:	like magic .
+%mor:	prep|like n|magic .
+%gra:	1|0|INCROOT 2|1|POBJ 3|1|PUNCT
+%sit:	child looks at her father , he points to a picture in the book that he's holding . May looks at the picture and then at her father
+*MOT:	what's your Papa doing ?
+%mor:	rel|what~aux|be&3S pro:poss:det|your n:prop|Papa part|do-PRESP ?
+%gra:	1|2|LINK 2|0|ROOT 3|4|MOD 4|2|OBJ 5|4|PRED 6|2|PUNCT
+*MOT:	who's that guy over there ?
+%mor:	rel|who~aux|be&3S det|that n|guy prep|over pro:dem|there ?
+%gra:	1|2|LINK 2|0|ROOT 3|4|DET 4|2|OBJ 5|4|NJCT 6|5|POBJ 7|2|PUNCT
+*CHI:	Daddie .
+%mor:	n:prop|Daddie .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%xpho:	dædi
+*MOT:	yeh .
+%mor:	co|yeh .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	yyy .
+%sit:	May looks at Roy
+*MOT:	his name is Roy .
+%mor:	pro:poss:det|his n|name cop|be&3S n:prop|Roy .
+%gra:	1|2|MOD 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|3|PUNCT
+*FAT:	which one do you want ?
+%mor:	rel|which pro:indef|one mod|do pro|you v|want ?
+%gra:	1|2|LINK 2|5|SUBJ 3|5|AUX 4|5|SUBJ 5|0|ROOT 6|5|PUNCT
+%exp:	he is holding two books .
+*CHI:	oo .
+%mor:	co|oo .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%xpho:	u:
+*FAT:	<it's a cow (.) isn't it> [>] ?
+%mor:	pro|it~cop|be&3S det|a n|cow cop|be&3S~neg|not pro|it ?
+%gra:	1|2|SUBJ 2|5|LINK 3|4|DET 4|5|SUBJ 5|0|ROOT 6|5|NEG 7|5|PRED 8|5|PUNCT
+*MOT:	<that's what the cow says> [<] .
+%mor:	pro:dem|that~cop|be&3S pro:wh|what det|the n|cow v|say-3S .
+%gra:	1|2|SUBJ 2|0|ROOT 3|6|LINK 4|5|DET 5|6|SUBJ 6|2|PRED 7|2|PUNCT
+*MOT:	May (.) what does the sheep say ?
+%mor:	n:prop|May rel|what v|do&3S det|the n|sheep v|say ?
+%gra:	1|0|INCROOT 2|3|LINK 3|1|CMOD 4|5|DET 5|6|SUBJ 6|3|COMP 7|1|PUNCT
+%gpx:	father points to the picture of the sheep
+*MOT:	what does the sheep say ?
+%mor:	pro:wh|what v|do&3S det|the n|sheep v|say ?
+%gra:	1|2|LINK 2|5|LINK 3|4|DET 4|5|SUBJ 5|0|ROOT 6|5|PUNCT
+*CHI:	baa@o .
+%mor:	on|baa .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%xpho:	ba:
+*CHI:	baa@o .
+%mor:	on|baa .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%xpho:	ba:
+*MOT:	that's a good girl .
+%mor:	pro:dem|that~cop|be&3S det|a adj|good n|girl .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|DET 4|5|MOD 5|2|PRED 6|2|PUNCT
+*MOT:	what does the doggie say ?
+%mor:	pro:wh|what v|do&3S det|the n|dog-DIM v|say ?
+%gra:	1|2|LINK 2|5|LINK 3|4|DET 4|5|SUBJ 5|0|ROOT 6|5|PUNCT
+*CHI:	baba@o .
+%mor:	on|baba .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%xpho:	bʌba
+*MOT:	yes (.) that's a good girl .
+%mor:	co|yes pro:dem|that~cop|be&3S det|a adj|good n|girl .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|6|DET 5|6|MOD 6|3|PRED 7|3|PUNCT
+%act:	May hands the blocks which she was holding to her mother
+*MOT:	thank_you .
+%mor:	co|thank_you .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	thank_you .
+%mor:	co|thank_you .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	you want to play this again ?
+%mor:	pro|you v|want inf|to v|play det|this adv|again ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|INF 4|2|XCOMP 5|6|DET 6|4|JCT 7|2|PUNCT
+*MOT:	you take one and I'll take one .
+%mor:	pro|you v|take pro:indef|one conj|and pro:sub|I~mod|will v|take
+	pro:indef|one .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|7|LINK 5|7|SUBJ 6|7|AUX 7|2|CJCT 8|7|OBJ
+	9|2|PUNCT
+*MOT:	now look (.) watch .
+%mor:	adv|now v|look n|watch .
+%gra:	1|2|JCT 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*MOT:	put them together .
+%mor:	v|put&ZERO pro:obj|them adv|together .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|JCT 4|1|PUNCT
+*MOT:	put them together .
+%mor:	v|put&ZERO pro:obj|them adv|together .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|JCT 4|1|PUNCT
+*MOT:	you try it .
+%mor:	pro|you v|try pro|it .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*CHI:	oo@o .
+%mor:	on|oo .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%xpho:	u:
+*MOT:	yeh (.) that's what the cow says .
+%mor:	co|yeh pro:dem|that~cop|be&3S pro:wh|what det|the n|cow v|say-3S .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|7|LINK 5|6|DET 6|7|SUBJ 7|3|PRED 8|3|PUNCT
+*MOT:	what does the sheep say ?
+%mor:	pro:wh|what v|do&3S det|the n|sheep v|say ?
+%gra:	1|2|LINK 2|5|LINK 3|4|DET 4|5|SUBJ 5|0|ROOT 6|5|PUNCT
+%sit:	May looks to mother , mother opens the book to the picture of sheep
+*CHI:	ba@o .
+%mor:	on|ba .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%int:	rising
+%xpho:	bæ
+*MOT:	yeh (.) remember this one ?
+%mor:	co|yeh v|remember det|this pro:indef|one ?
+%gra:	1|2|COM 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+%act:	May looks at the book
+*MOT:	what does the horse say ?
+%mor:	pro:wh|what v|do&3S det|the n|horse v|say ?
+%gra:	1|2|LINK 2|5|LINK 3|4|DET 4|5|SUBJ 5|0|ROOT 6|5|PUNCT
+%act:	May looks at mother
+*MOT:	neigh@o (.) neigh .
+%mor:	on|neigh on|neigh .
+%gra:	1|0|INCROOT 2|1|PUNCT 3|1|PUNCT
+*MOT:	that's too hard to say .
+%mor:	pro:dem|that~cop|be&3S adv|too adv|hard inf|to v|say .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|2|JCT 5|6|INF 6|2|XCOMP 7|2|PUNCT
+*MOT:	how about this one ?
+%mor:	adv:wh|how prep|about det|this pro:indef|one ?
+%gra:	1|0|INCROOT 2|1|JCT 3|4|DET 4|2|POBJ 5|1|PUNCT
+*MOT:	the pigs .
+%mor:	det|the n|pig-PL .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*CHI:	baba@o .
+%mor:	on|baba .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%xpho:	bʌbʌ
+*MOT:	no (.) that's the sheep .
+%mor:	co|no pro:dem|that~cop|be&3S det|the n|sheep .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|PRED 6|3|PUNCT
+*FAT:	no (.) that's the dog .
+%mor:	co|no pro:dem|that~cop|be&3S det|the n|dog .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|PRED 6|3|PUNCT
+%sit:	May is still looking at the pigs
+%par:	laughs
+%add:	spoken to mother
+*MOT:	your mother's really confused .
+%mor:	pro:poss:det|your n|mother~cop|be&3S adv|real&dadj-LY
+	part|confuse-PASTP .
+%gra:	1|2|MOD 2|3|SUBJ 3|0|ROOT 4|5|JCT 5|3|PRED 6|3|PUNCT
+%par:	laughs
+*MOT:	oink (.) oink (.) oink .
+%mor:	on|oink on|oink on|oink .
+%gra:	1|0|INCROOT 2|1|INCROOT 3|2|INCROOT 4|3|PUNCT
+*MOT:	how about the geese and the ducks ?
+%mor:	adv:wh|how adv|about det|the n|goose&PL coord|and det|the n|duck-PL
+	?
+%gra:	1|2|LINK 2|0|ROOT 3|4|DET 4|2|OBJ 5|4|CONJ 6|7|DET 7|5|COORD 8|2|PUNCT
+*MOT:	no thanks ?
+%mor:	co|no co|thanks ?
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+*MOT:	this red one's more exciting .
+%mor:	det|this n|red pro:indef|one~cop|be&3S adv|more part|excite-PRESP .
+%gra:	1|2|DET 2|0|INCROOT 3|6|SUBJ 4|6|AUX 5|6|JCT 6|2|XMOD 7|2|PUNCT
+%sit:	mother looks at May and vice versa
+*MOT:	okay (.) we'll go straight to the doggies .
+%mor:	co|okay pro:sub|we~mod|will v|go adv|straight prep|to det|the
+	n|dog-DIM-PL .
+%gra:	1|4|COM 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|4|JCT 7|8|DET 8|6|POBJ
+	9|4|PUNCT
+*MOT:	what does the doggie say ?
+%mor:	pro:wh|what v|do&3S det|the n|dog-DIM v|say ?
+%gra:	1|2|LINK 2|5|LINK 3|4|DET 4|5|SUBJ 5|0|ROOT 6|5|PUNCT
+*CHI:	baba@o .
+%mor:	on|baba .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%xpho:	bʌbʌ
+*MOT:	yeh (.) yeh .
+%mor:	co|yeh co|yeh .
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+*MOT:	May (.) do you have something to drink ?
+%mor:	n:prop|May v|do pro|you v|have pro:indef|something inf|to v|drink ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|SUBJ 4|2|COMP 5|4|OBJ 6|7|INF 7|5|XCOMP 8|2|PUNCT
+*MOT:	d(o) you have some nainai@u ?
+%mor:	mod|do pro|you v|have qn|some uni|nainai ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|5|QUANT 5|3|OBJ 6|3|PUNCT
+*MOT:	some nainai@u ?
+%mor:	pro:indef|some uni|nainai ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*CHI:	yyy .
+*MOT:	some nainai@u ?
+%mor:	pro:indef|some uni|nainai ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*CHI:	yyy .
+*MOT:	get the bottle .
+%mor:	v|get det|the n|bottle .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+%add:	spoken to father
+*MOT:	where's the nana@u book ?
+%mor:	rel|where~aux|be&3S det|the uni|nana n|book ?
+%gra:	1|2|LINK 2|0|ROOT 3|5|DET 4|5|MOD 5|2|OBJ 6|2|PUNCT
+%sit:	mother gets a book and opens it to a picture of a banana
+*MOT:	where's the nana@u ?
+%mor:	rel|where~aux|be&3S det|the uni|nana ?
+%gra:	1|2|LINK 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*MOT:	where's the nana@u ?
+%mor:	rel|where~aux|be&3S det|the uni|nana ?
+%gra:	1|2|LINK 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*CHI:	(ba)nana .
+%mor:	n|banana .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%xpho:	nãæ
+*MOT:	uhhuh .
+%mor:	co|uhhuh .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	thank_you .
+%mor:	co|thank_you .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%sit:	father opens the book and points to the picture of the banana
+*FAT:	look May (.) this is what your mother's trying to get you to find .
+%mor:	v|look n:prop|May pro:dem|this cop|be&3S pro:wh|what
+	pro:poss:det|your n|mother~aux|be&3S part|try-PRESP inf|to v|get
+	pro|you inf|to v|find .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|SUBJ 4|0|ROOT 5|9|LINK 6|7|MOD 7|9|SUBJ 8|9|AUX
+	9|4|PRED 10|11|INF 11|9|XCOMP 12|11|OBJ 13|14|INF 14|12|XCOMP 15|4|PUNCT
+*MOT:	what's that ?
+%mor:	pro:wh|what~cop|be&3S pro:dem|that ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*MOT:	what's that ?
+%mor:	pro:wh|what~cop|be&3S pro:dem|that ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+%sit:	May looks at the picture
+*CHI:	(ba)nana .
+%mor:	n|banana .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%xpho:	nãæ
+*MOT:	yes (.) that's a nana@u .
+%mor:	co|yes pro:dem|that~cop|be&3S det|a uni|nana .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|PRED 6|3|PUNCT
+*MOT:	pretty cute kid (.) huh ?
+%mor:	adv|pretty adj|cute n|kid co|huh ?
+%gra:	1|3|JCT 2|3|MOD 3|0|INCROOT 4|3|COM 5|3|PUNCT
+%sit:	mother opens another book , May looks at the pictures
+%par:	laughs
+%add:	spoken to observers
+*MOT:	May (.) what's the cow say ?
+%mor:	n:prop|May rel|what~aux|be&3S det|the n|cow v|say ?
+%gra:	1|6|SUBJ 2|3|LINK 3|6|AUX 4|5|DET 5|6|SUBJ 6|0|ROOT 7|6|PUNCT
+*CHI:	oo .
+%mor:	co|oo .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%xpho:	u:
+*MOT:	yes .
+%mor:	co|yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	oo .
+%mor:	co|oo .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%xpho:	u:
+*MOT:	yes (.) it's fun to say .
+%mor:	co|yes pro|it~cop|be&3S n|fun inf|to v|say .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|6|INF 6|4|XCOMP 7|3|PUNCT
+%act:	mother turns the page
+*FAT:	how about the doggie ?
+%mor:	adv:wh|how adv|about det|the n|dog-DIM ?
+%gra:	1|2|LINK 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*MOT:	what about this one ?
+%mor:	pro:wh|what prep|about det|this pro:indef|one ?
+%gra:	1|0|INCROOT 2|1|JCT 3|4|DET 4|2|POBJ 5|1|PUNCT
+*CHI:	baba@o .
+%mor:	on|baba .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%xpho:	bʌbʌ
+*MOT:	yes (.) all doggies say baba@o don't they .
+%mor:	co|yes qn|all n|dog-DIM-PL v|say on|baba mod|do~neg|not
+	pro:sub|they .
+%gra:	1|4|COM 2|3|QUANT 3|4|SUBJ 4|0|ROOT 5|8|SUBJ 6|8|AUX 7|6|NEG 8|4|COMP
+	9|4|PUNCT
+*MOT:	now we'll try this kitten .
+%mor:	adv|now pro:sub|we~mod|will v|try det|this n|kitten .
+%gra:	1|4|JCT 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+*MOT:	what does the kitty say ?
+%mor:	pro:wh|what v|do&3S det|the n|kitty v|say ?
+%gra:	1|2|LINK 2|5|LINK 3|4|DET 4|5|SUBJ 5|0|ROOT 6|5|PUNCT
+*CHI:	me .
+%mor:	pro:obj|me .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%par:	quietly
+%xpho:	mi
+*MOT:	oh (.) she's not going bababa@o anymore .
+%mor:	co|oh pro:sub|she~aux|be&3S neg|not part|go-PRESP on|bababa
+	adv|anymore .
+%gra:	1|5|COM 2|5|SUBJ 3|5|AUX 4|3|NEG 5|0|ROOT 6|5|OBJ 7|6|JCT 8|5|PUNCT
+%add:	spoken to father
+*MOT:	pretty good .
+%mor:	adv|pretty adj|good .
+%gra:	1|2|JCT 2|0|ROOT 3|2|PUNCT
+*MOT:	she used to think this was the same as the doggie .
+%mor:	pro:sub|she v|use-PAST inf|to v|think pro:dem|this cop|be&PAST&13S
+	det|the adj|same prep|as det|the n|dog-DIM .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|INF 4|2|XCOMP 5|6|SUBJ 6|4|COMP 7|8|DET 8|6|PRED
+	9|8|JCT 10|11|DET 11|9|POBJ 12|2|PUNCT
+%add:	spoken to observers
+*CHI:	bababa@o .
+%mor:	on|bababa .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%xpho:	bʌbʌbʌ
+*MOT:	okay (.) so we haven't learnt anything new within the last couple
+	of days .
+%mor:	co|okay co|so pro:sub|we aux|have~neg|not v|learn&PAST
+	pro:indef|anything adj|new prep|within det|the adj|last n|couple
+	prep|of n|day-PL .
+%gra:	1|6|COM 2|6|COM 3|6|SUBJ 4|6|AUX 5|4|NEG 6|0|ROOT 7|6|OBJ 8|6|JCT
+	9|6|JCT 10|12|DET 11|12|MOD 12|9|POBJ 13|12|NJCT 14|13|POBJ 15|6|PUNCT
+%sit:	mother leans down in front of the child
+*MOT:	May (.) where's your monkey ?
+%mor:	n:prop|May rel|where~aux|be&3S pro:poss:det|your n|monkey ?
+%gra:	1|0|INCROOT 2|5|LINK 3|5|AUX 4|5|MOD 5|1|INCROOT 6|5|PUNCT
+%sit:	May looks towards the toybox
+*MOT:	with the baby ?
+%mor:	prep|with det|the n|baby ?
+%gra:	1|0|INCROOT 2|3|DET 3|1|POBJ 4|1|PUNCT
+*MOT:	with the baby ?
+%mor:	prep|with det|the n|baby ?
+%gra:	1|0|INCROOT 2|3|DET 3|1|POBJ 4|1|PUNCT
+*CHI:	oo .
+%mor:	co|oo .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%xpho:	u:
+*MOT:	huh ?
+%mor:	co|huh ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	where's the baby ?
+%mor:	adv:wh|where~cop|be&3S det|the n|baby ?
+%gra:	1|2|LINK 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+*MOT:	where's the baby ?
+%mor:	adv:wh|where~cop|be&3S det|the n|baby ?
+%gra:	1|2|LINK 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+*MOT:	go get the baby and give the baby a kiss .
+%mor:	v|go v|get det|the n|baby coord|and v|give det|the n|baby det|a
+	n|kiss .
+%gra:	1|2|SRL 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|CONJ 6|5|COORD 7|8|DET 8|6|OBJ
+	9|10|DET 10|8|OBJ 11|2|PUNCT
+%sit:	child turns and plants a kiss on the chair
+*MOT:	no (.) that's a chair .
+%mor:	co|no pro:dem|that~cop|be&3S det|a n|chair .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|PRED 6|3|PUNCT
+*MOT:	go get the baby and give the baby a kiss .
+%mor:	v|go v|get det|the n|baby coord|and v|give det|the n|baby det|a
+	n|kiss .
+%gra:	1|2|SRL 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|CONJ 6|5|COORD 7|8|DET 8|6|OBJ
+	9|10|DET 10|8|OBJ 11|2|PUNCT
+*CHI:	oo .
+%mor:	co|oo .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%xpho:	u:
+*CHI:	xxx .
+%add:	spoken to Roy .
+*MOT:	you go see Roy .
+%mor:	pro|you v|go v|see n:prop|Roy .
+%gra:	1|2|SUBJ 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+%sit:	child holds hands out to Roy
+*MOT:	you want to give that to Roy ?
+%mor:	pro|you v|want inf|to v|give pro:dem|that prep|to n:prop|Roy ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|INF 4|2|XCOMP 5|4|OBJ 6|5|JCT 7|6|POBJ 8|2|PUNCT
+*CHI:	oo .
+%mor:	co|oo .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%xpho:	u:
+*MOT:	his arms aren't that long .
+%mor:	pro:poss:det|his n|arm-PL aux|be&PRES~neg|not det|that adj|long .
+%gra:	1|2|MOD 2|6|SUBJ 3|6|AUX 4|3|NEG 5|6|DET 6|0|ROOT 7|6|PUNCT
+*MOT:	you could walk over there if you wanted to .
+%mor:	pro|you mod|could v|walk prep|over pro:dem|there conj|if pro|you
+	v|want-PAST prep|to .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|4|POBJ 6|8|LINK 7|8|SUBJ 8|3|CJCT
+	9|8|JCT 10|3|PUNCT
+*CHI:	yyy .
+*ROY:	you going to bring it here ?
+%mor:	pro|you part|go-PRESP inf|to v|bring pro|it adv|here ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|INF 4|2|XCOMP 5|4|OBJ 6|4|JCT 7|2|PUNCT
+*CHI:	yyy .
+*ROY:	huh ?
+%mor:	co|huh ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%sit:	May walks towards Roy and falls
+*MOT:	boom@o .
+%mor:	on|boom .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%sit:	silence , May walks to the bookcase and then uses it as a support to get to Roy
+*ROY:	are you gonna to give them to me ?
+%mor:	cop|be&PRES pro|you part|go-PRESP~inf|to inf|to v|give pro:obj|them
+	prep|to pro:obj|me ?
+%gra:	1|0|ROOT 2|1|OBJ 3|2|XMOD 4|6|INF 5|6|INF 6|3|XCOMP 7|6|OBJ 8|6|JCT
+	9|8|POBJ 10|1|PUNCT
+*ROY:	you gonna bring it here ?
+%mor:	pro|you part|go-PRESP~inf|to v|bring pro|it adv|here ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|INF 4|2|XCOMP 5|4|OBJ 6|4|JCT 7|2|PUNCT
+*ROY:	you gonna give it to me ?
+%mor:	pro|you part|go-PRESP~inf|to v|give pro|it prep|to pro:obj|me ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|INF 4|2|XCOMP 5|4|OBJ 6|4|JCT 7|6|POBJ 8|2|PUNCT
+*MOT:	you have_to go to him .
+%mor:	pro|you mod:aux|have_to v|go prep|to pro:obj|him .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|4|POBJ 6|3|PUNCT
+*MOT:	he can't reach you .
+%mor:	pro:sub|he mod|can~neg|not v|reach pro|you .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*ROY:	he's too lazy to get off his chair .
+%mor:	pro:sub|he~aux|be&3S adv|too adj|laze&dv-Y inf|to v|get prep|off
+	pro:poss:det|his n|chair .
+%gra:	1|4|SUBJ 2|4|AUX 3|4|JCT 4|0|ROOT 5|6|INF 6|4|XCOMP 7|6|JCT 8|9|MOD
+	9|7|POBJ 10|4|PUNCT
+*MOT:	he's a pretty busy guy .
+%mor:	pro:sub|he~aux|be&3S det|a adj|pretty adj|busy n|guy .
+%gra:	1|2|SUBJ 2|0|ROOT 3|6|DET 4|6|MOD 5|6|MOD 6|2|OBJ 7|2|PUNCT
+*MOT:	he's writing and stuff like that .
+%mor:	pro:sub|he~aux|be&3S part|write-PRESP coord|and n|stuff prep|like
+	pro:dem|that .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|CONJ 5|4|COORD 6|5|NJCT 7|6|POBJ
+	8|3|PUNCT
+*MOT:	you wanna try walking over there ?
+%mor:	pro|you v|want~inf|to v|try part|walk-PRESP prep|over pro:dem|there
+	?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|INF 4|2|XCOMP 5|4|OBJ 6|5|JCT 7|6|POBJ 8|2|PUNCT
+*MOT:	just for fun ?
+%mor:	adv|just prep|for adj|fun ?
+%gra:	1|0|JCT 2|1|JCT 3|2|POBJ 4|1|PUNCT
+*MOT:	oh (.) look at the big kid go .
+%mor:	co|oh v|look prep|at det|the adj|big n|kid v|go .
+%gra:	1|2|COM 2|0|ROOT 3|2|JCT 4|6|DET 5|6|MOD 6|7|SUBJ 7|3|POBJ 8|2|PUNCT
+*MOT:	look at our big girl .
+%mor:	v|look prep|at pro:poss:det|our adj|big n|girl .
+%gra:	1|0|ROOT 2|1|JCT 3|5|MOD 4|5|MOD 5|2|POBJ 6|1|PUNCT
+%sit:	May walks over to Roy and hands him the blocks
+*ROY:	thank_you .
+%mor:	co|thank_you .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*ROY:	thank_you .
+%mor:	co|thank_you .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	yyy .
+%sit:	May is standing by the stereo
+%xpho:	ʔaæ
+*MOT:	shall we put the music on and dance ?
+%mor:	mod|shall pro:sub|we v|put&ZERO det|the n|music adv|on coord|and
+	n|dance ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|5|NJCT 7|5|CONJ 8|7|COORD
+	9|3|PUNCT
+%sit:	May turns to her mother and shakes her head
+*MOT:	I think that's more excitement than no .
+%mor:	pro:sub|I v|think pro:dem|that~aux|be&3S qn|more n|excitement
+	prep|than co|no .
+%gra:	1|2|SUBJ 2|0|ROOT 3|6|SUBJ 4|6|AUX 5|6|QUANT 6|2|OBJ 7|6|NJCT 8|7|POBJ
+	9|2|PUNCT
+*CHI:	yyy .
+%sit:	May turns back to Roy and calls to him
+%xpho:	ʔʔ
+*ROY:	are you going to come back and talk to me ?
+%mor:	cop|be&PRES pro|you part|go-PRESP inf|to v|come n|back coord|and
+	n|talk prep|to pro:obj|me ?
+%gra:	1|0|ROOT 2|1|OBJ 3|2|XMOD 4|5|INF 5|3|XCOMP 6|5|OBJ 7|5|CONJ 8|7|COORD
+	9|8|NJCT 10|9|POBJ 11|1|PUNCT
+*MOT:	you're pretty excited with all these new people (.) huh .
+%mor:	pro|you~cop|be&PRES adv|pretty v|excite-PAST prep|with qn|all
+	det|these adj|new n|person&PL co|huh .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|2|XJCT 5|4|JCT 6|9|QUANT 7|9|DET 8|9|MOD
+	9|5|POBJ 10|9|COM 11|2|PUNCT
+*MOT:	where's your monkey ?
+%mor:	rel|where~aux|be&3S pro:poss:det|your n|monkey ?
+%gra:	1|4|LINK 2|4|AUX 3|4|MOD 4|0|INCROOT 5|4|PUNCT
+*MOT:	go get your monkey .
+%mor:	v|go v|get pro:poss:det|your n|monkey .
+%gra:	1|2|SRL 2|0|ROOT 3|4|MOD 4|2|OBJ 5|2|PUNCT
+*MOT:	go get your monkey .
+%mor:	v|go v|get pro:poss:det|your n|monkey .
+%gra:	1|2|SRL 2|0|ROOT 3|4|MOD 4|2|OBJ 5|2|PUNCT
+*CHI:	yyy .
+%gpx:	May turns to the toybox and points at it
+%xpho:	æ
+*MOT:	the monkey (.) go get the monkey .
+%mor:	det|the n|monkey v|go v|get det|the n|monkey .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|6|DET 6|4|OBJ 7|3|PUNCT
+%gpx:	points to the monkey
+*MOT:	there he is (.) right over there .
+%mor:	adv|there pro:sub|he aux|be&3S adv|right prep|over pro:dem|there .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|JCT 6|5|POBJ 7|3|PUNCT
+*MOT:	laying down (.) go get him .
+%mor:	part|lay-PRESP adv|down v|go v|get pro:obj|him .
+%gra:	1|0|INCROOT 2|1|JCT 3|1|XJCT 4|3|COMP 5|4|OBJ 6|1|PUNCT
+%sit:	May goes to the toybox but is unable to pull the monkey out of it
+*CHI:	yyy .
+*MOT:	yeh .
+%mor:	co|yeh .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%sit:	May cries for help
+*MOT:	grab him by the ear .
+%mor:	v|grab pro:obj|him prep|by det|the n|ear .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|JCT 4|5|DET 5|3|POBJ 6|1|PUNCT
+*MOT:	you can get him .
+%mor:	pro|you mod|can v|get pro:obj|him .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+%sit:	child brings the monkey to mother
+*MOT:	he's heavy isn't he ?
+%mor:	pro:sub|he~cop|be&3S adj|heavy cop|be&3S~neg|not pro:sub|he ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PRED 5|4|NEG 6|4|PRED 7|2|PUNCT
+*MOT:	here (.) I'll hold that for you .
+%mor:	adv|here pro:sub|I~mod|will v|hold pro:dem|that prep|for pro|you .
+%gra:	1|4|JCT 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|5|JCT 7|6|POBJ 8|4|PUNCT
+%sit:	mother helps
+*MOT:	good girl .
+%mor:	adj|good n|girl .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*MOT:	get the monkey .
+%mor:	v|get det|the n|monkey .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+*MOT:	here's the monkey .
+%mor:	pro:exist|here~cop|be&3S det|the n|monkey .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+*MOT:	good girl .
+%mor:	adj|good n|girl .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*MOT:	give your monkey a kiss .
+%mor:	v|give pro:poss:det|your n|monkey det|a n|kiss .
+%gra:	1|0|ROOT 2|3|MOD 3|1|OBJ 4|5|DET 5|3|OBJ 6|1|PUNCT
+%sit:	May kisses the monkey
+*MOT:	oh (.) that's pretty nice .
+%mor:	co|oh pro:dem|that~cop|be&3S adv|pretty adj|nice .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|5|JCT 5|3|PRED 6|3|PUNCT
+%sit:	mother claps the monkey's hands
+*CHI:	yyy .
+%xpho:	æ
+*MOT:	you wanna play pattycake ?
+%mor:	pro|you v|want~inf|to n|play v|pattycake ?
+%gra:	1|2|SUBJ 2|5|LINK 3|4|INF 4|5|SUBJ 5|0|ROOT 6|5|PUNCT
+*MOT:	pattycake ?
+%mor:	co|pattycake ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%par:	sings
+*MOT:	pattycake (.) pattycake .
+%mor:	co|pattycake co|pattycake .
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+*MOT:	no thanks ?
+%mor:	co|no co|thanks ?
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+*MOT:	May (.) look .
+%mor:	n:prop|May v|look .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+%sit:	mother rolls a roller across a board , as the roller falls off the edge she says boom@o
+*MOT:	boom@o .
+%mor:	on|boom .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	boom@o .
+%mor:	on|boom .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%par:	laughs
+%xpho:	bũm
+*CHI:	boom@o .
+%mor:	on|boom .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%sit:	mother repeats the game , as the roller falls May says "boom"
+%xpho:	bũm
+*MOT:	boom@o .
+%mor:	on|boom .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%sit:	mother repeats the game a third time
+*CHI:	boom@o .
+%mor:	on|boom .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%xpho:	bũm
+*MOT:	boom@o .
+%mor:	on|boom .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%sit:	mother claps the monkey's hands
+*MOT:	sings pattycake (.) pattycake (.) baker's man .
+%mor:	v|sing-3S co|pattycake co|pattycake n|bake&dv-AGT~poss|s n|man .
+%gra:	1|0|ROOT 2|6|COM 3|6|COM 4|6|MOD 5|4|POSS 6|1|OBJ 7|1|PUNCT
+%sit:	child kisses the monkey
+*MOT:	oh (.) you gave your monkey a kiss (.) that was pretty nice .
+%mor:	co|oh pro|you v|give&PAST pro:poss:det|your n|monkey det|a n|kiss
+	rel|that cop|be&PAST&13S adv|pretty adj|nice .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|5|MOD 5|3|OBJ 6|7|DET 7|5|OBJ 8|9|LINK
+	9|7|CMOD 10|11|JCT 11|9|PRED 12|3|PUNCT
+%sit:	May goes to the toybox and gets a doll
+*MOT:	where's the baby ?
+%mor:	adv:wh|where~cop|be&3S det|the n|baby ?
+%gra:	1|2|LINK 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+*CHI:	baby .
+%mor:	n|baby .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%xpho:	be#bi
+*MOT:	give your baby a kiss .
+%mor:	v|give pro:poss:det|your n|baby det|a n|kiss .
+%gra:	1|0|ROOT 2|3|MOD 3|1|OBJ 4|5|DET 5|3|OBJ 6|1|PUNCT
+*MOT:	kiss the baby .
+%mor:	v|kiss det|the n|baby .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+*MOT:	oh (.) you're a cute kid aren't you .
+%mor:	co|oh pro|you~aux|be&PRES det|a adj|cute n|kid aux|be&PRES~neg|not
+	pro|you .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|6|DET 5|6|MOD 6|9|SUBJ 7|9|AUX 8|7|NEG
+	9|3|OBJ 10|3|PUNCT
+*MOT:	pretty nice .
+%mor:	adv|pretty adj|nice .
+%gra:	1|2|JCT 2|0|ROOT 3|2|PUNCT
+*CHI:	baby .
+%mor:	n|baby .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%xpho:	bebi
+*MOT:	yes (.) that's the baby .
+%mor:	co|yes pro:dem|that~cop|be&3S det|the n|baby .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|PRED 6|3|PUNCT
+*CHI:	baby .
+%mor:	n|baby .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%xpho:	bebi
+*MOT:	yes (.) that's the baby .
+%mor:	co|yes pro:dem|that~cop|be&3S det|the n|baby .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|PRED 6|3|PUNCT
+%sit:	May is sitting by a speaker , she pats the front of it
+*MOT:	oh (.) that was fun pushing that speaker (.) wasn't it .
+%mor:	co|oh pro:dem|that cop|be&PAST&13S adj|fun part|push-PRESP det|that
+	n|speak&dv-AGT aux|be&PAST&13S~neg|not pro|it .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|3|PRED 6|7|DET 7|10|SUBJ 8|10|AUX
+	9|8|NEG 10|5|OBJ 11|3|PUNCT
+*MOT:	you're a strong girl .
+%mor:	pro|you~aux|be&PRES det|a adj|strong n|girl .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|DET 4|5|MOD 5|2|OBJ 6|2|PUNCT
+*MOT:	look how they go together .
+%mor:	co|look adv:wh|how pro:sub|they v|go adv|together .
+%gra:	1|4|COM 2|4|LINK 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|4|PUNCT
+%sit:	May sits and begins to play with the two blocks . mother takes the blocks and tries once more to show May how they stick together
+*MOT:	let's try to put them together .
+%mor:	v|let~pro:obj|us v|try inf|to v|put&ZERO pro:obj|them adv|together
+	.
+%gra:	1|0|ROOT 2|1|OBJ 3|1|COMP 4|5|INF 5|3|XCOMP 6|5|OBJ 7|5|JCT 8|1|PUNCT
+*MOT:	if you figure this out it could be lots_of fun (.) see .
+%mor:	conj|if pro|you v|figure det|this adv|out pro|it mod|could cop|be
+	qn|lots_of n|fun v|see .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|JCT 6|8|SUBJ 7|8|AUX 8|3|COMP
+	9|10|QUANT 10|11|SUBJ 11|8|PRED 12|3|PUNCT
+%sit:	May checks eyes with mother several times and then looks at the blocks
+*CHI:	xxx .
+%com:	may be a complaint
+*MOT:	excuse me (.) I'm sorry .
+%mor:	v|excuse pro:obj|me pro:sub|I~cop|be&1S adj|sorry .
+%gra:	1|0|ROOT 2|1|OBJ 3|4|SUBJ 4|1|COMP 5|4|PRED 6|1|PUNCT
+%sit:	mother hands the blocks back , May goes to Roy
+*FAT:	leave her alone for a minute and see if she'll start talking to her
+	toys .
+%mor:	v|leave pro:obj|her adv|alone prep|for det|a n|minute coord|and
+	v|see conj|if pro:sub|she~mod|will v|start n:gerund|talk-PRESP
+	prep|to pro:poss:det|her n|toy-PL .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|JCT 4|1|JCT 5|6|DET 6|4|POBJ 7|1|CONJ 8|7|COORD
+	9|12|LINK 10|12|SUBJ 11|12|AUX 12|8|CJCT 13|12|OBJ 14|13|JCT 15|16|MOD
+	16|14|POBJ 17|1|PUNCT
+%sit:	mother goes into the kitchen area , May follows
+*MOT:	go see your papa .
+%mor:	v|go v|see pro:poss:det|your n|papa .
+%gra:	1|2|SRL 2|0|ROOT 3|4|MOD 4|2|OBJ 5|2|PUNCT
+*MOT:	go see your papa .
+%mor:	v|go v|see pro:poss:det|your n|papa .
+%gra:	1|2|SRL 2|0|ROOT 3|4|MOD 4|2|OBJ 5|2|PUNCT
+*CHI:	yyy .
+*MOT:	he loves you .
+%mor:	pro:sub|he v|love-3S pro|you .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+%sit:	May crawls to father . father and May look at a book
+*CHI:	oo .
+%mor:	co|oo .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%xpho:	u:
+*FAT:	here's your favorite one .
+%mor:	pro:exist|here~cop|be&3S pro:poss:det|your n|favorite pro:indef|one
+	.
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|MOD 4|5|MOD 5|2|PRED 6|2|PUNCT
+*MOT:	which one's that ?
+%mor:	rel|which pro:indef|one~aux|be&3S pro:dem|that ?
+%gra:	1|2|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|PUNCT
+*CHI:	&uh oh .
+%mor:	co|oh .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%xpho:	ʔo
+*MOT:	right .
+%mor:	co|right .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	&uh (.) &uh (.) &uh (.) &uh (.) they're so slow .
+%mor:	pro:sub|they~aux|be&PRES adv|so adj|slow .
+%gra:	1|4|SUBJ 2|4|AUX 3|4|JCT 4|0|ROOT 5|4|PUNCT
+%par:	<aft> laughs
+*FAT:	she has a new name for ball .
+%mor:	pro:sub|she v|have&3S det|a adj|new n|name prep|for n|ball .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|DET 4|5|MOD 5|2|OBJ 6|5|NJCT 7|6|POBJ 8|2|PUNCT
+%add:	spoken to mother
+*MOT:	huh ?
+%mor:	co|huh ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*FAT:	she has a new name for ball .
+%mor:	pro:sub|she v|have&3S det|a adj|new n|name prep|for n|ball .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|DET 4|5|MOD 5|2|OBJ 6|5|NJCT 7|6|POBJ 8|2|PUNCT
+*CHI:	Gigi .
+%mor:	n:prop|Gigi .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%xpho:	gigi
+*FAT:	there (.) Gigi .
+%mor:	adv|there n:prop|Gigi .
+%gra:	1|2|JCT 2|0|ROOT 3|2|PUNCT
+%sit:	father points to a picture in the book
+*FAT:	where's the banana ?
+%mor:	adv:wh|where~cop|be&3S det|the n|banana ?
+%gra:	1|2|LINK 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+*FAT:	where's the banana ?
+%mor:	adv:wh|where~cop|be&3S det|the n|banana ?
+%gra:	1|2|LINK 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+*CHI:	bapa [: baby] .
+%mor:	n|baby .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%xpho:	bapa
+*CHI:	baby .
+%mor:	n|baby .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%xpho:	bebi
+*FAT:	that's the baby .
+%mor:	pro:dem|that~cop|be&3S det|the n|baby .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+*FAT:	what's this one ?
+%mor:	adv:wh|what~cop|be&3S det|this pro:indef|one ?
+%gra:	1|2|LINK 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+*CHI:	(ba)nana .
+%mor:	n|banana .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%xpho:	nãæ
+*FAT:	that's the one ?
+%mor:	pro:dem|that~cop|be&3S det|the pro:indef|one ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+*CHI:	(ba)nana .
+%mor:	n|banana .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%xpho:	nãæ
+*MOT:	what's this ?
+%mor:	pro:wh|what~cop|be&3S pro:dem|this ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+%gpx:	father points to a picture in the book
+*CHI:	baba@o .
+%mor:	on|baba .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%xpho:	bʌbʌ
+*FAT:	it's the doggie .
+%mor:	pro|it~cop|be&3S det|the n|dog-DIM .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+*FAT:	what's this one ?
+%mor:	adv:wh|what~cop|be&3S det|this pro:indef|one ?
+%gra:	1|2|LINK 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+*CHI:	(ba)nana .
+%mor:	n|banana .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%xpho:	nãæ
+*CHI:	bababa@o .
+%mor:	on|bababa .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%xpho:	bʌbʌbʌ
+*FAT:	see the doggie ?
+%mor:	v|see det|the n|dog-DIM ?
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+*CHI:	oo .
+%mor:	co|oo .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%xpho:	u:
+*CHI:	xxx .
+%par:	excited noises
+*CHI:	(ba)nana .
+%mor:	n|banana .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%xpho:	nãæ
+*FAT:	is there a (ba)nana there ?
+%mor:	cop|be&3S adv|there det|a n|banana adv|there ?
+%gra:	1|0|ROOT 2|1|JCT 3|4|DET 4|1|PRED 5|4|NJCT 6|1|PUNCT
+*CHI:	(ba)nana .
+%mor:	n|banana .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%xpho:	nãæ
+*CHI:	oo .
+%mor:	co|oo .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%xpho:	u:
+*MOT:	oo .
+%mor:	co|oo .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	(ba)nana .
+%mor:	n|banana .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%xpho:	nãæ
+*MOT:	May (.) who's this ?
+%mor:	n:prop|May pro:wh|who~cop|be&3S pro:dem|this ?
+%gra:	1|3|SUBJ 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|3|PUNCT
+*MOT:	pat your stomach (.) Dirk .
+%mor:	v|pat pro:poss:det|your n|stomach n:prop|Dirk .
+%gra:	1|0|ROOT 2|3|MOD 3|1|OBJ 4|3|APP 5|1|PUNCT
+%act:	father pats his stomach
+%add:	spoken to father
+*MOT:	who's that ?
+%mor:	pro:wh|who~cop|be&3S pro:dem|that ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+%act:	May pats father
+*CHI:	Dada .
+%mor:	n:prop|Dada .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%par:	whispered .
+%xpho:	dadæ
+*MOT:	yes .
+%mor:	co|yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%sit:	May goes over to CJ
+*CHI:	oo .
+%mor:	co|oo .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%xpho:	u:
+*MOT:	do you think C_J likes you ?
+%mor:	mod|do pro|you v|think n:prop|C_J v|like-3S pro|you ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|5|SUBJ 5|3|COMP 6|5|OBJ 7|3|PUNCT
+%sit:	May turns to look at father
+*FAT:	May (.) can you stand up by yourself ?
+%mor:	n:prop|May mod|can pro|you v|stand adv|up prep|by pro:refl|yourself
+	?
+%gra:	1|4|SUBJ 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|4|JCT 7|6|POBJ 8|4|PUNCT
+*FAT:	can you stand up by yourself ?
+%mor:	mod|can pro|you v|stand adv|up prep|by pro:refl|yourself ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|JCT 6|5|POBJ 7|3|PUNCT
+%sit:	May stands then falls
+*MOT:	<boom@o> [>] .
+%mor:	on|boom .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*FAT:	<boom@o> [<] .
+%mor:	on|boom .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	May (.) stand up by yourself .
+%mor:	n:prop|May n|stand adv|up prep|by pro:refl|yourself .
+%gra:	1|2|SUBJ 2|0|INCROOT 3|2|JCT 4|2|JCT 5|4|POBJ 6|2|PUNCT
+*FAT:	May (.) can you stand up by yourself ?
+%mor:	n:prop|May mod|can pro|you v|stand adv|up prep|by pro:refl|yourself
+	?
+%gra:	1|4|SUBJ 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|4|JCT 7|6|POBJ 8|4|PUNCT
+*FAT:	May (.) come here .
+%mor:	n:prop|May v|come adv|here .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|2|PUNCT
+%sit:	May turns and looks at father
+*MOT:	May (.) go to your Papa .
+%mor:	n:prop|May v|go prep|to pro:poss:det|your n:prop|Papa .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|5|MOD 5|3|POBJ 6|2|PUNCT
+*CHI:	xxx .
+*FAT:	May .
+%mor:	n:prop|May .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	xxx .
+*MOT:	Dirk (.) you can't compete with new people .
+%mor:	n:prop|Dirk pro|you mod|can~neg|not v|compete prep|with adj|new
+	n|person&PL .
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|3|NEG 5|0|ROOT 6|5|JCT 7|8|MOD 8|6|POBJ
+	9|5|PUNCT
+%sit:	May falls
+*CHI:	boom@o .
+%mor:	on|boom .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%xpho:	bũm
+*FAT:	boom@o .
+%mor:	on|boom .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*FAT:	May (.) let's play with another toy .
+%mor:	n:prop|May v|let~pro:obj|us v|play prep|with qn|another n|toy .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|COMP 5|4|JCT 6|7|QUANT 7|5|POBJ 8|2|PUNCT
+*MOT:	shape sorter .
+%mor:	n|shape n|sort&dv-AGT .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+%sit:	silence during which May returns to her father and plays with the shape sorter
+*CHI:	oo .
+%mor:	co|oo .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%xpho:	u:
+*FAT:	where's the cow ?
+%mor:	adv:wh|where~cop|be&3S det|the n|cow ?
+%gra:	1|2|LINK 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+%sit:	mother looks for a toy cow , finds it and hands it to May
+*CHI:	oo .
+%mor:	co|oo .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%xpho:	u:
+*CHI:	oo .
+%mor:	co|oo .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%sit:	mother hides the cow beneath a sweater
+%xpho:	u:
+*CHI:	oo .
+%mor:	co|oo .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%sit:	mother reveals the cow
+%xpho:	u:
+*MOT:	were you looking for that ?
+%mor:	cop|be&PAST pro|you part|look-PRESP prep|for pro:dem|that ?
+%gra:	1|0|ROOT 2|1|OBJ 3|2|XMOD 4|3|JCT 5|4|POBJ 6|1|PUNCT
+%sit:	mother hides the cow again
+*MOT:	May (.) where's the cow ?
+%mor:	n:prop|May rel|where~aux|be&3S det|the n|cow ?
+%gra:	1|0|INCROOT 2|5|LINK 3|5|AUX 4|5|DET 5|1|INCROOT 6|5|PUNCT
+%sit:	May notices Loyal
+*CHI:	xxx .
+%com:	may be a greeting
+*MOT:	can you stand up ?
+%mor:	mod|can pro|you v|stand adv|up ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|PUNCT
+*LOY:	I've been seen .
+%mor:	pro:sub|I~aux|have aux|be&PASTP part|see&PASTP .
+%gra:	1|4|SUBJ 2|4|AUX 3|4|AUX 4|0|ROOT 5|4|PUNCT
+%com:	Loyal is behind the camera .
+*ROY:	maybe that was a shriek .
+%mor:	adv|maybe pro:dem|that cop|be&PAST&13S det|a n|shriek .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|PRED 6|3|PUNCT
+%par:	Loyal laughs
+*MOT:	it was excitement she's happy .
+%mor:	pro|it cop|be&PAST&13S n|excitement pro:sub|she~cop|be&3S adj|happy
+	.
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|5|SUBJ 5|3|CMOD 6|5|PRED 7|2|PUNCT
+%sit:	mother hugs May and rocks her
+%add:	spoken to observers
+*MOT:	want to go nini@f ?
+%mor:	v|want inf|to v|go fam|nini ?
+%gra:	1|0|ROOT 2|3|INF 3|1|XCOMP 4|3|OBJ 5|1|PUNCT
+%sit:	May is still looking at Loyal
+%exp:	nini means sleep .
+*MOT:	who is that guy ?
+%mor:	pro:wh|who cop|be&3S rel|that n|guy ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|MOD 4|2|PRED 5|2|PUNCT
+*MOT:	who is he ?
+%mor:	pro:wh|who cop|be&3S pro:sub|he ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+%sit:	May recalls the cow and looks for it
+*CHI:	oo .
+%mor:	co|oo .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%xpho:	u:
+*MOT:	oh (.) a cow .
+%mor:	co|oh det|a n|cow .
+%gra:	1|3|COM 2|3|DET 3|0|INCROOT 4|3|PUNCT
+*MOT:	oo .
+%mor:	co|oo .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%sit:	mother pushes the cow at May as a game
+%xpho:	u:
+*MOT:	mooooooooo@o (.) moooooooooooo@o several times .
+%mor:	on|mooooooooo on|moooooooooooo qn|several n|time-PL .
+%gra:	1|0|INCROOT 2|1|OBJ 3|4|QUANT 4|2|OBJ 5|1|PUNCT
+%sit:	May looks for the cow again
+%par:	May laughs
+*MOT:	where's the cow ?
+%mor:	adv:wh|where~cop|be&3S det|the n|cow ?
+%gra:	1|2|LINK 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+%sit:	May finds the cow
+*MOT:	oh (.) good girl .
+%mor:	co|oh adj|good n|girl .
+%gra:	1|3|COM 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+%sit:	the game stops and mother looks at May
+*MOT:	May (.) are you the baby ?
+%mor:	n:prop|May aux|be&PRES pro|you det|the n|baby ?
+%gra:	1|5|SUBJ 2|5|AUX 3|5|SUBJ 4|5|DET 5|0|INCROOT 6|5|PUNCT
+*MOT:	you're the baby .
+%mor:	pro|you~aux|be&PRES det|the n|baby .
+%gra:	1|4|SUBJ 2|4|AUX 3|4|DET 4|0|INCROOT 5|4|PUNCT
+*MOT:	baby .
+%mor:	n|baby .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%sit:	May looks at her father
+*CHI:	Dada .
+%mor:	n:prop|Dada .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%xpho:	dadæ
+*MOT:	this is the Dada .
+%mor:	pro:dem|this cop|be&3S det|the n:prop|Dada .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+*CHI:	Dada .
+%mor:	n:prop|Dada .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%xpho:	dadæ
+*MOT:	May (.) who's that Dada ?
+%mor:	n:prop|May rel|who~aux|be&3S rel|that n:prop|Dada ?
+%gra:	1|5|SUBJ 2|3|LINK 3|5|AUX 4|5|LINK 5|0|ROOT 6|5|PUNCT
+*CHI:	Dada .
+%mor:	n:prop|Dada .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%xpho:	dadæ
+*MOT:	yeh .
+%mor:	co|yeh .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*FAT:	baby .
+%mor:	n|baby .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	where's your Mama ?
+%mor:	rel|where~aux|be&3S pro:poss:det|your n:prop|Mama ?
+%gra:	1|2|LINK 2|0|ROOT 3|4|MOD 4|2|OBJ 5|2|PUNCT
+%sit:	May turns to Loyal
+*CHI:	baby .
+%mor:	n|baby .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%xpho:	bebi
+*MOT:	is Loyal the baby ?
+%mor:	cop|be&3S n:prop|Loyal det|the n|baby ?
+%gra:	1|0|ROOT 2|1|PRED 3|4|DET 4|2|OBJ 5|1|PUNCT
+*CHI:	baby .
+%mor:	n|baby .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%xpho:	bebi
+*MOT:	that means (.) I think (.) that she wants you to respond to her .
+%mor:	rel|that v|mean-3S pro:sub|I v|think rel|that pro:sub|she v|want-3S
+	pro|you inf|to v|respond prep|to pro:obj|her .
+%gra:	1|2|LINK 2|0|ROOT 3|4|SUBJ 4|2|COMP 5|7|LINK 6|7|SUBJ 7|4|COMP 8|7|OBJ
+	9|10|INF 10|7|XCOMP 11|10|JCT 12|11|POBJ 13|2|PUNCT
+%sit:	Loyal peers around the camera at May
+%add:	said to Loyal
+*MOT:	is Loyal playing peekaboo ?
+%mor:	cop|be&3S n:prop|Loyal part|play-PRESP co|peekaboo ?
+%gra:	1|0|ROOT 2|1|PRED 3|2|XMOD 4|3|OBJ 5|1|PUNCT
+%sit:	May stares at the camera and puts her hands to her head , playing peekaboo
+*MOT:	peekaboo (.) peekaboo (.) peekaboo (.) peekaboo .
+%mor:	co|peekaboo co|peekaboo co|peekaboo co|peekaboo .
+%gra:	1|4|COM 2|4|COM 3|4|COM 4|0|ROOT 5|4|PUNCT
+%par:	May laughs
+*MOT:	May .
+%mor:	n:prop|May .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%sit:	May ignores her mother's call and continues to stare at Loyal
+*CHI:	xxx .
+*MOT:	try Loyal .
+%mor:	v|try n:prop|Loyal .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+*CHI:	baby .
+%mor:	n|baby .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%xpho:	bebi
+*FAT:	who's the baby ?
+%mor:	rel|who~aux|be&3S det|the n|baby ?
+%gra:	1|2|LINK 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*MOT:	you're the baby .
+%mor:	pro|you~aux|be&PRES det|the n|baby .
+%gra:	1|4|SUBJ 2|4|AUX 3|4|DET 4|0|INCROOT 5|4|PUNCT
+%sit:	May goes to her mother , who gives her a kiss
+*MOT:	we're kissing the baby .
+%mor:	pro:sub|we~aux|be&PRES part|kiss-PRESP det|the n|baby .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*CHI:	oo .
+%mor:	co|oo .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%xpho:	u:
+*MOT:	oo .
+%mor:	co|oo .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CHI:	baby .
+%mor:	n|baby .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%sit:	May calls to Loyal
+%xpho:	bebi
+*MOT:	you are the baby .
+%mor:	pro|you cop|be&PRES det|the n|baby .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+*CHI:	baby .
+%mor:	n|baby .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%xpho:	bebi
+*MOT:	Dirk is the Dada .
+%mor:	n:prop|Dirk cop|be&3S det|the n:prop|Dada .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+%sit:	May turns to look at her father
+*CHI:	Dada .
+%mor:	n:prop|Dada .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%xpho:	dadæ
+*MOT:	I am the mama .
+%mor:	pro:sub|I cop|be&1S det|the n|mama .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+*CHI:	Dada .
+%mor:	n:prop|Dada .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%sit:	mother leans in front of May
+%xpho:	dadæ
+*MOT:	I am the mama .
+%mor:	pro:sub|I cop|be&1S det|the n|mama .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+*MOT:	kiss your Mama .
+%mor:	v|kiss pro:poss:det|your n:prop|Mama .
+%gra:	1|0|ROOT 2|3|MOD 3|1|OBJ 4|1|PUNCT
+%sit:	May kisses mother and falls over
+*MOT:	boom@o (.) thank_you that was very nice of you .
+%mor:	on|boom n|thank_you rel|that cop|be&PAST&13S adv|very adj|nice
+	prep|of pro|you .
+%gra:	1|0|INCROOT 2|1|OBJ 3|4|LINK 4|2|CMOD 5|4|JCT 6|4|PRED 7|6|JCT 8|7|POBJ
+	9|1|PUNCT
+*CHI:	poom@o .
+%mor:	on|poom .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%spa:	$IMIT
+%xpho:	puʔũm
+*CHI:	oom@o .
+%mor:	on|oom .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%xpho:	ũm
+*CHI:	gi@u .
+%mor:	uni|gi .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%xpho:	gi
+*ROY:	bebi@u .
+%mor:	uni|bebi .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%add:	spoken to May
+*CHI:	xxx .
+%par:	mother and May laugh
+*MOT:	okay May (.) lets clean up a little bit and then we're gonna do
+	shape sorter .
+%mor:	co|okay n:prop|May v|let-3S v|clean prep|up det|a adj|little n|bit
+	coord|and adv:tem|then pro:sub|we~aux|be&PRES part|go-PRESP~inf|to
+	v|do n|shape n|sort&dv-AGT .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|4|JCT 6|8|DET 7|8|MOD 8|5|POBJ
+	9|4|COORD 10|13|JCT 11|13|SUBJ 12|13|AUX 13|9|CONJ 14|15|INF 15|13|XCOMP
+	16|17|MOD 17|15|OBJ 18|3|PUNCT
+%sit:	May watches mother pick up toys
+*FAT:	Maybe we should try shoes on her too .
+%mor:	n:prop|Maybe pro:sub|we mod|should v|try n|shoe-PL prep|on
+	pro:obj|her post|too .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|4|JCT 7|6|POBJ 8|6|POBJ
+	9|4|PUNCT
+*MOT:	what are these May ?
+%mor:	pro:wh|what aux|be&PRES det|these n:prop|May ?
+%gra:	1|4|LINK 2|4|AUX 3|4|DET 4|0|ROOT 5|4|PUNCT
+%act:	mother touches May's shoes
+*MOT:	what are these May ?
+%mor:	pro:wh|what aux|be&PRES det|these n:prop|May ?
+%gra:	1|4|LINK 2|4|AUX 3|4|DET 4|0|ROOT 5|4|PUNCT
+*CHI:	&ba .
+%xpho:	bʌ
+*MOT:	shoes (.) yeh .
+%mor:	n|shoe-PL co|yeh .
+%gra:	1|0|INCROOT 2|1|COM 3|1|PUNCT
+*CHI:	baby .
+%mor:	n|baby .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%sit:	May looks to Roy and calls
+%xpho:	bebi
+*MOT:	yeh (.) you're the baby .
+%mor:	co|yeh pro|you~aux|be&PRES det|the n|baby .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*CHI:	baby .
+%mor:	n|baby .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%xpho:	bebi
+*MOT:	yeh .
+%mor:	co|yeh .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%sit:	May puts the blocks into the shape sorter without the top on it
+*MOT:	here (.) put the top on .
+%mor:	adv|here v|put&ZERO det|the n|top adv|on .
+%gra:	1|2|JCT 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|JCT 6|2|PUNCT
+*MOT:	put the top on (.) otherwise its not as much fun .
+%mor:	v|put&ZERO det|the n|top adv|on adv|otherwise pro:poss:det|its
+	neg|not prep|as qn|much n|fun .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|JCT 5|1|JCT 6|8|MOD 7|6|NEG 8|5|JCT
+	9|10|QUANT 10|8|POBJ 11|1|PUNCT
+*MOT:	it's pretty much fun but .
+%mor:	pro|it~cop|be&3S adv|pretty qn|much n|fun conj|but .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|5|QUANT 5|6|MOD 6|2|PRED 7|2|PUNCT
+%sit:	May has given up on the shape sorter and is trying to separate the "spiney blocks"
+*MOT:	keep trying .
+%mor:	v|keep n:gerund|try-PRESP .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+*CHI:	xxx .
+%sit:	May turns to look at Loyal and fixes him with her gaze
+*CHI:	baby .
+%mor:	n|baby .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%xpho:	bebi
+*CHI:	baby .
+%mor:	n|baby .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%xpho:	bebi
+*CHI:	baby .
+%mor:	n|baby .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%xpho:	bebi
+*MOT:	Loyal won't talk to you either will he .
+%mor:	n:prop|Loyal mod|will~neg|not v|talk prep|to pro|you adv|either
+	mod|will pro:sub|he .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|JCT 6|9|SUBJ 7|9|JCT 8|9|AUX
+	9|5|POBJ 10|4|PUNCT
+%par:	mother laughs
+*CHI:	baby .
+%mor:	n|baby .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%xpho:	bebi
+*LOY:	I'm trying to stay objective .
+%mor:	pro:sub|I~aux|be&1S part|try-PRESP inf|to v|stay adj|objective .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|INF 5|3|XCOMP 6|5|JCT 7|3|PUNCT
+%par:	mother laughs
+*CHI:	baby .
+%mor:	n|baby .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%sit:	May continues to look at Loyal and play with the shape sorter , alternatively looking up and down
+%xpho:	bebi
+*MOT:	put it on .
+%mor:	v|put&ZERO pro|it adv|on .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|JCT 4|1|PUNCT
+%exp:	meaning the lid of the toy
+*CHI:	baby .
+%mor:	n|baby .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%xpho:	bebi
+*MOT:	you'd better watch out kiddo .
+%mor:	pro|you~mod|genmod adv|good&CP v|watch prep|out n|kiddo .
+%gra:	1|4|SUBJ 2|4|AUX 3|4|JCT 4|0|ROOT 5|4|JCT 6|5|POBJ 7|4|PUNCT
+*CHI:	baby .
+%mor:	n|baby .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%sit:	May cries because she has got a shape stuck in the top of the shapesorter
+%xpho:	bebi
+*MOT:	pound it down .
+%mor:	v|pound pro|it adv|down .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|JCT 4|1|PUNCT
+%sit:	May looks towards Loyal
+*CHI:	baby .
+%mor:	n|baby .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%xpho:	bebi
+*CHI:	baby .
+%mor:	n|baby .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%xpho:	bebi
+*CHI:	baby .
+%mor:	n|baby .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%xpho:	bebi
+*MOT:	you're real glad I started that aren't you Loyal ?
+%mor:	pro|you~cop|be&PRES adj|real adj|glad pro:sub|I v|start-PAST
+	rel|that aux|be&PRES~neg|not pro|you n:prop|Loyal ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PRED 5|6|SUBJ 6|4|ROOT 7|11|LINK
+	8|11|AUX 9|8|NEG 10|11|SUBJ 11|6|COMP 12|11|PUNCT
+*MOT:	ordinarily (.) it's three hundred times a day .
+%mor:	adv|ordinary&dadj-LY pro|it~cop|be&3S det:num|three det:num|hundred
+	n|time-PL det|a n|day .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|6|QUANT 5|6|QUANT 6|3|PRED 7|8|DET 8|6|OBJ
+	9|3|PUNCT
+*CHI:	baby .
+%mor:	n|baby .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%xpho:	bebi
+*MOT:	as you can see .
+%mor:	conj|as pro|you mod|can v|see .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|PUNCT
+%sit:	May smiles at Loyal
+*ROY:	does she use that as a call ?
+%mor:	mod|do&3S pro:sub|she v|use rel|that prep|as det|a n|call ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|4|JCT 6|7|DET 7|5|POBJ 8|3|PUNCT
+*ROY:	does she expect some kind of response ?
+%mor:	mod|do&3S pro:sub|she v|expect qn|some n|kind prep|of n|response ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|5|QUANT 5|3|OBJ 6|5|NJCT 7|6|POBJ 8|3|PUNCT
+*MOT:	I think so yeh (.) I think she does .
+%mor:	pro:sub|I v|think co|so co|yeh pro:sub|I v|think pro:sub|she
+	v|do&3S .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|COM 4|2|COM 5|6|SUBJ 6|2|COMP 7|8|SUBJ 8|6|COMP
+	9|2|PUNCT
+*MOT:	as a matter of fact I've been trying to figure out the meaning .
+%mor:	prep|as det|a n|matter prep|of n|fact pro:sub|I~aux|have
+	aux|be&PASTP part|try-PRESP inf|to v|figure prep|out det|the
+	part|mean-PRESP .
+%gra:	1|9|JCT 2|3|DET 3|1|POBJ 4|3|NJCT 5|4|POBJ 6|9|SUBJ 7|9|AUX 8|9|AUX
+	9|0|ROOT 10|11|INF 11|9|XCOMP 12|11|JCT 13|14|DET 14|12|POBJ 15|9|PUNCT
+*MOT:	I'm not really exactly sure .
+%mor:	pro:sub|I~cop|be&1S neg|not adv|real&dadj-LY adv|exact&dadj-LY
+	adj|sure .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|NEG 4|2|JCT 5|6|JCT 6|2|PRED 7|2|PUNCT
+*MOT:	I think it means talk about me rather than respond .
+%mor:	pro:sub|I v|think pro|it v|mean-3S n|talk prep|about pro:obj|me
+	adv|rather prep|than v|respond .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|COMP 5|4|OBJ 6|4|JCT 7|6|POBJ 8|4|JCT
+	9|4|JCT 10|9|POBJ 11|2|PUNCT
+%sit:	May returns to putting the shapes into the shape sorter and gives a contented cry
+*CHI:	xxx .
+*MOT:	you put it in .
+%mor:	pro|you v|put&ZERO pro|it adv|in .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|JCT 5|2|PUNCT
+*ROY:	well done .
+%mor:	co|well part|do&PASTP .
+%gra:	1|2|COM 2|0|ROOT 3|2|PUNCT
+%sit:	May puts a block on the monkey's head
+*MOT:	that's for the monkey ?
+%mor:	pro:dem|that~cop|be&3S conj|for det|the n|monkey ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|5|DET 5|3|OBJ 6|2|PUNCT
+*MOT:	is that for the monkey ?
+%mor:	cop|be&3S pro:dem|that prep|for det|the n|monkey ?
+%gra:	1|0|ROOT 2|1|PRED 3|2|JCT 4|5|DET 5|3|POBJ 6|1|PUNCT
+%sit:	the block falls off the monkey's head
+*MOT:	boom@o .
+%mor:	on|boom .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%sit:	May hands another block to the monkey
+*MOT:	are you giving that to the monkey ?
+%mor:	cop|be&PRES pro|you part|give-PRESP rel|that prep|to det|the
+	n|monkey ?
+%gra:	1|0|ROOT 2|1|OBJ 3|2|XMOD 4|3|OBJ 5|4|JCT 6|7|DET 7|5|POBJ 8|1|PUNCT
+*CHI:	baby .
+%mor:	n|baby .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%sit:	mother looks at the shape sorter parts
+%xpho:	bebi
+*MOT:	I think we have the parts (.) don't we ?
+%mor:	pro:sub|I v|think pro:sub|we v|have det|the n|part-PL
+	mod|do~neg|not pro:sub|we ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|SUBJ 4|2|COMP 5|6|DET 6|9|SUBJ 7|9|AUX 8|7|NEG
+	9|4|OBJ 10|2|PUNCT
+%sit:	May tries to put the spiney blocks together , May cries for assistance
+*MOT:	what's the problem ?
+%mor:	adv:wh|what~cop|be&3S det|the n|problem ?
+%gra:	1|2|LINK 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+%act:	May plays with a different block
+*MOT:	yeh (.) that's a different one (.) isn't it .
+%mor:	co|yeh pro:dem|that~cop|be&3S det|a adj|different pro:indef|one
+	cop|be&3S~neg|not pro|it .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|6|DET 5|6|MOD 6|7|SUBJ 7|3|PRED 8|7|NEG
+	9|7|PRED 10|3|PUNCT
+%act:	May looks towards Loyal again
+*CHI:	baby .
+%mor:	n|baby .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%xpho:	bebi
+*CHI:	baby .
+%mor:	n|baby .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%par:	laughs
+%xpho:	bebi
+*MOT:	May .
+%mor:	n:prop|May .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	May goes to the camera and peers at Loyal
+%par:	May laughs and then mother laughs
+*MOT:	are you playing peekaboo with her ?
+%mor:	cop|be&PRES pro|you part|play-PRESP v|peekaboo prep|with
+	pro:obj|her ?
+%gra:	1|4|LINK 2|4|SUBJ 3|4|MOD 4|0|ROOT 5|4|JCT 6|5|POBJ 7|4|PUNCT
+%par:	spoken to Loyal
+*CHI:	baby .
+%mor:	n|baby .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%sit:	mother shakes the monkey's head
+%xpho:	bebi
+*MOT:	May (.) May (.) oo .
+%mor:	n:prop|May n:prop|May co|oo .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|COM 4|2|PUNCT
+*CHI:	oo .
+%mor:	co|oo .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%sit:	May looks at the monkey but continues to play with the shapesorter , she places a block on the monkey's head and her mother shakes it off
+%xpho:	u:
+*MOT:	boom@o (.) shake that off !
+%mor:	on|boom v|shake pro:dem|that adv|off !
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|JCT 5|2|PUNCT
+%sit:	silence during which mother and May repeat the game , May picks up two spiney blocks and sticks them together
+*MOT:	hey (.) now you're putting them together .
+%mor:	co|hey adv|now pro|you~aux|be&PRES part|put-PRESP pro:obj|them
+	adv|together .
+%gra:	1|5|COM 2|5|JCT 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|OBJ 7|5|JCT 8|5|PUNCT
+%sit:	May looks first at mother and then at Loyal and then gives a very long and loud coo
+*CHI:	xxx .
+%sit:	silence during which mother gets the toy cow
+*MOT:	okay (.) May .
+%mor:	co|okay n:prop|May .
+%gra:	1|2|COM 2|0|ROOT 3|2|PUNCT
+%sit:	she holds the cow out towards May
+*CHI:	oo .
+%mor:	co|oo .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%xpho:	u:
+*CHI:	oo .
+%mor:	co|oo .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%xpho:	u:
+*CHI:	oo .
+%mor:	co|oo .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%sit:	mother examines May's mouth
+%xpho:	u:
+*MOT:	are you getting some new teeth ?
+%mor:	cop|be&PRES pro|you part|get-PRESP qn|some adj|new n|tooth&PL ?
+%gra:	1|0|ROOT 2|1|OBJ 3|2|XMOD 4|6|QUANT 5|6|MOD 6|3|OBJ 7|1|PUNCT
+*MOT:	maybe (.) huh ?
+%mor:	adv|maybe co|huh ?
+%gra:	1|2|JCT 2|0|INCROOT 3|2|PUNCT
+*MOT:	does that feel good ?
+%mor:	mod|do&3S adv|that v|feel adj|good ?
+%gra:	1|3|AUX 2|3|JCT 3|0|ROOT 4|3|JCT 5|3|PUNCT
+%sit:	May has her fingers in her mouth
+*MOT:	does that feel good on your gums ?
+%mor:	mod|do&3S adv|that v|feel adj|good prep|on pro:poss:det|your
+	n|gum-PL ?
+%gra:	1|3|AUX 2|3|JCT 3|0|ROOT 4|3|JCT 5|4|JCT 6|7|MOD 7|5|POBJ 8|3|PUNCT
+*MOT:	are you brushing your teeth ?
+%mor:	cop|be&PRES pro|you part|brush-PRESP pro:poss:det|your n|tooth&PL ?
+%gra:	1|0|ROOT 2|1|OBJ 3|2|XMOD 4|5|MOD 5|3|OBJ 6|1|PUNCT
+*MOT:	can I touch them without you biting me ?
+%mor:	mod|can pro:sub|I v|touch pro:obj|them prep|without pro|you
+	part|bite-PRESP pro:obj|me ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|JCT 6|5|POBJ 7|3|XJCT 8|7|OBJ
+	9|3|PUNCT
+*MOT:	oh (.) I see (th)em (.) they're coming out .
+%mor:	co|oh pro:sub|I v|see pro:obj|them pro:sub|they~aux|be&PRES
+	part|come-PRESP adv|out .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|7|SUBJ 6|7|AUX 7|3|COMP 8|7|JCT
+	9|3|PUNCT
+%sit:	May plays with the shapesorter
+*MOT:	try this one .
+%mor:	v|try det|this pro:indef|one .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+%act:	hands her a shape
+*MOT:	let's see if you can get that one in the other place .
+%mor:	v|let~pro:obj|us v|see conj|if pro|you mod|can v|get det|that
+	pro:indef|one prep|in det|the qn|other n|place .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|COMP 4|7|LINK 5|7|SUBJ 6|7|AUX 7|3|CJCT 8|9|DET
+	9|7|OBJ 10|9|NJCT 11|13|DET 12|13|QUANT 13|10|POBJ 14|1|PUNCT
+*MOT:	no (.) try another one .
+%mor:	co|no v|try qn|another pro:indef|one .
+%gra:	1|2|COM 2|0|ROOT 3|4|QUANT 4|2|OBJ 5|2|PUNCT
+*MOT:	boom@o .
+%mor:	on|boom .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%sit:	May stacks up the blocks into a tower
+%exp:	as the shape falls .
+*MOT:	wow (.) that's pretty good .
+%mor:	co|wow pro:dem|that~cop|be&3S adv|pretty adj|good .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|5|JCT 5|3|PRED 6|3|PUNCT
+%sit:	the tower collapses
+*CHI:	poom@o .
+%mor:	on|poom .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%xpho:	pu:̃m
+*MOT:	oh (.) poom@o .
+%mor:	co|oh on|poom .
+%gra:	1|2|COM 2|0|ROOT 3|2|PUNCT
+*MOT:	I betya [: bet you] Roy's got a few boom written down there .
+%mor:	pro:sub|I v|bet&ZERO pro|you n:prop|Roy~aux|be&3S v|get&PAST det|a
+	qn|few n|boom part|write&PASTP adv|down adv|there .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|6|SUBJ 5|6|AUX 6|2|COMP 7|9|DET 8|9|QUANT
+	9|6|OBJ 10|9|XMOD 11|10|JCT 12|10|JCT 13|2|PUNCT
+*CHI:	xxx .
+%sit:	May calls to CJ
+*CHI:	xxx .
+*CHI:	xxx .
+*MOT:	May .
+%mor:	n:prop|May .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%sit:	May is sitting on the floor by CJ , she gives CJ the blocks she's holding
+*CHI:	xxx .
+*MOT:	let's see some fancy footwork (.) come here May .
+%mor:	v|let~pro:obj|us v|see qn|some n|fancy n|footwork v|come
+	pro:dem|here n:prop|May .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|COMP 4|5|QUANT 5|7|MOD 6|7|SUBJ 7|3|COMP 8|7|OBJ
+	9|8|APP 10|1|PUNCT
+%sit:	May continues to play with CJ
+*MOT:	May (.) come here .
+%mor:	n:prop|May v|come adv|here .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|2|PUNCT
+%sit:	May turns to her mother
+*CHI:	xxx .
+%sit:	May turns back to CJ and continues to play
+*MOT:	come here .
+%mor:	v|come adv|here .
+%gra:	1|0|ROOT 2|1|JCT 3|1|PUNCT
+*CHI:	xxx .
+*MOT:	let's see (.) how can I compete with this ?
+%mor:	v|let~pro:obj|us v|see adv|how mod|can pro:sub|I v|compete
+	prep|with pro:dem|this ?
+%gra:	1|0|ROOT 2|1|OBJ 3|1|COMP 4|7|JCT 5|7|AUX 6|7|SUBJ 7|3|CJCT 8|7|JCT
+	9|8|POBJ 10|1|PUNCT
+%sit:	mother starts to dig in the toybox , May watches her from across the room
+*MOT:	oh my gosh (.) maybe the little frog fell off .
+%mor:	co|oh pro:poss:det|my co|gosh adv|maybe det|the adj|little n|frog
+	v|fall&PAST adv|off .
+%gra:	1|3|COM 2|3|MOD 3|8|COM 4|8|JCT 5|7|DET 6|7|MOD 7|8|SUBJ 8|0|ROOT
+	9|8|JCT 10|8|PUNCT
+*MOT:	where'd he go ?
+%mor:	adv:wh|where~mod|genmod pro:sub|he v|go ?
+%gra:	1|4|LINK 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+%sit:	mother finds the toy that she is looking for and makes the frog on the end jump by squeezing a bulb at the end of the tube that the frog is attached to
+*CHI:	xxx .
+*MOT:	where did the little frog go ?
+%mor:	rel|where v|do&PAST det|the adj|little n|frog v|go ?
+%gra:	1|2|LINK 2|0|ROOT 3|5|DET 4|5|MOD 5|6|SUBJ 6|2|COMP 7|2|PUNCT
+*MOT:	did you see him ?
+%mor:	v|do&PAST pro|you v|see pro:obj|him ?
+%gra:	1|0|ROOT 2|3|SUBJ 3|1|COMP 4|3|OBJ 5|1|PUNCT
+%sit:	May watches mother and chortles
+*MOT:	coming to get you .
+%mor:	part|come-PRESP inf|to v|get pro|you .
+%gra:	1|0|INCROOT 2|3|INF 3|1|XCOMP 4|3|OBJ 5|1|PUNCT
+%par:	May chortles
+*MOT:	coming to get you .
+%mor:	part|come-PRESP inf|to v|get pro|you .
+%gra:	1|0|INCROOT 2|3|INF 3|1|XCOMP 4|3|OBJ 5|1|PUNCT
+%sit:	May turns and calls to Loyal again
+%par:	May chortles
+*CHI:	baby .
+%mor:	n|baby .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%par:	mother laughs
+%xpho:	bebi
+*CHI:	baby .
+%mor:	n|baby .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%xpho:	bebi
+*MOT:	okay May (.) no more baby .
+%mor:	co|okay n:prop|May qn|no qn|more n|baby .
+%gra:	1|2|COM 2|0|ROOT 3|4|QUANT 4|5|QUANT 5|2|OBJ 6|2|PUNCT
+%sit:	May looks at mother's face
+*MOT:	May can you stand up from the floor ?
+%mor:	n:prop|May mod|can pro|you v|stand adv|up prep|from det|the n|floor
+	?
+%gra:	1|4|SUBJ 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|4|JCT 7|8|DET 8|6|POBJ
+	9|4|PUNCT
+*MOT:	May can you stand up from the floor ?
+%mor:	n:prop|May mod|can pro|you v|stand adv|up prep|from det|the n|floor
+	?
+%gra:	1|4|SUBJ 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|4|JCT 7|8|DET 8|6|POBJ
+	9|4|PUNCT
+*MOT:	this is a serious question May .
+%mor:	pro:dem|this cop|be&3S det|a adj|serious n|question n:prop|May .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|DET 4|5|MOD 5|2|PRED 6|5|APP 7|2|PUNCT
+%sit:	May sits and watches mother
+*MOT:	can you stand up ?
+%mor:	mod|can pro|you v|stand adv|up ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|PUNCT
+*MOT:	can you stand up ?
+%mor:	mod|can pro|you v|stand adv|up ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|PUNCT
+*MOT:	up ?
+%mor:	adv|up ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	you have better things to do (.) huh ?
+%mor:	pro|you v|have adj|good&CP n|thing-PL inf|to v|do co|huh ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|MOD 4|2|OBJ 5|6|INF 6|4|XCOMP 7|6|COM 8|2|PUNCT
+%sit:	May hands the jumping frog to mother
+*CHI:	xxx .
+%sit:	May picks up all the blocks in her hands
+*MOT:	pretty hard to carry all those .
+%mor:	adv|pretty adj|hard inf|to v|carry adv|all det|those .
+%gra:	1|2|JCT 2|0|ROOT 3|4|INF 4|2|XCOMP 5|4|JCT 6|7|DET 7|5|PUNCT
+*MOT:	you just get a hold of (th)em .
+%mor:	pro|you adv|just v|get det|a n|hold prep|of pro:obj|them .
+%gra:	1|3|SUBJ 2|1|JCT 3|0|ROOT 4|5|DET 5|3|OBJ 6|5|NJCT 7|6|POBJ 8|3|PUNCT
+*MOT:	I guess you can try though .
+%mor:	pro:sub|I v|guess pro|you mod|can v|try adv|though .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|SUBJ 4|5|AUX 5|2|COMP 6|5|JCT 7|2|PUNCT
+*MOT:	oh (.) you did it too .
+%mor:	co|oh pro|you v|do&PAST pro|it post|too .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PQ 6|3|PUNCT
+%act:	May gives the blocks to mother
+*MOT:	thank_you .
+%mor:	co|thank_you .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	places the shapesorter in front of May
+*MOT:	gonna play shape+sorter ?
+%mor:	part|go-PRESP~inf|to n|play n|+n|shape+n|sorter ?
+%gra:	1|0|INCROOT 2|3|INF 3|4|MOD 4|1|OBJ 5|1|PUNCT
+%act:	May begins to drop shapes into the box
+*MOT:	gotta wait until the top is on .
+%mor:	mod:aux|gotta v|wait prep|until det|the n|top cop|be&3S adv|on .
+%gra:	1|2|SUBJ 2|0|ROOT 3|6|LINK 4|5|DET 5|6|SUBJ 6|2|COMP 7|6|JCT 8|2|PUNCT
+*MOT:	kiss me again .
+%mor:	v|kiss pro:obj|me adv|again .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|JCT 4|1|PUNCT
+%sit:	May kisses mother
+*MOT:	there you go .
+%mor:	adv|there pro|you v|go .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*MOT:	she thinks she has some real power over the shape+sorter .
+%mor:	pro:sub|she v|think-3S pro:sub|she v|have&3S qn|some adj|real
+	n|power prep|over det|the n|+n|shape+n|sorter .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|SUBJ 4|2|COMP 5|7|QUANT 6|7|MOD 7|4|OBJ 8|7|NJCT
+	9|10|DET 10|8|POBJ 11|2|PUNCT
+%add:	spoken to observers
+*MOT:	she thinks she can get it before the shape goes in .
+%mor:	pro:sub|she v|think-3S pro:sub|she mod|can aux|get pro|it
+	adv|before det|the n|shape v|go-3S adv|in .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|SUBJ 4|5|AUX 5|2|COMP 6|10|SUBJ 7|10|JCT 8|9|DET
+	9|10|SUBJ 10|5|CJCT 11|10|JCT 12|2|PUNCT
+%add:	spoken to observers
+*CHI:	xxx .
+*CHI:	xxx .
+%sit:	May looks at Loyal
+*CHI:	baby .
+%mor:	n|baby .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%par:	mother laughs
+%xpho:	bebi
+*CHI:	baby .
+%mor:	n|baby .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%act:	mother rubs May's head
+%xpho:	bebi
+*MOT:	you are the baby (.) you are the baby .
+%mor:	pro|you cop|be&PRES det|the n|baby pro|you cop|be&PRES det|the
+	n|baby .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|6|SUBJ 6|4|XMOD 7|8|DET 8|6|PRED
+	9|2|PUNCT
+%act:	mother touches father
+*CHI:	Dada .
+%mor:	n:prop|Dada .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%xpho:	dadæ
+*MOT:	this is the Dada .
+%mor:	pro:dem|this cop|be&3S det|the n:prop|Dada .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+*MOT:	poom@o .
+%mor:	on|poom .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%sit:	mother leans forward and speaks into the open plastic shapesorter which May is holding , her voice reverberates in the empty container
+*MOT:	hello .
+%mor:	co|hello .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*MOT:	speak into here .
+%mor:	v|speak prep|into pro:dem|here .
+%gra:	1|0|ROOT 2|1|JCT 3|2|POBJ 4|1|PUNCT
+%sit:	May coos into the cylinder
+*CHI:	xxx .
+*MOT:	it makes an echo (.) doesn't it ?
+%mor:	pro|it v|make-3S det|a n|echo mod|do&3S~neg|not pro|it ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|7|SUBJ 5|7|AUX 6|5|NEG 7|2|OBJ 8|2|PUNCT
+%sit:	May coos into the cylinder again
+*CHI:	xxx .
+*MOT:	it's so much fun .
+%mor:	pro|it~cop|be&3S adv|so qn|much n|fun .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|JCT 4|5|QUANT 5|2|PRED 6|2|PUNCT
+@End

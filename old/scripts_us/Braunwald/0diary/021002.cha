@@ -1,0 +1,82 @@
+@UTF8
+@PID:	11312/c-00011048-1
+@Begin
+@Languages:	eng
+@Participants:	CHI Target_Child, MOT Mother, GRA Grandfather
+@ID:	eng|Braunwald|CHI|02;10.02|female|||Target_Child|||
+@ID:	eng|Braunwald|MOT|||||Mother|||
+@ID:	eng|Braunwald|GRA|||||Grandfather|||
+@Date:	22-DEC-1973
+*CHI:	I sure enough don't know Santa .
+%mor:	pro:sub|I v|sure adv|enough mod|do~neg|not v|know n:prop|Santa .
+%gra:	1|2|SUBJ 2|6|SUBJ 3|2|JCT 4|6|AUX 5|4|NEG 6|0|ROOT 7|6|OBJ 8|6|PUNCT
+%sit:	138
+*CHI:	I sure enough don't .
+%mor:	pro:sub|I v|sure adv|enough mod|do~neg|not .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|2|COMP 5|4|NEG 6|2|PUNCT
+%sit:	138
+*CHI:	I'm gonna be barefooted [: barefoot] [*] .
+%mor:	pro:sub|I~aux|be&1S part|go-PRESP~inf|to aux|be adv|barefoot .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|INF 5|3|XCOMP 6|5|JCT 7|3|PUNCT
+%sit:	139
+*CHI:	more peanut+butter .
+%mor:	qn|more n|+n|peanut+n|butter .
+%gra:	1|2|QUANT 2|0|INCROOT 3|2|PUNCT
+%sit:	140
+*CHI:	someone's calling .
+%mor:	pro:indef|someone~aux|be&3S part|call-PRESP .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|PUNCT
+%sit:	140
+*CHI:	more peanut+butter .
+%mor:	qn|more n|+n|peanut+n|butter .
+%gra:	1|2|QUANT 2|0|INCROOT 3|2|PUNCT
+%sit:	140
+*MOT:	I hope they have Chiclets at the hotel in San_Diego .
+%mor:	pro:sub|I v|hope pro:sub|they v|have n:prop|Chiclets prep|at
+	det|the n|hotel prep|in n:prop|San_Diego .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|SUBJ 4|2|COMP 5|4|OBJ 6|5|JCT 7|8|DET 8|6|POBJ
+	9|5|JCT 10|9|POBJ 11|2|PUNCT
+%sit:	141
+*CHI:	let me call a San_Diego if they have Chiclets .
+%mor:	v|let&ZERO pro:obj|me v|call det|a n:prop|San_Diego conj|if
+	pro:sub|they v|have n:prop|Chiclets .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|COMP 4|5|DET 5|3|OBJ 6|8|LINK 7|8|SUBJ 8|5|CJCT
+	9|8|OBJ 10|1|PUNCT
+%sit:	141
+*GRA:	why are fish so smart ?
+%mor:	adv:wh|why aux|be&PRES n|fish adv|so adj|smart ?
+%gra:	1|3|LINK 2|3|AUX 3|0|INCROOT 4|5|JCT 5|3|PRED 6|3|PUNCT
+%sit:	142
+*CHI:	do you know what happened to my fish ?
+%mor:	mod|do pro|you v|know pro:wh|what v|happen-PAST prep|to
+	pro:poss:det|my n|fish ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|5|SUBJ 5|3|COMP 6|5|JCT 7|8|MOD 8|6|POBJ
+	9|3|PUNCT
+%sit:	142
+*CHI:	they all died .
+%mor:	pro:sub|they post|all v|die-PAST .
+%gra:	1|3|SUBJ 2|1|PQ 3|0|ROOT 4|3|PUNCT
+%sit:	142
+*CHI:	I might get a fat tummy like Mister_Glutton because I make too much
+	burps .
+%mor:	pro:sub|I mod|might v|get det|a adj|fat n|tummy v|like
+	n:prop|Mister_Glutton conj|because pro:sub|I v|make adv|too adv|much
+	v|burp-3S .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|6|DET 5|6|MOD 6|7|SUBJ 7|3|COMP 8|7|OBJ
+	9|11|LINK 10|11|SUBJ 11|8|CJCT 12|11|JCT 13|14|JCT 14|11|COMP 15|3|PUNCT
+%sit:	143
+*CHI:	how_come the cover so nice ?
+%mor:	adv:wh|how_come det|the n|cover adv|so adj|nice ?
+%gra:	1|3|LINK 2|3|DET 3|0|INCROOT 4|5|JCT 5|3|PRED 6|3|PUNCT
+%sit:	144
+*MOT:	which cover ?
+%mor:	rel|which n|cover ?
+%gra:	1|2|LINK 2|0|INCROOT 3|2|PUNCT
+%sit:	144
+*CHI:	on the picture what we bought at the store with the dogs .
+%mor:	prep|on det|the n|picture pro:wh|what pro:sub|we v|buy&PAST prep|at
+	det|the n|store prep|with det|the n|dog-PL .
+%gra:	1|6|LINK 2|3|DET 3|1|POBJ 4|1|POBJ 5|6|SUBJ 6|0|ROOT 7|6|JCT 8|9|DET
+	9|7|POBJ 10|9|NJCT 11|12|DET 12|10|POBJ 13|6|PUNCT
+%sit:	144
+@End

@@ -1,0 +1,383 @@
+@UTF8
+@PID:	11312/c-00017714-1
+@Begin
+@Languages:	eng
+@Participants:	MOT Lorraine Mother , CHI Kevin Target_Child
+@ID:	eng|VanHouten|CHI|2;4.|male|typical||Target_Child|||
+@ID:	eng|VanHouten|MOT|||||Mother|||
+@Comment:	Education of MOT is 2
+@Situation:	Freeplay. Mother and Child sit on living+room floor playing with a box of experimenter provided toys. They play with a miniature park which has a merry-go-round and a slide. Child does not say very much. What he does say is not very intelligible.
+@Comment:	Age Group of MOT Adolescent
+@Bg:	mother_freeplay
+*MOT:	now you sit in the truck .
+%mor:	adv|now pro|you v|sit prep|in det|the n|truck .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|3|PUNCT
+%sit:	puts small person on plastic truck .
+%cod:	$MLU=6 $NMV=1 $Ini $Rep
+*MOT:	here's a little bench .
+%mor:	pro:exist|here~cop|be&3S det|a adj|little n|bench .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|DET 4|5|MOD 5|2|PRED 6|2|PUNCT
+%sit:	emptying toys from container .
+%cod:	$MLU=5 $NMV=1 $Ini $Rep
+*MOT:	just like at the zoo .
+%mor:	adv|just v|like prep|at det|the n|zoo .
+%gra:	1|2|JCT 2|0|ROOT 3|2|JCT 4|5|DET 5|3|POBJ 6|2|PUNCT
+%cod:	$MLU=5 $NMV=0 $Con $Rep
+*MOT:	now (.) what's this ?
+%mor:	adv|now pro:wh|what~cop|be&3S pro:dem|this ?
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|3|PUNCT
+%cod:	$MLU=4 $NMV=1 $Ini $Rfi
+*MOT:	what's this ?
+%mor:	pro:wh|what~cop|be&3S pro:dem|this ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+%cod:	$MLU=3 $NMV=1 $Con $Rfi
+*CHI:	xxx .
+%cod:	$Res $Rep
+*CHI:	hat .
+%mor:	n|hat .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=0 $Con $Rep
+*MOT:	where does the hat go ?
+%mor:	adv:wh|where v|do&3S det|the n|hat v|go ?
+%gra:	1|2|LINK 2|5|LINK 3|4|DET 4|5|SUBJ 5|0|ROOT 6|5|PUNCT
+%cod:	$MLU=5 $NMV=1 $Ini $Rfi
+*CHI:	xxx .
+%sit:	puts hat on bench .
+%cod:	$Res $Rep
+*MOT:	where does the hat go ?
+%mor:	adv:wh|where v|do&3S det|the n|hat v|go ?
+%gra:	1|2|LINK 2|5|LINK 3|4|DET 4|5|SUBJ 5|0|ROOT 6|5|PUNCT
+%cod:	$MLU=5 $NMV=1 $Rre $Rfi
+*MOT:	on the head .
+%mor:	prep|on det|the n|head .
+%gra:	1|0|INCROOT 2|3|DET 3|1|POBJ 4|1|PUNCT
+%cod:	$MLU=3 $NMV=0 $Con $Rep
+*MOT:	whose head does it go on ?
+%mor:	rel|whose n|head mod|do&3S pro|it v|go adv|on ?
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|5|SUBJ 5|0|ROOT 6|5|JCT 7|5|PUNCT
+%cod:	$MLU=6 $NMV=1 $Con $Rep
+*MOT:	her head .
+%mor:	pro:poss:det|her n|head .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+%sit:	points to small person .
+%cod:	$MLU=2 $NMV=0 $Con $Rep
+*MOT:	put the hat on her head .
+%mor:	v|put&ZERO det|the n|hat prep|on pro:poss:det|her n|head .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|JCT 5|6|MOD 6|4|POBJ 7|1|PUNCT
+%cod:	$MLU=6 $NMV=1 $Ini $C/R
+*CHI:	0 .
+%sit:	puts hat on own head .
+*MOT:	not your head .
+%mor:	neg|not pro:poss:det|your n|head .
+%gra:	1|3|NEG 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+%cod:	$MLU=3 $NMV=0 $Rta $C/R
+*MOT:	that head .
+%mor:	det|that n|head .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+%sit:	point to person .
+%cod:	$MLU=2 $NMV=0 $Con $C/R
+*MOT:	the little girl's head .
+%mor:	det|the adj|little n|girl~poss|s n|head .
+%gra:	1|3|DET 2|3|MOD 3|5|SUBJ 4|3|POSS 5|0|INCROOT 6|5|PUNCT
+%cod:	$MLU=4 $NMV=0 $Con $C/R
+*MOT:	(o)kay (.) ready .
+%mor:	co|okay adj|ready .
+%gra:	1|2|COM 2|0|ROOT 3|2|PUNCT
+%cod:	$MLU=2 $NMV=0 $Ini $C/R
+*MOT:	remember Kev_Kev goes up the slide .
+%mor:	v|remember n:prop|Kev_Kev v|go-3S prep|up det|the n|slide .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|3|PUNCT
+%sit:	makes toy person go down slide .
+%cod:	$MLU=6 $NMV=2 $Con $Rep
+*MOT:	wee .
+%mor:	adj|wee .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%sit:	next few utterances in high , pretending voice .
+%cod:	$MLU=0 $NMV=0 $Con $Rep
+*MOT:	and he goes yeah@q .
+%mor:	conj|and pro:sub|he v|go-3S meta|yeah .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+%cod:	$MLU=3 $NMV=1 $Con $Rep
+*MOT:	we sit down on this swing .
+%mor:	pro:sub|we v|sit adv|down prep|on det|this n|swing .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|2|JCT 5|6|DET 6|4|POBJ 7|2|PUNCT
+%cod:	$MLU=6 $NMV=1 $Con $Rep
+*MOT:	on this merry+go+round .
+%mor:	prep|on det|this n|+adj|merry+v|go+adj|round .
+%gra:	1|0|INCROOT 2|3|DET 3|1|POBJ 4|1|PUNCT
+%sit:	puts person on merry+go+round .
+%cod:	$MLU=3 $NMV=0 $Con $Rep
+*MOT:	all the little girls and boys .
+%mor:	qn|all det|the adj|little n|girl-PL coord|and n|boy-PL .
+%gra:	1|4|QUANT 2|4|DET 3|4|MOD 4|0|ROOT 5|4|CONJ 6|5|COORD 7|4|PUNCT
+%sit:	spins merry+go+round .
+%cod:	$MLU=6 $NMV=0 $Con $Rep
+*MOT:	whoops (.) she fell off .
+%mor:	co|whoops pro:sub|she v|fall&PAST adv|off .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|PUNCT
+%cod:	$MLU=4 $NMV=1 $Ini $Rep
+*MOT:	put her back on .
+%mor:	v|put&ZERO pro:obj|her adv|back adv|on .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|JCT 4|1|JCT 5|1|PUNCT
+%cod:	$MLU=4 $NMV=1 $Ini $C/R
+*MOT:	put her on .
+%mor:	v|put&ZERO pro:obj|her prep|on .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|JCT 4|1|PUNCT
+%cod:	$MLU=3 $NMV=1 $Con $C/R
+*MOT:	just sit her down .
+%mor:	adv|just v|sit pro:obj|her adv|down .
+%gra:	1|2|JCT 2|0|ROOT 3|2|OBJ 4|2|JCT 5|2|PUNCT
+%cod:	$MLU=4 $NMV=1 $Con $C/R
+*MOT:	that's it .
+%mor:	pro:dem|that~cop|be&3S pro|it .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+%cod:	$MLU=3 $NMV=1 $Con $C/R
+*MOT:	put her on her little seat .
+%mor:	v|put&ZERO pro:obj|her prep|on pro:poss:det|her adj|little n|seat .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|JCT 4|6|MOD 5|6|MOD 6|3|POBJ 7|1|PUNCT
+%cod:	$MLU=6 $NMV=1 $Con $C/R
+*MOT:	(o)kay .
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=0 $Con $C/R
+*CHI:	0 .
+%sit:	takes merry+go+round apart and looks at it .
+*MOT:	Kev_Kev do it .
+%mor:	n:prop|Kev_Kev v|do pro|it .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+%cod:	$MLU=3 $NMV=1 $Rta $C/R
+*MOT:	that's the base .
+%mor:	pro:dem|that~cop|be&3S det|the n|base .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+%cod:	$MLU=4 $NMV=1 $Con $Rep
+*MOT:	now you put that thing on top .
+%mor:	adv|now pro|you v|put&ZERO adv|that n|thing prep|on n|top .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|OBJ 6|5|NJCT 7|6|POBJ 8|3|PUNCT
+%cod:	$MLU=7 $NMV=1 $Con $C/R
+*MOT:	put it on top .
+%mor:	v|put&ZERO pro|it prep|on n|top .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|JCT 4|3|POBJ 5|1|PUNCT
+%cod:	$MLU=4 $NMV=1 $Con $C/R
+*CHI:	0 .
+%sit:	tries to put it together .
+*MOT:	nope (.) the other way .
+%mor:	co|nope det|the qn|other n|way .
+%gra:	1|4|COM 2|4|DET 3|4|QUANT 4|0|INCROOT 5|4|PUNCT
+%cod:	$MLU=4 $NMV=0 $Rta $Tea
+*MOT:	see .
+%mor:	v|see .
+%gra:	1|0|ROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=1 $Con $Tea
+*MOT:	see the hole .
+%mor:	v|see det|the n|hole .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+%cod:	$MLU=1 $NMV=1 $Con $Tea
+*MOT:	that's it .
+%mor:	pro:dem|that~cop|be&3S pro|it .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+%cod:	$MLU=3 $NMV=1 $Con $Tea
+*MOT:	let's play with Snoopy .
+%mor:	v|let~pro:obj|us v|play prep|with n:prop|Snoopy .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|COMP 4|3|JCT 5|4|POBJ 6|1|PUNCT
+%cod:	$MLU=5 $NMV=2 $Ini $C/R
+*MOT:	(o)kay ?
+%mor:	co|okay ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+%sit:	starts putting park back in container .
+%cod:	$MLU=1 $NMV=0 $Con $C/R
+*MOT:	you don't want this one .
+%mor:	pro|you mod|do~neg|not v|want det|this pro:indef|one .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+%cod:	$MLU=6 $NMV=1 $Ini $Rep
+*MOT:	we'll get another one .
+%mor:	pro:sub|we~mod|will v|get qn|another pro:indef|one .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|QUANT 5|3|OBJ 6|3|PUNCT
+%cod:	$MLU=5 $NMV=1 $Con $Rep
+*MOT:	say (.) byebye park .
+%mor:	co|say co|byebye n|park .
+%gra:	1|3|COM 2|3|COM 3|0|INCROOT 4|3|PUNCT
+%cod:	$MLU=3 $NMV=1 $Ini $C/R
+*CHI:	bye .
+%mor:	co|bye .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%sit:	puts piece in .
+%cod:	$MLU=1 $NMV=0 $Res $Rsc
+*CHI:	0 .
+%sit:	starts taking pieces out again .
+*MOT:	you wanna play with the park ?
+%mor:	pro|you v|want~inf|to n|play prep|with det|the n|park ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|INF 4|2|XCOMP 5|4|NJCT 6|7|DET 7|5|POBJ 8|2|PUNCT
+%cod:	$MLU=6 $NMV=1 $Rta $Rfi
+*MOT:	you gonna do it right ?
+%mor:	pro|you part|go-PRESP~inf|to v|do pro|it adv|right ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|INF 4|2|XCOMP 5|4|OBJ 6|4|JCT 7|2|PUNCT
+%cod:	$MLU=5 $NMV=1 $Con $Rfi
+*MOT:	make it go around ?
+%mor:	v|make pro|it v|go adv|around ?
+%gra:	1|0|ROOT 2|3|SUBJ 3|1|COMP 4|3|JCT 5|1|PUNCT
+%cod:	$MLU=4 $NMV=2 $Con $Rfi
+*MOT:	put this on there .
+%mor:	v|put&ZERO pro:dem|this prep|on pro:dem|there .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|JCT 4|3|POBJ 5|1|PUNCT
+%sit:	puts base of merry+go+round on the floor and points to top .
+%cod:	$MLU=4 $NMV=1 $Ini $C/R
+*MOT:	slow down .
+%mor:	adv|slow adv|down .
+%gra:	1|0|INCROOT 2|1|JCT 3|1|PUNCT
+%cod:	$MLU=2 $NMV=1 $Con $C/R
+*MOT:	that's it .
+%mor:	pro:dem|that~cop|be&3S pro|it .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+%cod:	$MLU=3 $NMV=1 $Con $C/R
+*MOT:	now put the little girl in the seat .
+%mor:	adv|now v|put&ZERO det|the adj|little n|girl prep|in det|the n|seat
+	.
+%gra:	1|2|JCT 2|0|ROOT 3|5|DET 4|5|MOD 5|2|OBJ 6|2|JCT 7|8|DET 8|6|POBJ
+	9|2|PUNCT
+%cod:	$MLU=8 $NMV=1 $Ini $C/R
+*MOT:	put her in the seat .
+%mor:	v|put&ZERO pro:obj|her prep|in det|the n|seat .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|JCT 4|5|DET 5|3|POBJ 6|1|PUNCT
+%cod:	$MLU=5 $NMV=1 $Con $C/R
+*MOT:	hey (.) let's go play in the seat .
+%mor:	co|hey v|let~pro:obj|us v|go n|play prep|in det|the n|seat .
+%gra:	1|2|COM 2|0|ROOT 3|2|OBJ 4|2|COMP 5|4|OBJ 6|5|NJCT 7|8|DET 8|6|POBJ
+	9|2|PUNCT
+%sit:	uses pretend voice .
+%cod:	$MLU=7 $NMV=2 $Con $Rep
+*MOT:	you play in the seat .
+%mor:	pro|you v|play prep|in det|the n|seat .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|5|DET 5|3|POBJ 6|2|PUNCT
+%cod:	$MLU=5 $NMV=1 $Con $C/R
+*MOT:	sit her down .
+%mor:	v|sit pro:obj|her adv|down .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|JCT 4|1|PUNCT
+%cod:	$MLU=3 $NMV=1 $Con $C/R
+*MOT:	can you make her sit .
+%mor:	mod|can pro|you v|make pro:obj|her v|sit .
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|COMP 6|3|PUNCT
+%cod:	$MLU=5 $NMV=2 $Con $C/R
+*MOT:	that's it .
+%mor:	pro:dem|that~cop|be&3S pro|it .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+%cod:	$MLU=3 $NMV=1 $Con $C/R
+*MOT:	now (.) put another one on .
+%mor:	adv|now v|put&ZERO qn|another pro:indef|one adv|on .
+%gra:	1|2|JCT 2|0|ROOT 3|4|QUANT 4|2|OBJ 5|2|JCT 6|2|PUNCT
+%cod:	$MLU=5 $NMV=1 $Ini $C/R
+*MOT:	a little boy .
+%mor:	det|a adj|little n|boy .
+%gra:	1|3|DET 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+%sit:	gives another person to Child .
+%cod:	$MLU=3 $NMV=0 $Con $Rep
+*MOT:	put the little boy .
+%mor:	v|put&ZERO det|the adj|little n|boy .
+%gra:	1|0|ROOT 2|4|DET 3|4|MOD 4|1|OBJ 5|1|PUNCT
+%cod:	$MLU=4 $NMV=1 $Con $C/R
+*MOT:	he's sitting down .
+%mor:	pro:sub|he~aux|be&3S part|sit-PRESP adv|down .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|3|PUNCT
+%cod:	$MLU=4 $NMV=1 $Con $Rep
+*MOT:	put him in the seat .
+%mor:	v|put&ZERO pro:obj|him prep|in det|the n|seat .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|JCT 4|5|DET 5|3|POBJ 6|1|PUNCT
+%cod:	$MLU=5 $NMV=1 $Con $C/R
+*MOT:	that's all .
+%mor:	pro:dem|that~cop|be&3S pro:indef|all .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+%cod:	$MLU=4 $NMV=1 $Ini $Rep
+*CHI:	0 .
+%sit:	struggles with toy .
+*MOT:	you gotta make him sit up .
+%mor:	pro|you mod:aux|gotta v|make pro:obj|him v|sit adv|up .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|3|COMP 6|5|JCT 7|3|PUNCT
+%cod:	$MLU=6 $NMV=2 $Rta $C/R
+*MOT:	that's it .
+%mor:	pro:dem|that~cop|be&3S pro|it .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+%cod:	$MLU=3 $NMV=1 $Con $C/R
+*MOT:	alright (.) put him in the seat .
+%mor:	co|alright v|put&ZERO pro:obj|him prep|in det|the n|seat .
+%gra:	1|2|COM 2|0|ROOT 3|2|OBJ 4|2|JCT 5|6|DET 6|4|POBJ 7|2|PUNCT
+%cod:	$MLU=6 $NMV=1 $Ini $C/R
+*MOT:	try that one .
+%mor:	v|try rel|that pro:indef|one .
+%gra:	1|0|ROOT 2|3|LINK 3|1|COMP 4|1|PUNCT
+%cod:	$MLU=3 $NMV=1 $Con $C/R
+*MOT:	whoops (.) she fell out .
+%mor:	co|whoops pro:sub|she v|fall&PAST adv|out .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|PUNCT
+%cod:	$MLU=4 $NMV=1 $Ini $Rep
+*MOT:	put him in the seat .
+%mor:	v|put&ZERO pro:obj|him prep|in det|the n|seat .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|JCT 4|5|DET 5|3|POBJ 6|1|PUNCT
+%cod:	$MLU=5 $NMV=1 $Ini $C/R
+*CHI:	0 .
+%sit:	tries to do so .
+*MOT:	no (.) you gotta make him sit down .
+%mor:	co|no pro|you mod:aux|gotta v|make pro:obj|him v|sit adv|down .
+%gra:	1|4|COM 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|4|COMP 7|6|JCT 8|4|PUNCT
+%cod:	$MLU=7 $NMV=2 $Rta $C/R
+*CHI:	&uh .
+%sit:	can't get person in seat .
+%cod:	$MLU=0 $NMV=0 $Ini $Rsc
+*MOT:	see how the little girl's sitting down ?
+%mor:	co|see adv:wh|how det|the adj|little n|girl~aux|be&3S
+	part|sit-PRESP adv|down ?
+%gra:	1|7|COM 2|7|LINK 3|5|DET 4|5|MOD 5|7|SUBJ 6|7|AUX 7|0|ROOT 8|7|JCT
+	9|7|PUNCT
+%cod:	$MLU=7 $NMV=2 $Res $Tea
+*MOT:	bend the feet .
+%mor:	v|bend det|the n|foot&PL .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+%cod:	$MLU=3 $NMV=1 $Con $Tea
+*MOT:	you had it right .
+%mor:	pro|you v|have&PAST pro|it adv|right .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|JCT 5|2|PUNCT
+%cod:	$MLU=4 $NMV=1 $Con $Rep
+*MOT:	you bend it .
+%mor:	pro|you v|bend pro|it .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+%cod:	$MLU=3 $NMV=3 $Con $Tea
+*MOT:	look .
+%mor:	co|look .
+%gra:	1|0|INCROOT 2|1|PUNCT
+%cod:	$MLU=1 $NMV=1 $Con $C/R
+*MOT:	you look .
+%mor:	pro|you v|look .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+%cod:	$MLU=2 $NMV=1 $Con $C/R
+*MOT:	are you looking ?
+%mor:	cop|be&PRES pro|you part|look-PRESP ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+%cod:	$MLU=3 $NMV=1 $Con $C/R
+*MOT:	he's sitting down .
+%mor:	pro:sub|he~aux|be&3S part|sit-PRESP adv|down .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|3|PUNCT
+%cod:	$MLU=4 $NMV=1 $Ini $Rep
+*MOT:	she's sitting down .
+%mor:	pro:sub|she~aux|be&3S part|sit-PRESP adv|down .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|3|PUNCT
+%cod:	$MLU=4 $NMV=1 $Con $Rep
+*MOT:	now push it .
+%mor:	adv|now v|push pro|it .
+%gra:	1|2|JCT 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+%cod:	$MLU=3 $NMV=1 $Ini $C/R
+*MOT:	push it nice so they don't fall off .
+%mor:	v|push pro|it adj|nice conj|so pro:sub|they mod|do~neg|not v|fall
+	adv|off .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|XMOD 4|8|COM 5|8|SUBJ 6|8|AUX 7|6|NEG 8|3|CJCT
+	9|8|JCT 10|1|PUNCT
+%cod:	$MLU=9 $NMV=2 $Con $C/R
+*MOT:	see (.) he fell off .
+%mor:	v|see pro:sub|he v|fall&PAST adv|off .
+%gra:	1|0|ROOT 2|3|SUBJ 3|1|COMP 4|3|JCT 5|1|PUNCT
+%cod:	$MLU=4 $NMV=2 $Ini $Rep
+*MOT:	he's gonna get hurt if he falls off .
+%mor:	pro:sub|he~aux|be&3S part|go-PRESP~inf|to v|get v|hurt&ZERO conj|if
+	pro:sub|he v|fall-3S adv|off .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|INF 5|3|XCOMP 6|5|OBJ 7|9|LINK 8|9|SUBJ
+	9|6|CJCT 10|9|JCT 11|3|PUNCT
+%cod:	$MLU=9 $NMV=2 $Con $Rep
+@Eg:	mother_freeplay
+@End
