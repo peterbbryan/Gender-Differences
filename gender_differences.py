@@ -72,6 +72,7 @@ def main():
     # TODO: Outside of the loop, create the output directory if it doesn't
     # already exist.
     for fname in FILES:
+        print fname
         # Horribly inefficient but I'll allow it.
         with open(fname, "r") as source:
             fulltext = source.read()
@@ -80,69 +81,61 @@ def main():
         if not match:
             continue
         group = match.group(1).replace("_", ",")
-        if not group:
-            continue
         gender = match.group(2).replace("_", ",")
-        if not gender:
-            continue
         age = match.group(3).replace("_", ",")
-        if not age:
+        part = re.search("@Participants:.*CHI (.*?) ", fulltext)
+
+        if not (match and group and gender and age and part):
             continue
-        match = re.search("@Participants:.*CHI (.*?) ", fulltext)
-        if not match:
-            continue
+
         name = match.group(1).replace("_", ",")
         fname = fname.replace("/", ",")
         opath = os.path.join("output",
                              "_".join((name, gender, age, group, fname)) + ".txt")
+
         if os.path.exists(opath):
-            continue
+           continue
+  
+            
         with open(opath, "w") as sink:
             sink_csv = csv.writer(sink)
-            for line in fulltext.split("\n"):
-                if not line.startswith("*CHI"):
-                    continue
-                # TODO: What the heck is this about?
-                if line.startswith("*CHI: 0"):
-                    continue
-                # TODO: Couldn't you just match the non-CHI part instead of
-                # rewriting the string? String mutation is horribly
-                # inefficient.
-                text = re.sub(r"\*CHI:[ \t]", "", line).lower()
-                tokens = [t for t in nltk.word_tokenize(text) if
-                          re.search("(?=.*\w)^(\w|\")+$", t)]
-                verbs = [v for (v, t) in nltk.pos_tag(tokens)
-                        if t.startswith("VB")]
-                for verb in verbs:
-                    stem = STEM(verb).encode("utf8")
-                    if verb in EXCLUSIONS:
+                
+            lines = [line for line in fulltext.split("\n")]            
+            child_speech = [m.group(1) for m in (re.search(r"\*CHI:(.*)", l) for l in lines) if m]    
+            tokenized = [nltk.word_tokenize(line) for line in child_speech]  
+            tokenized = list(itertools.chain.from_iterable(tokenized))
+            tokens = [token for token in tokenized if re.match("^[A-Za-z.]*$",token)]
+            
+            verbs = [v for (v, t) in nltk.pos_tag(tokens)
+                    if t.startswith("VB")]
+            
+            for verb in verbs:
+                stem = STEM(verb).encode("utf8")
+                
+                if verb in EXCLUSIONS or \
+                    not conjugate(stem, tense="infinitive") or \
+                    is_no_change(stem) or \
+                    conjugate(stem, tense="infinitive") in LIGHT or \
+                    not in_vocabulary(conjugate(stem, tense="infinitive")) or \
+                    not conjugate(stem, tense="past").endswith("ed"):
                         continue
-                    if not conjugate(stem, tense="infinitive"):
+                        
+                base = conjugate(stem, tense="infinitive")
+                if is_past_tense_verb(stem, verb):
+                    sink_csv.writerow(("PAST", base, verb, verb))
+                elif verb.endswith("ed"):
+                    if is_verb(stem, verb):
                         continue
-                    if is_no_change(stem):
+                    if not in_vocabulary(base):
                         continue
-                    if conjugate(stem, tense="infinitive") in LIGHT:
-                        continue
-                    if not in_vocabulary(conjugate(stem, tense="infinitive")):
-                        continue
-                    if not conjugate(stem, tense="past").endswith("ed"):
-                        continue
-                    base = conjugate(stem, tense="infinitive")
-                    if is_past_tense_verb(stem, verb):
-                        sink_csv.writerow(("PAST", base, verb, verb))
-                    elif verb.endswith("ed"):
-                        if is_verb(stem, verb):
-                            continue
-                        if not in_vocabulary(base):
-                            continue
-                        without_ed = re.search("(.*?)ed", i).group(1)
-                        if without_ed.startswith(base):
-                            freq_form = conjugate(stem, tense="past")
-                        elif is_verb(stem, without_ed):
-                            freq_form = without_ed
-                        else:
-                            freq_form = without_ed[:-1]
-                        sink_csv.writerow(("SUSPECT", base, verb, freq_form))
+                    without_ed = re.search("(.*?)ed", i).group(1)
+                    if without_ed.startswith(base):
+                        freq_form = conjugate(stem, tense="past")
+                    elif is_verb(stem, without_ed):
+                        freq_form = without_ed
+                    else:
+                        freq_form = without_ed[:-1]
+                    sink_csv.writerow(("SUSPECT", base, verb, freq_form))
 
 
 if __name__ == "__main__":
