@@ -72,10 +72,10 @@ def main():
     
     for fname in FILES:
         print fname
-        # Horribly inefficient but I'll allow it.
+
         with open(fname, "r") as source:
             fulltext = source.read()
-        # TODO: what the heck is this underscore thing about?
+
         match = re.search("eng\|(.*?)\|CHI\|(.*?)\|(.*?)\|", fulltext)
         if not match:
             continue
@@ -96,7 +96,7 @@ def main():
            continue
             
         with open(opath, "w") as sink:
-            sink_csv = csv.writer(sink)
+            sink_csv = csv.writer(sink, delimiter = ',')
                 
             lines = [line for line in fulltext.split("\n")]            
             child_speech = [m.group(1) for m in (re.search(r"\*CHI:(.*)", l) for l in lines) if m]    
@@ -110,29 +110,28 @@ def main():
             verbs = filter(None, tagged)    
             verbs = [item for sublist in verbs for item in sublist]
             
-            #tagged = [verb[0][0] for verb in tagged if verb[0][1].startswith('VB')]
-            #print(tagged)
+            verbs = [(verb, STEM(verb).encode("utf8")) for verb in verbs]
+            verbs = [(verb,stem) for (verb,stem) in verbs if not (verb in EXCLUSIONS or \
+                not conjugate(stem, tense="infinitive") or \
+                is_no_change(stem) or \
+                conjugate(stem, tense="infinitive") in LIGHT or \
+                not in_vocabulary(conjugate(stem, tense="infinitive")) or \
+                not conjugate(stem, tense="past").endswith("ed"))]
             
-            #verbs = [v for (v, t) in ST.tag(tokens) if t.startswith("VB")]
+            rows = []
             
-            for verb in verbs:
-                stem = STEM(verb).encode("utf8")
+            for i in xrange(0,len(verbs)):
                 
-                if verb in EXCLUSIONS or \
-                    not conjugate(stem, tense="infinitive") or \
-                    is_no_change(stem) or \
-                    conjugate(stem, tense="infinitive") in LIGHT or \
-                    not in_vocabulary(conjugate(stem, tense="infinitive")) or \
-                    not conjugate(stem, tense="past").endswith("ed"):
-                        continue
-                        
-                        
+                verb = verbs[i][0]
+                stem = verbs[i][1]
+                
                 # TOFIX SUSPECT,tire,tireded,ti
                 # same problem with broke
+                # problem still exists
 
                 base = conjugate(stem, tense="infinitive")
                 if is_past_tense_verb(stem, verb):
-                    sink_csv.writerow(("PAST", base, verb, verb))
+                    rows.append(["PAST", base, verb, verb])
                 
                 elif verb.endswith("ed"):
                     if is_verb(stem, verb):
@@ -148,8 +147,9 @@ def main():
                     else:
                         freq_form = without_ed[:-1]
                     
-                    sink_csv.writerow(("SUSPECT", base, verb, freq_form))
-
+                    rows.append(["SUSPECT", base, verb, freq_form])
+                   
+            sink_csv.writerows(rows)
 
 if __name__ == "__main__":
     main()
