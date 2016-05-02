@@ -6,22 +6,17 @@ import glob
 import itertools
 import os
 import re
-
 import nltk
-
+from nltk.tag.senna import SennaTagger
 from pattern.en import conjugate
-
 
 # User may have to modify this for their environment.
 os.environ["JAVAHOME"] = \
     "/Library/Java/JavaVirtualMachines/jdk1.8.0_65.jdk/Contents/Home"
 
-
 FILES = glob.iglob("scripts*/**/*.cha")
 
-
 STEM = nltk.stem.SnowballStemmer("english").stem
-
 
 PERSON = [1, 2, 3]
 TENSE = ["present", "past", "future", "infinitive"]
@@ -32,6 +27,7 @@ NEGATED = [True, False]
 
 LIGHT = frozenset(("get", "be", "do", "go", "have"))
 
+ST = SennaTagger('senna/')
 
 # Collects excluded verb forms.
 with open("exclusions.txt", "r") as source:
@@ -71,6 +67,9 @@ def in_vocabulary(word):
 def main():
     # TODO: Outside of the loop, create the output directory if it doesn't
     # already exist.
+    if not os.path.exists('output/'):
+        os.makedirs('output/')
+    
     for fname in FILES:
         print fname
         # Horribly inefficient but I'll allow it.
@@ -95,7 +94,6 @@ def main():
 
         if os.path.exists(opath):
            continue
-  
             
         with open(opath, "w") as sink:
             sink_csv = csv.writer(sink)
@@ -105,9 +103,17 @@ def main():
             tokenized = [nltk.word_tokenize(line) for line in child_speech]  
             tokenized = list(itertools.chain.from_iterable(tokenized))
             tokens = [token for token in tokenized if re.match("^[A-Za-z.]*$",token)]
+            tokens = ' '.join(tokens).split('.')
+
+            tagged = [[verb.lower() for (verb,POS) in liste if POS.startswith('VB')] for liste in [ST.tag(nltk.word_tokenize(token)) for token in tokens]]
             
-            verbs = [v for (v, t) in nltk.pos_tag(tokens)
-                    if t.startswith("VB")]
+            verbs = filter(None, tagged)    
+            verbs = [item for sublist in verbs for item in sublist]
+            
+            #tagged = [verb[0][0] for verb in tagged if verb[0][1].startswith('VB')]
+            #print(tagged)
+            
+            #verbs = [v for (v, t) in ST.tag(tokens) if t.startswith("VB")]
             
             for verb in verbs:
                 stem = STEM(verb).encode("utf8")
@@ -127,18 +133,21 @@ def main():
                 base = conjugate(stem, tense="infinitive")
                 if is_past_tense_verb(stem, verb):
                     sink_csv.writerow(("PAST", base, verb, verb))
+                
                 elif verb.endswith("ed"):
                     if is_verb(stem, verb):
                         continue
                     if not in_vocabulary(base):
                         continue
+                    
                     without_ed = re.search("(.*?)ed", verb).group(1)
-                    if without_ed.startswith(base):
+                    if (without_ed + 'e').startswith(base):
                         freq_form = conjugate(stem, tense="past")
                     elif is_verb(stem, without_ed):
                         freq_form = without_ed
                     else:
                         freq_form = without_ed[:-1]
+                    
                     sink_csv.writerow(("SUSPECT", base, verb, freq_form))
 
 
