@@ -25,6 +25,23 @@ MOOD = ["indicative", "imperative", "conditional", "subjunctive"]
 ASPECT = ["imperfective", "perfective", "progressive"]
 NEGATED = [True, False]
 
+AUTHORS = ['Thomas','Kuczaj','Brown','Macwhinney','Lara','Macwhinney', \
+    'Brown','Providence','Manchester','Suppes','Manchester','Providence','Bloom70', \
+    'Manchester','Manchester','Manchester','Manchester','Sachs','Manchester', \
+    'Braunwald','Manchester','Clark','Providence','Manchester','Manchester', \
+    'Manchester','Brown','Snow','Providence','Providence','Manchester','Demetras', \
+    'Providence','Hall','Hall','Hall','Hall','Hall','Hall','Hall','Hall','Hall', \
+    'Hall','Hall','Hall','Hall','Bloom73','Hall','Bohannan','Higginson']
+AUTHORS = [author.lower() for author in AUTHORS]
+    
+CHILDREN = ['Thomas','Abe','Adam','Ross','Lara','Mark','Sarah','Naima','Aran', \
+    'Nina','Anne','Lily','Peter','Carl','Joel','Dominic','Gail','Naomi','Becky', \
+    'Laura','Liz','Shem','Ethan','Ruth','Warren','John','Eve','Nathaniel','William', \
+    'Violet','Nicole','Trevor','Alex','Tony','Chris','Tracy','Brett','Gabriella', \
+    'Kip','Matthew','Bobby','Zoe','Julia','Joey','Mim','Dexter','Allison', \
+    'Anthony','Nathaniel','April']
+CHILDREN = [child.lower() for child in CHILDREN]
+
 LIGHT = frozenset(("get", "be", "do", "go", "have"))
 
 ST = SennaTagger('senna/')
@@ -86,11 +103,14 @@ def main():
 
         if not (match and group and gender and age and part):
             continue
-
-        name = match.group(1).replace("_", ",")
+       
+        name = part.group(1).replace("_", ",")
         fname = fname.replace("/", ",")
         opath = os.path.join("output",
                              "_".join((name, gender, age, group, fname)) + ".txt")
+
+        if not (name.lower() in CHILDREN and group.lower() in AUTHORS):
+            continue
 
         if os.path.exists(opath):
            continue
