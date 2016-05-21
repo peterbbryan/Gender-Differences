@@ -4,7 +4,6 @@ import itertools
 import os
 import re
 import nltk
-from nltk.tag.senna import SennaTagger
 from pattern.en import conjugate
 import spacy
 
@@ -118,7 +117,7 @@ def main():
         with open(opath, "w") as sink:
             sink_csv = csv.writer(sink, delimiter = ',')
                 
-            lines = [line for line in fulltext.split("\n")]            
+            lines = [line for line in fulltext.decode('utf-8').split("\n")]            
             child_speech = [m.group(1) for m in (re.search(r"\*CHI:(.*)", l) for l in lines) if m]    
             tokenized = [nltk.word_tokenize(line) for line in child_speech]  
             tokenized = list(itertools.chain.from_iterable(tokenized))
