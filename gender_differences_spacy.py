@@ -7,10 +7,6 @@ import nltk
 from pattern.en import conjugate
 import spacy
 
-# User may have to modify this for their environment.
-os.environ["JAVAHOME"] = \
-    "/Library/Java/JavaVirtualMachines/jdk1.8.0_65.jdk/Contents/Home"
-
 FILES = []
 for root, directories, filenames in os.walk('scripts/'):
     for filename in filenames: 
@@ -43,8 +39,6 @@ CHILDREN = ['Thomas','Abe','Adam','Ross','Lara','Mark','Sarah','Naima','Aran', \
 CHILDREN = [child.lower() for child in CHILDREN]
 
 LIGHT = frozenset(("get", "be", "do", "go", "have"))
-
-ST = SennaTagger('senna/')
 
 NLP = spacy.load('en')
 
@@ -136,7 +130,7 @@ def main():
                 is_no_change(stem) or \
                 conjugate(stem, tense="infinitive") in LIGHT or \
                 not in_vocabulary(conjugate(stem, tense="infinitive")) or \
-                not conjugate(stem, tense="past").endswith("ed"))]
+                conjugate(stem, tense="past").endswith("ed"))]
                         
             rows = []
             

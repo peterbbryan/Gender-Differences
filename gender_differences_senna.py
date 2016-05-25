@@ -136,7 +136,7 @@ def main():
                 is_no_change(stem) or \
                 conjugate(stem, tense="infinitive") in LIGHT or \
                 not in_vocabulary(conjugate(stem, tense="infinitive")) or \
-                not conjugate(stem, tense="past").endswith("ed"))]
+                conjugate(stem, tense="past").endswith("ed"))]
             
             rows = []
             
