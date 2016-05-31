@@ -4,13 +4,8 @@ import itertools
 import os
 import re
 import nltk
-from nltk.tag.senna import SennaTagger
 from pattern.en import conjugate
-
-
-# User may have to modify this for their environment.
-os.environ["JAVAHOME"] = \
-    "/Library/Java/JavaVirtualMachines/jdk1.8.0_65.jdk/Contents/Home"
+import spacy
 
 FILES = []
 for root, directories, filenames in os.walk('scripts/'):
@@ -45,8 +40,7 @@ CHILDREN = [child.lower() for child in CHILDREN]
 
 LIGHT = frozenset(("get", "be", "do", "go", "have"))
 
-ST = SennaTagger('senna/')
-
+NLP = spacy.load('en')
 
 # Collects excluded verb forms.
 with open("exclusions.txt", "r") as source:
@@ -122,22 +116,22 @@ def main():
             tokenized = [nltk.word_tokenize(line) for line in child_speech]  
             tokenized = list(itertools.chain.from_iterable(tokenized))
             tokens = [token for token in tokenized if re.match("^[A-Za-z.]*$",token)]
-            tokens = ' '.join(tokens).split('.')
-
-            tagged = [[verb.lower() for (verb,POS) in liste if POS.startswith('VB')] for \
-            liste in [ST.tag(nltk.word_tokenize(token)) for token in tokens]]
+            tokens = ' '.join(tokens)
             
-            verbs = filter(None, tagged)    
-            verbs = [item for sublist in verbs for item in sublist]
+            tokens = NLP(unicode(tokens), entity=False)
+            tokens = zip(tokens,[str(tok.tag_) for tok in tokens])
             
-            verbs = [(verb, STEM(verb).encode("utf8")) for verb in verbs]
+            tagged = [str(verb).lower() for (verb,pos) in tokens if pos.startswith('VB')]            
+                        
+            verbs = [(verb, STEM(verb).encode("utf8")) for verb in tagged]
+                        
             verbs = [(verb,stem) for (verb,stem) in verbs if not (verb in EXCLUSIONS or \
                 not conjugate(stem, tense="infinitive") or \
                 is_no_change(stem) or \
                 conjugate(stem, tense="infinitive") in LIGHT or \
                 not in_vocabulary(conjugate(stem, tense="infinitive")) or \
                 conjugate(stem, tense="past").endswith("ed"))]
-            
+                        
             rows = []
             
             for i in xrange(0,len(verbs)):
@@ -172,5 +166,3 @@ def main():
                    
             sink_csv.writerows(rows)
 
-if __name__ == "__main__":
-    main()
